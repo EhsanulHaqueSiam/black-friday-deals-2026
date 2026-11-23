@@ -6,7 +6,8 @@
 const $ = (s) => document.querySelector(s);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
 const PLATFORM_LABEL = { web: "Web", mac: "Mac", windows: "Windows", linux: "Linux", ios: "iOS", android: "Android", "browser-extension": "Browser extension", wordpress: "WordPress", physical: "Physical product" };
-const FLAGS = ["code", "soon", "onetime", "live"];
+const FLAGS = ["code", "soon", "onetime", "live", "adult"];
+const ADULT = "Adult (18+)"; // hidden until the visitor ticks "Show 18+ deals"
 
 let DATA;
 let TODAY;
@@ -17,6 +18,7 @@ const fmtDate = (iso) => new Date(iso).toLocaleDateString("en-US", { month: "sho
 
 // Everything except category/subcategory, so the tree counts show what each category would give.
 function passesFilters(d) {
+  if (d.category === ADULT && !state.flags.has("adult")) return false;
   if (state.platforms.size && !d.platforms.some((p) => state.platforms.has(p))) return false;
   if (state.flags.has("code") && !d.codes.length) return false;
   if (state.flags.has("soon") && !(daysLeft(d) <= 3)) return false;

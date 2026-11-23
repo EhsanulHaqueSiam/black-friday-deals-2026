@@ -4,7 +4,7 @@
 import { execFileSync } from "node:child_process";
 import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
 import {
-  TAXONOMY, PLATFORMS, PRICING, guessCategory, isCategory, isSubcategory,
+  TAXONOMY, PLATFORMS, PRICING, ADULT, guessCategory, isCategory, isSubcategory,
   type Category, type Platform, type Pricing,
 } from "./taxonomy.ts";
 
@@ -30,7 +30,9 @@ type Deal = {
   path: string; // source section path, only used for the fallback category
   about?: string; // source list's description, input for enrichment only (never published)
 };
-type Raw = Omit<Deal, "id" | "category" | "platforms">;
+// Tags from data/enrich/*.json (or given inline by a web-research entry).
+type Tags = { category: string; subcategory: string; platforms: string[]; pricing: string; description: string };
+type Raw = Omit<Deal, "id" | "category" | "platforms"> & { tags?: Tags };
 
 // Every 2026 Black Friday deal list on GitHub with parseable deals (found with `gh search repos`).
 // Freshest and most code-rich first: on duplicates the earlier one wins ties. Append new lists at
@@ -311,11 +313,13 @@ for (const [repo, kind] of SOURCES) {
 }
 
 // Deals found by web research. Shape: { name, url, category, deal, codes, ends?, upcoming?, source }.
-type Extra = { name: string; url: string; category: string; deal: string; codes?: string[]; ends?: string; upcoming?: boolean; source: string };
+type Extra = { name: string; url: string; category: string; deal: string; codes?: string[]; ends?: string; upcoming?: boolean; source: string }
+  & Partial<Pick<Tags, "subcategory" | "platforms" | "pricing" | "description">>;
 for (const f of readdirSync("data").filter((f) => /^extra.*\.json$/.test(f))) {
   for (const e of JSON.parse(readFileSync(`data/${f}`, "utf8")) as Extra[]) {
     const d = finish(e.name, e.url, e.category, e.deal, e.source, undefined, e.upcoming);
-    if (d) raws.push({ ...d, codes: e.codes?.length ? e.codes : d.codes, ends: e.ends ?? d.ends });
+    const tags = e.subcategory ? { category: e.category, subcategory: e.subcategory, platforms: e.platforms ?? [], pricing: e.pricing ?? "", description: e.description ?? "" } : undefined;
+    if (d) raws.push({ ...d, codes: e.codes?.length ? e.codes : d.codes, ends: e.ends ?? d.ends, tags });
   }
 }
 
@@ -353,7 +357,6 @@ for (const d of raws) {
 }
 
 // --- ids + enrichment -------------------------------------------------------------
-type Tags = { category: string; subcategory: string; platforms: string[]; pricing: string; description: string };
 const tags: Record<string, Tags> = {};
 if (existsSync("data/enrich"))
   for (const f of readdirSync("data/enrich").filter((f) => f.endsWith(".json")))
@@ -365,7 +368,7 @@ const deals: Deal[] = merged.map((r) => {
   let id = nameKey(r.name) || urlKey(r.url).replace(/[^a-z0-9]/g, "");
   for (let n = 2; seen.has(id); n++) id = `${nameKey(r.name)}-${n}`;
   seen.add(id);
-  const t = tags[id];
+  const t = tags[id] ?? r.tags;
   if (t && !(isCategory(t.category) && isSubcategory(t.category, t.subcategory))) bad.push(`${id}: ${t.category} > ${t.subcategory}`);
   const ok = t && isCategory(t.category) && isSubcategory(t.category, t.subcategory);
   return {
@@ -388,14 +391,14 @@ const live = deals
   .sort((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }));
 
 // --- write data ----------------------------------------------------------------------
-const publish = ({ path, about, ...d }: Deal) => d;
+const publish = ({ path, about, tags: _, ...d }: Deal & { tags?: Tags }) => d;
 mkdirSync("docs", { recursive: true });
 writeFileSync("data/deals.json", JSON.stringify(live.map(publish), null, 2) + "\n");
 const stats = { live: live.length, withCodes: live.filter((d) => d.codes.length).length, sources: SOURCES.length, sourceRepos: SOURCES.map(([r]) => r), builtAt: TODAY.toISOString().slice(0, 10) };
 writeFileSync("docs/data.json", JSON.stringify({ ...stats, taxonomy: TAXONOMY, deals: live.map(publish) }));
 writeFileSync(
   "data/enrich-queue.json",
-  JSON.stringify(live.filter((d) => !tags[d.id]).map((d) => ({ id: d.id, name: d.name, url: d.url, section: d.path, about: d.about, deal: d.deal.slice(0, 240) })), null, 1) + "\n",
+  JSON.stringify(live.filter((d) => !d.subcategory).map((d) => ({ id: d.id, name: d.name, url: d.url, section: d.path, about: d.about, deal: d.deal.slice(0, 240) })), null, 1) + "\n",
 );
 
 // --- README -------------------------------------------------------------------------
@@ -418,7 +421,7 @@ const cats = (Object.keys(TAXONOMY) as Category[])
   .filter((x) => x.ds.length);
 
 const soon = new Date(+TODAY + 3 * 864e5);
-const endingSoon = live.filter((d) => d.ends && new Date(d.ends) <= soon).sort((a, b) => a.ends!.localeCompare(b.ends!));
+const endingSoon = live.filter((d) => d.ends && new Date(d.ends) <= soon && d.category !== ADULT).sort((a, b) => a.ends!.localeCompare(b.ends!));
 
 const readme = `# Black Friday & Cyber Monday 2026 Deals, All in One List
 
@@ -440,7 +443,10 @@ ${HEAD}
 ${endingSoon.map(row).join("\n")}
 
 ${cats
-  .map(({ c, subs }) => `## ${c}\n\n${subs.map(([s, x]) => `### ${s}\n\n${HEAD}\n${x.map(row).join("\n")}\n`).join("\n")}`)
+  .map(({ c, subs }) => {
+    const body = subs.map(([s, x]) => `### ${s}\n\n${HEAD}\n${x.map(row).join("\n")}\n`).join("\n");
+    return c === ADULT ? `## ${c}\n\n<details><summary>18+ only. Click to show.</summary>\n\n${body}\n</details>\n` : `## ${c}\n\n${body}`;
+  })
   .join("\n")}
 ## Sources
 
@@ -462,4 +468,4 @@ All data is in [data/deals.json](data/deals.json). To add a deal, add it to \`da
 `;
 writeFileSync("README.md", readme);
 console.table(perSource);
-console.log({ parsed: raws.length, unique: merged.length, expired: expired.length, ...stats, tagged: live.filter((d) => tags[d.id]).length, queue: live.filter((d) => !tags[d.id]).length });
+console.log({ parsed: raws.length, unique: merged.length, expired: expired.length, ...stats, sourceRepos: undefined, tagged: live.filter((d) => d.subcategory).length, queue: live.filter((d) => !d.subcategory).length });

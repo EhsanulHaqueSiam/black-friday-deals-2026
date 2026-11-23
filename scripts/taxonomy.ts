@@ -7,7 +7,7 @@ export const TAXONOMY = {
   "Productivity": ["Notes & Writing", "Tasks & Projects", "Calendar & Time Tracking", "Focus & Habits", "Reading & Knowledge", "Email & Communication", "Documents & PDFs"],
   "Mac & Desktop Utilities": ["Menu Bar & Dock", "Windows & Screens", "Clipboard, Launchers & Keyboard", "Files, Storage & System", "Browser Extensions"],
   "Security & Privacy": ["VPN", "Password Managers", "Antivirus & Security Suites", "Privacy & Data Removal", "Secure Email & Storage"],
-  "Hosting & Cloud": ["Domains", "Web & WordPress Hosting", "VPS & Cloud Servers", "Cloud Storage & Backup", "Email Hosting"],
+  "Hosting & Cloud": ["Domains", "Web & WordPress Hosting", "PaaS & Serverless", "VPS & Cloud Servers", "Databases", "Cloud Storage & Backup", "Email Hosting"],
   "Websites & E-commerce": ["Website Builders & No-Code", "WordPress Themes & Plugins", "Forms & Surveys", "E-commerce & Payments"],
   "Marketing & Sales": ["SEO", "Email Marketing & Newsletters", "Social Media", "Ads, Leads & Outreach", "CRM & Sales", "Web Analytics"],
   "Business & Finance": ["Personal Finance & Investing", "Accounting & Invoicing", "Customer Support & Chat", "Team & Operations", "Startup & Indie Tools", "Legal & Documents"],
@@ -17,7 +17,11 @@ export const TAXONOMY = {
   "Hardware & Electronics": ["Phones, Tablets & Computers", "Audio", "Smart Home", "Accessories & Peripherals", "Cameras & Drones", "Retailer Sales"],
   "Health & Lifestyle": ["Fitness & Workouts", "Health & Mental Wellbeing", "Food & Nutrition", "Travel & Navigation", "Family, Kids & Relationships", "Hobbies & Home", "Weather & Misc"],
   "Bundles & Deal Sites": ["Bundles", "Lifetime Deal Marketplaces"],
+  // Hidden on the website until the visitor opts in, collapsed in the README.
+  "Adult (18+)": ["Adult Sites & Subscriptions", "Adult Games", "Adult Toys & Wellness"],
 } as const satisfies Record<string, readonly string[]>;
+
+export const ADULT: Category = "Adult (18+)";
 
 export type Category = keyof typeof TAXONOMY;
 export type Subcategory<C extends Category = Category> = (typeof TAXONOMY)[C][number];

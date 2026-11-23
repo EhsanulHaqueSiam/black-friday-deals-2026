@@ -1,0 +1,2135 @@
+{
+ "7asecurity": {
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Self-paced mobile, web and cloud application security courses."
+ },
+ "abctrainerize": {
+  "category": "Business & Finance",
+  "subcategory": "Team & Operations",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "NOT A DEAL: no offer confirmed. App for personal trainers to run clients, workouts and billing."
+ },
+ "aceraspire16ailaptop": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Phones, Tablets & Computers",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "16-inch Copilot+ Windows laptop."
+ },
+ "activecampaign": {
+  "category": "Marketing & Sales",
+  "subcategory": "Email Marketing & Newsletters",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Email marketing automation with a built-in CRM."
+ },
+ "adcreativeai": {
+  "category": "AI Tools",
+  "subcategory": "Image & Video",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Generates ad images, videos and copy with AI."
+ },
+ "adkynetvpsnvmefrom280eurpermonth": {
+  "category": "Hosting & Cloud",
+  "subcategory": "VPS & Cloud Servers",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "NVMe VPS hosting in Europe."
+ },
+ "adsquiz": {
+  "category": "Marketing & Sales",
+  "subcategory": "Ads, Leads & Outreach",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Builds quiz funnels that turn ad traffic into leads."
+ },
+ "agencyhandy": {
+  "category": "Business & Finance",
+  "subcategory": "Team & Operations",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Client portal and project management for service agencies."
+ },
+ "ahrefs": {
+  "category": "Marketing & Sales",
+  "subcategory": "SEO",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "NOT A DEAL: no seasonal discounts. SEO toolset for keywords, backlinks and site audits."
+ },
+ "aihunt": {
+  "category": "Marketing & Sales",
+  "subcategory": "Ads, Leads & Outreach",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Directory of AI tools with paid listings for makers."
+ },
+ "airpodsmax2": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Audio",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Apple over-ear noise-cancelling headphones."
+ },
+ "airvpn": {
+  "category": "Security & Privacy",
+  "subcategory": "VPN",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "VPN service built on OpenVPN and WireGuard with no-log policy."
+ },
+ "alienware27inch4kqdoled240hzgamingmonitoraw2725q": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Accessories & Peripherals",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "27-inch 4K QD-OLED 240Hz gaming monitor."
+ },
+ "alienwareauroragamingdesktop": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Phones, Tablets & Computers",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Alienware gaming desktop PC."
+ },
+ "alienwareaw3926qw39inch5k2k165hzoledmonitor": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Accessories & Peripherals",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "39-inch ultrawide 5K2K 165Hz OLED gaming monitor."
+ },
+ "almighty50offblackfriday2026": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac app that bundles dozens of system tweaks and power-user settings."
+ },
+ "amazonbasics27inchgamingmonitor165hz1080p": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Accessories & Peripherals",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "27-inch 1080p 165Hz gaming monitor."
+ },
+ "amazoneeropro7tribandmeshwifi7router2pack": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Smart Home",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Tri-band Wi-Fi 7 mesh router, two-pack."
+ },
+ "amazonkindle16gb": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Phones, Tablets & Computers",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Basic Kindle e-reader with 16GB storage."
+ },
+ "amazonmusicunlimited": {
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "platforms": [
+   "web",
+   "ios",
+   "android",
+   "mac",
+   "windows"
+  ],
+  "pricing": "subscription",
+  "description": "Music streaming service from Amazon."
+ },
+ "ampifire": {
+  "category": "Marketing & Sales",
+  "subcategory": "SEO",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Creates content and distributes it across news sites, podcasts and video platforms."
+ },
+ "ankersolixs5000portablepowerstation": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Smart Home",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "5kWh portable power station for home backup."
+ },
+ "aocg27mc36n27inchgamingmonitor": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Accessories & Peripherals",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "27-inch 1080p 180Hz gaming monitor."
+ },
+ "apple2026macmini": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Phones, Tablets & Computers",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Apple Mac mini desktop with M6 or M5 Pro chip."
+ },
+ "appleblackfriday2026": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Retailer Sales",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Apple gift card with purchase of iPhone, iPad, Mac, Watch or AirPods."
+ },
+ "applem5macbookair": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Phones, Tablets & Computers",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Apple MacBook Air laptop with M5 chip."
+ },
+ "applemacbookpro163inch": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Phones, Tablets & Computers",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Apple 16-inch MacBook Pro laptop."
+ },
+ "applewatchse3": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Accessories & Peripherals",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Apple's entry-level smartwatch."
+ },
+ "applewatchseries11gpscellular42mm": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Accessories & Peripherals",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Apple Watch Series 11 with GPS and cellular, titanium case."
+ },
+ "apploye": {
+  "category": "Productivity",
+  "subcategory": "Calendar & Time Tracking",
+  "platforms": [
+   "web",
+   "mac",
+   "windows",
+   "linux"
+  ],
+  "pricing": "subscription",
+  "description": "Employee time tracking with screenshots and timesheets."
+ },
+ "armember": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "WordPress plugin for memberships and content restriction."
+ },
+ "asuschromebookcm15": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Phones, Tablets & Computers",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "15-inch ASUS Chromebook laptop."
+ },
+ "asusrogxg27aqwmg27inch1440p280hztandemoledmonitor": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Accessories & Peripherals",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "27-inch 1440p 280Hz tandem OLED gaming monitor."
+ },
+ "asusvivobookflip": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Phones, Tablets & Computers",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Convertible OLED touchscreen Copilot+ laptop."
+ },
+ "asusvivobooks16copilotpc": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Phones, Tablets & Computers",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "16-inch OLED Copilot+ laptop with Ryzen AI 7."
+ },
+ "atom": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Domains",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Domain marketplace and registrar for premium and standard names."
+ },
+ "auraidentityprotection": {
+  "category": "Security & Privacy",
+  "subcategory": "Privacy & Data Removal",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Identity theft protection with credit monitoring and insurance."
+ },
+ "avahost": {
+  "category": "Hosting & Cloud",
+  "subcategory": "VPS & Cloud Servers",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Shared hosting, VPS and dedicated servers."
+ },
+ "awakehost": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Web & WordPress Hosting",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Shared web hosting and VPS plans."
+ },
+ "backlinkbuildingagency": {
+  "category": "Marketing & Sales",
+  "subcategory": "SEO",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Link building service for SEO."
+ },
+ "bandwagonhost": {
+  "category": "Hosting & Cloud",
+  "subcategory": "VPS & Cloud Servers",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "NOT A DEAL: no offer confirmed. Budget KVM VPS hosting."
+ },
+ "bearconnect": {
+  "category": "Marketing & Sales",
+  "subcategory": "Ads, Leads & Outreach",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "LinkedIn outreach automation for lead generation."
+ },
+ "beatspowerbeatspro2earbudswithhrmonitor": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Audio",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Wireless workout earbuds with heart rate tracking."
+ },
+ "bitdefendergravityzone": {
+  "category": "Security & Privacy",
+  "subcategory": "Antivirus & Security Suites",
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "pricing": "subscription",
+  "description": "Business endpoint protection and security platform."
+ },
+ "blootrue": {
+  "category": "Marketing & Sales",
+  "subcategory": "Ads, Leads & Outreach",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Marketing SaaS with a monthly Starter plan."
+ },
+ "bookyourdata": {
+  "category": "Marketing & Sales",
+  "subcategory": "Ads, Leads & Outreach",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "credits",
+  "description": "NOT A DEAL: no offer confirmed. Verified B2B email lists and contact data."
+ },
+ "boosterelite": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Bundle of WooCommerce add-ons for store features."
+ },
+ "briskmail": {
+  "category": "Productivity",
+  "subcategory": "Email & Communication",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Native Mac Gmail client built on the Gmail API."
+ },
+ "bundlehuntblackfridaybundle2026": {
+  "category": "Bundles & Deal Sites",
+  "subcategory": "Bundles",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Bundle of 44 Mac apps sold together."
+ },
+ "callhippo": {
+  "category": "Business & Finance",
+  "subcategory": "Customer Support & Chat",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Cloud phone system with virtual numbers for teams."
+ },
+ "centri": {
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Blue team security certifications such as BTL1 and BTL2."
+ },
+ "classycal": {
+  "category": "Productivity",
+  "subcategory": "Calendar & Time Tracking",
+  "platforms": [
+   "mac",
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "Calendar and task app for Mac and iPhone."
+ },
+ "clearout": {
+  "category": "Marketing & Sales",
+  "subcategory": "Email Marketing & Newsletters",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "credits",
+  "description": "NOT A DEAL: no offer confirmed. Email verification and email finder."
+ },
+ "clickfunnels": {
+  "category": "Websites & E-commerce",
+  "subcategory": "Website Builders & No-Code",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Sales funnel and landing page builder."
+ },
+ "cloudbreach": {
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Offensive cloud security courses for Azure and AWS."
+ },
+ "codemia": {
+  "category": "Learning",
+  "subcategory": "Programming & Tech",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "System design interview practice platform."
+ },
+ "confidence2025": {
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "one-time",
+  "description": "NOT A DEAL: past event. Polish security conference tickets."
+ },
+ "contentpen": {
+  "category": "AI Tools",
+  "subcategory": "Writing & Content",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI writer for SEO blog content."
+ },
+ "convertpro": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "WordPress popup and opt-in form builder."
+ },
+ "copia": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Clipboard manager for Apple silicon Macs."
+ },
+ "cotypist": {
+  "category": "AI Tools",
+  "subcategory": "Writing & Content",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "Mac autocomplete that predicts your next words in any app."
+ },
+ "creatune": {
+  "category": "AI Tools",
+  "subcategory": "Voice & Audio",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI music creation tool."
+ },
+ "cryptoksipremiumdomain": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Domains",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Premium .si domain name for sale."
+ },
+ "databasemartblackfridaysale2026": {
+  "category": "Hosting & Cloud",
+  "subcategory": "VPS & Cloud Servers",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "VPS, dedicated and GPU server hosting."
+ },
+ "deebosipremiumdomain": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Domains",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Premium .si domain name for sale."
+ },
+ "deepvue": {
+  "category": "Business & Finance",
+  "subcategory": "Personal Finance & Investing",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Stock screener, charting and trade journal for traders."
+ },
+ "deltasnap": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Manages, diffs and restores APFS snapshots on Mac."
+ },
+ "devopscubecourses": {
+  "category": "Learning",
+  "subcategory": "Cloud & DevOps Certs",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Practical Kubernetes and DevOps courses."
+ },
+ "dext": {
+  "category": "Business & Finance",
+  "subcategory": "Accounting & Invoicing",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Extracts receipt and invoice data for bookkeeping."
+ },
+ "directorist": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "WordPress plugin for building business directory sites."
+ },
+ "divigear": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "one-time",
+  "description": "Plugins and layouts for the Divi WordPress theme."
+ },
+ "dnsfordevelopers": {
+  "category": "Learning",
+  "subcategory": "Programming & Tech",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Course explaining how DNS works for developers."
+ },
+ "domestika": {
+  "category": "Learning",
+  "subcategory": "Online Course Platforms",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "NOT A DEAL: no offer confirmed. Online courses for designers, illustrators and creatives."
+ },
+ "duodollar": {
+  "category": "Business & Finance",
+  "subcategory": "Personal Finance & Investing",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "NOT A DEAL: no offer confirmed. Zero-based budgeting app with bank sync."
+ },
+ "easyfetcher": {
+  "category": "Business & Finance",
+  "subcategory": "Startup & Indie Tools",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Business SaaS sold on yearly Pro plans."
+ },
+ "ebookiuczmniepl": {
+  "category": "Learning",
+  "subcategory": "Books & Ebooks",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Polish ebooks on prompt engineering and prompt injection."
+ },
+ "edgebar": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Controls Mac volume and brightness from the trackpad edges."
+ },
+ "elgato": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Accessories & Peripherals",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Stream Deck controllers and creator gear."
+ },
+ "emcee": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Windows & Screens",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac window manager that groups windows into stages."
+ },
+ "enigmais": {
+  "category": "Developer Tools",
+  "subcategory": "Backend, APIs & Infra",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Self-hosted PKI and private certificate authority platform."
+ },
+ "esethomesecurity": {
+  "category": "Security & Privacy",
+  "subcategory": "Antivirus & Security Suites",
+  "platforms": [
+   "windows",
+   "mac",
+   "android",
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "Antivirus and security suite for home devices."
+ },
+ "eventerprise": {
+  "category": "Business & Finance",
+  "subcategory": "Team & Operations",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "AI event management and ticketing platform."
+ },
+ "eweka83offblackfriday2026": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Cloud Storage & Backup",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Usenet access with long retention, newsreader and VPN."
+ },
+ "exponent": {
+  "category": "Learning",
+  "subcategory": "Programming & Tech",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Tech interview prep courses and mock interviews."
+ },
+ "filesmagicai": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac app that organizes and renames files by their content with AI."
+ },
+ "flexorder": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Syncs WooCommerce orders with Google Sheets."
+ },
+ "fluentbookingpro": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "WordPress appointment booking and scheduling plugin."
+ },
+ "flyingpress": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "WordPress caching and speed optimization plugin."
+ },
+ "fontbundles": {
+  "category": "Design",
+  "subcategory": "Icons, Fonts & Illustrations",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Marketplace for fonts, SVGs and craft files."
+ },
+ "forms": {
+  "category": "Websites & E-commerce",
+  "subcategory": "Forms & Surveys",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Online form, survey and quiz builder."
+ },
+ "freepik": {
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Stock images, vectors and AI image tools."
+ },
+ "frontendmasters": {
+  "category": "Learning",
+  "subcategory": "Programming & Tech",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "In-depth video courses on JavaScript and web development."
+ },
+ "garmin": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Accessories & Peripherals",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "GPS sport watches and cycling gear."
+ },
+ "getauthorbox": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "WordPress author bio box plugin."
+ },
+ "getjacked": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Fitness & Workouts",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "NOT A DEAL: no offer confirmed. iPhone hypertrophy training coach."
+ },
+ "getresponse": {
+  "category": "Marketing & Sales",
+  "subcategory": "Email Marketing & Newsletters",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Email marketing, automation and landing pages."
+ },
+ "giac": {
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Cybersecurity certification exams."
+ },
+ "googleaipro": {
+  "category": "AI Tools",
+  "subcategory": "Chat & Assistants",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Gemini AI plan with Google One cloud storage."
+ },
+ "greenbubble": {
+  "category": "Marketing & Sales",
+  "subcategory": "Ads, Leads & Outreach",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "WhatsApp marketing and messaging platform for businesses."
+ },
+ "growave20offblackfriday2026": {
+  "category": "Websites & E-commerce",
+  "subcategory": "E-commerce & Payments",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Shopify app for loyalty, reviews and wishlists."
+ },
+ "hacktricks": {
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Cloud security hacking courses."
+ },
+ "hbomax": {
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Streaming service for HBO and Warner Bros. shows and films."
+ },
+ "helpjet": {
+  "category": "Business & Finance",
+  "subcategory": "Customer Support & Chat",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Help desk with ticketing and knowledge base."
+ },
+ "hidemyacc": {
+  "category": "Security & Privacy",
+  "subcategory": "Privacy & Data Removal",
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "Anti-detect browser for managing multiple accounts."
+ },
+ "highperformancesqlite": {
+  "category": "Learning",
+  "subcategory": "Programming & Tech",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Video course on using SQLite in production."
+ },
+ "hivecrm": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "CRM plugin for WordPress."
+ },
+ "hostify": {
+  "category": "Business & Finance",
+  "subcategory": "Team & Operations",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Vacation rental property management software."
+ },
+ "hostwp": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Web & WordPress Hosting",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Managed WordPress hosting."
+ },
+ "idealaisipremiumdomain": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Domains",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Premium .si domain name for sale."
+ },
+ "impact": {
+  "category": "Marketing & Sales",
+  "subcategory": "Ads, Leads & Outreach",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "NOT A DEAL: no offer confirmed. Affiliate and partnership tracking platform."
+ },
+ "indiegoodies": {
+  "category": "Bundles & Deal Sites",
+  "subcategory": "Bundles",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Collection of indie Mac apps from one developer."
+ },
+ "influencerhero": {
+  "category": "Marketing & Sales",
+  "subcategory": "Social Media",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Influencer discovery and outreach platform."
+ },
+ "integoonemacsecuritysuite": {
+  "category": "Security & Privacy",
+  "subcategory": "Antivirus & Security Suites",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "Mac antivirus, firewall and privacy suite."
+ },
+ "interserver": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Web & WordPress Hosting",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Shared web hosting."
+ },
+ "invokere": {
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Malware analysis and reverse engineering courses."
+ },
+ "itstartup": {
+  "category": "Gaming",
+  "subcategory": "Games & Apps",
+  "platforms": [
+   "physical",
+   "windows"
+  ],
+  "pricing": "physical",
+  "description": "Card game about programmers, physical and on Steam."
+ },
+ "javainterviewbundle": {
+  "category": "Learning",
+  "subcategory": "Books & Ebooks",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Bundle of Java interview prep guides."
+ },
+ "jttiblackfridayvps2026": {
+  "category": "Hosting & Cloud",
+  "subcategory": "VPS & Cloud Servers",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "VPS hosting from JTTI."
+ },
+ "katana": {
+  "category": "Business & Finance",
+  "subcategory": "Team & Operations",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "NOT A DEAL: no offer confirmed. Cloud inventory and manufacturing management software."
+ },
+ "kayvrn": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Web & WordPress Hosting",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Web hosting plans."
+ },
+ "kirki": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "one-time",
+  "description": "Visual website builder for WordPress."
+ },
+ "knoxss": {
+  "category": "Security & Privacy",
+  "subcategory": "Antivirus & Security Suites",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Automated XSS vulnerability scanner."
+ },
+ "krispcall": {
+  "category": "Business & Finance",
+  "subcategory": "Customer Support & Chat",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Cloud phone system with virtual numbers."
+ },
+ "landbot50offblackfriday2026": {
+  "category": "Business & Finance",
+  "subcategory": "Customer Support & Chat",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "No-code chatbot builder for web and WhatsApp."
+ },
+ "leadconnect": {
+  "category": "Marketing & Sales",
+  "subcategory": "Ads, Leads & Outreach",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "LinkedIn outreach automation."
+ },
+ "learnworlds": {
+  "category": "Learning",
+  "subcategory": "Online Course Platforms",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Platform to create and sell online courses."
+ },
+ "levo": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Menu bar monitor for disk, memory, CPU and GPU with AI cleanup help."
+ },
+ "linkboss": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Internal linking tool for WordPress SEO."
+ },
+ "linkforce": {
+  "category": "Marketing & Sales",
+  "subcategory": "SEO",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Link building and backlink platform."
+ },
+ "livewebinar": {
+  "category": "Business & Finance",
+  "subcategory": "Team & Operations",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Browser-based webinar and video meeting platform."
+ },
+ "luminarneo": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Photo Editing",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "AI photo editor with sky replacement and relighting."
+ },
+ "macrowave": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "NOT A DEAL: no offer confirmed. Streams Mac or iPhone audio to listeners like a private radio."
+ },
+ "mailoptin": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "WordPress opt-in forms and email newsletters."
+ },
+ "masteraddons": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Widgets and extensions for Elementor."
+ },
+ "memberpress": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "WordPress membership and paywall plugin."
+ },
+ "microsoftpressstore": {
+  "category": "Learning",
+  "subcategory": "Books & Ebooks",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Microsoft Press technical books and ebooks."
+ },
+ "mockplus": {
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "web",
+   "mac",
+   "windows"
+  ],
+  "pricing": "subscription",
+  "description": "Prototyping and design collaboration tools."
+ },
+ "mote": {
+  "category": "Productivity",
+  "subcategory": "Notes & Writing",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Single-note app that puts a note on the lock screen."
+ },
+ "murfai": {
+  "category": "AI Tools",
+  "subcategory": "Voice & Audio",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "NOT A DEAL: no offer confirmed. AI voiceover generator."
+ },
+ "neliosoftware": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "WordPress plugins for A/B testing and content scheduling."
+ },
+ "newsdemon": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Cloud Storage & Backup",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Unlimited Usenet access with long retention."
+ },
+ "nicenic": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Domains",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Domain registrar."
+ },
+ "nomuintermittentfasting": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Food & Nutrition",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "Intermittent fasting tracker for iPhone."
+ },
+ "notchy": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Turns the MacBook notch into a Dynamic Island."
+ },
+ "novashare": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Lightweight social sharing plugin for WordPress."
+ },
+ "office365personal": {
+  "category": "Productivity",
+  "subcategory": "Documents & PDFs",
+  "platforms": [
+   "windows",
+   "mac",
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Microsoft 365 Office apps with 1TB OneDrive storage."
+ },
+ "ollama": {
+  "category": "AI Tools",
+  "subcategory": "Chat & Assistants",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux"
+  ],
+  "pricing": "one-time",
+  "description": "NOT A DEAL: free product. Runs large language models locally."
+ },
+ "on1": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Photo Editing",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Photo editor and Lightroom alternative."
+ },
+ "onestreamlive": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Video Editing",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Live streaming to multiple social platforms at once."
+ },
+ "openartai": {
+  "category": "AI Tools",
+  "subcategory": "Image & Video",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI image and video generation with many models."
+ },
+ "optimizecamp": {
+  "category": "Marketing & Sales",
+  "subcategory": "Web Analytics",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Conversion rate optimization tool."
+ },
+ "outdooai": {
+  "category": "AI Tools",
+  "subcategory": "Research & Learning",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI roleplay and coaching for sales teams."
+ },
+ "panestack": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Finder alternative file manager for Mac."
+ },
+ "pawnhoster": {
+  "category": "Hosting & Cloud",
+  "subcategory": "VPS & Cloud Servers",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "VPS hosting."
+ },
+ "pentesterlab": {
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Hands-on web security and pentesting exercises."
+ },
+ "pingersnetworktools": {
+  "category": "Developer Tools",
+  "subcategory": "Testing & Debugging",
+  "platforms": [
+   "ios",
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Network tools such as ping and port scan for iPhone and Mac."
+ },
+ "plesk": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Web & WordPress Hosting",
+  "platforms": [
+   "linux",
+   "windows"
+  ],
+  "pricing": "subscription",
+  "description": "Web hosting control panel and server management."
+ },
+ "podigypodcastplayer": {
+  "category": "Entertainment",
+  "subcategory": "Audiobooks & Reading",
+  "platforms": [
+   "ios",
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "NOT A DEAL: no offer confirmed. Podcast player for iPhone, iPad and Mac."
+ },
+ "powerpackforelementor": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Widgets and templates for Elementor."
+ },
+ "printify": {
+  "category": "Websites & E-commerce",
+  "subcategory": "E-commerce & Payments",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "NOT A DEAL: no offer confirmed. Print-on-demand fulfillment for custom merchandise."
+ },
+ "promptwatch": {
+  "category": "Marketing & Sales",
+  "subcategory": "SEO",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Tracks brand visibility in AI search answers."
+ },
+ "protonworkspace": {
+  "category": "Security & Privacy",
+  "subcategory": "Secure Email & Storage",
+  "platforms": [
+   "web",
+   "mac",
+   "windows",
+   "linux",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Encrypted email, calendar, drive and VPN for businesses."
+ },
+ "quizmaker": {
+  "category": "Websites & E-commerce",
+  "subcategory": "Forms & Surveys",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Quiz builder plugin for WordPress."
+ },
+ "rankfloai": {
+  "category": "AI Tools",
+  "subcategory": "Writing & Content",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI SEO content writer."
+ },
+ "razer": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Accessories & Peripherals",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Gaming peripherals, chairs and Blade laptops."
+ },
+ "recootyaiats": {
+  "category": "Business & Finance",
+  "subcategory": "Team & Operations",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Applicant tracking system with AI screening."
+ },
+ "remarkable": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Phones, Tablets & Computers",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "E-ink paper tablets for writing and reading."
+ },
+ "restroryrms": {
+  "category": "Business & Finance",
+  "subcategory": "Team & Operations",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Restaurant management with POS, kitchen display and inventory."
+ },
+ "robinreach": {
+  "category": "Marketing & Sales",
+  "subcategory": "Social Media",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Schedules social posts across 13 platforms with AI content."
+ },
+ "rovivalssipremiumdomain": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Domains",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Premium .si domain name for sale."
+ },
+ "salesstack": {
+  "category": "Marketing & Sales",
+  "subcategory": "CRM & Sales",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Sales prospecting and outreach platform."
+ },
+ "sbl": {
+  "category": "AI Tools",
+  "subcategory": "Automation & Workflows",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "AI sales automation for LinkedIn and WhatsApp that books calls."
+ },
+ "screenkite": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Screen Recording",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac screen recorder with a built-in editor."
+ },
+ "seeedstudio": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Smart Home",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Maker boards, LoRa and Home Assistant hardware."
+ },
+ "sekurak": {
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Polish security courses and training."
+ },
+ "sendx": {
+  "category": "Marketing & Sales",
+  "subcategory": "Email Marketing & Newsletters",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Email marketing and newsletter platform."
+ },
+ "seowriting": {
+  "category": "AI Tools",
+  "subcategory": "Writing & Content",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI writer for SEO articles."
+ },
+ "shadcnstudio": {
+  "category": "Design",
+  "subcategory": "UI Kits & Templates",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Components, blocks and templates for shadcn/ui."
+ },
+ "shopmonkey": {
+  "category": "Business & Finance",
+  "subcategory": "Team & Operations",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "NOT A DEAL: no offer confirmed. Auto repair shop management and invoicing."
+ },
+ "simplephotogallery": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Photo Editing",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "NOT A DEAL: no offer confirmed. Creates shareable online photo galleries."
+ },
+ "slack": {
+  "category": "Productivity",
+  "subcategory": "Email & Communication",
+  "platforms": [
+   "web",
+   "mac",
+   "windows",
+   "linux",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Team chat and messaging workspace."
+ },
+ "slimstat": {
+  "category": "Marketing & Sales",
+  "subcategory": "Web Analytics",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Web analytics plugin for WordPress."
+ },
+ "soundbarformac": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac menu bar audio app."
+ },
+ "spacewise20": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac app to find what is using disk space."
+ },
+ "stackkite": {
+  "category": "Business & Finance",
+  "subcategory": "Startup & Indie Tools",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "SaaS tool with monthly plans."
+ },
+ "steelseries": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Accessories & Peripherals",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Gaming headsets, mice and controllers."
+ },
+ "summate": {
+  "category": "AI Tools",
+  "subcategory": "Research & Learning",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "NOT A DEAL: no offer confirmed. AI digest that summarizes newsletters, YouTube and other sources."
+ },
+ "surfercloud": {
+  "category": "Hosting & Cloud",
+  "subcategory": "VPS & Cloud Servers",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Cloud servers and VPS."
+ },
+ "system76": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Phones, Tablets & Computers",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Linux laptops and desktops."
+ },
+ "tapfiliate": {
+  "category": "Marketing & Sales",
+  "subcategory": "Ads, Leads & Outreach",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Affiliate and referral program tracking."
+ },
+ "taskito": {
+  "category": "Productivity",
+  "subcategory": "Tasks & Projects",
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Day planner combining tasks, routines and events in one timeline."
+ },
+ "termageddon": {
+  "category": "Business & Finance",
+  "subcategory": "Legal & Documents",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Generates and updates website privacy policies and terms."
+ },
+ "thefirewalltrail": {
+  "category": "Gaming",
+  "subcategory": "Games & Apps",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "NOT A DEAL: free game. Browser game about surviving a year in IT security."
+ },
+ "themehunk": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "WordPress themes and plugins."
+ },
+ "thrivecart": {
+  "category": "Websites & E-commerce",
+  "subcategory": "E-commerce & Payments",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Shopping cart and checkout pages for digital products."
+ },
+ "tiprankspremium": {
+  "category": "Business & Finance",
+  "subcategory": "Personal Finance & Investing",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Stock research with analyst ratings and data."
+ },
+ "toolnotch": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Turns the MacBook notch into a live island of tools."
+ },
+ "trailback": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Local searchable history of files, screenshots and clipboard on your computer."
+ },
+ "tresorit": {
+  "category": "Security & Privacy",
+  "subcategory": "Secure Email & Storage",
+  "platforms": [
+   "web",
+   "mac",
+   "windows",
+   "linux",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "End-to-end encrypted cloud storage."
+ },
+ "trueranker": {
+  "category": "Marketing & Sales",
+  "subcategory": "SEO",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Keyword rank tracker."
+ },
+ "tryhackmevouchers": {
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Gift vouchers for TryHackMe Premium security training."
+ },
+ "tutorlmsagencysuitelifetimeplan": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "one-time",
+  "description": "WordPress LMS plugin suite for agencies."
+ },
+ "tychesoftwares": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Premium WooCommerce plugins."
+ },
+ "umami": {
+  "category": "Marketing & Sales",
+  "subcategory": "Web Analytics",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "NOT A DEAL: free product. Privacy-friendly web analytics."
+ },
+ "unlimitedaitools": {
+  "category": "AI Tools",
+  "subcategory": "Chat & Assistants",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Access to many AI models and tools in one subscription."
+ },
+ "upplai": {
+  "category": "AI Tools",
+  "subcategory": "Writing & Content",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "AI resume writing and review packages."
+ },
+ "usermaven": {
+  "category": "Marketing & Sales",
+  "subcategory": "Web Analytics",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Website and product analytics."
+ },
+ "vegplotter": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Hobbies & Home",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Vegetable garden planner."
+ },
+ "verpex": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Web & WordPress Hosting",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Shared, cloud and WordPress hosting."
+ },
+ "vibeview": {
+  "category": "Developer Tools",
+  "subcategory": "Testing & Debugging",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Runs iPhone, Android and TV apps live in the browser."
+ },
+ "vitalsformac": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac system monitor."
+ },
+ "vm6networks": {
+  "category": "Hosting & Cloud",
+  "subcategory": "VPS & Cloud Servers",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "UK VPS hosting."
+ },
+ "walmart": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Retailer Sales",
+  "platforms": [
+   "web",
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Walmart's online and in-store Black Friday sale."
+ },
+ "wbcomdesigns": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "BuddyPress and community themes and plugins for WordPress."
+ },
+ "websitex5": {
+  "category": "Websites & E-commerce",
+  "subcategory": "Website Builders & No-Code",
+  "platforms": [
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Desktop website builder for Windows."
+ },
+ "wholesalesuite": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Wholesale pricing and ordering plugins for WooCommerce."
+ },
+ "winzipblackfridaybundle": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Bundle of WinZip tools for compression, encryption and backup."
+ },
+ "wondershare": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Video Editing",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "subscription",
+  "description": "Apps for video editing, PDFs, data transfer and file recovery."
+ },
+ "worksnaply": {
+  "category": "Productivity",
+  "subcategory": "Calendar & Time Tracking",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Time tracking and workforce monitoring."
+ },
+ "wpdataaccess": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "WordPress plugin for data tables, apps and charts."
+ },
+ "wpstatistics": {
+  "category": "Marketing & Sales",
+  "subcategory": "Web Analytics",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Privacy-friendly analytics plugin for WordPress."
+ },
+ "wpdeveloper": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "WordPress plugins such as Essential Addons and Essential Blocks."
+ },
+ "wpxpo": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "one-time",
+  "description": "WordPress and WooCommerce plugins such as PostX and WowStore."
+ },
+ "wrike": {
+  "category": "Productivity",
+  "subcategory": "Tasks & Projects",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "NOT A DEAL: no offer confirmed. Project management and team collaboration."
+ },
+ "wykadyzaufanatrzeciastrona": {
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Recorded Polish security talks."
+ },
+ "xflow": {
+  "category": "Websites & E-commerce",
+  "subcategory": "E-commerce & Payments",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Shopify app from Foxecom for store growth."
+ },
+ "youstable": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Web & WordPress Hosting",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Shared, WordPress and VPS hosting."
+ },
+ "zagrajmyjeszczeraz": {
+  "category": "Learning",
+  "subcategory": "Books & Ebooks",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Polish book on the history of gaming in Poland."
+ },
+ "zenfolio": {
+  "category": "Websites & E-commerce",
+  "subcategory": "Website Builders & No-Code",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Portfolio websites and client galleries for photographers."
+ },
+ "zima": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Phones, Tablets & Computers",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "x86 single-board servers and home NAS devices."
+ }
+}

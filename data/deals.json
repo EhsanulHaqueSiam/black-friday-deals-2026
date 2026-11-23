@@ -441,7 +441,12 @@
     ],
     "id": "7asecurity",
     "category": "Learning",
-    "platforms": []
+    "subcategory": "Cybersecurity Certs & Training",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Self-paced mobile, web and cloud application security courses."
   },
   {
     "name": "800.com",
@@ -540,18 +545,6 @@
     ],
     "pricing": "one-time",
     "description": "Regex search and replace across files, plus Base64, URL and JWT encoding tools."
-  },
-  {
-    "name": "ABC Trainerize",
-    "url": "https://getstarted.trainerize.com/discount",
-    "deal": "*Deal TBA*",
-    "codes": [],
-    "sources": [
-      "carmentune/best-black-friday-saas-deals"
-    ],
-    "id": "abctrainerize",
-    "category": "Business & Finance",
-    "platforms": []
   },
   {
     "name": "Ableton Live 12",
@@ -656,7 +649,12 @@
     ],
     "id": "aceraspire16ailaptop",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Phones, Tablets & Computers",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "16-inch Copilot+ Windows laptop."
   },
   {
     "name": "Acer Nitro 31.5-inch QHD Curved Gaming Monitor",
@@ -719,8 +717,13 @@
       "carmentune/best-black-friday-saas-deals"
     ],
     "id": "activecampaign",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Marketing & Sales",
+    "subcategory": "Email Marketing & Newsletters",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Email marketing automation with a built-in CRM."
   },
   {
     "name": "ActiveDock 2",
@@ -783,8 +786,13 @@
       "imrishit98/Black-Friday-and-Cyber-Monday-Deals"
     ],
     "id": "adcreativeai",
-    "category": "Productivity",
-    "platforms": []
+    "category": "AI Tools",
+    "subcategory": "Image & Video",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Generates ad images, videos and copy with AI."
   },
   {
     "name": "AdCreative.ai",
@@ -898,7 +906,12 @@
     ],
     "id": "adkynetvpsnvmefrom280eurpermonth",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "VPS & Cloud Servers",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "NVMe VPS hosting in Europe."
   },
   {
     "name": "AdminKit",
@@ -989,7 +1002,12 @@
     ],
     "id": "adsquiz",
     "category": "Marketing & Sales",
-    "platforms": []
+    "subcategory": "Ads, Leads & Outreach",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Builds quiz funnels that turn ad traffic into leads."
   },
   {
     "name": "Advanced AI Actions",
@@ -1142,7 +1160,7 @@
   {
     "name": "Agency Handy",
     "url": "https://www.agencyhandy.com/",
-    "deal": "70% off Annual Plans. Oct 15 to Dec 31",
+    "deal": "70% off annual plans. Oct 15 to Dec 31",
     "codes": [
       "YEARLY70"
     ],
@@ -1152,8 +1170,13 @@
       "https://www.engagebay.com/blog/black-friday-saas-deals/"
     ],
     "id": "agencyhandy",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Business & Finance",
+    "subcategory": "Team & Operations",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Client portal and project management for service agencies."
   },
   {
     "name": "AgencyAnalytics",
@@ -1220,19 +1243,6 @@
     ],
     "pricing": "one-time",
     "description": "Next.js starter kit for AI agent SaaS with tools, MCP, metering, auth and billing."
-  },
-  {
-    "name": "Ahrefs",
-    "url": "https://help.ahrefs.com/en/articles/1406260-do-you-offer-any-discounts-or-free-trials",
-    "deal": "Ahrefs officially says it never runs seasonal discounts incl. Black Friday; only annual billing ~17% off · Dates: n/a · Ends: not stated",
-    "codes": [],
-    "discount": 17,
-    "sources": [
-      "thoughtcook/verified-black-friday"
-    ],
-    "id": "ahrefs",
-    "category": "Marketing & Sales",
-    "platforms": []
   },
   {
     "name": "Ahrefs Webmaster Tools",
@@ -1399,7 +1409,7 @@
   {
     "name": "AIHunt",
     "url": "https://aihunt.io/",
-    "deal": "50% off All Paid Listing Plans. For makers buying a paid listing plan. Nov 20 to Dec 11",
+    "deal": "50% off all paid listing plans. For makers buying a paid listing plan. Nov 20 to Dec 11",
     "codes": [
       "BFCM2026"
     ],
@@ -1410,7 +1420,12 @@
     ],
     "id": "aihunt",
     "category": "Marketing & Sales",
-    "platforms": []
+    "subcategory": "Ads, Leads & Outreach",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Directory of AI tools with paid listings for makers."
   },
   {
     "name": "Aikeedo",
@@ -1523,7 +1538,12 @@
     ],
     "id": "airpodsmax2",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Audio",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Apple over-ear noise-cancelling headphones."
   },
   {
     "name": "AirPods Pro 3",
@@ -1563,7 +1583,16 @@
     ],
     "id": "airvpn",
     "category": "Security & Privacy",
-    "platforms": []
+    "subcategory": "VPN",
+    "platforms": [
+      "mac",
+      "windows",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "VPN service built on OpenVPN and WireGuard with no-log policy."
   },
   {
     "name": "Akev",
@@ -1638,7 +1667,12 @@
     ],
     "id": "alienware27inch4kqdoled240hzgamingmonitoraw2725q",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Accessories & Peripherals",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "27-inch 4K QD-OLED 240Hz gaming monitor."
   },
   {
     "name": "Alienware 32 inch 4K 240Hz QD-OLED Gaming Monitor",
@@ -1675,7 +1709,12 @@
     ],
     "id": "alienwareauroragamingdesktop",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Phones, Tablets & Computers",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Alienware gaming desktop PC."
   },
   {
     "name": "Alienware AW2725DF 27-inch 1440p 360Hz QD-OLED Gaming Monitor",
@@ -1711,7 +1750,12 @@
     ],
     "id": "alienwareaw3926qw39inch5k2k165hzoledmonitor",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Accessories & Peripherals",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "39-inch ultrawide 5K2K 165Hz OLED gaming monitor."
   },
   {
     "name": "AliExpress",
@@ -1781,8 +1825,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "almighty50offblackfriday2026",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Mac & Desktop Utilities",
+    "subcategory": "Files, Storage & System",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Mac app that bundles dozens of system tweaks and power-user settings."
   },
   {
     "name": "Alphasec",
@@ -1845,7 +1894,12 @@
     ],
     "id": "amazonbasics27inchgamingmonitor165hz1080p",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Accessories & Peripherals",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "27-inch 1080p 165Hz gaming monitor."
   },
   {
     "name": "Amazon Devices",
@@ -1902,7 +1956,12 @@
     ],
     "id": "amazoneeropro7tribandmeshwifi7router2pack",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Smart Home",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Tri-band Wi-Fi 7 mesh router, two-pack."
   },
   {
     "name": "Amazon Ember Fire TV 50-inch",
@@ -1938,7 +1997,12 @@
     ],
     "id": "amazonkindle16gb",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Phones, Tablets & Computers",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Basic Kindle e-reader with 16GB storage."
   },
   {
     "name": "Amazon Kindle Colorsoft 16GB",
@@ -1975,8 +2039,17 @@
       "https://www.usatoday.com/story/shopping/deals/black-friday/2026/11/12/free-amazon-music-unlimited-holiday-offer/92720820007/"
     ],
     "id": "amazonmusicunlimited",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Entertainment",
+    "subcategory": "Music",
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "mac",
+      "windows"
+    ],
+    "pricing": "subscription",
+    "description": "Music streaming service from Amazon."
   },
   {
     "name": "Amazon Prime Members",
@@ -2015,7 +2088,12 @@
     ],
     "id": "ampifire",
     "category": "Marketing & Sales",
-    "platforms": []
+    "subcategory": "SEO",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Creates content and distributes it across news sites, podcasts and video platforms."
   },
   {
     "name": "Amplemarket",
@@ -2118,7 +2196,12 @@
     ],
     "id": "ankersolixs5000portablepowerstation",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Smart Home",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "5kWh portable power station for home backup."
   },
   {
     "name": "anon.li",
@@ -2239,7 +2322,12 @@
     ],
     "id": "aocg27mc36n27inchgamingmonitor",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Accessories & Peripherals",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "27-inch 1080p 180Hz gaming monitor."
   },
   {
     "name": "APIKO",
@@ -2357,7 +2445,7 @@
   {
     "name": "Appit Studio",
     "url": "https://appitstudio.com/",
-    "deal": "50% off Lifetime and Forever licenses for DockFlow, ExtraDock, ExtraBar, CoolDock and Shiori. Ends Dec 1",
+    "deal": "50% off lifetime and Forever licenses for DockFlow, ExtraDock, ExtraBar, CoolDock and Shiori. Ends Dec 1",
     "codes": [],
     "ends": "2026-12-01",
     "discount": 50,
@@ -2378,7 +2466,12 @@
     ],
     "id": "apple2026macmini",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Phones, Tablets & Computers",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Apple Mac mini desktop with M6 or M5 Pro chip."
   },
   {
     "name": "Apple AirPods Max USB-C Over-Ear Bluetooth Headphones",
@@ -2416,8 +2509,13 @@
       "https://www.apple.com/shop/gifts/black-friday-event/terms-conditions"
     ],
     "id": "appleblackfriday2026",
-    "category": "Gaming",
-    "platforms": []
+    "category": "Hardware & Electronics",
+    "subcategory": "Retailer Sales",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Apple gift card with purchase of iPhone, iPad, Mac, Watch or AirPods."
   },
   {
     "name": "Apple iPad mini",
@@ -2454,7 +2552,12 @@
     ],
     "id": "applem5macbookair",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Phones, Tablets & Computers",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Apple MacBook Air laptop with M5 chip."
   },
   {
     "name": "Apple MacBook Air 13.6-inch Laptop (2026)",
@@ -2490,7 +2593,12 @@
     ],
     "id": "applemacbookpro163inch",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Phones, Tablets & Computers",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Apple 16-inch MacBook Pro laptop."
   },
   {
     "name": "Apple Refurbished Excellent 10.2-inch iPad (7th Generation) Wi-Fi 32GB Space Gray",
@@ -2548,7 +2656,12 @@
     ],
     "id": "applewatchse3",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Accessories & Peripherals",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Apple's entry-level smartwatch."
   },
   {
     "name": "Apple Watch Series",
@@ -2585,7 +2698,12 @@
     ],
     "id": "applewatchseries11gpscellular42mm",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Accessories & Peripherals",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Apple Watch Series 11 with GPS and cellular, titanium case."
   },
   {
     "name": "Apple Watch Series 12",
@@ -2616,7 +2734,7 @@
   {
     "name": "Apploye",
     "url": "https://apploye.com/",
-    "deal": "15% off All Plans. Nov 15 to Dec 10",
+    "deal": "15% off all plans. Nov 15 to Dec 10",
     "codes": [
       "apploye-15"
     ],
@@ -2626,8 +2744,16 @@
       "https://www.engagebay.com/blog/black-friday-saas-deals/"
     ],
     "id": "apploye",
-    "category": "Business & Finance",
-    "platforms": []
+    "category": "Productivity",
+    "subcategory": "Calendar & Time Tracking",
+    "platforms": [
+      "web",
+      "mac",
+      "windows",
+      "linux"
+    ],
+    "pricing": "subscription",
+    "description": "Employee time tracking with screenshots and timesheets."
   },
   {
     "name": "Appraise.net",
@@ -2908,7 +3034,12 @@
     ],
     "id": "armember",
     "category": "Websites & E-commerce",
-    "platforms": []
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "WordPress plugin for memberships and content restriction."
   },
   {
     "name": "Artlist",
@@ -3080,7 +3211,12 @@
     ],
     "id": "asuschromebookcm15",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Phones, Tablets & Computers",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "15-inch ASUS Chromebook laptop."
   },
   {
     "name": "ASUS ROG NUC 16 Gaming Mini PC",
@@ -3116,7 +3252,12 @@
     ],
     "id": "asusrogxg27aqwmg27inch1440p280hztandemoledmonitor",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Accessories & Peripherals",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "27-inch 1440p 280Hz tandem OLED gaming monitor."
   },
   {
     "name": "ASUS TUF Gaming A16 Laptop",
@@ -3154,7 +3295,12 @@
     ],
     "id": "asusvivobookflip",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Phones, Tablets & Computers",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Convertible OLED touchscreen Copilot+ laptop."
   },
   {
     "name": "ASUS Vivobook Go",
@@ -3193,7 +3339,12 @@
     ],
     "id": "asusvivobooks16copilotpc",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Phones, Tablets & Computers",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "16-inch OLED Copilot+ laptop with Ryzen AI 7."
   },
   {
     "name": "ASUS Zenbook S14 14-inch OLED Laptop",
@@ -3327,7 +3478,12 @@
     ],
     "id": "atom",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "Domains",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Domain marketplace and registrar for premium and standard names."
   },
   {
     "name": "Atom11",
@@ -3347,7 +3503,7 @@
   {
     "name": "Atomic Addons",
     "url": "https://atomicaddons.com/deals/",
-    "deal": "50% off Selected Pro Plans. Oct 1 to Nov 30",
+    "deal": "50% off selected Pro plans. Oct 1 to Nov 30",
     "codes": [
       "OYOROXBF50"
     ],
@@ -3437,7 +3593,14 @@
     ],
     "id": "auraidentityprotection",
     "category": "Security & Privacy",
-    "platforms": []
+    "subcategory": "Privacy & Data Removal",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "Identity theft protection with credit monitoring and insurance."
   },
   {
     "name": "Aurio",
@@ -3549,7 +3712,12 @@
     ],
     "id": "avahost",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "VPS & Cloud Servers",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Shared hosting, VPS and dedicated servers."
   },
   {
     "name": "Avast",
@@ -3610,7 +3778,12 @@
     ],
     "id": "awakehost",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "Web & WordPress Hosting",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Shared web hosting and VPS plans."
   },
   {
     "name": "AY Grants",
@@ -3825,12 +3998,17 @@
     ],
     "id": "backlinkbuildingagency",
     "category": "Marketing & Sales",
-    "platforms": []
+    "subcategory": "SEO",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Link building service for SEO."
   },
   {
     "name": "BacklinkCRM",
     "url": "https://backlinkcrm.io/pricing/",
-    "deal": "50% off Annual Plans. Nov 20 to Dec 11",
+    "deal": "50% off annual plans. Nov 20 to Dec 11",
     "codes": [
       "BFCM2026"
     ],
@@ -3876,19 +4054,6 @@
     ],
     "pricing": "physical",
     "description": "Consumer and prosumer 3D printers and filament."
-  },
-  {
-    "name": "BandwagonHost",
-    "url": "https://bandwagonhost.com/",
-    "deal": "Official bandwagonhost.com (Nov 3): live plan prices; HTML only commented-out old BF/11-11 codes (BWH2021BF etc), no live 2026 promo. Last year's (2025) ~19% off · Dates: Nov 2025 · Ends: not stated",
-    "codes": [],
-    "discount": 19,
-    "sources": [
-      "thoughtcook/verified-black-friday"
-    ],
-    "id": "bandwagonhost",
-    "category": "Hosting & Cloud",
-    "platforms": []
   },
   {
     "name": "Bank Statements CSV",
@@ -4053,8 +4218,13 @@
       "thoughtcook/verified-black-friday"
     ],
     "id": "bearconnect",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Marketing & Sales",
+    "subcategory": "Ads, Leads & Outreach",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "LinkedIn outreach automation for lead generation."
   },
   {
     "name": "Beat Chess! Coach",
@@ -4094,7 +4264,12 @@
     ],
     "id": "beatspowerbeatspro2earbudswithhrmonitor",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Audio",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Wireless workout earbuds with heart rate tracking."
   },
   {
     "name": "Becoming",
@@ -4504,8 +4679,15 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "bitdefendergravityzone",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Security & Privacy",
+    "subcategory": "Antivirus & Security Suites",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "subscription",
+    "description": "Business endpoint protection and security platform."
   },
   {
     "name": "BizPeel",
@@ -4688,7 +4870,12 @@
     ],
     "id": "blootrue",
     "category": "Marketing & Sales",
-    "platforms": []
+    "subcategory": "Ads, Leads & Outreach",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Marketing SaaS with a monthly Starter plan."
   },
   {
     "name": "Blu Raven",
@@ -4859,18 +5046,6 @@
     "description": "Native Mac AI workspace for chats and agents with ChatGPT, Claude, Gemini and local models."
   },
   {
-    "name": "Book Your Data",
-    "url": "https://join.bookyourdata.com/discount",
-    "deal": "*Deal TBA*",
-    "codes": [],
-    "sources": [
-      "carmentune/best-black-friday-saas-deals"
-    ],
-    "id": "bookyourdata",
-    "category": "Marketing & Sales",
-    "platforms": []
-  },
-  {
     "name": "BookingPress",
     "url": "https://www.bookingpressplugin.com/pricing",
     "deal": "Up to 80% off all BookingPress plans, including lifetime. Nov 16 to Dec 5",
@@ -4977,7 +5152,12 @@
     ],
     "id": "boosterelite",
     "category": "Websites & E-commerce",
-    "platforms": []
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "Bundle of WooCommerce add-ons for store features."
   },
   {
     "name": "BoringLaunch",
@@ -5170,7 +5350,12 @@
     ],
     "id": "briskmail",
     "category": "Productivity",
-    "platforms": []
+    "subcategory": "Email & Communication",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Native Mac Gmail client built on the Gmail API."
   },
   {
     "name": "Broadcast",
@@ -5289,7 +5474,7 @@
   {
     "name": "BuildingBacklinks.io",
     "url": "https://buildingbacklinks.io",
-    "deal": "30% off All Link Building Plans. Until Dec 31",
+    "deal": "30% off all link building plans. Until Dec 31",
     "codes": [],
     "ends": "2026-12-31",
     "discount": 30,
@@ -5333,8 +5518,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "bundlehuntblackfridaybundle2026",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Bundles & Deal Sites",
+    "subcategory": "Bundles",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Bundle of 44 Mac apps sold together."
   },
   {
     "name": "BundleWP",
@@ -5614,7 +5804,7 @@
   {
     "name": "CallHippo",
     "url": "https://callhippo.com/blog/general/black-friday-saas-deals",
-    "deal": "20% off Annual Billing or 15% off Monthly Billing. Nov 1 to Nov 30",
+    "deal": "20% off annual billing or 15% off monthly billing. Nov 1 to Nov 30",
     "codes": [],
     "ends": "2026-11-30",
     "discount": 20,
@@ -5623,7 +5813,14 @@
     ],
     "id": "callhippo",
     "category": "Business & Finance",
-    "platforms": []
+    "subcategory": "Customer Support & Chat",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "Cloud phone system with virtual numbers for teams."
   },
   {
     "name": "Callout for Claude Code",
@@ -5951,7 +6148,12 @@
     ],
     "id": "centri",
     "category": "Learning",
-    "platforms": []
+    "subcategory": "Cybersecurity Certs & Training",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Blue team security certifications such as BTL1 and BTL2."
   },
   {
     "name": "Certificates.dev",
@@ -6374,7 +6576,7 @@
   },
   {
     "name": "Clam Sync",
-    "url": "https://clamsync.com/",
+    "url": "https://clamsync.com/pricing",
     "deal": "25% off the Solo license ($111.75, was $149) with code BLACKFRIDAY25; syncs multicam footage for Premiere Pro, Resolve, Final Cut and Avid. Nov 23 to Nov 30",
     "codes": [
       "BLACKFRIDAY25"
@@ -6475,7 +6677,13 @@
     ],
     "id": "classycal",
     "category": "Productivity",
-    "platforms": []
+    "subcategory": "Calendar & Time Tracking",
+    "platforms": [
+      "mac",
+      "ios"
+    ],
+    "pricing": "subscription",
+    "description": "Calendar and task app for Mac and iPhone."
   },
   {
     "name": "CleanClip",
@@ -6577,18 +6785,6 @@
     "platforms": []
   },
   {
-    "name": "Clearout",
-    "url": "https://clearout.io/?ref=aitoolsfyi",
-    "deal": "[2026 TBA] No 2026 sale confirmed. *Prior year listing incorrectly linked to Vadoo.* (Clearout)",
-    "codes": [],
-    "sources": [
-      "imrishit98/Black-Friday-and-Cyber-Monday-Deals"
-    ],
-    "id": "clearout",
-    "category": "Productivity",
-    "platforms": []
-  },
-  {
     "name": "ClearoutPhone",
     "url": "https://clearoutphone.io/",
     "deal": "Up to 50% off PAYG and annual subscription plans. Nov 16 to Nov 29",
@@ -6626,8 +6822,13 @@
       "carmentune/best-black-friday-saas-deals"
     ],
     "id": "clickfunnels",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "Website Builders & No-Code",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Sales funnel and landing page builder."
   },
   {
     "name": "Clico",
@@ -6939,12 +7140,17 @@
     ],
     "id": "cloudbreach",
     "category": "Learning",
-    "platforms": []
+    "subcategory": "Cybersecurity Certs & Training",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Offensive cloud security courses for Azure and AWS."
   },
   {
     "name": "CloudTalk",
     "url": "https://www.cloudtalk.io/black-friday-deal/",
-    "deal": "50% off Your First Month. For new customers. Nov 11 to Dec 20",
+    "deal": "50% off your first month. For new customers. Nov 11 to Dec 20",
     "codes": [
       "BLACKFRIDAYDEAL50"
     ],
@@ -7162,8 +7368,13 @@
       "javabuddy/best-black-friday-cyber-monday-deals-for-developers"
     ],
     "id": "codemia",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Learning",
+    "subcategory": "Programming & Tech",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "System design interview practice platform."
   },
   {
     "name": "Coderick AI",
@@ -7389,18 +7600,6 @@
     "description": "Turns text or papers into editable scientific figures and diagrams with AI."
   },
   {
-    "name": "CONFidence 2025",
-    "url": "https://eventory.cc/event/confidence-2025/tickets",
-    "deal": "konferencja o bezpieczeństwie - bilety Early Bird 1228 PLN",
-    "codes": [],
-    "sources": [
-      "kacperszurek/blackfriday"
-    ],
-    "id": "confidence2025",
-    "category": "Security & Privacy",
-    "platforms": []
-  },
-  {
     "name": "ConnectWizard",
     "url": "https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580",
     "deal": ": 🧙‍♂ · Pro Annual 50% off ($100 → $50), Nov 27 - Dec 1",
@@ -7490,7 +7689,12 @@
     ],
     "id": "contentpen",
     "category": "AI Tools",
-    "platforms": []
+    "subcategory": "Writing & Content",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "AI writer for SEO blog content."
   },
   {
     "name": "ContentStudio",
@@ -7579,7 +7783,7 @@
   {
     "name": "Conversion Bridge",
     "url": "https://conversionbridgewp.com/offer/black-friday/",
-    "deal": "50% off Annual and Lifetime Plans. Nov 23 to Dec 4",
+    "deal": "50% off annual and lifetime plans. Nov 23 to Dec 4",
     "codes": [],
     "ends": "2026-12-04",
     "discount": 50,
@@ -7600,8 +7804,13 @@
       "https://saasblackfriday.online/black-friday-2026-saas-deals-live/"
     ],
     "id": "convertpro",
-    "category": "Marketing & Sales",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "WordPress popup and opt-in form builder."
   },
   {
     "name": "Convo1 iOS app: Full Unlock $1.99",
@@ -7729,7 +7938,12 @@
     ],
     "id": "copia",
     "category": "Mac & Desktop Utilities",
-    "platforms": []
+    "subcategory": "Clipboard, Launchers & Keyboard",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Clipboard manager for Apple silicon Macs."
   },
   {
     "name": "Copy Text Easily",
@@ -7911,8 +8125,13 @@
       "longseespace/mac-black-friday"
     ],
     "id": "cotypist",
-    "category": "Productivity",
-    "platforms": []
+    "category": "AI Tools",
+    "subcategory": "Writing & Content",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "subscription",
+    "description": "Mac autocomplete that predicts your next words in any app."
   },
   {
     "name": "Countless: Push Up Counter",
@@ -8108,7 +8327,12 @@
     ],
     "id": "creatune",
     "category": "AI Tools",
-    "platforms": []
+    "subcategory": "Voice & Audio",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "AI music creation tool."
   },
   {
     "name": "Crest",
@@ -8221,7 +8445,12 @@
     ],
     "id": "cryptoksipremiumdomain",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "Domains",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Premium .si domain name for sale."
   },
   {
     "name": "CryptoKeyhole",
@@ -8822,7 +9051,12 @@
     ],
     "id": "databasemartblackfridaysale2026",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "VPS & Cloud Servers",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "VPS, dedicated and GPU server hosting."
   },
   {
     "name": "DataCamp",
@@ -8988,7 +9222,12 @@
     ],
     "id": "deebosipremiumdomain",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "Domains",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Premium .si domain name for sale."
   },
   {
     "name": "Deel",
@@ -9047,8 +9286,13 @@
       "thoughtcook/verified-black-friday"
     ],
     "id": "deepvue",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Business & Finance",
+    "subcategory": "Personal Finance & Investing",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Stock screener, charting and trade journal for traders."
   },
   {
     "name": "Defaultify",
@@ -9166,8 +9410,13 @@
       "longseespace/mac-black-friday"
     ],
     "id": "deltasnap",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Mac & Desktop Utilities",
+    "subcategory": "Files, Storage & System",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Manages, diffs and restores APFS snapshots on Mac."
   },
   {
     "name": "Depost AI",
@@ -9495,7 +9744,12 @@
     ],
     "id": "devopscubecourses",
     "category": "Learning",
-    "platforms": []
+    "subcategory": "Cloud & DevOps Certs",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Practical Kubernetes and DevOps courses."
   },
   {
     "name": "DevUtils",
@@ -9597,8 +9851,13 @@
       "carmentune/best-black-friday-saas-deals"
     ],
     "id": "dext",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Business & Finance",
+    "subcategory": "Accounting & Invoicing",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Extracts receipt and invoice data for bookkeeping."
   },
   {
     "name": "Diagramly",
@@ -9832,7 +10091,12 @@
     ],
     "id": "directorist",
     "category": "Websites & E-commerce",
-    "platforms": []
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "WordPress plugin for building business directory sites."
   },
   {
     "name": "Directory Ideas",
@@ -10086,7 +10350,12 @@
     ],
     "id": "divigear",
     "category": "Websites & E-commerce",
-    "platforms": []
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "one-time",
+    "description": "Plugins and layouts for the Divi WordPress theme."
   },
   {
     "name": "DivJoy",
@@ -10160,8 +10429,13 @@
       "kacperszurek/blackfriday"
     ],
     "id": "dnsfordevelopers",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Learning",
+    "subcategory": "Programming & Tech",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Course explaining how DNS works for developers."
   },
   {
     "name": "DOCKERDRE",
@@ -10379,18 +10653,6 @@
     ],
     "pricing": "subscription",
     "description": "Domain registrar with hosting and Google Workspace."
-  },
-  {
-    "name": "Domestika",
-    "url": "https://domestika.sjv.io/eKxENX",
-    "deal": "*Deal TBA*",
-    "codes": [],
-    "sources": [
-      "carmentune/best-black-friday-saas-deals"
-    ],
-    "id": "domestika",
-    "category": "Learning",
-    "platforms": []
   },
   {
     "name": "doPodpisu",
@@ -10778,19 +11040,6 @@
     "description": "Merges Mac menu bar status icons into one icon to save space."
   },
   {
-    "name": "duodollar",
-    "url": "https://www.duodollar.com?ref=aitoolsfyi",
-    "deal": "[2026 TBA] No 2026 offer verified. *Prior year (2025): 50% off 3 months with TONYFRIDAY50.* (duodollar)",
-    "codes": [],
-    "discount": 50,
-    "sources": [
-      "imrishit98/Black-Friday-and-Cyber-Monday-Deals"
-    ],
-    "id": "duodollar",
-    "category": "Business & Finance",
-    "platforms": []
-  },
-  {
     "name": "DuoTyping",
     "url": "https://duotyping.com/pricing?utm_source=tonybf",
     "deal": ": 🖋 · 50% OFF the first payment of Pro with code BFCM2026: monthly $9.90 $4.95 for the first month, yearly $89.90 $44.95 for the first year. Pro gives 300 rewrites, 1,000 translations and 200 asks a day. First Pro purchase only, 3-day money-back, until Dec 13, 2026 (UTC)",
@@ -11040,7 +11289,12 @@
     ],
     "id": "easyfetcher",
     "category": "Business & Finance",
-    "platforms": []
+    "subcategory": "Startup & Indie Tools",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Business SaaS sold on yearly Pro plans."
   },
   {
     "name": "EasyGuard VPN",
@@ -11105,8 +11359,13 @@
       "kacperszurek/blackfriday"
     ],
     "id": "ebookiuczmniepl",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Learning",
+    "subcategory": "Books & Ebooks",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Polish ebooks on prompt engineering and prompt injection."
   },
   {
     "name": "EchoKeys",
@@ -11168,7 +11427,12 @@
     ],
     "id": "edgebar",
     "category": "Mac & Desktop Utilities",
-    "platforms": []
+    "subcategory": "Clipboard, Launchers & Keyboard",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Controls Mac volume and brightness from the trackpad edges."
   },
   {
     "name": "EDIS",
@@ -11394,7 +11658,12 @@
     ],
     "id": "elgato",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Accessories & Peripherals",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Stream Deck controllers and creator gear."
   },
   {
     "name": "Email Me",
@@ -11465,8 +11734,13 @@
       "longseespace/mac-black-friday"
     ],
     "id": "emcee",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Mac & Desktop Utilities",
+    "subcategory": "Windows & Screens",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Mac window manager that groups windows into stages."
   },
   {
     "name": "Emelia",
@@ -11612,8 +11886,13 @@
       "ps-lo/InfoSec-and-Tech-Black-Friday"
     ],
     "id": "enigmais",
-    "category": "AI Tools",
-    "platforms": []
+    "category": "Developer Tools",
+    "subcategory": "Backend, APIs & Infra",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Self-hosted PKI and private certificate authority platform."
   },
   {
     "name": "Envato Elements",
@@ -11786,8 +12065,16 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "esethomesecurity",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Security & Privacy",
+    "subcategory": "Antivirus & Security Suites",
+    "platforms": [
+      "windows",
+      "mac",
+      "android",
+      "ios"
+    ],
+    "pricing": "subscription",
+    "description": "Antivirus and security suite for home devices."
   },
   {
     "name": "ESN Hosting",
@@ -11895,8 +12182,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "eventerprise",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Business & Finance",
+    "subcategory": "Team & Operations",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "AI event management and ticketing platform."
   },
   {
     "name": "Everlog Journal",
@@ -11991,8 +12283,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "eweka83offblackfriday2026",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Hosting & Cloud",
+    "subcategory": "Cloud Storage & Backup",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Usenet access with long retention, newsreader and VPN."
   },
   {
     "name": "ExampleEducation",
@@ -12077,8 +12374,13 @@
       "javabuddy/best-black-friday-cyber-monday-deals-for-developers"
     ],
     "id": "exponent",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Learning",
+    "subcategory": "Programming & Tech",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Tech interview prep courses and mock interviews."
   },
   {
     "name": "Exporter",
@@ -12537,7 +12839,7 @@
   {
     "name": "FeedBoss",
     "url": "https://feedboss.ai/",
-    "deal": "50% off All Plans. Nov 5 to Dec 15",
+    "deal": "50% off all plans. Nov 5 to Dec 15",
     "codes": [
       "BFCM2026"
     ],
@@ -12599,7 +12901,7 @@
   {
     "name": "FieldServicely",
     "url": "https://www.fieldservicely.com/",
-    "deal": "25% off All Plans. Nov 10 to Dec 10",
+    "deal": "25% off all plans. Nov 10 to Dec 10",
     "codes": [
       "CMFSLY26"
     ],
@@ -12678,8 +12980,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "filesmagicai",
-    "category": "AI Tools",
-    "platforms": []
+    "category": "Mac & Desktop Utilities",
+    "subcategory": "Files, Storage & System",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Mac app that organizes and renames files by their content with AI."
   },
   {
     "name": "Files to Notion",
@@ -13185,7 +13492,12 @@
     ],
     "id": "flexorder",
     "category": "Websites & E-commerce",
-    "platforms": []
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "Syncs WooCommerce orders with Google Sheets."
   },
   {
     "name": "FlexTable WordPress plugin",
@@ -13352,8 +13664,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "fluentbookingpro",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "WordPress appointment booking and scheduling plugin."
   },
   {
     "name": "FluentPlayer Pro",
@@ -13394,7 +13711,12 @@
     ],
     "id": "flyingpress",
     "category": "Websites & E-commerce",
-    "platforms": []
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "WordPress caching and speed optimization plugin."
   },
   {
     "name": "FlyWP",
@@ -13507,7 +13829,12 @@
     ],
     "id": "fontbundles",
     "category": "Design",
-    "platforms": []
+    "subcategory": "Icons, Fonts & Illustrations",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Marketplace for fonts, SVGs and craft files."
   },
   {
     "name": "FooGallery",
@@ -13643,7 +13970,7 @@
   {
     "name": "forms.app",
     "url": "https://forms.app/en/pricing",
-    "deal": "Up to 46% off Yearly Plans. Nov 11 to Nov 30",
+    "deal": "Up to 46% off yearly plans. Nov 11 to Nov 30",
     "codes": [
       "NOVEMBER2026"
     ],
@@ -13653,8 +13980,13 @@
       "https://www.engagebay.com/blog/black-friday-saas-deals/"
     ],
     "id": "forms",
-    "category": "Marketing & Sales",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "Forms & Surveys",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Online form, survey and quiz builder."
   },
   {
     "name": "FortuneTellerOnline",
@@ -13782,8 +14114,13 @@
       "kacperszurek/blackfriday"
     ],
     "id": "freepik",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Design",
+    "subcategory": "Stock Photos, Video & Music",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Stock images, vectors and AI image tools."
   },
   {
     "name": "Fresh Notch",
@@ -13891,8 +14228,13 @@
       "javabuddy/best-black-friday-cyber-monday-deals-for-developers"
     ],
     "id": "frontendmasters",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Learning",
+    "subcategory": "Programming & Tech",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "In-depth video courses on JavaScript and web development."
   },
   {
     "name": "fswitcher: cmd+tab for multiple displays",
@@ -13993,7 +14335,12 @@
     ],
     "id": "garmin",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Accessories & Peripherals",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "GPS sport watches and cycling gear."
   },
   {
     "name": "Gaurav Tiwari Plugins and Themes",
@@ -14145,7 +14492,7 @@
   {
     "name": "GetAuthorBox",
     "url": "https://getauthorbox.com/",
-    "deal": "40% off All Paid Plans. Nov 20 to Dec 11",
+    "deal": "40% off all paid plans. Nov 20 to Dec 11",
     "codes": [
       "BFCM2026"
     ],
@@ -14155,8 +14502,13 @@
       "https://www.engagebay.com/blog/black-friday-saas-deals/"
     ],
     "id": "getauthorbox",
-    "category": "Marketing & Sales",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "WordPress author bio box plugin."
   },
   {
     "name": "getButterfly",
@@ -14187,19 +14539,6 @@
     ],
     "id": "getgenieai",
     "category": "AI Tools",
-    "platforms": []
-  },
-  {
-    "name": "GetJacked",
-    "url": "https://getjacked.app/download?ref=aitoolsfyi",
-    "deal": "[2026 TBA] No 2026 sale announced. *Prior year listing: 75% off Lifetime Premium.* (GetJacked)",
-    "codes": [],
-    "discount": 75,
-    "sources": [
-      "imrishit98/Black-Friday-and-Cyber-Monday-Deals"
-    ],
-    "id": "getjacked",
-    "category": "Health & Lifestyle",
     "platforms": []
   },
   {
@@ -14242,8 +14581,13 @@
       "carmentune/best-black-friday-saas-deals"
     ],
     "id": "getresponse",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Marketing & Sales",
+    "subcategory": "Email Marketing & Newsletters",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Email marketing, automation and landing pages."
   },
   {
     "name": "GetYouTubeTranscript",
@@ -14319,7 +14663,12 @@
     ],
     "id": "giac",
     "category": "Learning",
-    "platforms": []
+    "subcategory": "Cybersecurity Certs & Training",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Cybersecurity certification exams."
   },
   {
     "name": "Git On The Go",
@@ -14511,7 +14860,14 @@
     ],
     "id": "googleaipro",
     "category": "AI Tools",
-    "platforms": []
+    "subcategory": "Chat & Assistants",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "Gemini AI plan with Google One cloud storage."
   },
   {
     "name": "Google AI Pro Annual Plan: $99.99",
@@ -14755,8 +15111,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "greenbubble",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Marketing & Sales",
+    "subcategory": "Ads, Leads & Outreach",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "WhatsApp marketing and messaging platform for businesses."
   },
   {
     "name": "GreenGeeks",
@@ -14823,8 +15184,13 @@
       "thoughtcook/verified-black-friday"
     ],
     "id": "growave20offblackfriday2026",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "E-commerce & Payments",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Shopify app for loyalty, reviews and wishlists."
   },
   {
     "name": "Grupa ADM",
@@ -15051,8 +15417,13 @@
       "kacperszurek/blackfriday"
     ],
     "id": "hacktricks",
-    "category": "Security & Privacy",
-    "platforms": []
+    "category": "Learning",
+    "subcategory": "Cybersecurity Certs & Training",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Cloud security hacking courses."
   },
   {
     "name": "HackTricks Training",
@@ -15232,8 +15603,15 @@
       "https://decider.com/2026/11/19/hbo-max-black-friday-deal-2026/"
     ],
     "id": "hbomax",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Entertainment",
+    "subcategory": "Streaming Video",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "Streaming service for HBO and Warner Bros. shows and films."
   },
   {
     "name": "HDRI Hub",
@@ -15403,7 +15781,12 @@
     ],
     "id": "helpjet",
     "category": "Business & Finance",
-    "platforms": []
+    "subcategory": "Customer Support & Chat",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Help desk with ticketing and knowledge base."
   },
   {
     "name": "HeroThemes",
@@ -15636,8 +16019,14 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "hidemyacc",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Security & Privacy",
+    "subcategory": "Privacy & Data Removal",
+    "platforms": [
+      "windows",
+      "mac"
+    ],
+    "pricing": "subscription",
+    "description": "Anti-detect browser for managing multiple accounts."
   },
   {
     "name": "Higgsfield",
@@ -15700,8 +16089,13 @@
       "kacperszurek/blackfriday"
     ],
     "id": "highperformancesqlite",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Learning",
+    "subcategory": "Programming & Tech",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Video course on using SQLite in production."
   },
   {
     "name": "HighAdvocacy",
@@ -15769,8 +16163,13 @@
       "https://www.engagebay.com/blog/black-friday-saas-deals/"
     ],
     "id": "hivecrm",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "CRM plugin for WordPress."
   },
   {
     "name": "Host-Fusion",
@@ -15831,8 +16230,13 @@
       "labex-labs/black-friday-cyber-monday-deals"
     ],
     "id": "hostify",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Business & Finance",
+    "subcategory": "Team & Operations",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Vacation rental property management software."
   },
   {
     "name": "Hosting.com",
@@ -15949,7 +16353,12 @@
     ],
     "id": "hostwp",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "Web & WordPress Hosting",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Managed WordPress hosting."
   },
   {
     "name": "How to Convert",
@@ -16111,7 +16520,12 @@
     ],
     "id": "idealaisipremiumdomain",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "Domains",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Premium .si domain name for sale."
   },
   {
     "name": "IKEA",
@@ -16310,18 +16724,6 @@
     "description": "Generates images and short videos from a photo or text prompt."
   },
   {
-    "name": "Impact",
-    "url": "https://impact-referral-partnerships.sjv.io/dyg213",
-    "deal": "*Deal TBA*",
-    "codes": [],
-    "sources": [
-      "carmentune/best-black-friday-saas-deals"
-    ],
-    "id": "impact",
-    "category": "Business & Finance",
-    "platforms": []
-  },
-  {
     "name": "Imunify360",
     "url": "https://www.imunify360.com/",
     "deal": "Up to 40% off for new customers · Expires: 2026-11-30 · Starts Nov 9, 2026 per official CloudLinux OS X posts Nov 4-6: up to 40% yearly Imunify360 and 30% yearly CloudLinux OS until Nov 30, new customers only. Imunify360 homepage…",
@@ -16389,8 +16791,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "indiegoodies",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Bundles & Deal Sites",
+    "subcategory": "Bundles",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Collection of indie Mac apps from one developer."
   },
   {
     "name": "INE",
@@ -16474,7 +16881,7 @@
   {
     "name": "Influencer Hero",
     "url": "https://www.influencer-hero.com/ih-bfcm-deal",
-    "deal": "10% off All Annual Plans. Nov 23 to Dec 11",
+    "deal": "10% off all annual plans. Nov 23 to Dec 11",
     "codes": [
       "BFCM10"
     ],
@@ -16485,7 +16892,12 @@
     ],
     "id": "influencerhero",
     "category": "Marketing & Sales",
-    "platforms": []
+    "subcategory": "Social Media",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Influencer discovery and outreach platform."
   },
   {
     "name": "Inkfree",
@@ -16635,8 +17047,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "integoonemacsecuritysuite",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Security & Privacy",
+    "subcategory": "Antivirus & Security Suites",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "subscription",
+    "description": "Mac antivirus, firewall and privacy suite."
   },
   {
     "name": "intellijend",
@@ -16722,7 +17139,12 @@
     ],
     "id": "interserver",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "Web & WordPress Hosting",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Shared web hosting."
   },
   {
     "name": "InterviewFlowAI",
@@ -16883,7 +17305,12 @@
     ],
     "id": "invokere",
     "category": "Learning",
-    "platforms": []
+    "subcategory": "Cybersecurity Certs & Training",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Malware analysis and reverse engineering courses."
   },
   {
     "name": "IONOS",
@@ -16999,8 +17426,14 @@
       "kacperszurek/blackfriday"
     ],
     "id": "itstartup",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Gaming",
+    "subcategory": "Games & Apps",
+    "platforms": [
+      "physical",
+      "windows"
+    ],
+    "pricing": "physical",
+    "description": "Card game about programmers, physical and on Steam."
   },
   {
     "name": "Itemlist",
@@ -17134,8 +17567,13 @@
       "javabuddy/best-black-friday-cyber-monday-deals-for-developers"
     ],
     "id": "javainterviewbundle",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Learning",
+    "subcategory": "Books & Ebooks",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Bundle of Java interview prep guides."
   },
   {
     "name": "Javarevisited Substack",
@@ -17296,7 +17734,12 @@
     ],
     "id": "jttiblackfridayvps2026",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "VPS & Cloud Servers",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "VPS hosting from JTTI."
   },
   {
     "name": "Jubs",
@@ -17427,7 +17870,7 @@
   },
   {
     "name": "Kali Forms",
-    "url": "https://www.kaliforms.com/",
+    "url": "https://kaliforms.com/pricing/",
     "deal": "65% off yearly plans with renewals included, applied automatically; lifetime 25% off with code BF26DSCLTD (10 licenses a week). Ends Dec 2",
     "codes": [
       "BF26DSCLTD"
@@ -17545,18 +17988,6 @@
     "platforms": []
   },
   {
-    "name": "Katana",
-    "url": "https://psref.katanamrp.com/promo-code",
-    "deal": "*Deal TBA*",
-    "codes": [],
-    "sources": [
-      "carmentune/best-black-friday-saas-deals"
-    ],
-    "id": "katana",
-    "category": "Business & Finance",
-    "platforms": []
-  },
-  {
     "name": "Katie Paxton-Fear",
     "url": "https://x.com/InsiderPhD/status/1862517917423657356",
     "deal": "różne pomysły prezentów, wątek na Twitterze",
@@ -17586,7 +18017,7 @@
   {
     "name": "Kayvrn",
     "url": "https://kayvrn.com/en/pricing",
-    "deal": "10% off, Including Renewals. Oct 12 to Nov 30",
+    "deal": "10% off, including renewals. Oct 12 to Nov 30",
     "codes": [
       "KYJYKV10"
     ],
@@ -17597,7 +18028,12 @@
     ],
     "id": "kayvrn",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "Web & WordPress Hosting",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Web hosting plans."
   },
   {
     "name": "Keep Mac Awake",
@@ -18118,8 +18554,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "kirki",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "one-time",
+    "description": "Visual website builder for WordPress."
   },
   {
     "name": "Kit",
@@ -18237,7 +18678,7 @@
   {
     "name": "Knowlith",
     "url": "https://knowlith.com/",
-    "deal": "40% off Any Plan, First Year. Until Dec 31",
+    "deal": "40% off any plan, first year. Until Dec 31",
     "codes": [],
     "ends": "2026-12-31",
     "discount": 40,
@@ -18258,7 +18699,12 @@
     ],
     "id": "knoxss",
     "category": "Security & Privacy",
-    "platforms": []
+    "subcategory": "Antivirus & Security Suites",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Automated XSS vulnerability scanner."
   },
   {
     "name": "Koala AI",
@@ -18373,8 +18819,15 @@
       "carmentune/best-black-friday-saas-deals"
     ],
     "id": "krispcall",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Business & Finance",
+    "subcategory": "Customer Support & Chat",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "Cloud phone system with virtual numbers."
   },
   {
     "name": "Krumzi",
@@ -18586,8 +19039,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "landbot50offblackfriday2026",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Business & Finance",
+    "subcategory": "Customer Support & Chat",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "No-code chatbot builder for web and WhatsApp."
   },
   {
     "name": "LandingBoost",
@@ -18804,7 +19262,7 @@
   {
     "name": "LeadConnect",
     "url": "https://leadconnect.io/blog/black-friday-saas-deals/",
-    "deal": "40% off Annual Plans. Nov 24 to Dec 5",
+    "deal": "40% off annual plans. Nov 24 to Dec 5",
     "codes": [
       "LCBF26"
     ],
@@ -18816,12 +19274,17 @@
     ],
     "id": "leadconnect",
     "category": "Marketing & Sales",
-    "platforms": []
+    "subcategory": "Ads, Leads & Outreach",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "LinkedIn outreach automation."
   },
   {
     "name": "LeadCRM",
     "url": "https://www.leadcrm.io/blog/black-friday-saas-deals/",
-    "deal": "40% off Annual Plans. Nov 27 to Dec 5",
+    "deal": "40% off annual plans. Nov 27 to Dec 5",
     "codes": [
       "LCBF26"
     ],
@@ -18929,7 +19392,12 @@
     ],
     "id": "learnworlds",
     "category": "Learning",
-    "platforms": []
+    "subcategory": "Online Course Platforms",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Platform to create and sell online courses."
   },
   {
     "name": "LeaseRail",
@@ -19138,8 +19606,13 @@
       "longseespace/mac-black-friday"
     ],
     "id": "levo",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Mac & Desktop Utilities",
+    "subcategory": "Menu Bar & Dock",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Menu bar monitor for disk, memory, CPU and GPU with AI cleanup help."
   },
   {
     "name": "License Store",
@@ -19445,7 +19918,7 @@
   {
     "name": "LinkBoss",
     "url": "https://linkboss.io/linkboss-black-friday-deal/",
-    "deal": "30% off Monthly and Yearly Plans. Nov 15 to Dec 1",
+    "deal": "30% off monthly and yearly plans. Nov 15 to Dec 1",
     "codes": [
       "BFCM30"
     ],
@@ -19455,8 +19928,13 @@
       "https://www.engagebay.com/blog/black-friday-saas-deals/"
     ],
     "id": "linkboss",
-    "category": "Marketing & Sales",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "Internal linking tool for WordPress SEO."
   },
   {
     "name": "LinkBunny",
@@ -19500,7 +19978,7 @@
   {
     "name": "LinkedFusion",
     "url": "https://www.linkedfusion.io/blogs/black-friday-saas-deals/",
-    "deal": "40% off Annual Plans. Nov 27 to Dec 5",
+    "deal": "40% off annual plans. Nov 27 to Dec 5",
     "codes": [
       "LFBF25"
     ],
@@ -19536,7 +20014,7 @@
   {
     "name": "LinkForce",
     "url": "https://linkforce.io/pricing/",
-    "deal": "2 Months of Pro for the Price of 1. For new Pro members. Nov 25 to Dec 2",
+    "deal": "2 months of Pro for the price of 1. For new Pro members. Nov 25 to Dec 2",
     "codes": [
       "BlackFriday2026"
     ],
@@ -19547,7 +20025,12 @@
     ],
     "id": "linkforce",
     "category": "Marketing & Sales",
-    "platforms": []
+    "subcategory": "SEO",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Link building and backlink platform."
   },
   {
     "name": "LinkShip",
@@ -19744,8 +20227,13 @@
       "thoughtcook/verified-black-friday"
     ],
     "id": "livewebinar",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Business & Finance",
+    "subcategory": "Team & Operations",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Browser-based webinar and video meeting platform."
   },
   {
     "name": "LLM Radar",
@@ -20102,7 +20590,13 @@
     ],
     "id": "luminarneo",
     "category": "Photo, Video & Audio",
-    "platforms": []
+    "subcategory": "Photo Editing",
+    "platforms": [
+      "mac",
+      "windows"
+    ],
+    "pricing": "one-time",
+    "description": "AI photo editor with sky replacement and relighting."
   },
   {
     "name": "Lunille",
@@ -20281,18 +20775,6 @@
       "kacperszurek/blackfriday"
     ],
     "id": "macriumreflect",
-    "category": "Productivity",
-    "platforms": []
-  },
-  {
-    "name": "Macrowave",
-    "url": "https://macrowave.co?ref=aitoolsfyi",
-    "deal": "[2026 TBA] No 2026 sale announced. *Prior year: one-time $79.99 (was $119.99).* (Macrowave)",
-    "codes": [],
-    "sources": [
-      "imrishit98/Black-Friday-and-Cyber-Monday-Deals"
-    ],
-    "id": "macrowave",
     "category": "Productivity",
     "platforms": []
   },
@@ -20497,8 +20979,13 @@
       "https://www.engagebay.com/blog/black-friday-saas-deals/"
     ],
     "id": "mailoptin",
-    "category": "Marketing & Sales",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "WordPress opt-in forms and email newsletters."
   },
   {
     "name": "Mailsoftly",
@@ -20898,7 +21385,12 @@
     ],
     "id": "masteraddons",
     "category": "Websites & E-commerce",
-    "platforms": []
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "Widgets and extensions for Elementor."
   },
   {
     "name": "MasterClass",
@@ -21089,7 +21581,12 @@
     ],
     "id": "memberpress",
     "category": "Websites & E-commerce",
-    "platforms": []
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "WordPress membership and paywall plugin."
   },
   {
     "name": "Meoz",
@@ -21206,8 +21703,13 @@
       "kacperszurek/blackfriday"
     ],
     "id": "microsoftpressstore",
-    "category": "Security & Privacy",
-    "platforms": []
+    "category": "Learning",
+    "subcategory": "Books & Ebooks",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Microsoft Press technical books and ebooks."
   },
   {
     "name": "Miguel Recio Framer Templates",
@@ -21470,7 +21972,14 @@
     ],
     "id": "mockplus",
     "category": "Design",
-    "platforms": []
+    "subcategory": "Design & Prototyping Tools",
+    "platforms": [
+      "web",
+      "mac",
+      "windows"
+    ],
+    "pricing": "subscription",
+    "description": "Prototyping and design collaboration tools."
   },
   {
     "name": "Modern Security - AI Security Training & Certification",
@@ -21642,7 +22151,7 @@
   {
     "name": "MonoRanks",
     "url": "https://monoranks.com/pricing/",
-    "deal": "30% off Your First Payment. Nov 23 to Nov 30",
+    "deal": "30% off your first Payment. Nov 23 to Nov 30",
     "codes": [
       "WPBUILDS2026"
     ],
@@ -21726,7 +22235,12 @@
     ],
     "id": "mote",
     "category": "Productivity",
-    "platforms": []
+    "subcategory": "Notes & Writing",
+    "platforms": [
+      "ios"
+    ],
+    "pricing": "one-time",
+    "description": "Single-note app that puts a note on the lock screen."
   },
   {
     "name": "Motionflare",
@@ -21923,18 +22437,6 @@
     ],
     "pricing": "one-time",
     "description": "Mac app that trims leading and trailing silence from folders of audio files."
-  },
-  {
-    "name": "Murf AI",
-    "url": "https://get.murf.ai/3wiwco1xw1bv",
-    "deal": "*Deal TBA*",
-    "codes": [],
-    "sources": [
-      "carmentune/best-black-friday-saas-deals"
-    ],
-    "id": "murfai",
-    "category": "Design",
-    "platforms": []
   },
   {
     "name": "Murmur",
@@ -22398,8 +22900,13 @@
       "https://www.engagebay.com/blog/black-friday-saas-deals/"
     ],
     "id": "neliosoftware",
-    "category": "Marketing & Sales",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "WordPress plugins for A/B testing and content scheduling."
   },
   {
     "name": "NeoTiler",
@@ -22514,8 +23021,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "newsdemon",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Hosting & Cloud",
+    "subcategory": "Cloud Storage & Backup",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Unlimited Usenet access with long retention."
   },
   {
     "name": "Newshosting, 92% off, Black Friday 2026",
@@ -22699,7 +23211,12 @@
     ],
     "id": "nicenic",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "Domains",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Domain registrar."
   },
   {
     "name": "Nihongo",
@@ -22851,7 +23368,7 @@
   {
     "name": "NoForm AI",
     "url": "https://noform.ai/",
-    "deal": "First Month for $29 (70% off). For new customers, for the first month. Nov 23 to Dec 4",
+    "deal": "First month for $29 (70% off). For new customers, for the first month. Nov 23 to Dec 4",
     "codes": [
       "BF2026NOFORM"
     ],
@@ -22931,8 +23448,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "nomuintermittentfasting",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Health & Lifestyle",
+    "subcategory": "Food & Nutrition",
+    "platforms": [
+      "ios"
+    ],
+    "pricing": "subscription",
+    "description": "Intermittent fasting tracker for iPhone."
   },
   {
     "name": "Noom",
@@ -23167,7 +23689,12 @@
     ],
     "id": "notchy",
     "category": "Mac & Desktop Utilities",
-    "platforms": []
+    "subcategory": "Menu Bar & Dock",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Turns the MacBook notch into a Dynamic Island."
   },
   {
     "name": "NotebookLM Tools",
@@ -23309,7 +23836,12 @@
     ],
     "id": "novashare",
     "category": "Websites & E-commerce",
-    "platforms": []
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "Lightweight social sharing plugin for WordPress."
   },
   {
     "name": "Noviscan",
@@ -23510,7 +24042,16 @@
     ],
     "id": "office365personal",
     "category": "Productivity",
-    "platforms": []
+    "subcategory": "Documents & PDFs",
+    "platforms": [
+      "windows",
+      "mac",
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "Microsoft 365 Office apps with 1TB OneDrive storage."
   },
   {
     "name": "OffSec",
@@ -23768,18 +24309,6 @@
     "description": "Browser extension that blocks fake shops, phishing and scam sites before you type."
   },
   {
-    "name": "Ollama",
-    "url": "https://ollama.com",
-    "deal": "100% Free",
-    "codes": [],
-    "sources": [
-      "carmentune/best-black-friday-saas-deals"
-    ],
-    "id": "ollama",
-    "category": "AI Tools",
-    "platforms": []
-  },
-  {
     "name": "Olqan",
     "url": "https://olqan.com/november-offer/",
     "deal": "Up to 74% off a 12-month plan: 5 users $249 (was $720), 10 users $449 (was $1,440), 15 users on Business $899 (was $3,420)",
@@ -23898,8 +24427,14 @@
       "kacperszurek/blackfriday"
     ],
     "id": "on1",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Photo, Video & Audio",
+    "subcategory": "Photo Editing",
+    "platforms": [
+      "mac",
+      "windows"
+    ],
+    "pricing": "one-time",
+    "description": "Photo editor and Lightroom alternative."
   },
   {
     "name": "ON1 Photo RAW",
@@ -24004,7 +24539,12 @@
     ],
     "id": "onestreamlive",
     "category": "Photo, Video & Audio",
-    "platforms": []
+    "subcategory": "Video Editing",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Live streaming to multiple social platforms at once."
   },
   {
     "name": "OneSuite",
@@ -24023,7 +24563,7 @@
   {
     "name": "Onethread",
     "url": "https://www.onethreadapp.com/pricing/",
-    "deal": "30% off Annual Plans. Until Dec 31",
+    "deal": "30% off annual plans. Until Dec 31",
     "codes": [],
     "ends": "2026-12-31",
     "discount": 30,
@@ -24095,8 +24635,13 @@
       "Somi-AI/black-friday-deals"
     ],
     "id": "openartai",
-    "category": "Photo, Video & Audio",
-    "platforms": []
+    "category": "AI Tools",
+    "subcategory": "Image & Video",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "AI image and video generation with many models."
   },
   {
     "name": "OpenFree",
@@ -24234,7 +24779,12 @@
     ],
     "id": "optimizecamp",
     "category": "Marketing & Sales",
-    "platforms": []
+    "subcategory": "Web Analytics",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Conversion rate optimization tool."
   },
   {
     "name": "Optinify",
@@ -24499,7 +25049,12 @@
     ],
     "id": "outdooai",
     "category": "AI Tools",
-    "platforms": []
+    "subcategory": "Research & Learning",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "AI roleplay and coaching for sales teams."
   },
   {
     "name": "Outlier",
@@ -25022,8 +25577,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "panestack",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Mac & Desktop Utilities",
+    "subcategory": "Files, Storage & System",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Finder alternative file manager for Mac."
   },
   {
     "name": "Pangalin Space Manager",
@@ -25431,7 +25991,12 @@
     ],
     "id": "pawnhoster",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "VPS & Cloud Servers",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "VPS hosting."
   },
   {
     "name": "pCloud",
@@ -25590,8 +26155,13 @@
       "kacperszurek/blackfriday"
     ],
     "id": "pentesterlab",
-    "category": "Security & Privacy",
-    "platforms": []
+    "category": "Learning",
+    "subcategory": "Cybersecurity Certs & Training",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Hands-on web security and pentesting exercises."
   },
   {
     "name": "PentesterSpace",
@@ -25965,7 +26535,7 @@
   {
     "name": "Pigeonify",
     "url": "https://www.pigeonify.com/",
-    "deal": "50% off All Paid Plans. Until Dec 1",
+    "deal": "50% off all paid plans. Until Dec 1",
     "codes": [],
     "ends": "2026-12-01",
     "discount": 50,
@@ -26112,8 +26682,14 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "pingersnetworktools",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Developer Tools",
+    "subcategory": "Testing & Debugging",
+    "platforms": [
+      "ios",
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Network tools such as ping and port scan for iPhone and Mac."
   },
   {
     "name": "PinSet",
@@ -26437,7 +27013,13 @@
     ],
     "id": "plesk",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "Web & WordPress Hosting",
+    "platforms": [
+      "linux",
+      "windows"
+    ],
+    "pricing": "subscription",
+    "description": "Web hosting control panel and server management."
   },
   {
     "name": "pline.ai",
@@ -26638,19 +27220,6 @@
     ],
     "pricing": "one-time",
     "description": "Offline AI chat for iPhone and iPad using downloaded open models."
-  },
-  {
-    "name": "Podigy Podcast Player",
-    "url": "https://apps.apple.com/us/app/podcast-player-podigy/id6473860416?ref=aitoolsfyi",
-    "deal": "[2026 TBA] No 2026 annual discount verified. *Prior year: 30% off annual plan.* (Podigy on the App Store)",
-    "codes": [],
-    "discount": 30,
-    "sources": [
-      "imrishit98/Black-Friday-and-Cyber-Monday-Deals"
-    ],
-    "id": "podigypodcastplayer",
-    "category": "Productivity",
-    "platforms": []
   },
   {
     "name": "Podwise",
@@ -27028,7 +27597,12 @@
     ],
     "id": "powerpackforelementor",
     "category": "Websites & E-commerce",
-    "platforms": []
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "Widgets and templates for Elementor."
   },
   {
     "name": "Powers4GA",
@@ -27251,18 +27825,6 @@
     "description": "Countdown and progress bar widgets for events and deadlines."
   },
   {
-    "name": "Printify",
-    "url": "https://try.printify.com/coupon-code",
-    "deal": "*Deal TBA*",
-    "codes": [],
-    "sources": [
-      "carmentune/best-black-friday-saas-deals"
-    ],
-    "id": "printify",
-    "category": "Websites & E-commerce",
-    "platforms": []
-  },
-  {
     "name": "PrivadoVPN",
     "url": "https://privadovpn.com/",
     "deal": "90% off, $1.11/mo on the 24-month plan plus 3 free months",
@@ -27396,7 +27958,12 @@
     ],
     "id": "promptwatch",
     "category": "Marketing & Sales",
-    "platforms": []
+    "subcategory": "SEO",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Tracks brand visibility in AI search answers."
   },
   {
     "name": "Proof Take",
@@ -27638,8 +28205,18 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "protonworkspace",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Security & Privacy",
+    "subcategory": "Secure Email & Storage",
+    "platforms": [
+      "web",
+      "mac",
+      "windows",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "Encrypted email, calendar, drive and VPN for businesses."
   },
   {
     "name": "Prover: Workout Tracker",
@@ -27933,7 +28510,7 @@
   {
     "name": "QRat",
     "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6829358606&code=PIXELPETBF40",
-    "deal": "40% off Lifetime: $3.49 (was $5.90) via App Store offer code PIXELPETBF40. Ends Nov 30",
+    "deal": "40% off lifetime: $3.49 (was $5.90) via App Store offer code PIXELPETBF40. Ends Nov 30",
     "codes": [
       "PIXELPETBF40"
     ],
@@ -28144,7 +28721,12 @@
     ],
     "id": "quizmaker",
     "category": "Websites & E-commerce",
-    "platforms": []
+    "subcategory": "Forms & Surveys",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "Quiz builder plugin for WordPress."
   },
   {
     "name": "Quotion - Apple Notes to blogs in minutes",
@@ -28358,8 +28940,13 @@
       "https://www.engagebay.com/blog/black-friday-saas-deals/"
     ],
     "id": "rankfloai",
-    "category": "Marketing & Sales",
-    "platforms": []
+    "category": "AI Tools",
+    "subcategory": "Writing & Content",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "AI SEO content writer."
   },
   {
     "name": "RankInPublic",
@@ -28504,8 +29091,13 @@
       "https://egw.news/gaming/news/38520/razer-launches-black-friday-sale-with-discounts-of-SnHeVSwi9"
     ],
     "id": "razer",
-    "category": "Gaming",
-    "platforms": []
+    "category": "Hardware & Electronics",
+    "subcategory": "Accessories & Peripherals",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Gaming peripherals, chairs and Blade laptops."
   },
   {
     "name": "React PDF",
@@ -28670,7 +29262,12 @@
     ],
     "id": "recootyaiats",
     "category": "Business & Finance",
-    "platforms": []
+    "subcategory": "Team & Operations",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Applicant tracking system with AI screening."
   },
   {
     "name": "Recorder.app",
@@ -28959,7 +29556,12 @@
     ],
     "id": "remarkable",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Phones, Tablets & Computers",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "E-ink paper tablets for writing and reading."
   },
   {
     "name": "Remember Journal",
@@ -29170,7 +29772,7 @@
   {
     "name": "RepairDesk",
     "url": "https://www.repairdesk.co",
-    "deal": "50% off All Plans. Until Nov 30",
+    "deal": "50% off all plans. Until Nov 30",
     "codes": [],
     "ends": "2026-11-30",
     "discount": 50,
@@ -29315,7 +29917,12 @@
     ],
     "id": "restroryrms",
     "category": "Business & Finance",
-    "platforms": []
+    "subcategory": "Team & Operations",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Restaurant management with POS, kitchen display and inventory."
   },
   {
     "name": "ReUI, 30% off, Black Friday 2026",
@@ -29557,8 +30164,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "robinreach",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Marketing & Sales",
+    "subcategory": "Social Media",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Schedules social posts across 13 platforms with AI content."
   },
   {
     "name": "RoboForm",
@@ -29747,7 +30359,12 @@
     ],
     "id": "rovivalssipremiumdomain",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "Domains",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Premium .si domain name for sale."
   },
   {
     "name": "Row.so",
@@ -30154,7 +30771,7 @@
   {
     "name": "SalesStack",
     "url": "https://www.salesstack.com/",
-    "deal": "Up to 40% off Annual Plans. Nov 24 to Dec 5",
+    "deal": "Up to 40% off annual plans. Nov 24 to Dec 5",
     "codes": [],
     "ends": "2026-12-05",
     "discount": 40,
@@ -30164,7 +30781,12 @@
     ],
     "id": "salesstack",
     "category": "Marketing & Sales",
-    "platforms": []
+    "subcategory": "CRM & Sales",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Sales prospecting and outreach platform."
   },
   {
     "name": "Samsung",
@@ -30243,7 +30865,12 @@
     ],
     "id": "sbl",
     "category": "AI Tools",
-    "platforms": []
+    "subcategory": "Automation & Workflows",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "AI sales automation for LinkedIn and WhatsApp that books calls."
   },
   {
     "name": "ScalaHosting",
@@ -30469,7 +31096,12 @@
     ],
     "id": "screenkite",
     "category": "Photo, Video & Audio",
-    "platforms": []
+    "subcategory": "Screen Recording",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Mac screen recorder with a built-in editor."
   },
   {
     "name": "ScreenOtter",
@@ -31062,8 +31694,13 @@
       "ps-lo/InfoSec-and-Tech-Black-Friday"
     ],
     "id": "seeedstudio",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Hardware & Electronics",
+    "subcategory": "Smart Home",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Maker boards, LoRa and Home Assistant hardware."
   },
   {
     "name": "Seesaw",
@@ -31101,8 +31738,13 @@
       "kacperszurek/blackfriday"
     ],
     "id": "sekurak",
-    "category": "Security & Privacy",
-    "platforms": []
+    "category": "Learning",
+    "subcategory": "Cybersecurity Certs & Training",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Polish security courses and training."
   },
   {
     "name": "Sekurak Cyberstarter 2024",
@@ -31210,7 +31852,12 @@
     ],
     "id": "sendx",
     "category": "Marketing & Sales",
-    "platforms": []
+    "subcategory": "Email Marketing & Newsletters",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Email marketing and newsletter platform."
   },
   {
     "name": "SEO PowerSuite",
@@ -31253,8 +31900,13 @@
       "javabuddy/best-black-friday-cyber-monday-deals-for-developers"
     ],
     "id": "seowriting",
-    "category": "Productivity",
-    "platforms": []
+    "category": "AI Tools",
+    "subcategory": "Writing & Content",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "AI writer for SEO articles."
   },
   {
     "name": "SEOAnt",
@@ -31565,8 +32217,13 @@
       "https://www.blackfriday.dev/"
     ],
     "id": "shadcnstudio",
-    "category": "Developer Tools",
-    "platforms": []
+    "category": "Design",
+    "subcategory": "UI Kits & Templates",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Components, blocks and templates for shadcn/ui."
   },
   {
     "name": "Shadcn.io",
@@ -31589,7 +32246,7 @@
   },
   {
     "name": "Shadcnblocks",
-    "url": "https://www.shadcnblocks.com/?atp=bergside",
+    "url": "https://www.shadcnblocks.com/",
     "deal": "40% off everything, including lifetime plans, templates and CMS add-ons. Pro $89 (was $149)",
     "codes": [
       "SHADCNBLOCKSFRI40"
@@ -31816,18 +32473,6 @@
     ],
     "pricing": "subscription",
     "description": "Platform for building and running an online store."
-  },
-  {
-    "name": "Shopmonkey",
-    "url": "https://get.shopmonkey.io/free-trial",
-    "deal": "*Deal TBA*",
-    "codes": [],
-    "sources": [
-      "carmentune/best-black-friday-saas-deals"
-    ],
-    "id": "shopmonkey",
-    "category": "Business & Finance",
-    "platforms": []
   },
   {
     "name": "ShortDot Domains",
@@ -32133,19 +32778,6 @@
     ],
     "pricing": "subscription",
     "description": "US stock app with real-time prices, AI move explanations and earnings calendar."
-  },
-  {
-    "name": "Simple Photo Gallery",
-    "url": "https://simple.photo/?ref=aitoolsfyi",
-    "deal": "[2026 TBA] Standard plans ($5–$20/mo). *Prior year (2025): 50% off with BF2025.* (Simple Photo)",
-    "codes": [],
-    "discount": 50,
-    "sources": [
-      "imrishit98/Black-Friday-and-Cyber-Monday-Deals"
-    ],
-    "id": "simplephotogallery",
-    "category": "Mac & Desktop Utilities",
-    "platforms": []
   },
   {
     "name": "SimpleFill",
@@ -32603,7 +33235,17 @@
     ],
     "id": "slack",
     "category": "Productivity",
-    "platforms": []
+    "subcategory": "Email & Communication",
+    "platforms": [
+      "web",
+      "mac",
+      "windows",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "Team chat and messaging workspace."
   },
   {
     "name": "SlapMac",
@@ -32773,7 +33415,12 @@
     ],
     "id": "slimstat",
     "category": "Marketing & Sales",
-    "platforms": []
+    "subcategory": "Web Analytics",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "Web analytics plugin for WordPress."
   },
   {
     "name": "SmartInbox",
@@ -33574,8 +34221,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "soundbarformac",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Mac & Desktop Utilities",
+    "subcategory": "Menu Bar & Dock",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Mac menu bar audio app."
   },
   {
     "name": "SoundScrub",
@@ -33720,8 +34372,13 @@
       "thoughtcook/verified-black-friday"
     ],
     "id": "spacewise20",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Mac & Desktop Utilities",
+    "subcategory": "Files, Storage & System",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Mac app to find what is using disk space."
   },
   {
     "name": "SparkFun",
@@ -34055,8 +34712,13 @@
       "https://www.engagebay.com/blog/black-friday-saas-deals/"
     ],
     "id": "stackkite",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Business & Finance",
+    "subcategory": "Startup & Indie Tools",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "SaaS tool with monthly plans."
   },
   {
     "name": "Stage View 2",
@@ -34338,8 +35000,13 @@
       "https://www.ign.com/articles/steelseries-black-friday-sale-2026"
     ],
     "id": "steelseries",
-    "category": "Gaming",
-    "platforms": []
+    "category": "Hardware & Electronics",
+    "subcategory": "Accessories & Peripherals",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Gaming headsets, mice and controllers."
   },
   {
     "name": "Steps & Beasts",
@@ -34729,19 +35396,6 @@
     "description": "Turns audio and video into transcripts and AI summaries in the browser."
   },
   {
-    "name": "Summate",
-    "url": "https://summate.io/pricing?ref=aitoolsfyi",
-    "deal": "[2026 TBA] Standard pricing only ($10/mo annual). *Prior year (2025): 50% off with SUMMATEBF25.* (Summate pricing)",
-    "codes": [],
-    "discount": 50,
-    "sources": [
-      "imrishit98/Black-Friday-and-Cyber-Monday-Deals"
-    ],
-    "id": "summate",
-    "category": "AI Tools",
-    "platforms": []
-  },
-  {
     "name": "SunoMV",
     "url": "https://suno.bi/en/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bf2026",
     "deal": "50% OFF first month of Pro and Studio (Pro $39.90 → $19.95) · 30% OFF credit packs · auto-applied · Nov 19, 2026 - Dec 1, 2026",
@@ -35038,7 +35692,12 @@
     ],
     "id": "surfercloud",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "VPS & Cloud Servers",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Cloud servers and VPS."
   },
   {
     "name": "Surfolks",
@@ -35337,7 +35996,12 @@
     ],
     "id": "system76",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Phones, Tablets & Computers",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Linux laptops and desktops."
   },
   {
     "name": "Systeme.io",
@@ -35857,8 +36521,13 @@
       "https://www.engagebay.com/blog/black-friday-saas-deals/"
     ],
     "id": "tapfiliate",
-    "category": "Business & Finance",
-    "platforms": []
+    "category": "Marketing & Sales",
+    "subcategory": "Ads, Leads & Outreach",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Affiliate and referral program tracking."
   },
   {
     "name": "Taplio",
@@ -35921,7 +36590,13 @@
     ],
     "id": "taskito",
     "category": "Productivity",
-    "platforms": []
+    "subcategory": "Tasks & Projects",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "Day planner combining tasks, routines and events in one timeline."
   },
   {
     "name": "Tasks",
@@ -36197,8 +36872,13 @@
       "https://www.engagebay.com/blog/black-friday-saas-deals/"
     ],
     "id": "termageddon",
-    "category": "Security & Privacy",
-    "platforms": []
+    "category": "Business & Finance",
+    "subcategory": "Legal & Documents",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Generates and updates website privacy policies and terms."
   },
   {
     "name": "Termalin",
@@ -36349,18 +37029,6 @@
     "platforms": []
   },
   {
-    "name": "The Firewall Trail",
-    "url": "https://pslorenz.github.io/firewall-trail/",
-    "deal": "Free, always · Dates: Ongoing · Oregon Trail–style browser game. Survive a year in security, from the help desk to the boardroom. Full disclosure, I made this one. Bugs and feedback welcome via GitHub issues.",
-    "codes": [],
-    "sources": [
-      "ps-lo/InfoSec-and-Tech-Black-Friday"
-    ],
-    "id": "thefirewalltrail",
-    "category": "Gaming",
-    "platforms": []
-  },
-  {
     "name": "The low-tech guys",
     "url": "https://lowtechguys.com/blackfriday",
     "deal": "Up to 40% off apps, extra 13% off bundles · Apps from 6 EUR (Keylume) to 14 EUR (Lunar); bundles from 19 EUR · Expires: 2026-12-01 · Mac apps: Lunar, rcmd, Clop, Cling, Keylume, Crank, Pipiri",
@@ -36489,7 +37157,12 @@
     ],
     "id": "themehunk",
     "category": "Websites & E-commerce",
-    "platforms": []
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "WordPress themes and plugins."
   },
   {
     "name": "ThemeWinter",
@@ -36643,8 +37316,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "thrivecart",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "E-commerce & Payments",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Shopping cart and checkout pages for digital products."
   },
   {
     "name": "Thumbwise",
@@ -37016,8 +37694,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "tiprankspremium",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Business & Finance",
+    "subcategory": "Personal Finance & Investing",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Stock research with analyst ratings and data."
   },
   {
     "name": "TLFHost",
@@ -37158,8 +37841,13 @@
       "longseespace/mac-black-friday"
     ],
     "id": "toolnotch",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Mac & Desktop Utilities",
+    "subcategory": "Menu Bar & Dock",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Turns the MacBook notch into a live island of tools."
   },
   {
     "name": "Topaz Labs",
@@ -37334,8 +38022,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "trailback",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Mac & Desktop Utilities",
+    "subcategory": "Files, Storage & System",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Local searchable history of files, screenshots and clipboard on your computer."
   },
   {
     "name": "Train the trainer",
@@ -37624,8 +38317,18 @@
       "https://www.facebook.com/tresorit/posts/your-digital-life-from-your-private-documents-and-photos-to-your-business-filesd/1565245312300622/"
     ],
     "id": "tresorit",
-    "category": "Hosting & Cloud",
-    "platforms": []
+    "category": "Security & Privacy",
+    "subcategory": "Secure Email & Storage",
+    "platforms": [
+      "web",
+      "mac",
+      "windows",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "End-to-end encrypted cloud storage."
   },
   {
     "name": "Tria",
@@ -37749,7 +38452,12 @@
     ],
     "id": "trueranker",
     "category": "Marketing & Sales",
-    "platforms": []
+    "subcategory": "SEO",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Keyword rank tracker."
   },
   {
     "name": "TrulyInbox",
@@ -37832,8 +38540,13 @@
       "kacperszurek/blackfriday"
     ],
     "id": "tryhackmevouchers",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Learning",
+    "subcategory": "Cybersecurity Certs & Training",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Gift vouchers for TryHackMe Premium security training."
   },
   {
     "name": "Tulvo",
@@ -37944,8 +38657,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "tutorlmsagencysuitelifetimeplan",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "one-time",
+    "description": "WordPress LMS plugin suite for agencies."
   },
   {
     "name": "Tutti",
@@ -38055,8 +38773,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "tychesoftwares",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "Premium WooCommerce plugins."
   },
   {
     "name": "TypeBoost",
@@ -38400,18 +39123,6 @@
     "platforms": []
   },
   {
-    "name": "Umami",
-    "url": "https://umami.is",
-    "deal": "Free / Self-hosted",
-    "codes": [],
-    "sources": [
-      "carmentune/best-black-friday-saas-deals"
-    ],
-    "id": "umami",
-    "category": "Marketing & Sales",
-    "platforms": []
-  },
-  {
     "name": "Umami Manager",
     "url": "https://apple.co/40MP50F",
     "deal": "Lifetime 25% off · Automatically applied; no code needed; 2026-11-27 to 2026-12-1",
@@ -38579,7 +39290,12 @@
     ],
     "id": "unlimitedaitools",
     "category": "AI Tools",
-    "platforms": []
+    "subcategory": "Chat & Assistants",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Access to many AI models and tools in one subscription."
   },
   {
     "name": "Unlimited Elements",
@@ -38732,7 +39448,7 @@
   },
   {
     "name": "Upplai",
-    "url": "https://www.uppl.ai/?invitation=engbay",
+    "url": "https://www.uppl.ai/",
     "deal": "20% off AI resume packages priced $20 and up with code CYBER20. Nov 26 to Nov 30",
     "codes": [
       "CYBER20"
@@ -38745,7 +39461,12 @@
     ],
     "id": "upplai",
     "category": "AI Tools",
-    "platforms": []
+    "subcategory": "Writing & Content",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "AI resume writing and review packages."
   },
   {
     "name": "Uprankly",
@@ -38926,7 +39647,12 @@
     ],
     "id": "usermaven",
     "category": "Marketing & Sales",
-    "platforms": []
+    "subcategory": "Web Analytics",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Website and product analytics."
   },
   {
     "name": "UtilBolt",
@@ -38943,7 +39669,7 @@
   {
     "name": "Uxcel",
     "url": "https://uxcel.com/uxcel-bfcm-waitlist",
-    "deal": "62.5% off the first year of Pro Annual (first 500), lifetime access with up to $300 certification credit (150 offers), 50% off certifications. Waitlist early access Nov 23, public sale Nov 26 to Nov 30",
+    "deal": "62.5% off the first year of Pro annual (first 500), lifetime access with up to $300 certification credit (150 offers), 50% off certifications. Waitlist early access Nov 23, public sale Nov 26 to Nov 30",
     "codes": [],
     "ends": "2026-11-30",
     "discount": 50,
@@ -39017,8 +39743,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "vegplotter",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Health & Lifestyle",
+    "subcategory": "Hobbies & Home",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Vegetable garden planner."
   },
   {
     "name": "Vemetric",
@@ -39086,7 +39817,12 @@
     ],
     "id": "verpex",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "Web & WordPress Hosting",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Shared, cloud and WordPress hosting."
   },
   {
     "name": "Verploy",
@@ -39171,8 +39907,13 @@
       "labex-labs/black-friday-cyber-monday-deals"
     ],
     "id": "vibeview",
-    "category": "AI Tools",
-    "platforms": []
+    "category": "Developer Tools",
+    "subcategory": "Testing & Debugging",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Runs iPhone, Android and TV apps live in the browser."
   },
   {
     "name": "Video Wall Live",
@@ -39375,8 +40116,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "vitalsformac",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Mac & Desktop Utilities",
+    "subcategory": "Menu Bar & Dock",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Mac system monitor."
   },
   {
     "name": "VitaMail",
@@ -39449,7 +40195,12 @@
     ],
     "id": "vm6networks",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "VPS & Cloud Servers",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "UK VPS hosting."
   },
   {
     "name": "VMPal",
@@ -39767,7 +40518,13 @@
     ],
     "id": "walmart",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Retailer Sales",
+    "platforms": [
+      "web",
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Walmart's online and in-store Black Friday sale."
   },
   {
     "name": "Warmy",
@@ -39979,7 +40736,12 @@
     ],
     "id": "wbcomdesigns",
     "category": "Websites & E-commerce",
-    "platforms": []
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "BuddyPress and community themes and plugins for WordPress."
   },
   {
     "name": "Wealthfolio Connect",
@@ -40140,8 +40902,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "websitex5",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "Website Builders & No-Code",
+    "platforms": [
+      "windows"
+    ],
+    "pricing": "one-time",
+    "description": "Desktop website builder for Windows."
   },
   {
     "name": "WebToffee",
@@ -40183,7 +40950,7 @@
   {
     "name": "WeeklyReport.io",
     "url": "https://weeklyreport.io/#pricing",
-    "deal": "15% off, Including Renewals. Oct 12 to Nov 30",
+    "deal": "15% off, including renewals. Oct 12 to Nov 30",
     "codes": [
       "KYJYWR15"
     ],
@@ -40412,7 +41179,12 @@
     ],
     "id": "wholesalesuite",
     "category": "Websites & E-commerce",
-    "platforms": []
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "Wholesale pricing and ordering plugins for WooCommerce."
   },
   {
     "name": "Whoop 5.0",
@@ -40610,8 +41382,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "winzipblackfridaybundle",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Mac & Desktop Utilities",
+    "subcategory": "Files, Storage & System",
+    "platforms": [
+      "windows"
+    ],
+    "pricing": "one-time",
+    "description": "Bundle of WinZip tools for compression, encryption and backup."
   },
   {
     "name": "Wiredesk",
@@ -40696,7 +41473,7 @@
   {
     "name": "Wisery",
     "url": "https://wisery.io/",
-    "deal": "50% off All Pro Plans. Nov 24 to Dec 5",
+    "deal": "50% off all Pro plans. Nov 24 to Dec 5",
     "codes": [
       "BFW2026"
     ],
@@ -40794,7 +41571,13 @@
     ],
     "id": "wondershare",
     "category": "Photo, Video & Audio",
-    "platforms": []
+    "subcategory": "Video Editing",
+    "platforms": [
+      "mac",
+      "windows"
+    ],
+    "pricing": "subscription",
+    "description": "Apps for video editing, PDFs, data transfer and file recovery."
   },
   {
     "name": "WooPeek",
@@ -40822,7 +41605,7 @@
   {
     "name": "Woorise",
     "url": "https://woorise.com",
-    "deal": "50% off Any Plan. Until Nov 30",
+    "deal": "50% off any plan. Until Nov 30",
     "codes": [
       "BLACKFRIDAY"
     ],
@@ -40944,8 +41727,13 @@
       "https://www.engagebay.com/blog/black-friday-saas-deals/"
     ],
     "id": "worksnaply",
-    "category": "Business & Finance",
-    "platforms": []
+    "category": "Productivity",
+    "subcategory": "Calendar & Time Tracking",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Time tracking and workforce monitoring."
   },
   {
     "name": "Workspaces 2",
@@ -41044,7 +41832,12 @@
     ],
     "id": "wpdataaccess",
     "category": "Websites & E-commerce",
-    "platforms": []
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "WordPress plugin for data tables, apps and charts."
   },
   {
     "name": "WP Foreman",
@@ -41137,7 +41930,12 @@
     ],
     "id": "wpstatistics",
     "category": "Marketing & Sales",
-    "platforms": []
+    "subcategory": "Web Analytics",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "Privacy-friendly analytics plugin for WordPress."
   },
   {
     "name": "WP Ultimate CSV Importer",
@@ -41202,7 +42000,12 @@
     ],
     "id": "wpdeveloper",
     "category": "Websites & E-commerce",
-    "platforms": []
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "subscription",
+    "description": "WordPress plugins such as Essential Addons and Essential Blocks."
   },
   {
     "name": "WPEngine",
@@ -41243,7 +42046,7 @@
   },
   {
     "name": "WPLocation",
-    "url": "https://wplocation.com/",
+    "url": "https://wplocation.com/black-friday/",
     "deal": "25% off every paid plan with code BLACKFRIDAY25 (Pro $51.75/yr or $449.25 lifetime); first payment only on recurring plans. Ends Dec 1",
     "codes": [
       "BLACKFRIDAY25"
@@ -41331,8 +42134,13 @@
       "thuongtin/awesome-bfcm-2026"
     ],
     "id": "wpxpo",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "WordPress Themes & Plugins",
+    "platforms": [
+      "wordpress"
+    ],
+    "pricing": "one-time",
+    "description": "WordPress and WooCommerce plugins such as PostX and WowStore."
   },
   {
     "name": "WrapPixel",
@@ -41363,18 +42171,6 @@
     "platforms": []
   },
   {
-    "name": "Wrike",
-    "url": "https://get.wrike.com/try-for-free",
-    "deal": "*Deal TBA*",
-    "codes": [],
-    "sources": [
-      "carmentune/best-black-friday-saas-deals"
-    ],
-    "id": "wrike",
-    "category": "Business & Finance",
-    "platforms": []
-  },
-  {
     "name": "WS Form",
     "url": "https://wsform.com/offer/black-friday/",
     "deal": "30% off. Nov 23 to Dec 4",
@@ -41393,7 +42189,7 @@
   {
     "name": "Wurd",
     "url": "https://wurd.ai/",
-    "deal": "33% off the Pro Yearly Plan. Nov 23 to Dec 3",
+    "deal": "33% off the Pro yearly plan. Nov 23 to Dec 3",
     "codes": [],
     "ends": "2026-12-03",
     "discount": 33,
@@ -41401,7 +42197,7 @@
       "https://www.engagebay.com/blog/black-friday-saas-deals/"
     ],
     "id": "wurd",
-    "category": "Photo, Video & Audio",
+    "category": "Productivity",
     "platforms": []
   },
   {
@@ -41413,8 +42209,13 @@
       "kacperszurek/blackfriday"
     ],
     "id": "wykadyzaufanatrzeciastrona",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Learning",
+    "subcategory": "Cybersecurity Certs & Training",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Recorded Polish security talks."
   },
   {
     "name": "X Premium",
@@ -41493,8 +42294,13 @@
       "labex-labs/black-friday-cyber-monday-deals"
     ],
     "id": "xflow",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "E-commerce & Payments",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Shopify app from Foxecom for store growth."
   },
   {
     "name": "XGetter",
@@ -41722,7 +42528,12 @@
     ],
     "id": "youstable",
     "category": "Hosting & Cloud",
-    "platforms": []
+    "subcategory": "Web & WordPress Hosting",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Shared, WordPress and VPS hosting."
   },
   {
     "name": "Yovid",
@@ -41822,8 +42633,13 @@
       "kacperszurek/blackfriday"
     ],
     "id": "zagrajmyjeszczeraz",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Learning",
+    "subcategory": "Books & Ebooks",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "Polish book on the history of gaming in Poland."
   },
   {
     "name": "ZAN Node Service",
@@ -41865,8 +42681,13 @@
       "imrishit98/Black-Friday-and-Cyber-Monday-Deals"
     ],
     "id": "zenfolio",
-    "category": "Productivity",
-    "platforms": []
+    "category": "Websites & E-commerce",
+    "subcategory": "Website Builders & No-Code",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Portfolio websites and client galleries for photographers."
   },
   {
     "name": "Zero Note - Share One Time Secrets",
@@ -42047,7 +42868,12 @@
     ],
     "id": "zima",
     "category": "Hardware & Electronics",
-    "platforms": []
+    "subcategory": "Phones, Tablets & Computers",
+    "platforms": [
+      "physical"
+    ],
+    "pricing": "physical",
+    "description": "x86 single-board servers and home NAS devices."
   },
   {
     "name": "Zipic",
