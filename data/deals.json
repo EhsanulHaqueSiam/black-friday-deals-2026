@@ -9554,7 +9554,7 @@
     "url": "https://checkengineseo.com/",
     "deal": "Black Friday sale: $19.99 once through December 2. Then $39. · No code needed: the Buy button applies the sale; pay once; free version shows the score and the top problem; 30-day refund; ends end of 2 December 2026, US Pacific",
     "codes": [],
-    "ends": "2026-12-20",
+    "ends": "2026-12-02",
     "sources": [
       "mRs-/Black-Friday-Deals",
       "danmindru/rare-big-deal",
@@ -12425,7 +12425,7 @@
     "url": "https://crispvideo.app/pricing/",
     "deal": "Black Friday sale: $9.99 once through December 2. Then $29. · No code needed: the Buy button applies the sale; pay once, runs on your computer; free version: upscaling, restoring and colour exports up to 15 seconds, everything else at full length; 30-day refund; ends end of 2 December 2026, US Pacific",
     "codes": [],
-    "ends": "2026-12-20",
+    "ends": "2026-12-02",
     "sources": [
       "mRs-/Black-Friday-Deals",
       "danmindru/rare-big-deal",
@@ -12538,7 +12538,7 @@
     "url": "https://cryptokeyhole.com/pricing/?utm_source=awesome-bf&utm_medium=listing&utm_campaign=blackfriday-2026",
     "deal": "50% OFF the first three months of Plus or Pro on monthly billing (Plus is $18 $9 a month for three months, then $18), or 30% OFF the first year on yearly billing (Plus is $180 $126 for the first year, then $180). From 20 November to 1 December 2026, 23:59 UTC, for new subscribers. No code is needed: the price is taken off at checkout. 14-day money-back guarantee.",
     "codes": [],
-    "ends": "2026-12-20",
+    "ends": "2026-12-01",
     "discount": 50,
     "newCustomersOnly": true,
     "sources": [
@@ -16865,7 +16865,7 @@
     "codes": [
       "BF_26VK7BI5PHA"
     ],
-    "ends": "2026-12-20",
+    "ends": "2026-12-02",
     "discount": 25,
     "sources": [
       "trungdq88/Awesome-Black-Friday-Cyber-Monday",
@@ -26826,6 +26826,25 @@
     "description": "Camera, action camera and phone accessories."
   },
   {
+    "name": "Jobscan",
+    "url": "https://www.jobscan.co/pricing",
+    "deal": "Black Friday: 50% off Jobscan Premium (reported Nov 2026; in past years this applied to annual plans for first-time subscribers). Check the price at checkout.",
+    "codes": [],
+    "discount": 50,
+    "sources": [
+      "https://www.jobscan.co/pricing"
+    ],
+    "headline": "50% off Jobscan Premium",
+    "id": "jobscan",
+    "category": "Productivity",
+    "subcategory": "Documents & PDFs",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Resume scanner that matches your resume to a job description and applicant tracking systems."
+  },
+  {
     "name": "JoggAI",
     "url": "https://x.com/Jogg_ai",
     "deal": "Up to 100% extra credits at the same price (spin to win)",
@@ -32524,6 +32543,25 @@
     "description": "Widgets and extensions for Elementor."
   },
   {
+    "name": "Master.dev (Frontend Masters)",
+    "url": "https://master.dev/pricing",
+    "deal": "Black Friday: 40% off a Master.dev membership (formerly Frontend Masters; reported Nov 2026). Check the price at checkout.",
+    "codes": [],
+    "discount": 40,
+    "sources": [
+      "https://master.dev/pricing"
+    ],
+    "headline": "40% off membership",
+    "id": "master",
+    "category": "Learning",
+    "subcategory": "Programming & Tech",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "In-depth frontend and full-stack courses from expert teachers, formerly Frontend Masters."
+  },
+  {
     "name": "MasterClass",
     "url": "https://www.masterclass.com/plans",
     "deal": "50% off annual plans, Individual $60/yr instead of $120. Nov 19-25, 2026",
@@ -38152,7 +38190,7 @@
     "url": "https://outlier.host/",
     "deal": "Black Friday sale: $16.99 once through December 2. Then $39. · No code needed: the Buy button applies the sale; pay once, runs on your computer; free version available; 30-day refund; ends end of 2 December 2026, US Pacific",
     "codes": [],
-    "ends": "2026-12-20",
+    "ends": "2026-12-02",
     "sources": [
       "mRs-/Black-Friday-Deals",
       "danmindru/rare-big-deal",
@@ -41372,6 +41410,24 @@
     "pricing": "subscription",
     "description": "WordPress plugin for targeted popups for signups and promotions.",
     "headline": "50% off first year of Pro and Pro+"
+  },
+  {
+    "name": "Porkbun",
+    "url": "https://porkbun.com/",
+    "deal": "Black Friday Bun-anza: new .com registrations for $7 while supplies last, no per-person limit, no minimums; stock restocked in drops through November 2026",
+    "codes": [],
+    "sources": [
+      "Shashankt255/black-friday-deals-2026",
+      "KevinKaul/black-friday-deals-2026",
+      "thuongtin/awesome-bfcm-2026",
+      "MichaelCyger/Domains-Black-Friday-Cyber-Monday",
+      "ps-lo/InfoSec-and-Tech-Black-Friday",
+      "https://www.facebook.com/PorkbunLLC/posts/the-porkbun-black-friday-sale-goes-live-november-2-2026-weve-got-amazing-deals-o/1903866347235759/"
+    ],
+    "headline": "Black Friday Bun-anza: new .com registrations for $7 while supplies last, no per-person…",
+    "id": "porkbun",
+    "category": "Hosting & Cloud",
+    "platforms": []
   },
   {
     "name": "PortDroid",
@@ -46910,7 +46966,7 @@
     "codes": [
       "LAUNCH19"
     ],
-    "ends": "2026-12-20",
+    "ends": "2026-12-01",
     "sources": [
       "mRs-/Black-Friday-Deals",
       "danmindru/rare-big-deal",
@@ -50745,7 +50801,7 @@
     "url": "https://socialfetch.dev/black-friday?utm_source=mrsbf",
     "deal": "Double credits on every plan. · New plans only, once per workspace. No code, applied automatically at checkout. Double credits in month one on monthly plans and for the first 3 months on annual plans. Growth pack: 25,000 plus 25,000 free. Ends 1 Dec 2026 08:00 UTC. · Nov 19 – Dec 1",
     "codes": [],
-    "ends": "2026-12-20",
+    "ends": "2026-12-01",
     "sources": [
       "mRs-/Black-Friday-Deals",
       "danmindru/rare-big-deal",
@@ -54987,7 +55043,7 @@
     "codes": [
       "TEXTMOCKBF26"
     ],
-    "ends": "2026-12-20",
+    "ends": "2026-12-02",
     "discount": 50,
     "newCustomersOnly": true,
     "sources": [

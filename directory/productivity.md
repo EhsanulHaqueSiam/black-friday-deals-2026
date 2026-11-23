@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/productivity/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**184 live deals**, 71 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**185 live deals**, 71 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
 - [Notes & Writing](#notes--writing) (42)
 - [Tasks & Projects](#tasks--projects) (37)
@@ -10,7 +10,7 @@
 - [Focus & Habits](#focus--habits) (17)
 - [Reading & Knowledge](#reading--knowledge) (21)
 - [Email & Communication](#email--communication) (19)
-- [Documents & PDFs](#documents--pdfs) (23)
+- [Documents & PDFs](#documents--pdfs) (24)
 
 ## Notes & Writing
 
@@ -212,6 +212,7 @@
 | [Storydoc](https://www.storydoc.com/) | Builds interactive presentations and sales decks. | 60% off annual, 20% off monthly |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/storydoc/) |
 | [BookletMaker](https://bookletmaker.app/black-friday/) | Turns any PDF into a booklet that prints, folds and staples in the right order. | 50% off lifetime, $49.99 → $24.99 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/bookletmaker/) |
 | [DoxFlowy](https://x.com/DoxFlowy) | Document workflows with PDF editing and approvals. | 50% off for life on yearly Core and Team |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/doxflowy/) |
+| [Jobscan](https://www.jobscan.co/pricing) | Resume scanner that matches your resume to a job description and applicant tracking systems. | 50% off Jobscan Premium |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/jobscan/) |
 | [myPDF](https://apps.apple.com/app/id6751173174) | PDF editor for Apple silicon Macs that edits real text, fills forms and compares versions. | 50% off Premium, now $3.49 |  | Nov 29 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/mypdf/) |
 | [PDF Protector](https://www.witt-software.com/black-friday-2026/) | Password-protect PDFs one at a time or a whole folder at once. | 50% off Mac license, $9.99 → $5 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/pdfprotector/) |
 | [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac with codes that never expire. | 50% off lifetime, $19.99 → $9.99 |  | Dec 4 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/qrgenie/) |

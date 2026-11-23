@@ -184,7 +184,7 @@
 | [Firecrawl](https://partners.dub.co/firecrawl) | API that crawls websites and returns clean data for AI apps. | 10% off your first purchase |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/firecrawl/) |
 | [Cliproxy (static ISP / residential proxies)](https://cliproxy.com/) | Residential and static ISP proxies billed by traffic or month. | Residential proxies from $0.58/GB |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/cliproxy/) |
 | [ScrapeBadger](https://x.com/scrapebadger) | Web scraping API. | 4 months free with annual web scraping API plans |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/scrapebadger/) |
-| [Social Fetch](https://socialfetch.dev/black-friday?utm_source=mrsbf) | REST API and MCP server for public social media data as JSON. | Double credits on every new plan |  | Dec 20 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/socialfetch/) |
+| [Social Fetch](https://socialfetch.dev/black-friday?utm_source=mrsbf) | REST API and MCP server for public social media data as JSON. | Double credits on every new plan |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/socialfetch/) |
 
 ## Monitoring & Analytics
 

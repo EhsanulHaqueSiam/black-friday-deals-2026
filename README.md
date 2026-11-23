@@ -1,6 +1,6 @@
 # Black Friday & Cyber Monday 2026 Deals Directory
 
-**2853 live deals**, **1084 with promo codes**, from 28 community deal lists on GitHub plus web, X and Reddit research. Duplicates, expired offers and "coming soon" placeholders are removed, and every deal is tagged by category, platform and pricing.
+**2856 live deals**, **1084 with promo codes**, from 28 community deal lists on GitHub plus web, X and Reddit research. Duplicates, expired offers and "coming soon" placeholders are removed, and every deal is tagged by category, platform and pricing.
 
 **Website: https://ehsanulhaquesiam.github.io/black-friday-deals-2026/** (search, filters, one-click codes, a page for every deal)
 
@@ -16,14 +16,14 @@ Black Friday is **Nov 27, 2026**, Cyber Monday is **Nov 30, 2026**. Last built *
 | [Developer Tools](directory/developer-tools.md) | 158 | Databases & API Clients 10, Git, CI & DevOps 14, Testing & Debugging 22, Editors & Terminals 13, Mac Dev Utilities 23, Boilerplates & Starter Kits 28, Backend, APIs & Infra 28, Monitoring & Analytics 20 |
 | [Design](directory/design.md) | 149 | UI Kits & Templates 47, Icons, Fonts & Illustrations 8, Design & Prototyping Tools 49, Mockups & Screenshots 6, Stock Photos, Video & Music 39 |
 | [Photo, Video & Audio](directory/photo-video-audio.md) | 231 | Video Editing 42, Screen Recording 34, Photo Editing 40, Music & Audio Production 93, Podcasts & Transcription 22 |
-| [Productivity](directory/productivity.md) | 184 | Notes & Writing 42, Tasks & Projects 37, Calendar & Time Tracking 25, Focus & Habits 17, Reading & Knowledge 21, Email & Communication 19, Documents & PDFs 23 |
+| [Productivity](directory/productivity.md) | 185 | Notes & Writing 42, Tasks & Projects 37, Calendar & Time Tracking 25, Focus & Habits 17, Reading & Knowledge 21, Email & Communication 19, Documents & PDFs 24 |
 | [Mac & Desktop Utilities](directory/mac-desktop-utilities.md) | 275 | Menu Bar & Dock 62, Windows & Screens 46, Clipboard, Launchers & Keyboard 57, Files, Storage & System 96, Browser Extensions 14 |
 | [Security & Privacy](directory/security-privacy.md) | 102 | VPN 26, Password Managers 8, Antivirus & Security Suites 32, Privacy & Data Removal 22, Secure Email & Storage 14 |
-| [Hosting & Cloud](directory/hosting-cloud.md) | 125 | Domains 20, Web & WordPress Hosting 45, PaaS & Serverless 2, VPS & Cloud Servers 43, Databases 1, Cloud Storage & Backup 10, Email Hosting 4 |
+| [Hosting & Cloud](directory/hosting-cloud.md) | 126 | Domains 20, Web & WordPress Hosting 45, PaaS & Serverless 2, VPS & Cloud Servers 43, Databases 1, Cloud Storage & Backup 10, Email Hosting 4, More 1 |
 | [Websites & E-commerce](directory/websites-e-commerce.md) | 216 | Website Builders & No-Code 32, WordPress Themes & Plugins 137, Forms & Surveys 18, E-commerce & Payments 29 |
 | [Marketing & Sales](directory/marketing-sales.md) | 245 | SEO 63, Email Marketing & Newsletters 36, Social Media 46, Ads, Leads & Outreach 62, CRM & Sales 15, Web Analytics 23 |
 | [Business & Finance](directory/business-finance.md) | 179 | Personal Finance & Investing 54, Accounting & Invoicing 18, Customer Support & Chat 28, Team & Operations 40, Startup & Indie Tools 24, Legal & Documents 15 |
-| [Learning](directory/learning.md) | 247 | Online Course Platforms 57, Programming & Tech 40, Cybersecurity Certs & Training 74, Cloud & DevOps Certs 11, Languages 25, Books & Ebooks 32, Communities & Newsletters 8 |
+| [Learning](directory/learning.md) | 248 | Online Course Platforms 57, Programming & Tech 41, Cybersecurity Certs & Training 74, Cloud & DevOps Certs 11, Languages 25, Books & Ebooks 32, Communities & Newsletters 8 |
 | [Entertainment](directory/entertainment.md) | 74 | Streaming Video 33, Music 19, Audiobooks & Reading 6, News & Magazines 16 |
 | [Gaming](directory/gaming.md) | 59 | Game Stores & Sales 15, Game Subscriptions 2, Games & Apps 42 |
 | [Hardware & Electronics](directory/hardware-electronics.md) | 150 | Phones, Tablets & Computers 35, Audio 17, Smart Home 15, Accessories & Peripherals 61, Cameras & Drones 7, Retailer Sales 15 |
@@ -126,7 +126,7 @@ Merged from these lists. Thank you to their maintainers and contributors.
 - [refinism-B/Awesome-Black-Friday-2026-zh](https://github.com/refinism-B/Awesome-Black-Friday-2026-zh)
 - Web, X and Reddit research: vendor pages, dated 2026 roundups and posts by the vendors themselves, linked on each deal's page.
 
-8707 rows parsed, 2937 unique deals after merging, 41 expired and 29 unconfirmed listings removed. Descriptions and headlines are written for this list.
+8709 rows parsed, 2939 unique deals after merging, 40 expired and 29 unconfirmed listings removed. Descriptions and headlines are written for this list.
 
 ## Rebuild
 

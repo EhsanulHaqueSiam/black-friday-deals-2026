@@ -2,10 +2,10 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/learning/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**247 live deals**, 94 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**248 live deals**, 94 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
 - [Online Course Platforms](#online-course-platforms) (57)
-- [Programming & Tech](#programming--tech) (40)
+- [Programming & Tech](#programming--tech) (41)
 - [Cybersecurity Certs & Training](#cybersecurity-certs--training) (74)
 - [Cloud & DevOps Certs](#cloud--devops-certs) (11)
 - [Languages](#languages) (25)
@@ -104,6 +104,7 @@
 | [Boot.dev](https://www.boot.dev/pricing) | Gamified courses for learning backend development in Python, Go and TypeScript. | **Soon.** 45% off your first coding course membership |  | Nov 23 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/boot/) |
 | [CodeFast](https://codefa.st) | Short video course that teaches beginners to code and ship SaaS apps fast. | $299 → $169 for the course, $648 → $299 with a starter kit |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/codefast/) |
 | [AzamSharp School](https://azamsharp.school) | SwiftUI, iOS, SwiftData and AI courses and books. | 40% off all courses and books | `BLACKFRIDAY2026` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/azamsharpschool/) |
+| [Master.dev (Frontend Masters)](https://master.dev/pricing) | In-depth frontend and full-stack courses from expert teachers, formerly Frontend Masters. | 40% off membership |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/master/) |
 | [Scrimba](https://scrimba.com/pricing) | Interactive coding courses with screencasts you can edit and run. | 40% off Pro, monthly and annual |  | Nov 29 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/scrimba/) |
 | [The Layout Maestro](https://thelayoutmaestro.com/) | Course on modern CSS layout by Ahmad Shadeed. | 40% off the CSS layout course, team licenses available |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/thelayoutmaestro/) |
 | [TheCodeMan courses](https://x.com/TheCodeMan__) | .NET and AI courses for developers. | 40% off all courses, design patterns course $19.79 | `BF26` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/thecodemancourses/) |

@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/hosting-cloud/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**125 live deals**, 44 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**126 live deals**, 44 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
 - [Domains](#domains) (20)
 - [Web & WordPress Hosting](#web--wordpress-hosting) (45)
@@ -11,6 +11,7 @@
 - [Databases](#databases) (1)
 - [Cloud Storage & Backup](#cloud-storage--backup) (10)
 - [Email Hosting](#email-hosting) (4)
+- [More](#more) (1)
 
 ## Domains
 
@@ -171,3 +172,9 @@
 | [SimpleSource Mailboxes](https://getsimple.net/news/hosting/black-friday-hosting-sale-2026/) | Business email mailboxes hosted by SimpleSource. | 50% off first year, Business from $245 | `BLACKFRIDAY2026` | Dec 6 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/simplesourcemailboxes/) |
 | [Mailflare](https://mailflare.co/macos#black-friday) | Self-hosted email, calendar and drive on Cloudflare or Docker, with a native Mac mail app. | 40% off, Pro $29 → $17.40 | `TONYBF2026` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/mailflare/) |
 | [SimploMail](https://inbox.simplomail.com) | Business email on your own domain. | $9.99/yr ($0.83/mo) | `BlackFriday` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/simplomail/) |
+
+## More
+
+| Product | What it is | Offer | Code | Ends | |
+|---|---|---|---|---|---|
+| [Porkbun](https://porkbun.com/) |  | Black Friday Bun-anza: new .com registrations for $7 while supplies last, no per-person… |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/porkbun/) |

@@ -121,11 +121,11 @@ const extractEnd = (text: string): string | undefined => {
   const dates: Date[] = [];
   const yearOf = (month: number, y?: string) => (y ? Number(y) : month <= 1 ? YEAR + 1 : YEAR);
   for (const m of text.matchAll(/\b(20\d\d)-(\d\d)-(\d\d)\b/g)) dates.push(utc(+m[1], +m[2] - 1, +m[3]));
-  for (const m of text.matchAll(/\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+(\d{1,2})(?:st|nd|rd|th)?(?:,?\s+(20\d\d))?/gi)) {
+  for (const m of text.matchAll(/\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+(\d{1,2})(?!\d)(?:st|nd|rd|th)?(?:,?\s+(20\d\d))?/gi)) {
     const mo = MONTHS.indexOf(m[1].toLowerCase());
     dates.push(utc(yearOf(mo, m[3]), mo, +m[2]));
   }
-  for (const m of text.matchAll(/\b(\d{1,2})\s+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?(?:,?\s+(20\d\d))?/gi)) {
+  for (const m of text.matchAll(/\b(?<!\d)(\d{1,2})\s+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?(?:,?\s+(20\d\d))?/gi)) {
     const mo = MONTHS.indexOf(m[2].toLowerCase());
     dates.push(utc(yearOf(mo, m[3]), mo, +m[1]));
   }

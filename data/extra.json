@@ -35,5 +35,35 @@
     "deal": "92% off the first month: $1.00, then $12.99/mo. Includes VPN, Mail, Drive, Pass and Calendar.",
     "codes": [],
     "source": "https://protonvpn.com/black-friday"
+  },
+  {
+    "name": "Jobscan",
+    "url": "https://www.jobscan.co/pricing",
+    "category": "Productivity",
+    "subcategory": "Documents & PDFs",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Resume scanner that matches your resume to a job description and applicant tracking systems.",
+    "headline": "50% off Jobscan Premium",
+    "deal": "Black Friday: 50% off Jobscan Premium (reported Nov 2026; in past years this applied to annual plans for first-time subscribers). Check the price at checkout.",
+    "codes": [],
+    "source": "https://www.jobscan.co/pricing"
+  },
+  {
+    "name": "Master.dev (Frontend Masters)",
+    "url": "https://master.dev/pricing",
+    "category": "Learning",
+    "subcategory": "Programming & Tech",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "In-depth frontend and full-stack courses from expert teachers, formerly Frontend Masters.",
+    "headline": "40% off membership",
+    "deal": "Black Friday: 40% off a Master.dev membership (formerly Frontend Masters; reported Nov 2026). Check the price at checkout.",
+    "codes": [],
+    "source": "https://master.dev/pricing"
   }
 ]
