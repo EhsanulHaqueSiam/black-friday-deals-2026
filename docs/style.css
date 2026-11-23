@@ -346,3 +346,29 @@ body { letter-spacing: -0.005em; }
   .brands { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
 @media (prefers-reduced-motion: reduce) { .tbar, .dist .fill, .bd { transition: none; } }
+
+/* Companies: "List your product" page, vendor tag, report box */
+.vtag { display: inline-flex; align-items: center; gap: 5px; font: 600 11px var(--mono); color: var(--ok); border: 1px solid rgba(61,220,132,.35); background: rgba(61,220,132,.07); border-radius: 999px; padding: 2px 9px; margin-left: 8px; vertical-align: 4px; letter-spacing: 0; white-space: nowrap; }
+.vtag.sm { padding: 0 6px; margin-left: 6px; vertical-align: 1px; }
+.report { display: flex; justify-content: space-between; align-items: center; gap: 12px; border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; margin-top: 16px; }
+.report span { color: #cfcfcf; font-size: 13.5px; }
+.report .btn { height: 32px; }
+.sitefoot .forco { gap: 6px 18px; }
+.sitefoot .forco a { color: var(--fg); }
+.submitpage { max-width: 720px; margin: 0 auto; padding: 24px 20px 36px; }
+.submitpage h1 { font: 700 30px/1.15 var(--sans); letter-spacing: -.6px; }
+.submitpage .lead { color: #cfcfcf; font-size: 15px; margin: 8px 0 18px; }
+.submitpage .cta { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 8px; }
+.submitpage .cta .btn { height: 40px; font-size: 14px; }
+.gets { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+.gets .g { border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; background: #070707; }
+.gets .g b { display: block; font-weight: 600; margin-bottom: 2px; }
+.gets .g span { color: var(--dim); font-size: 13px; }
+.steps { list-style: none; counter-reset: s; display: grid; gap: 12px; }
+.steps li { counter-increment: s; display: grid; grid-template-columns: 28px 1fr; column-gap: 12px; }
+.steps li::before { content: counter(s); grid-row: 1 / 3; width: 28px; height: 28px; border-radius: 999px; border: 1px solid #333; display: grid; place-items: center; font: 600 12px var(--mono); color: var(--acc); }
+.steps b { font-weight: 600; }
+.steps span { color: var(--dim); font-size: 13px; }
+.rules { padding-left: 18px; color: #cfcfcf; font-size: 13.5px; display: grid; gap: 4px; }
+.badgebox { display: flex; gap: 12px; align-items: center; border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; color: var(--dim); font-size: 13px; }
+@media (max-width: 760px) { .gets { grid-template-columns: 1fr; } .report { flex-direction: column; align-items: stretch; } }

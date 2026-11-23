@@ -157,7 +157,7 @@ const pct = (d) => (d.discount && !d.headline.includes(`${d.discount}%`) ? `<spa
 function row(d) {
   return `<article class="row" data-id="${esc(d.id)}">
     ${logo(d)}
-    <div class="n"><a href="${d.category === ADULT ? esc(d.url) : `deal/${esc(d.id)}/`}">${esc(d.name)}</a>${d.description ? `<small>${esc(d.description)}</small>` : ""}</div>
+    <div class="n"><a href="${d.category === ADULT ? esc(d.url) : `deal/${esc(d.id)}/`}">${esc(d.name)}</a>${d.vendor ? `<span class="vtag sm" title="Listed by the company">✓</span>` : ""}${d.description ? `<small>${esc(d.description)}</small>` : ""}</div>
     <div class="act">${d.codes.length ? codeBtn(d.codes[0]) : `<span class="nocode">No code needed</span>`}${goBtn(d)}</div>
     <div class="h">${d.upcoming ? `<span class="soonTag">Soon</span>` : ""}${pct(d)}${esc(d.headline)}</div>
     <div class="sub">${endsText(d)}${lists(d) >= 2 ? `<span class="left">on ${lists(d)} lists</span>` : ""}<button class="more" aria-expanded="false">${d.codes.length > 1 ? `${d.codes.length} codes · ` : ""}details</button></div>

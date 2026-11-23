@@ -29,13 +29,14 @@ type Deal = {
   ends?: string; // YYYY-MM-DD, best guess from the deal text
   newCustomersOnly?: boolean;
   upcoming?: boolean; // announced, not live yet
+  vendor?: boolean; // submitted by someone who says they work for the company (self-declared)
   sources: string[];
   path: string; // source section path, only used for the fallback category
   about?: string; // source list's description, input for enrichment only (never published)
 };
 // Tags from data/enrich/*.json (or given inline by a web-research entry).
 type Tags = { category: string; subcategory: string; platforms: string[]; pricing: string; description: string };
-type Raw = Omit<Deal, "id" | "category" | "platforms" | "headline"> & { tags?: Tags; manual?: boolean; headline?: string };
+type Raw = Omit<Deal, "id" | "category" | "platforms" | "headline"> & { tags?: Tags; manual?: boolean; headline?: string; blurb?: string };
 
 // Every 2026 Black Friday deal list on GitHub with parseable deals (found with `gh search repos`).
 // Freshest and most code-rich first: on duplicates the earlier one wins ties. Append new lists at
@@ -142,6 +143,7 @@ const extractDiscount = (text: string) => {
 const finish = (name: string, url: string, path: string, rawDeal: string, source: string, about?: string, upcoming?: boolean): Raw | undefined => {
   const deal = clean(rawDeal.replace(/[⏳❌ℹ️✅]/gu, ""));
   if (!name || !deal || deal.length < 3 || !/^https?:\/\//.test(url)) return; // the site puts url in href
+  if (/^https?:\/\/(www\.)?(example|product)\.(com|org)\b/i.test(url)) return; // template rows in the source lists
   if (/\b2025\b/.test(rawDeal) && !/\b2026\b/.test(rawDeal)) return; // leftover from last year
   // Watchlist rows that only say a sale hasn't started ("no BF", "NO PROMO YET", "Not announced").
   if (/^(not announced|no offer|tbd|tba|n\/a|none)\b|not (announced|live) yet|no offer confirmed|\bno (bf|black friday)\b|no promo yet|\bno sale\b|\[?2026 tba\]?|\bdeal tba\b|no promo (?!code)|no 2026 (promo|deal|sale)/i.test(deal)) return;
@@ -318,14 +320,16 @@ for (const [repo, kind] of SOURCES) {
 
 // Deals found by web research. Shape: { name, url, category, deal, codes, ends?, upcoming?, source }.
 type Extra = { name: string; url: string; category: string; deal: string; codes?: string[]; ends?: string; upcoming?: boolean; source: string }
-  & Partial<Pick<Tags, "subcategory" | "platforms" | "pricing" | "description">> & { headline?: string };
+  & Partial<Pick<Tags, "subcategory" | "platforms" | "pricing" | "description">> & { headline?: string; vendor?: boolean };
 // data/extra.json is checked by hand, so it loads first and wins ties against agent research.
 const extraFiles = readdirSync("data").filter((f) => /^extra.*\.json$/.test(f)).sort((a, b) => +(b === "extra.json") - +(a === "extra.json"));
 for (const f of extraFiles) {
   for (const e of JSON.parse(readFileSync(`data/${f}`, "utf8")) as Extra[]) {
     const d = finish(e.name, e.url, e.category, e.deal, e.source, undefined, e.upcoming);
     const tags = e.subcategory ? { category: e.category, subcategory: e.subcategory, platforms: e.platforms ?? [], pricing: e.pricing ?? "", description: e.description ?? "" } : undefined;
-    if (d) raws.push({ ...d, codes: e.codes?.length ? e.codes : d.codes, ends: e.ends ?? d.ends, tags, manual: f === "extra.json" || undefined, headline: e.headline });
+    if (d) raws.push({ ...d, codes: e.codes?.length ? e.codes : d.codes, ends: e.ends ?? d.ends, tags, headline: e.headline, vendor: e.vendor || undefined, blurb: e.description,
+      // hand-checked entries and maintainer-approved submissions win merges
+      manual: f === "extra.json" || f === "extra-community.json" || undefined });
   }
 }
 
@@ -394,7 +398,7 @@ const deals: Deal[] = merged.map((r) => {
     subcategory: ok ? t.subcategory : undefined,
     platforms: (t?.platforms ?? []).filter((p): p is Platform => (PLATFORMS as readonly string[]).includes(p)),
     pricing: PRICING.find((p) => p === t?.pricing),
-    description: t?.description,
+    description: t?.description ?? r.blurb,
     // A research entry carries its own headline for its own (winning) deal text; it beats older stored ones.
     headline: r.headline ?? headlines[id] ?? autoHeadline(r.deal),
     // The headline names the main offer; the deal text's biggest % can be an unrelated "up to".
@@ -417,7 +421,7 @@ const live = deals
   .sort((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }));
 
 // --- write data ----------------------------------------------------------------------
-const publish = ({ path, about, tags: _, manual: __, ...d }: Deal & { tags?: Tags; manual?: boolean }) => d; // drops build-only fields
+const publish = ({ path, about, tags: _, manual: __, blurb: ___, ...d }: Deal & { tags?: Tags; manual?: boolean; blurb?: string }) => d; // drops build-only fields
 mkdirSync("docs", { recursive: true });
 writeFileSync("data/deals.json", JSON.stringify(live.map(publish), null, 2) + "\n");
 const stats = { live: live.length, withCodes: live.filter((d) => d.codes.length).length, sources: SOURCES.length, sourceRepos: SOURCES.map(([r]) => r), builtAt: TODAY.toISOString().slice(0, 10) };

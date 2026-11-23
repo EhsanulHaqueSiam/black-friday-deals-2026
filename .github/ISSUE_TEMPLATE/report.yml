@@ -1,0 +1,26 @@
+name: Report a deal
+description: A code didn't work, the price is wrong or the deal ended.
+title: "Report: "
+labels: ["report"]
+body:
+  - type: input
+    id: product
+    attributes: { label: Product }
+    validations: { required: true }
+  - type: input
+    id: page
+    attributes: { label: Deal page, placeholder: "https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/..." }
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What's wrong
+      options:
+        - The code doesn't work
+        - The deal has ended
+        - The price or discount is wrong
+        - The link is broken
+        - Something else
+    validations: { required: true }
+  - type: textarea
+    id: details
+    attributes: { label: Details, description: "What you saw at checkout, and your country if prices differ." }

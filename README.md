@@ -126,7 +126,7 @@ Merged from these lists. Thank you to their maintainers and contributors.
 - [refinism-B/Awesome-Black-Friday-2026-zh](https://github.com/refinism-B/Awesome-Black-Friday-2026-zh)
 - Web, X and Reddit research: vendor pages, dated 2026 roundups and posts by the vendors themselves, linked on each deal's page.
 
-8708 rows parsed, 2938 unique deals after merging, 41 expired and 30 unconfirmed listings removed. Descriptions and headlines are written for this list.
+8707 rows parsed, 2937 unique deals after merging, 41 expired and 29 unconfirmed listings removed. Descriptions and headlines are written for this list.
 
 ## Rebuild
 

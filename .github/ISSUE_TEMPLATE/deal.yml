@@ -56,6 +56,13 @@ body:
     attributes: { label: Where the offer is announced, description: "Your pricing page, blog post or X / Reddit post." }
     validations: { required: true }
   - type: checkboxes
+    id: vendor
+    attributes:
+      label: About you
+      options:
+        - label: I work for this company (adds a "Listed by the company" tag)
+          required: false
+  - type: checkboxes
     id: rules
     attributes:
       label: Checks

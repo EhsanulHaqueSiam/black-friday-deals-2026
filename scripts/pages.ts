@@ -25,6 +25,7 @@ export type PageDeal = {
   ends?: string;
   newCustomersOnly?: boolean;
   upcoming?: boolean;
+  vendor?: boolean;
   sources: string[];
 };
 
@@ -76,11 +77,12 @@ ${o.noindex ? '<meta name="robots" content="noindex">' : ""}
 <header class="top">
   <a class="brand" href="${BASE}">BF<i>26</i> deals</a>
   <form class="search" action="${BASE}" role="search"><span class="sr">Search deals</span><input name="q" type="search" placeholder="Search deals, codes, brands" autocomplete="off"><kbd>/</kbd></form>
-  <a class="btn ghost suggest" href="${SUGGEST}" target="_blank" rel="noopener">+ Suggest a deal</a>
+  <a class="btn ghost suggest" href="${BASE}submit/">List your product</a>
 </header>
 ${o.body}
 <footer class="sitefoot">
   <nav>${(Object.keys(TAXONOMY) as Category[]).filter((c) => c !== ADULT).map((c) => `<a href="${catPath(c)}">${esc(c)}</a>`).join("")}</nav>
+  <nav class="forco"><a href="${BASE}submit/">List your product</a><a href="${REPO}/issues/new?template=report.yml">Report a deal</a><a href="${REPO}/blob/main/CONTRIBUTING.md">Contribute</a></nav>
   <p>Black Friday &amp; Cyber Monday 2026 deals, merged from 28 community lists and web research. Always check the price at checkout. <a href="${REPO}">Source on GitHub</a></p>
 </footer>
 <div id="toast" class="toast" role="status"></div>
@@ -112,7 +114,7 @@ function dealPage(d: PageDeal, related: PageDeal[]) {
   const title = `${d.name} Black Friday 2026: ${d.headline}`;
   const body = `<main class="dealpage" data-deal="${esc(d.id)}">
   <nav class="crumb">${crumbs.join(" / ")}</nav>
-  <div class="dh">${logo(d, "logo lg")}<div><h1>${esc(d.name)}</h1>${d.description ? `<p>${esc(d.description)}</p>` : ""}</div></div>
+  <div class="dh">${logo(d, "logo lg")}<div><h1>${esc(d.name)}${d.vendor ? ` <span class="vtag" title="Submitted by someone who works for the company">✓ Listed by the company</span>` : ""}</h1>${d.description ? `<p>${esc(d.description)}</p>` : ""}</div></div>
   <section class="offer">
     <div class="o1">${d.discount ? `<span class="big">${d.discount}% off</span>` : `<span class="big sm">Black Friday offer</span>`}${d.ends ? `<span class="left">ends ${fmt(d.ends)}</span>` : ""}</div>
     <p class="hl">${d.upcoming ? `<span class="soonTag">Coming soon</span>` : ""}${esc(d.headline)}</p>
@@ -123,6 +125,7 @@ function dealPage(d: PageDeal, related: PageDeal[]) {
   <h2 class="lbl">FULL TERMS</h2>
   <p class="terms">${esc(d.deal)}</p>
   <p class="srcs">Sources: ${sources.join(", ")}</p>
+  <div class="report"><span>Code didn't work or the deal ended?</span><a class="btn ghost" href="${esc(`${REPO}/issues/new?template=report.yml&title=${encodeURIComponent(`Report: ${d.name}`)}&product=${encodeURIComponent(d.name)}&page=${encodeURIComponent(`${SITE}deal/${d.id}/`)}`)}" target="_blank" rel="noopener">Report it</a></div>
   ${related.length ? `<section class="rel"><h2 class="lbl">MORE ${esc((d.subcategory ?? d.category).toUpperCase())} DEALS</h2>${related.map(row).join("")}</section>` : ""}
   <p class="claim">Your product? <a href="${esc(update)}" target="_blank" rel="noopener">Update this listing</a>.</p>
   <details class="badge"><summary>Add the "Listed on BF26 deals" badge to your site</summary><img src="${BASE}badge.svg" alt="Listed on BF26 deals" width="168" height="28"><textarea readonly rows="3">${esc(badge)}</textarea></details>
@@ -151,6 +154,38 @@ function categoryPage(c: Category, s: string | undefined, ds: PageDeal[], all: P
   return shell({ title: `${name} Black Friday & Cyber Monday 2026 deals (${ds.length})`, description: `${ds.length} live ${name} Black Friday 2026 deals, ${codes} with promo codes.`, path: catPath(c, s), body, noindex: c === ADULT });
 }
 
+
+// "List your product": what a listing gets and how submission works (for companies).
+function submitPage(deals: PageDeal[]) {
+  const body = `<main class="submitpage">
+  <h1>List your Black Friday deal</h1>
+  <p class="lead">Free. ${deals.length.toLocaleString()} deals and growing, read by people actively looking to buy this week. Your listing goes live as soon as it is approved.</p>
+  <div class="cta"><a class="btn go" href="${SUGGEST}" target="_blank" rel="noopener">Submit your deal (2 min form) <span aria-hidden="true">↗</span></a><a class="btn ghost" href="${REPO}/issues/new?template=deal.yml&title=${encodeURIComponent("Update: ")}" target="_blank" rel="noopener">Update an existing listing</a></div>
+  <h2 class="lbl">WHAT YOUR LISTING GETS</h2>
+  <div class="gets">
+    <div class="g"><b>Its own page</b><span>/deal/your-product/ with your offer, codes and a direct link to your site.</span></div>
+    <div class="g"><b>A real backlink</b><span>A normal followed link from your page, plus your category page and the sitemap.</span></div>
+    <div class="g"><b>Search, filters and "ending soon"</b><span>Found by name, category, platform and deadline views.</span></div>
+    <div class="g"><b>"Listed by the company" tag</b><span>Tick "I work for this company" in the form and your page shows it.</span></div>
+  </div>
+  <h2 class="lbl">HOW IT WORKS</h2>
+  <ol class="steps">
+    <li><b>Fill the form on GitHub</b><span>Product, offer, code, end date, category and where it's announced. A free GitHub account is needed.</span></li>
+    <li><b>A bot checks it</b><span>Within a minute it replies: link works, not a duplicate, valid category, and a preview of your listing.</span></li>
+    <li><b>It's approved and goes live</b><span>Approval publishes your page automatically and the bot replies with the link.</span></li>
+  </ol>
+  <h2 class="lbl">RULES</h2>
+  <ul class="rules">
+    <li>A real 2026 Black Friday, Cyber Monday or Black Week offer that anyone can check on a public page.</li>
+    <li>No permanent prices, free tiers or "coming soon" without details.</li>
+    <li>No crypto, casino, trading signals, piracy or "free premium" offers.</li>
+  </ul>
+  <h2 class="lbl">SHOW YOU'RE LISTED</h2>
+  <div class="badgebox"><img src="${BASE}badge.svg" alt="Listed on BF26 deals" width="168" height="28"><span>Copy the badge snippet from your deal page.</span></div>
+</main>`;
+  return shell({ title: "List your Black Friday 2026 deal for free", description: "Add your product's Black Friday or Cyber Monday 2026 deal to the directory: its own page, a followed link, search and category placement.", path: `${BASE}submit/`, body });
+}
+
 export function renderSite(deals: PageDeal[], builtAt: string, v: { css: string; page: string }) {
   ASSET_V = v;
   for (const dir of ["docs/deal", "docs/c"]) rmSync(dir, { recursive: true, force: true }); // drop pages of expired deals
@@ -176,7 +211,8 @@ export function renderSite(deals: PageDeal[], builtAt: string, v: { css: string;
       if (c !== ADULT) pages.push(catPath(c, s));
     }
   }
-  pages.push(...deals.filter((d) => d.category !== ADULT).map(dealPath));
+  write(`${BASE}submit/`, submitPage(deals));
+  pages.push(`${BASE}submit/`, ...deals.filter((d) => d.category !== ADULT).map(dealPath));
   writeFileSync(
     "docs/sitemap.xml",
     `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${pages.map((p) => `<url><loc>${SITE}${p.slice(BASE.length)}</loc><lastmod>${builtAt}</lastmod></url>`).join("\n")}\n</urlset>\n`,

@@ -1,0 +1,66 @@
+# Deal submissions from the "Suggest a deal" issue form.
+# - opened / edited: the bot checks the submission and comments (link works, not a duplicate, category).
+# - labeled "approved" (maintainers only): the deal is added, the site rebuilt and published,
+#   and the issue gets its page link and is closed.
+# Issue text is untrusted: it reaches the script only through env vars, never the shell.
+name: submissions
+on:
+  issues:
+    types: [opened, edited, labeled]
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: directory-build
+  cancel-in-progress: false
+jobs:
+  check:
+    if: (github.event.action == 'opened' || github.event.action == 'edited') && contains(github.event.issue.labels.*.name, 'deal')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Check submission
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_URL: ${{ github.event.issue.html_url }}
+        run: node scripts/submission.ts check > check.md || true
+      - name: Comment
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMBER: ${{ github.event.issue.number }}
+        run: gh issue comment "$NUMBER" --body-file check.md --edit-last --create-if-none
+
+  publish:
+    if: github.event.action == 'labeled' && github.event.label.name == 'approved' && contains(github.event.issue.labels.*.name, 'deal')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Add deal
+        id: add
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_URL: ${{ github.event.issue.html_url }}
+        run: echo "page=$(node scripts/submission.ts add)" >> "$GITHUB_OUTPUT"
+      - name: Build and publish
+        run: |
+          node scripts/build.ts
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "feat: add deal from #${{ github.event.issue.number }}"
+          git pull --rebase
+          git push
+      - name: Reply and close
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMBER: ${{ github.event.issue.number }}
+          PAGE: ${{ steps.add.outputs.page }}
+        run: |
+          gh issue comment "$NUMBER" --body "Published: $PAGE (live within a few minutes). Thanks for listing your deal! You can add the \"Listed on BF26 deals\" badge from that page."
+          gh issue close "$NUMBER"

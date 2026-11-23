@@ -4,10 +4,19 @@ Every deal in this directory gets its own page on the website (for example
 `https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/namecheap/`) with a normal link to your
 product, and shows up in its category page, the search and the sitemap.
 
-## The quick way
+## The quick way (companies and shoppers)
 
-[Open the "Suggest a deal" form](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml).
-Fill in the product, the offer and where it is announced. It is added in the next build.
+1. [Open the "Suggest a deal" form](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
+   and fill in the product, the offer and where it is announced. Tick "I work for this company" if you do:
+   your page then shows a "Listed by the company" tag.
+2. Within a minute a bot comments on the issue: link works, not a duplicate, valid category, and a preview.
+   Fix anything marked ❌ by editing the issue; the check runs again.
+3. A maintainer adds the `approved` label. That publishes the deal automatically, and the bot replies with
+   your page link and closes the issue.
+
+To change a listing, open the same form with the title "Update: Product name". To report a code that
+doesn't work or a deal that ended, use the [report form](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=report.yml)
+(every deal page links it).
 
 ## By pull request
 
