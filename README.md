@@ -1,6 +1,6 @@
 # Black Friday & Cyber Monday 2026 Deals Directory
 
-**2657 live deals**, **1011 with promo codes**, from 28 community deal lists on GitHub plus web, X and Reddit research. Duplicates, expired offers and "coming soon" placeholders are removed, and every deal is tagged by category, platform and pricing.
+**2843 live deals**, **1080 with promo codes**, from 28 community deal lists on GitHub plus web, X and Reddit research. Duplicates, expired offers and "coming soon" placeholders are removed, and every deal is tagged by category, platform and pricing.
 
 **Website: https://ehsanulhaquesiam.github.io/black-friday-deals-2026/** (search, filters, one-click codes, a page for every deal)
 
@@ -12,22 +12,22 @@ Black Friday is **Nov 27, 2026**, Cyber Monday is **Nov 30, 2026**. Last built *
 
 | Category | Deals | Subcategories |
 |---|---|---|
-| [AI Tools](directory/ai-tools.md) | 236 | Chat & Assistants 31, Writing & Content 41, Image & Video 81, Voice & Audio 25, Coding & Agents 22, Automation & Workflows 19, Research & Learning 14, AI APIs & Credits 3 |
-| [Developer Tools](directory/developer-tools.md) | 151 | Databases & API Clients 10, Git, CI & DevOps 14, Testing & Debugging 21, Editors & Terminals 13, Mac Dev Utilities 19, Boilerplates & Starter Kits 28, Backend, APIs & Infra 28, Monitoring & Analytics 18 |
+| [AI Tools](directory/ai-tools.md) | 243 | Chat & Assistants 31, Writing & Content 42, Image & Video 82, Voice & Audio 29, Coding & Agents 22, Automation & Workflows 20, Research & Learning 14, AI APIs & Credits 3 |
+| [Developer Tools](directory/developer-tools.md) | 158 | Databases & API Clients 10, Git, CI & DevOps 14, Testing & Debugging 22, Editors & Terminals 13, Mac Dev Utilities 23, Boilerplates & Starter Kits 28, Backend, APIs & Infra 28, Monitoring & Analytics 20 |
 | [Design](directory/design.md) | 149 | UI Kits & Templates 47, Icons, Fonts & Illustrations 8, Design & Prototyping Tools 49, Mockups & Screenshots 6, Stock Photos, Video & Music 39 |
-| [Photo, Video & Audio](directory/photo-video-audio.md) | 179 | Video Editing 40, Screen Recording 32, Photo Editing 34, Music & Audio Production 54, Podcasts & Transcription 19 |
-| [Productivity](directory/productivity.md) | 156 | Notes & Writing 35, Tasks & Projects 30, Calendar & Time Tracking 22, Focus & Habits 17, Reading & Knowledge 19, Email & Communication 14, Documents & PDFs 19 |
-| [Mac & Desktop Utilities](directory/mac-desktop-utilities.md) | 239 | Menu Bar & Dock 53, Windows & Screens 39, Clipboard, Launchers & Keyboard 48, Files, Storage & System 86, Browser Extensions 13 |
-| [Security & Privacy](directory/security-privacy.md) | 98 | VPN 25, Password Managers 8, Antivirus & Security Suites 31, Privacy & Data Removal 21, Secure Email & Storage 13 |
-| [Hosting & Cloud](directory/hosting-cloud.md) | 124 | Domains 20, Web & WordPress Hosting 44, PaaS & Serverless 2, VPS & Cloud Servers 43, Databases 1, Cloud Storage & Backup 10, Email Hosting 4 |
-| [Websites & E-commerce](directory/websites-e-commerce.md) | 202 | Website Builders & No-Code 31, WordPress Themes & Plugins 124, Forms & Surveys 18, E-commerce & Payments 29 |
+| [Photo, Video & Audio](directory/photo-video-audio.md) | 230 | Video Editing 42, Screen Recording 35, Photo Editing 40, Music & Audio Production 93, Podcasts & Transcription 20 |
+| [Productivity](directory/productivity.md) | 183 | Notes & Writing 42, Tasks & Projects 37, Calendar & Time Tracking 25, Focus & Habits 17, Reading & Knowledge 21, Email & Communication 19, Documents & PDFs 22 |
+| [Mac & Desktop Utilities](directory/mac-desktop-utilities.md) | 275 | Menu Bar & Dock 62, Windows & Screens 46, Clipboard, Launchers & Keyboard 57, Files, Storage & System 96, Browser Extensions 14 |
+| [Security & Privacy](directory/security-privacy.md) | 101 | VPN 25, Password Managers 8, Antivirus & Security Suites 32, Privacy & Data Removal 22, Secure Email & Storage 14 |
+| [Hosting & Cloud](directory/hosting-cloud.md) | 125 | Domains 20, Web & WordPress Hosting 45, PaaS & Serverless 2, VPS & Cloud Servers 43, Databases 1, Cloud Storage & Backup 10, Email Hosting 4 |
+| [Websites & E-commerce](directory/websites-e-commerce.md) | 216 | Website Builders & No-Code 32, WordPress Themes & Plugins 137, Forms & Surveys 18, E-commerce & Payments 29 |
 | [Marketing & Sales](directory/marketing-sales.md) | 245 | SEO 63, Email Marketing & Newsletters 36, Social Media 46, Ads, Leads & Outreach 62, CRM & Sales 15, Web Analytics 23 |
-| [Business & Finance](directory/business-finance.md) | 172 | Personal Finance & Investing 49, Accounting & Invoicing 17, Customer Support & Chat 27, Team & Operations 40, Startup & Indie Tools 24, Legal & Documents 15 |
-| [Learning](directory/learning.md) | 242 | Online Course Platforms 55, Programming & Tech 39, Cybersecurity Certs & Training 72, Cloud & DevOps Certs 11, Languages 25, Books & Ebooks 32, Communities & Newsletters 8 |
+| [Business & Finance](directory/business-finance.md) | 179 | Personal Finance & Investing 54, Accounting & Invoicing 18, Customer Support & Chat 28, Team & Operations 40, Startup & Indie Tools 24, Legal & Documents 15 |
+| [Learning](directory/learning.md) | 247 | Online Course Platforms 57, Programming & Tech 40, Cybersecurity Certs & Training 74, Cloud & DevOps Certs 11, Languages 25, Books & Ebooks 32, Communities & Newsletters 8 |
 | [Entertainment](directory/entertainment.md) | 74 | Streaming Video 33, Music 19, Audiobooks & Reading 6, News & Magazines 16 |
-| [Gaming](directory/gaming.md) | 54 | Game Stores & Sales 13, Game Subscriptions 2, Games & Apps 39 |
-| [Hardware & Electronics](directory/hardware-electronics.md) | 147 | Phones, Tablets & Computers 35, Audio 14, Smart Home 15, Accessories & Peripherals 61, Cameras & Drones 7, Retailer Sales 15 |
-| [Health & Lifestyle](directory/health-lifestyle.md) | 151 | Fitness & Workouts 30, Health & Mental Wellbeing 38, Food & Nutrition 13, Travel & Navigation 13, Family, Kids & Relationships 15, Hobbies & Home 34, Weather & Misc 8 |
+| [Gaming](directory/gaming.md) | 59 | Game Stores & Sales 15, Game Subscriptions 2, Games & Apps 42 |
+| [Hardware & Electronics](directory/hardware-electronics.md) | 150 | Phones, Tablets & Computers 35, Audio 17, Smart Home 15, Accessories & Peripherals 61, Cameras & Drones 7, Retailer Sales 15 |
+| [Health & Lifestyle](directory/health-lifestyle.md) | 171 | Fitness & Workouts 32, Health & Mental Wellbeing 45, Food & Nutrition 14, Travel & Navigation 18, Family, Kids & Relationships 16, Hobbies & Home 36, Weather & Misc 10 |
 | [Bundles & Deal Sites](directory/bundles-deal-sites.md) | 8 | Bundles 8 |
 | [Adult (18+)](directory/adult-18.md) | 30 | Adult Sites & Subscriptions 9, Adult Games 3, Adult Toys & Wellness 18 |
 
@@ -59,6 +59,7 @@ Black Friday is **Nov 27, 2026**, Cyber Monday is **Nov 30, 2026**. Last built *
 | [Daily Time Tracking](https://dailytimetracking.com/?utm_source=bf2026-github-tony) | Mac time tracker that asks what you are doing at intervals instead of using timers. | Up to 30% off, lifetime $99.99 → $69.99 | `DAILYBF2026` | Nov 23 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/dailytimetracking/) |
 | [Domain.com](https://www.domain.com/) | Domain registrar with hosting and Google Workspace. | 30% off domains, 50% off Google Workspace | `GETONLINENOW` `SITEWIDE30` | Nov 23 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/domain/) |
 | [Flavio Copes AI Workshop and Masterclasses](https://flaviocopes.com/black-friday/) | Programming courses on AI, TypeScript, React and Git. | Workshop $299 → $99, 4 masterclasses for $49 |  | Nov 23 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/flaviocopesaiworkshopandmasterclasses/) |
+| [Focus On Today](https://focusonto.day) | Flexible task manager and to-do list for Mac. | 75% off, now $9.99 |  | Nov 23 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/focusontoday/) |
 | [KSEC Labs](https://labs.ksec.co.uk/black-friday-sale/) | RFID tools, lock picking kits and penetration testing hardware from the UK. | Up to £300 off, 3-for-2 RFID cards |  | Nov 23 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/kseclabs/) |
 | [LearnWorlds](https://get.learnworlds.com/coupon) | Platform to create and sell online courses. | Up to 39% off Learning Center plans |  | Nov 23 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/learnworlds/) |
 | [Mailmodo](https://www.mailmodo.com/) | Email marketing with interactive AMP emails. | 20% off annual plans |  | Nov 23 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/mailmodo/) |
@@ -125,7 +126,7 @@ Merged from these lists. Thank you to their maintainers and contributors.
 - [refinism-B/Awesome-Black-Friday-2026-zh](https://github.com/refinism-B/Awesome-Black-Friday-2026-zh)
 - Web, X and Reddit research: vendor pages, dated 2026 roundups and posts by the vendors themselves, linked on each deal's page.
 
-8500 rows parsed, 2745 unique deals after merging, 46 expired and 30 unconfirmed listings removed. Descriptions and headlines are written for this list.
+8693 rows parsed, 2927 unique deals after merging, 42 expired and 30 unconfirmed listings removed. Descriptions and headlines are written for this list.
 
 ## Rebuild
 

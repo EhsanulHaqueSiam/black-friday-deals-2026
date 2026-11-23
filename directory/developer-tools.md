@@ -2,16 +2,16 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/developer-tools/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**151 live deals**, 95 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**158 live deals**, 97 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
 - [Databases & API Clients](#databases--api-clients) (10)
 - [Git, CI & DevOps](#git-ci--devops) (14)
-- [Testing & Debugging](#testing--debugging) (21)
+- [Testing & Debugging](#testing--debugging) (22)
 - [Editors & Terminals](#editors--terminals) (13)
-- [Mac Dev Utilities](#mac-dev-utilities) (19)
+- [Mac Dev Utilities](#mac-dev-utilities) (23)
 - [Boilerplates & Starter Kits](#boilerplates--starter-kits) (28)
 - [Backend, APIs & Infra](#backend-apis--infra) (28)
-- [Monitoring & Analytics](#monitoring--analytics) (18)
+- [Monitoring & Analytics](#monitoring--analytics) (20)
 
 ## Databases & API Clients
 
@@ -71,6 +71,7 @@
 | [VibeView](https://vibeview.io/) | Runs iPhone, Android and TV apps live in the browser. | 30% off first month or 25% off first year |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/vibeview/) |
 | [Polypane](https://polypane.app/) | Browser for testing responsive layouts and accessibility. | 25% off all plans |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/polypane/) |
 | [Mailtrap](https://mailtrap.io/) | Email testing sandbox and sending platform for developers. | 15% off annual plans | `BFCM26` | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/mailtrap/) |
+| [MailScope](https://mailscope.app/blackfriday) | Native Mac tool to catch and preview development emails locally. | $19 instead of $29 | `BF2026` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/mailscope/) |
 | [Pingers network tools](https://apps.apple.com/us/app/pingers-network-tools/id1583513038) | Network tools such as ping and port scan for iPhone and Mac. | $3.99 one-time |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/pingersnetworktools/) |
 
 ## Editors & Terminals
@@ -106,6 +107,8 @@
 | [BucketMate](https://www.bucketmate.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Finder-style S3 storage client for macOS, iOS and the web. | 40% off all lifetime licenses | `BF2026` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/bucketmate/) |
 | [DevWorkspace Pro](https://devworkspacepro.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Desktop workspace that groups each project's files, terminals, services and logs. | 40% off all plans | `BLACKFRIDAY40OFF` | Dec 10 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/devworkspacepro/) |
 | [Diffacto](https://diffacto.com/#pricing) | Compares two versions of files or folders on Mac, from code to images and video. | 40% off Pro, $149 → $89.40 one-time |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/diffacto/) |
+| [DMGKit](https://dmgkit.app) | Builds, signs and notarizes custom DMG and PKG installers for Mac apps. | 40% off the one-time license | `DMGKIT40BF` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/dmgkit/) |
+| [FinderPeek](https://apps.apple.com/us/app/finderpeek-quick-code-viewer/id6761670824?mt=12) | Quick Look syntax highlighter and JSON/XML inspector for Finder. | 40% off, now $2.99 |  | Nov 28 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/finderpeek/) |
 | [LLM Radar](https://llm-radar-eta.vercel.app/?utm_source=awesome-black-friday&utm_medium=deal-list&utm_campaign=bf2026) | Shows which local AI models are loaded in RAM, by which app, and their disk use on Mac. | 40% off Pro, 1 Mac $9.99 → $5.99 | `BF2026` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/llmradar/) |
 | [Warplet](https://warplet.app/) | Mac app connecting hosted AI chat clients to your local MCP servers in one click. | 40% off first year of Annual, $14.99 → $8.99 | `BLACKFRIDAY2026` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/warplet/) |
 | [SpaceWise](https://www.spacewisemac.in/) | Cleans developer caches and build files to free disk space. | 25% off lifetime, $7.99 → $5.99 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/spacewise/) |
@@ -113,7 +116,9 @@
 | [Stratos](https://stratosapp.dev/buy/) | Native macOS local dev stack for PHP, Laravel and Node, with tunnels and an MCP bridge. | 20% off, Founder lifetime $89 → $71.20 | `BFCM20` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/stratos/) |
 | [MacVisor](https://scaleninja.com/macvisor/) | Runs macOS, Windows, Linux and FreeBSD virtual machines on Mac with automatic setup. | 15% off | `BLACKFRIDAY15` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/macvisor/) |
 | [Looq](https://parcse.com/looq?utm_source=awesome-black-friday) | Quick Look upgrade for previewing Markdown, code, SQLite and more on Mac. | 10% off, Single $10 → $9 | `PARCSEBLACKFRIDAY` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/looq/) |
+| [GIS Quick Viewer](https://apps.apple.com/us/app/gis-quick-viewer/id6762661962?mt=12) | Quick Look viewer for GIS files with map, attributes and features. | $3.99 instead of $5.99 |  | Nov 28 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/gisquickviewer/) |
 | [KloudUtils](https://kloudutils.com/?utm_source=trungdq88-blackfriday) | Toolbox of 55+ developer utilities for code, APIs, files, secrets and AI agents. | $30 off Pro license, $79 → $49 | `BFCM2026_PRO` `BFCM2026_STD` | Dec 6 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/kloudutils/) |
+| [Latent](https://latentmac.com) | Mac disk cleaner that understands leftovers from coding agents, Xcode and Docker. | $9.99 instead of $12.99 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/latent/) |
 
 ## Boilerplates & Starter Kits
 
@@ -191,6 +196,7 @@
 | [CostGoat](https://costgoat.com/?utm_source=bfcm-twf&utm_medium=referral&utm_campaign=bfcm2026) | Desktop app that tracks AI, cloud and SaaS spending in real time. | 50% off lifetime, $199 → $99 | `FCBF26` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/costgoat/) |
 | [RealUptime](https://realuptime.io/pricing) | Uptime monitoring, status pages and error tracking in one plan. | 50% off for life for first 20, then 40% off |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/realuptime/) |
 | [Super Monitoring](https://www.supermonitoring.com/) | Website uptime and performance monitoring. | **Soon.** 50% off one time for new customers | `SUPERBLACK26` | Dec 15 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/supermonitoring/) |
+| [Testomato](https://testomato.com/black-friday/) | Uptime and website monitoring with content checks and status pages. | 50% off all plans for a year |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/testomato/) |
 | [Web Performance Report](https://webperformancereport.com/plans/) | Website performance and health reports by email. | 50% off your first year on paid plans | `BLACK50` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/webperformancereport/) |
 | [GTmetrix](https://gtmetrix.com/) | Website speed testing and performance monitoring. | 40% off all plans | `BF2026` | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/gtmetrix/) |
 | [Ping](https://ping.neat.software/?ref=trungdq) | Native macOS uptime monitor for sites, APIs and LAN devices in the menu bar. | 40% off Pro lifetime, $14.99 → $8.99 | `NEATBF26` | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/ping/) |
@@ -202,4 +208,5 @@
 | [Open Pi - Raspberry Pi Manager](https://openpi.uk/) | Monitors Raspberry Pi health and manages Docker, files, GPIO and SSH from Apple devices. | 20% off lifetime, $5.99 → $4.79 | `ARTSVITBF20` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/openpi/) |
 | [Pagerly](https://pagerly.io?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | On-call schedules, alerting and incident response in Slack and Teams. | 20% off all paid plans | `BF20` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/pagerly/) |
 | [12happy](https://www.12hpy.com/deals/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black-friday-2026) | Uptime monitoring and status pages for websites, APIs and cron jobs. | 3 months of Pro free, normally $15/mo | `BLACKFRIDAY` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/12happy/) |
+| [Superpose Analytics](https://getsuperpose.app) | Local-first Mac app for App Store revenue, installs and ad costs. | $79 a year instead of $149 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/superposeanalytics/) |
 | [Toplify](https://toplify.app) | Tracks your app's App Store chart positions in 175 countries. | Lifetime $89.99 → $49.99 | `BLKFR2026` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/toplify/) |

@@ -2,10 +2,10 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/hosting-cloud/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**124 live deals**, 44 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**125 live deals**, 44 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
 - [Domains](#domains) (20)
-- [Web & WordPress Hosting](#web--wordpress-hosting) (44)
+- [Web & WordPress Hosting](#web--wordpress-hosting) (45)
 - [PaaS & Serverless](#paas--serverless) (2)
 - [VPS & Cloud Servers](#vps--cloud-servers) (43)
 - [Databases](#databases) (1)
@@ -52,6 +52,7 @@
 | [Hostinger](https://www.hostinger.com/) | Shared, WordPress and cloud web hosting. | Up to 85% off hosting, from $2.24/mo | `BLACKFRIDAYREDDIT` | Dec 14 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/hostinger/) |
 | [HostGator](https://www.hostgator.com/) | Shared and WordPress web hosting. | Up to 84% off plus free domain |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/hostgator/) |
 | [Cloudways](https://www.cloudways.com/) | Managed cloud hosting for WordPress, PHP apps and online stores. | 80% off for 2 months, plus free migrations | `BFCM802` | Dec 5 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/cloudways/) |
+| [SantoHost](https://santohost.com/black-friday/) | WordPress and web hosting provider. | 80% off hosting |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/santohost/) |
 | [YouStable](https://www.youstable.com/coupons/black-friday-web-hosting-deals) | Shared, WordPress and VPS hosting. | Up to 80% off plus extra 10%, from $0.62/mo | `BFCM10` | Dec 5 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/youstable/) |
 | [xCloud Black Friday 2026](https://xcloud.host/deal/) | Server control panel and cloud VPS hosting for WordPress. | Up to 77% off lifetime panel, 65% off cloud VPS |  | Dec 4 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/xcloudblackfriday2026/) |
 | [DreamHost](https://www.dreamhost.com/) | Shared, WordPress and VPS web hosting. | Up to 75% off shared hosting |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/dreamhost/) |

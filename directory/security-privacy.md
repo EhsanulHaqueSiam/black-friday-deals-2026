@@ -2,13 +2,13 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/security-privacy/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**98 live deals**, 25 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**101 live deals**, 25 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
 - [VPN](#vpn) (25)
 - [Password Managers](#password-managers) (8)
-- [Antivirus & Security Suites](#antivirus--security-suites) (31)
-- [Privacy & Data Removal](#privacy--data-removal) (21)
-- [Secure Email & Storage](#secure-email--storage) (13)
+- [Antivirus & Security Suites](#antivirus--security-suites) (32)
+- [Privacy & Data Removal](#privacy--data-removal) (22)
+- [Secure Email & Storage](#secure-email--storage) (14)
 
 ## VPN
 
@@ -63,6 +63,7 @@
 | [Norton 360](https://us.norton.com/products) | Antivirus suite with VPN, password manager and identity protection. | Up to 76% off, from $29.99 first year |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/norton360/) |
 | [Bitdefender GravityZone](https://get.bitdefender.com/black-friday) | Business endpoint protection and security platform. | 70% off all business security products |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/bitdefendergravityzone/) |
 | [McAfee](https://www.mcafee.com/) | Antivirus with identity and privacy protection. | Plus Advanced $200 → $60 first year |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/mcafee/) |
+| [Tidy My Mac](https://www.tidymymac.com/black-friday/) | Mac cleaner and security suite with antivirus, firewall and VPN. | 67% off yearly, $79 lifetime |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/tidymymac/) |
 | [AdverseMonitor](https://adversemonitor.com/black-friday) | Threat intelligence platform for managed security service providers. | 40% to 60% off the first year of yearly plans | `14-day` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/adversemonitor/) |
 | [Avast](https://www.avast.com/) | Antivirus and security suite for computers and phones. | 60% off first year, from $31.20 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/avast/) |
 | [AVG](https://www.avg.com/) | Antivirus and internet security software. | 60% off Internet Security and Ultimate, from $31.20/yr |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/avg/) |
@@ -112,6 +113,7 @@
 | [Hidemyacc](https://hidemyacc.com/) | Anti-detect browser for managing multiple accounts. | 10% off first purchase | `HMABF2026` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/hidemyacc/) |
 | [Paperweight](https://www.paperweight.email/pricing#black-friday) | Local-first app that maps your accounts from your inbox and helps close old ones. | Lifetime Pro $149 one-time |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/paperweight/) |
 | [ScreenShield](https://sky-blue1111.github.io/screenshield-site/?utm_source=bfdeals-mrs#pricing) | Chrome extension that hides emails, card numbers and API keys while screen sharing. | Lifetime Pro $49 → $29 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/screenshield/) |
+| [Scrub Before Send](https://apps.apple.com/us/app/scrub-before-send/id6807475333) | Finds and removes personal info, faces and GPS data from images before sharing. | $7.99 instead of $12.99 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/scrubbeforesend/) |
 | [SecretShot](https://secretshot.zorrinapps.com) | PIN-protected photo and video vault disguised as a calculator, converter or puzzle. | Lifetime launch price $14.99 | `BFCM26` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/secretshot/) |
 | [ShutterMinder](https://apps.apple.com/app/id6774975728) | Mac menu bar app that reminds you to close your webcam cover after calls. | $9.99 → $4.99 one-time |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/shutterminder/) |
 
@@ -128,6 +130,7 @@
 | [Proton Mail](https://proton.me/mail/black-friday) | End-to-end encrypted email and calendar based in Switzerland. | 50% off annual plan |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/protonmail/) |
 | [Proton Unlimited](https://proton.me/pricing) | Bundle of Proton Mail, VPN, Drive and Pass with end-to-end encryption. | 50% off 1-year plan, $6.49/mo |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/protonunlimited/) |
 | [StartMail](https://startmail.com) | Private encrypted email service. | 50% off annual secure email plans, plus 3 free months |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/startmail/) |
+| [Vault: Photos, Videos & Files](https://apps.apple.com/us/app/vault-photos-videos-files/id6826777976) | Encrypted offline photo and file vault with no ads or tracking. | 50% off Lifetime Pro |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/vault/) |
 | [Proton Workspace](https://now.getproton.me/4fqhzkz1ve4y-ojmzz6) | Encrypted email, calendar, drive and VPN for businesses. | 40% off all annual subscriptions |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/protonworkspace/) |
 | [SimpleumSafe](https://simpleum.com/en/safe/buy/?utm_source=bf26-trung) | Encrypted vault for private photos and documents on Mac, iPhone and iPad. | 30% off, Mac $99.99 → $69.99 |  | Dec 6 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/simpleumsafe/) |
 | [Hushmail](https://www.hushmail.com) | HIPAA-compliant encrypted email and forms for healthcare. | 25% off the first year for new customers |  | Dec 4 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/hushmail/) |

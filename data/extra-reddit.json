@@ -1,0 +1,3465 @@
+[
+ {
+  "name": "Cullstack",
+  "url": "https://cullstack.com",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Photo Editing",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux"
+  ],
+  "pricing": "one-time",
+  "description": "Photo culling app that rates and sorts shots in place and flags blinks and blur on-device.",
+  "deal": "Pro $119 instead of $179, applied at checkout, through Jan 2, 2027.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19t2i41t14534/",
+  "headline": "Pro license $119 instead of $179",
+  "ends": "2027-01-02"
+ },
+ {
+  "name": "PopClip",
+  "url": "https://www.popclip.app/",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Action bar that pops up when you select text in any Mac app.",
+  "deal": "30% off: $29 to $20.30, no code needed, through Dec 1.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19sxe30xe0qf5/",
+  "headline": "30% off, now $20.30",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Bloom",
+  "url": "https://bloomapp.club",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Refined Finder replacement for browsing and managing files on Mac.",
+  "deal": "25% off: $16 to $12 with code BLACKFRIDAY2026, through Nov 30.",
+  "codes": [
+   "BLACKFRIDAY2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ssdgqgfmchv/",
+  "headline": "25% off, now $12",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "WidgetScreen",
+  "url": "https://widgetscreen.app",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Puts widgets and a StandBy mode on the Mac lock screen.",
+  "deal": "50% off: $9.99 to $4.99 with code BLACKFRIDAY, through Nov 30.",
+  "codes": [
+   "BLACKFRIDAY"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19stezzb29sqt/",
+  "headline": "50% off, now $4.99",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "ClipBook",
+  "url": "https://clipbook.app/",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Open source keyboard-first clipboard manager with tags, paste stacks and text transforms.",
+  "deal": "50% off: $14.99 to $7.49 with code BLACK26, through Dec 15.",
+  "codes": [
+   "BLACK26"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19sv5g1k2wfcx/",
+  "headline": "50% off, now $7.49",
+  "ends": "2026-12-15"
+ },
+ {
+  "name": "SuperCmd",
+  "url": "https://supercmd.sh",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Native Mac launcher that runs Raycast-style extensions, dictation and hotkeys.",
+  "deal": "$39.99 to $14.99 with code WZZ2FBIK, through Dec 8.",
+  "codes": [
+   "WZZ2FBIK"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ss61urcbl4y/",
+  "headline": "$14.99 instead of $39.99",
+  "ends": "2026-12-08"
+ },
+ {
+  "name": "Atlas: Write and Collect",
+  "url": "https://contagious.dev/atlas",
+  "category": "Productivity",
+  "subcategory": "Notes & Writing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Creative workspace to write, collect inspiration and publish your work.",
+  "deal": "50% off: $59.99 to $29.99, no code, Nov 27 to Dec 1.",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19sty7c7y405g/",
+  "headline": "50% off, now $29.99",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Hold My Notes",
+  "url": "https://holdmynotes.app",
+  "category": "Productivity",
+  "subcategory": "Notes & Writing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Sticky notes that dock at the screen edge with sync, Markdown and to-dos.",
+  "deal": "$14.99 to $9.99 with code 3YD72UAV, through Dec 1.",
+  "codes": [
+   "3YD72UAV"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ss5ivfjsekk/",
+  "headline": "$9.99 instead of $14.99",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Gesturely",
+  "url": "https://aryxzing.pages.dev",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Windows & Screens",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Trackpad gestures to snap windows, change volume and brightness and take screenshots.",
+  "deal": "25% off: $5 to $3.75 with code BLACKFRIDAY26, through Dec 1.",
+  "codes": [
+   "BLACKFRIDAY26"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19sxf76i2lhvl/",
+  "headline": "25% off, now $3.75",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Rocket Typist",
+  "url": "https://www.witt-software.com/en/rockettypist/",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Text expander for reusable replies, templates and signatures on Mac.",
+  "deal": "Direct Mac license $19.99 to $10, no code, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19sytwnyckatc/",
+  "headline": "Half price, now $10",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Overlaid",
+  "url": "https://useoverlaid.app",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Windows & Screens",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Draw, zoom and spotlight the cursor over any app while presenting.",
+  "deal": "25% off: $4.99 to $3.74 with code BLACKFRIDAY25, through Dec 1.",
+  "codes": [
+   "BLACKFRIDAY25"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ssxvsnewk3k/",
+  "headline": "25% off, now $3.74",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Vehla",
+  "url": "https://vehla.app",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac command center with window management, clipboard history, screenshots and automation.",
+  "deal": "30% off: $29.99 to $20.99 via the Black Friday checkout link, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ss31q2zs5vn/",
+  "headline": "30% off, now $20.99",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "VidFeather",
+  "url": "https://vidfeather.com",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Video Editing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Shrinks videos in the Photos library while keeping dates, places, albums and HDR.",
+  "deal": "$29 to $19 with code BF2026, through Dec 1.",
+  "codes": [
+   "BF2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19straxziqke8/",
+  "headline": "$19 instead of $29",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Grabbit",
+  "url": "https://grabbit.fyi/",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Native download manager for Mac with multi-threaded downloads, torrents and stream grabbing.",
+  "deal": "25% off: $9.99 to $7.49 with code BLACKFRIDAY25, through Nov 30.",
+  "codes": [
+   "BLACKFRIDAY25"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19svvt66drhs3/",
+  "headline": "25% off, now $7.49",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Rapidfire",
+  "url": "https://deposombe.com/rapidfire/",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Keyboard launcher that shows the keys for apps, files, sites and deep links.",
+  "deal": "25% off: $20 to $15 (3 Macs) with code BLACKFRIDAY, through Dec 6.",
+  "codes": [
+   "BLACKFRIDAY"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19t0ltdrt9arp/",
+  "headline": "25% off, now $15 for 3 Macs",
+  "ends": "2026-12-06"
+ },
+ {
+  "name": "Lattix",
+  "url": "https://www.lattix.app",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Windows & Screens",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Window and workspace manager that restores app layouts across monitors and Spaces.",
+  "deal": "50% off: $19.99 to $9.99 with code BLACKFRIDAY26, through Dec 2.",
+  "codes": [
+   "BLACKFRIDAY26"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ss193xc2xts/",
+  "headline": "50% off, now $9.99",
+  "ends": "2026-12-02"
+ },
+ {
+  "name": "Muffle",
+  "url": "https://www.getmuffle.com",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Windows & Screens",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Blurs everything except the active window to cut distractions.",
+  "deal": "50% off: $7.99 to $3.99 with code BLACKFRIDAY26, through Dec 2.",
+  "codes": [
+   "BLACKFRIDAY26"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ss1evj1s2bp/",
+  "headline": "50% off, now $3.99",
+  "ends": "2026-12-02"
+ },
+ {
+  "name": "WindowBunny",
+  "url": "https://www.windowbunny.com/",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Windows & Screens",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Window switcher for Mac built for trackpad users.",
+  "deal": "50% off with code BLACKFRIDAY26, through Dec 2.",
+  "codes": [
+   "BLACKFRIDAY26"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xxwfe5/comment/19svop2k92291/",
+  "headline": "50% off",
+  "ends": "2026-12-02"
+ },
+ {
+  "name": "ClingSpace",
+  "url": "https://clingspace.com",
+  "category": "Productivity",
+  "subcategory": "Tasks & Projects",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Local-first project organizer that groups files, folders, links and snippets without moving them.",
+  "deal": "60% off lifetime: $19.99 to $8 with code BLACKFRIDAY8, through Nov 30.",
+  "codes": [
+   "BLACKFRIDAY8"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ssjxrdpy18g/",
+  "headline": "60% off lifetime, now $8",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "BetterMacWidgets",
+  "url": "https://bettermacwidgets.de",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Interactive desktop and lock screen widgets for Mac in glass, frosted and clear styles.",
+  "deal": "Pro €15.99 to €11.99, Bundle €19.99 to €14.99 with code BLACKFRIDAY25, Nov 17 to Dec 1.",
+  "codes": [
+   "BLACKFRIDAY25"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ss8grbijw74/",
+  "headline": "Pro €11.99, bundle €14.99",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "GIS Quick Viewer",
+  "url": "https://apps.apple.com/us/app/gis-quick-viewer/id6762661962?mt=12",
+  "category": "Developer Tools",
+  "subcategory": "Mac Dev Utilities",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Quick Look viewer for GIS files with map, attributes and features.",
+  "deal": "$5.99 to $3.99 on the Mac App Store, through Nov 28.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ssmbh9yd03m/",
+  "headline": "$3.99 instead of $5.99",
+  "ends": "2026-11-28"
+ },
+ {
+  "name": "Ember: Journal & Life Archive",
+  "url": "https://ember.mov",
+  "category": "Productivity",
+  "subcategory": "Notes & Writing",
+  "platforms": [
+   "mac",
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Journal that links memories to the people in them across Mac, iPhone and iPad.",
+  "deal": "Lifetime 50% off: $59.99 to $29.99 on the App Store, Nov 27 to Dec 1.",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19t168k7tbkxv/",
+  "headline": "50% off lifetime, now $29.99",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Ethos: Family & Daily Routines",
+  "url": "https://ethosplanner.app",
+  "category": "Productivity",
+  "subcategory": "Tasks & Projects",
+  "platforms": [
+   "mac",
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Weekly routine planner with shared household chores for Apple devices.",
+  "deal": "Ethos Plus Lifetime 38% off: £12.99 to £7.99 in the app, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ss7zbrbeu9u/",
+  "headline": "38% off lifetime",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Nameshot",
+  "url": "https://nameshot.app",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Renames Mac screenshots automatically with on-device intelligence.",
+  "deal": "50% off: $9.99 to $4.99 through Black Friday.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ss7yqhdjpad/",
+  "headline": "50% off, now $4.99"
+ },
+ {
+  "name": "ModusPad",
+  "url": "https://moduspad.com",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "App launcher and custom Dock with folders, per-desktop Docks and auto-switching setups.",
+  "deal": "60% off: $10.99 to $4.40 with code BLACKFRIDAY2026, through Dec 5.",
+  "codes": [
+   "BLACKFRIDAY2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ssabgeoln0h/",
+  "headline": "60% off, now $4.40",
+  "ends": "2026-12-05"
+ },
+ {
+  "name": "Badgeify",
+  "url": "https://badgeify.app",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Shows unread badges from any Mac app in the menu bar.",
+  "deal": "Lifetime 50% off: $19 to $9.50 with code MACAPPS, through Nov 30.",
+  "codes": [
+   "MACAPPS"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19svlx742t39e/",
+  "headline": "50% off lifetime, now $9.50",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Macuse",
+  "url": "https://macuse.app",
+  "category": "AI Tools",
+  "subcategory": "Automation & Workflows",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Local MCP server that lets AI assistants use Calendar, Mail, Notes and other Mac apps.",
+  "deal": "Lifetime $49 to $29 with code MACAPPS, through Nov 30.",
+  "codes": [
+   "MACAPPS"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19svlyh5h6oqr/",
+  "headline": "Lifetime $29 instead of $49",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Askmeety",
+  "url": "https://askmeety.app",
+  "category": "AI Tools",
+  "subcategory": "Voice & Audio",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Offline meeting recorder that transcribes and summarizes with on-device AI.",
+  "deal": "62% off: $55 to $20 with code BLACKDUCK60, through Nov 30.",
+  "codes": [
+   "BLACKDUCK60"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ss6kekt1tc0/",
+  "headline": "62% off, now $20",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "MacAudio",
+  "url": "https://macaudio.app",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Native per-app volume mixer in the Mac menu bar.",
+  "deal": "About 54% off: $29 to $13.30 with code REDDIT40, through Nov 27.",
+  "codes": [
+   "REDDIT40"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ss3d39w89tv/",
+  "headline": "About half off, now $13.30",
+  "ends": "2026-11-27"
+ },
+ {
+  "name": "Convert2Any",
+  "url": "https://convert2any.app",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Private Mac file converter for images, video, audio, documents and ebooks, with OCR.",
+  "deal": "$24.99 to $14.99 with code BLACKFRIDAY26, through Dec 1.",
+  "codes": [
+   "BLACKFRIDAY26"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19sstxzzmyg1w/",
+  "headline": "40% off, now $14.99",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Invoiceur",
+  "url": "https://invoiceur.app",
+  "category": "Business & Finance",
+  "subcategory": "Accounting & Invoicing",
+  "platforms": [
+   "mac",
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Simple invoicing app for independent professionals on Apple devices.",
+  "deal": "Lifetime 50% off: $179 to $89 with App Store offer code BLACKFRIYAY26, through Nov 30.",
+  "codes": [
+   "BLACKFRIYAY26"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19st1a00rghj4/",
+  "headline": "50% off lifetime, now $89",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Remotr",
+  "url": "https://remotr.app",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Windows & Screens",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Access a Mac from Windows over RDP with clipboard sharing and unattended login.",
+  "deal": "30% off: Personal $9.99 to $6.99, Pro $29.99 to $20.99 with code 1RDUW7I6, through Nov 28.",
+  "codes": [
+   "1RDUW7I6"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19st7jcd60v5v/",
+  "headline": "30% off Personal and Pro",
+  "ends": "2026-11-28"
+ },
+ {
+  "name": "MailScope",
+  "url": "https://mailscope.app/blackfriday",
+  "category": "Developer Tools",
+  "subcategory": "Testing & Debugging",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Native Mac tool to catch and preview development emails locally.",
+  "deal": "$29 to $19 with code BF2026, through Nov 30.",
+  "codes": [
+   "BF2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19swfwpo2nwsj/",
+  "headline": "$19 instead of $29",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Prequel",
+  "url": "https://prequel.sh",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Screen Recording",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Cinematic Mac screen recorder with auto zoom, camera frame and 4K export.",
+  "deal": "Lifetime 30% off: $39 to $27.30 with code PREQUEL30, through December.",
+  "codes": [
+   "PREQUEL30"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19swkmza7yq4j/",
+  "headline": "30% off lifetime, now $27.30",
+  "ends": "2026-12-31"
+ },
+ {
+  "name": "GIFBarn",
+  "url": "https://gifbarn.com/",
+  "category": "Productivity",
+  "subcategory": "Email & Communication",
+  "platforms": [
+   "mac",
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "GIF search and favorites app for Mac menu bar, iPhone and iPad.",
+  "deal": "Pro one-time 50% off: $9.99 to $4.99 in the app, through Dec 1.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19swnrj8r5v42/",
+  "headline": "50% off Pro, now $4.99",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "AppGrid",
+  "url": "https://appgridmac.com/pricing/",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Launchpad replacement for Mac with multi-select, sorting and saved layouts.",
+  "deal": "Direct Pro lifetime (5 Macs) 50% off: $25 to $12.50 with code BF2026, through Nov 30.",
+  "codes": [
+   "BF2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19sx1b6wa38hu/",
+  "headline": "50% off Pro lifetime, now $12.50",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "myPDF",
+  "url": "https://apps.apple.com/app/id6751173174",
+  "category": "Productivity",
+  "subcategory": "Documents & PDFs",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "PDF editor for Apple silicon Macs that edits real text, fills forms and compares versions.",
+  "deal": "Premium 50% off: $6.99 to $3.49 on the Mac App Store, through Nov 29.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19sx7g0bfkp8h/",
+  "headline": "50% off Premium, now $3.49",
+  "ends": "2026-11-29"
+ },
+ {
+  "name": "Focus On Today",
+  "url": "https://focusonto.day",
+  "category": "Productivity",
+  "subcategory": "Tasks & Projects",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Flexible task manager and to-do list for Mac.",
+  "deal": "Mac license $39.99 to $9.99, no code, through Nov 23.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19szs5la30ibo/",
+  "headline": "75% off, now $9.99",
+  "ends": "2026-11-23"
+ },
+ {
+  "name": "Nagbar",
+  "url": "https://nagbar.app",
+  "category": "Productivity",
+  "subcategory": "Tasks & Projects",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Reminders that escalate from menu bar to full screen until done.",
+  "deal": "50% off: $20 to $10 with code NAGBAR50, through Nov 30.",
+  "codes": [
+   "NAGBAR50"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19t08k465p96s/",
+  "headline": "50% off, now $10",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "GoodTask",
+  "url": "https://goodtaskapp.com",
+  "category": "Productivity",
+  "subcategory": "Tasks & Projects",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Apple Reminders and Calendar task manager with boards and bulk actions.",
+  "deal": "Mac one-time purchase 50% off: $39.99 to $19.99, through Dec 1.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19t1x6u8q7jcx/",
+  "headline": "50% off, now $19.99",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Folia Files",
+  "url": "https://foliafiles.com/",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Native Mac file manager with side-by-side panes, ten views and in-document search.",
+  "deal": "$49.99 to $34.99 (3 Macs), applied at checkout, through Dec 1.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19t23fcjar1s3/",
+  "headline": "30% off, now $34.99",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Tyme",
+  "url": "https://www.tyme-app.com",
+  "category": "Productivity",
+  "subcategory": "Calendar & Time Tracking",
+  "platforms": [
+   "mac",
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "Time tracking for freelancers across Mac, iPhone and Apple Watch.",
+  "deal": "40% off the annual plan: $59.99 to $35.99, no code, through Dec 3.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19t2jlyu15m0x/",
+  "headline": "40% off the annual plan",
+  "ends": "2026-12-03"
+ },
+ {
+  "name": "Courant Mail",
+  "url": "https://apps.apple.com/app/id6819963477",
+  "category": "Productivity",
+  "subcategory": "Email & Communication",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Native email client for Mac.",
+  "deal": "$49.99 to $34.99 on the App Store, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19t2l8h2nogcg/",
+  "headline": "30% off, now $34.99",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Video Atlas",
+  "url": "https://apps.apple.com/us/app/video-atlas-video-search/id6792364636?platform=mac",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Video Editing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Searches a Mac video library by scene or person with on-device AI.",
+  "deal": "Pro Lifetime 50% off: $29.99 to $14.99, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19t2piuncuabl/",
+  "headline": "50% off Pro Lifetime",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Fotilo",
+  "url": "https://fotilo.app",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Screen Recording",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac screenshots and screen recording with multi-shot canvases and voice dubbing.",
+  "deal": "Lifetime 50% off in every region: $59 to $29.50, screenshot-only $19 to $9.50, through Dec 1.",
+  "codes": [
+   "BF2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19t2sgzxoum6d/",
+  "headline": "50% off lifetime, now $29.50",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Typeside",
+  "url": "https://typeside.app",
+  "category": "AI Tools",
+  "subcategory": "Writing & Content",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac typing assistant with autocomplete, voice typing and AI text editing.",
+  "deal": "Lifetime $49.90 to $14.95, applied at checkout, through Nov 29.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ss2fb3k7f0g/",
+  "headline": "Lifetime $14.95 instead of $49.90",
+  "ends": "2026-11-29"
+ },
+ {
+  "name": "Tidy My Mac",
+  "url": "https://www.tidymymac.com/black-friday/",
+  "category": "Security & Privacy",
+  "subcategory": "Antivirus & Security Suites",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "Mac cleaner and security suite with antivirus, firewall and VPN.",
+  "deal": "67% off: $59.99/year to $19.99/year, or a $79 lifetime license, through Dec 1.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ss5jk1fa18k/",
+  "headline": "67% off yearly, $79 lifetime",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Paws Off",
+  "url": "https://trypawsoff.app",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Locks the keyboard for cleaning or when a cat walks across it.",
+  "deal": "$5.99 to $3.99, applied at checkout, through Dec 1.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19st0ohl8hsqq/",
+  "headline": "$3.99 instead of $5.99",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "My Styles for Safari",
+  "url": "https://apps.apple.com/us/app/my-styles-custom-website-look/id6766115872",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Browser Extensions",
+  "platforms": [
+   "mac",
+   "ios",
+   "browser-extension"
+  ],
+  "pricing": "one-time",
+  "description": "Safari extension to restyle websites with custom CSS and dark mode.",
+  "deal": "$3.99 to $2.49 on the App Store, through Nov 28.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19sslnomupaki/",
+  "headline": "$2.49 instead of $3.99",
+  "ends": "2026-11-28"
+ },
+ {
+  "name": "FinderPeek",
+  "url": "https://apps.apple.com/us/app/finderpeek-quick-code-viewer/id6761670824?mt=12",
+  "category": "Developer Tools",
+  "subcategory": "Mac Dev Utilities",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Quick Look syntax highlighter and JSON/XML inspector for Finder.",
+  "deal": "$4.99 to $2.99 on the Mac App Store, through Nov 28.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ssm2uixlupu/",
+  "headline": "40% off, now $2.99",
+  "ends": "2026-11-28"
+ },
+ {
+  "name": "SleepFade",
+  "url": "https://apps.edelkees.com/sleepfade/",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Fades Mac volume and dims the screen when the show you fell asleep to ends.",
+  "deal": "30% off: $9.99 to $6.99 with code BLACKFRIDAY2026, through Dec 1.",
+  "codes": [
+   "BLACKFRIDAY2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ssb9kasq9q9/",
+  "headline": "30% off, now $6.99",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Meli",
+  "url": "https://trymeli.app",
+  "category": "Business & Finance",
+  "subcategory": "Personal Finance & Investing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "Turns bank alert emails into spending insights and budgets without a bank login.",
+  "deal": "75% off the first year: $49.99 to $12.50 with code MACAPPS75, through Dec 1.",
+  "codes": [
+   "MACAPPS75"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ssjgsspgl35/",
+  "headline": "75% off the first year",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Captain's Deck",
+  "url": "https://www.captains-deck.com",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Keyboard-first dual-pane file manager with built-in terminal and remote storage.",
+  "deal": "25% off: €19.99 to €14.49 with code BF25D, through Nov 30.",
+  "codes": [
+   "BF25D"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ss045isoybp/",
+  "headline": "25% off, now €14.49",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Glueys",
+  "url": "https://glueys.com/",
+  "category": "Health & Lifestyle",
+  "subcategory": "Health & Mental Wellbeing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac break reminder with menu bar creatures for eye rest, stretching and water.",
+  "deal": "$2.99 to $1.99 on the App Store, through Dec 4.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19sywh1flmll0/",
+  "headline": "$1.99 instead of $2.99",
+  "ends": "2026-12-04"
+ },
+ {
+  "name": "Superpose Analytics",
+  "url": "https://getsuperpose.app",
+  "category": "Developer Tools",
+  "subcategory": "Monitoring & Analytics",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "Local-first Mac app for App Store revenue, installs and ad costs.",
+  "deal": "$149/year to $79/year, applied at checkout, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19t2nyam32ytf/",
+  "headline": "$79 a year instead of $149",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Clipmonk",
+  "url": "https://stackstudio.uk/apps/clipmonk/",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Encrypted clipboard history for Mac with search and image recognition.",
+  "deal": "30% off: £5.99 to £4.19 with code BF2026, through Nov 30.",
+  "codes": [
+   "BF2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ss8tyc9x03o/",
+  "headline": "30% off, now £4.19",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Jetfold",
+  "url": "https://jetfold.app",
+  "category": "Productivity",
+  "subcategory": "Notes & Writing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Markdown notes app with canvas, version control and vim mode.",
+  "deal": "$9.99 to $5.99 on the App Store, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ssmof0xaklg/",
+  "headline": "40% off, now $5.99",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Aftershoot",
+  "url": "https://aftershoot.co/Reddit-BlackFriday2026",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Photo Editing",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "subscription",
+  "description": "AI culling, editing and retouching for photographers.",
+  "deal": "20% off yearly plans: $120-$540/yr to $96-$432/yr, auto-applied via the Reddit link, through Nov 27.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ss4sw8pbr9c/",
+  "headline": "20% off yearly plans",
+  "ends": "2026-11-27"
+ },
+ {
+  "name": "Better Stickies",
+  "url": "https://betterstickies.com",
+  "category": "Productivity",
+  "subcategory": "Notes & Writing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Modern sticky notes that stay on top of full-screen apps or dock to the edge.",
+  "deal": "25% off: $9.99 to $7.49 with code BF25, through Dec 1.",
+  "codes": [
+   "BF25"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ssad5zezpvl/",
+  "headline": "25% off, now $7.49",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Hidden File Cleaner",
+  "url": "https://hiddenfilecleaner.app",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Removes .DS_Store and other hidden Mac junk from drives, shares and ZIPs.",
+  "deal": "25% off: $8.99 to $6.74 with code BFRIDAY26, through Nov 30.",
+  "codes": [
+   "BFRIDAY26"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19su1njwqu3lv/",
+  "headline": "25% off, now $6.74",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Wander",
+  "url": "https://wander.md",
+  "category": "Productivity",
+  "subcategory": "Notes & Writing",
+  "platforms": [
+   "mac",
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "WYSIWYG Markdown editor that opens Obsidian vaults, with optional cloud sync.",
+  "deal": "Wander Cloud 25% off the first year: $19.99 to $14.99 with code BLACKFRIDAY26, new and returning subscribers, through Dec 1.",
+  "codes": [
+   "BLACKFRIDAY26"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19sualnwgi7r7/",
+  "headline": "25% off the first year of sync",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Picky Photo",
+  "url": "https://pickyphoto.eu",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Photo Editing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Fast RAW photo viewer and culler that opens cards and NAS shares without import.",
+  "deal": "50% off: $29 to $14.50, applied at checkout, through Dec 5.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19sxvclfjprr9/",
+  "headline": "50% off, now $14.50",
+  "ends": "2026-12-05"
+ },
+ {
+  "name": "NostalgiApp",
+  "url": "https://www.nostalgi.app",
+  "category": "Gaming",
+  "subcategory": "Games & Apps",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Emulation and game library frontend with TV mode, achievements and save sync.",
+  "deal": "25% off: €29.99 to €22.49 with code BF25D, through Nov 30.",
+  "codes": [
+   "BF25D"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19srzqxu2jwzl/",
+  "headline": "25% off, now €22.49",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Tinydot",
+  "url": "https://tinydot.com",
+  "category": "Websites & E-commerce",
+  "subcategory": "Website Builders & No-Code",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "Turns a Finder folder into a live website that syncs as files change.",
+  "deal": "Tinydot Pro 30% off the first year: $39.99 to $27.99 with code BLACKFRIDAY26, through Dec 1.",
+  "codes": [
+   "BLACKFRIDAY26"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19suasvhj4tz8/",
+  "headline": "30% off the first year of Pro",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Folge",
+  "url": "https://folge.me",
+  "category": "Productivity",
+  "subcategory": "Documents & PDFs",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Records clicks as screenshots to build step-by-step guides and SOPs offline.",
+  "deal": "25% off Personal and Business licenses (Personal normally $89) with code BLACKFRIDAY25, Nov 23 to 30.",
+  "codes": [
+   "BLACKFRIDAY25"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19ss1mq09enk3/",
+  "headline": "25% off Personal and Business licenses",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "MenuDart",
+  "url": "https://studiojin.dev/menudart/",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Keyboard-first menu bar companion with app menu search and a launcher.",
+  "deal": "About 43% off: $6.99 to $4 with code PROMOBF2026, through Dec 2.",
+  "codes": [
+   "PROMOBF2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xzg4i8/comment/19syxkanxs9ad/",
+  "headline": "About 43% off, now $4",
+  "ends": "2026-12-02"
+ },
+ {
+  "name": "OnlyText",
+  "url": "https://studiojin.dev/",
+  "category": "Productivity",
+  "subcategory": "Reading & Knowledge",
+  "platforms": [
+   "mac",
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Reader for TXT, EPUB, PDF and comics across iPhone, iPad and Mac.",
+  "deal": "Full Version about 43% off: $6.99 to $4, no code, through Dec 2.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xzg4i8/comment/19syxkanxs9ad/",
+  "headline": "About 43% off, now $4",
+  "ends": "2026-12-02"
+ },
+ {
+  "name": "Glimpse",
+  "url": "https://tryglimpse.cc/",
+  "category": "AI Tools",
+  "subcategory": "Voice & Audio",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Free local dictation app for Mac with meeting recording extras.",
+  "deal": "60% off Plus and Solo one-time plans ($10 or $15.60), through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xxwfe5/comment/19sxl90fcw6ht/",
+  "headline": "60% off paid plans",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "RenameMail",
+  "url": "https://renamemail.com/",
+  "category": "Productivity",
+  "subcategory": "Email & Communication",
+  "platforms": [
+   "browser-extension"
+  ],
+  "pricing": "one-time",
+  "description": "Chrome extension to rename, bold and color-code Gmail subject lines locally.",
+  "deal": "Lifetime Pro 25% off: $19.99 to about $14.99 at checkout.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xxwfe5/comment/19sqq8ilgvun4/",
+  "headline": "25% off Lifetime Pro"
+ },
+ {
+  "name": "SnipMark",
+  "url": "https://arelunio.com/snipmark/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Photo Editing",
+  "platforms": [
+   "mac",
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Blurs sensitive info and batch-exports annotated bug screenshots.",
+  "deal": "Lifetime Pro (Mac, iPhone, iPad) 50% off: $9.99 to $4.99, through Dec 1.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/MacOS/comments/1y1wv5n/i_made_snipmark_so_i_can_blur_sensitive_info_and/",
+  "headline": "50% off Lifetime Pro, now $4.99",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "DMGKit",
+  "url": "https://dmgkit.app",
+  "category": "Developer Tools",
+  "subcategory": "Mac Dev Utilities",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Builds, signs and notarizes custom DMG and PKG installers for Mac apps.",
+  "deal": "40% off the $24.99 one-time license with code DMGKIT40BF.",
+  "codes": [
+   "DMGKIT40BF"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xv6jxw/dmgkit_3_i_made_an_app_to_help_developers_release/",
+  "headline": "40% off the one-time license"
+ },
+ {
+  "name": "DedupX",
+  "url": "https://maheepk.net/projects/dedupx/",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Duplicate file and photo finder for Mac that protects edited, Live and RAW photos.",
+  "deal": "30% off both tiers ($5.99/year first year or $16.99 lifetime) with code DEDUPX30OFF, through Dec 1.",
+  "codes": [
+   "DEDUPX30OFF"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xvanb4/dedupx_165_duplicate_finder_for_mac_that_now/",
+  "headline": "30% off yearly and lifetime",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Lunar",
+  "url": "https://lowtechguys.com/blackfriday",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Windows & Screens",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Adaptive brightness and controls for external monitors on Mac.",
+  "deal": "30% off with code BF_LTG_2026, through Dec 1; bundles discounted with BF_LTG_BUNDLES_2026.",
+  "codes": [
+   "BF_LTG_2026",
+   "BF_LTG_BUNDLES_2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1y1gor9/discounts_on_all_the_lowtech_guys_apps/",
+  "headline": "30% off",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "rcmd",
+  "url": "https://lowtechguys.com/blackfriday",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "App switcher that jumps to apps with the right Command key and a letter.",
+  "deal": "30% off with code BF_LTG_2026, through Dec 1.",
+  "codes": [
+   "BF_LTG_2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1y1gor9/discounts_on_all_the_lowtech_guys_apps/",
+  "headline": "30% off",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Clop",
+  "url": "https://lowtechguys.com/blackfriday",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Automatic image, video and PDF optimizer for Mac.",
+  "deal": "30% off with code BF_LTG_2026, through Dec 1.",
+  "codes": [
+   "BF_LTG_2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1y1gor9/discounts_on_all_the_lowtech_guys_apps/",
+  "headline": "30% off",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Cling",
+  "url": "https://lowtechguys.com/blackfriday",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Instant fuzzy file search launcher for Mac.",
+  "deal": "30% off with code BF_LTG_2026, through Dec 1.",
+  "codes": [
+   "BF_LTG_2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1y1gor9/discounts_on_all_the_lowtech_guys_apps/",
+  "headline": "30% off",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Keylume",
+  "url": "https://lowtechguys.com/blackfriday",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Keyboard utility from the makers of Lunar.",
+  "deal": "40% off with code BF_LTG_2026, through Dec 1.",
+  "codes": [
+   "BF_LTG_2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1y1gor9/discounts_on_all_the_lowtech_guys_apps/",
+  "headline": "40% off",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Crank",
+  "url": "https://lowtechguys.com/blackfriday",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac utility from the makers of Lunar.",
+  "deal": "40% off with code BF_LTG_2026, through Dec 1.",
+  "codes": [
+   "BF_LTG_2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1y1gor9/discounts_on_all_the_lowtech_guys_apps/",
+  "headline": "40% off",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Pipiri",
+  "url": "https://lowtechguys.com/blackfriday",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac utility from the makers of Lunar.",
+  "deal": "40% off with code BF_LTG_2026, through Dec 1.",
+  "codes": [
+   "BF_LTG_2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1y1gor9/discounts_on_all_the_lowtech_guys_apps/",
+  "headline": "40% off",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "LookAway",
+  "url": "https://lookaway.com/",
+  "category": "Health & Lifestyle",
+  "subcategory": "Health & Mental Wellbeing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac screen break and posture reminder with custom wellness prompts.",
+  "deal": "50% off all license options (single device normally $19) with code BF2026 on the website.",
+  "codes": [
+   "BF2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xzixob/lookaway_25_custom_wellness_reminders_and_new/",
+  "headline": "50% off all licenses"
+ },
+ {
+  "name": "Talanoa",
+  "url": "https://talanoa.email",
+  "category": "Productivity",
+  "subcategory": "Email & Communication",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "Mac email app with chat-style threads, to-dos, calendar and on-device AI.",
+  "deal": "30% off Basic ($36/yr) or Pro ($96/yr) with code BLACKFRIDAY, through Nov 30.",
+  "codes": [
+   "BLACKFRIDAY"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xyne42/talanoa_more_than_an_inbox_a_better_workday_a_mac/",
+  "headline": "30% off Basic and Pro",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "DuperMail",
+  "url": "https://www.dupermail.com/pricing",
+  "category": "Productivity",
+  "subcategory": "Email & Communication",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "Adds Gmail-style shortcuts, snooze, snippets and a command palette to Apple Mail.",
+  "deal": "Lifetime $59 to $39, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xzlj6w/dupermail_gmails_keyboard_shortcuts_snooze/",
+  "headline": "Lifetime $39 instead of $59",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Scrub Before Send",
+  "url": "https://apps.apple.com/us/app/scrub-before-send/id6807475333",
+  "category": "Security & Privacy",
+  "subcategory": "Privacy & Data Removal",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Finds and removes personal info, faces and GPS data from images before sharing.",
+  "deal": "$12.99 to $7.99 through Black Friday.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/macapps/comments/1xucooe/i_built_a_mac_menubar_app_to_remove_personal_info/",
+  "headline": "$7.99 instead of $12.99"
+ },
+ {
+  "name": "Greypaint",
+  "url": "https://greypaint.app/",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac app updater with a 14-day full trial.",
+  "deal": "3-Mac license $19.47 to $12.49; single Mac $6.49.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/SideProject/comments/1xzi98d/black_friday_on_my_mac_app_updater_3_macs_for/",
+  "headline": "3-Mac license $12.49"
+ },
+ {
+  "name": "Latent",
+  "url": "https://latentmac.com",
+  "category": "Developer Tools",
+  "subcategory": "Mac Dev Utilities",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac disk cleaner that understands leftovers from coding agents, Xcode and Docker.",
+  "deal": "$12.99 to $9.99 one-time.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/SideProject/comments/1y3blp4/latent_a_mac_disk_cleaner_that_knows_what_your/",
+  "headline": "$9.99 instead of $12.99"
+ },
+ {
+  "name": "Podium Presenter",
+  "url": "https://apps.apple.com/app/id6758131024",
+  "category": "Productivity",
+  "subcategory": "Tasks & Projects",
+  "platforms": [
+   "mac",
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Cue a speaker from a Mac to an iPad on the lectern; viewer app is free.",
+  "deal": "40% off the one-time in-app purchase.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/SideProject/comments/1y3aujm/i_built_podium_so_you_can_cue_a_speaker_from_your/",
+  "headline": "40% off the one-time unlock"
+ },
+ {
+  "name": "Minilabs apps",
+  "url": "https://minilabs.cc",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Eight small Mac apps for invoicing, disk space, dictation, focus timers and API costs.",
+  "deal": "50% off all 8 apps with code LABSBF50 on the websites (not the Mac App Store), through Nov 30.",
+  "codes": [
+   "LABSBF50"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/SideProject/comments/1xx2f7m/i_make_small_mac_apps_all_8_are_50_off_for_black/",
+  "headline": "50% off all eight apps",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "ShotJar",
+  "url": "https://shotjar.app/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Screen Recording",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac screenshot tool, one-time license for 3 Macs.",
+  "deal": "Launch plus Black Friday price $9 instead of $24, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/MacStack/comments/1xusahg/a_bunch_of_indie_mac_black_friday_deals_are/",
+  "headline": "$9 instead of $24",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "SortGlass",
+  "url": "https://sortglass.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Photo Editing",
+  "platforms": [
+   "mac",
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "Swipe-to-sort tool for Apple Photos with duplicate finder and encrypted vault.",
+  "deal": "Pro Lifetime 70% off: $49.99 to $14.99 in the app, through Nov 27.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19sy3p1qklr8k/",
+  "headline": "70% off Pro Lifetime",
+  "ends": "2026-11-27"
+ },
+ {
+  "name": "OptiSafari",
+  "url": "https://apps.apple.com/us/app/optisafari-walking-fog-map/id6827416840",
+  "category": "Health & Lifestyle",
+  "subcategory": "Travel & Navigation",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Offline fog-of-war exploration map with 23,000+ landmarks.",
+  "deal": "Lifetime 50% off: $49.99 to $24.99 in the app, through Dec 21.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19sz456s5wroi/",
+  "headline": "50% off lifetime",
+  "ends": "2026-12-21"
+ },
+ {
+  "name": "Apricity",
+  "url": "https://trytesorin.com/apricity/",
+  "category": "Productivity",
+  "subcategory": "Reading & Knowledge",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Ebook reader with a notebook per book and offline natural voice read-aloud.",
+  "deal": "Lifetime Premium 50% off: $49.99 to $24.99 with one App Store code per person, through Dec 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19ssho66of28x/",
+  "headline": "50% off Lifetime Premium",
+  "ends": "2026-12-30"
+ },
+ {
+  "name": "TESORIN",
+  "url": "https://trytesorin.com",
+  "category": "Business & Finance",
+  "subcategory": "Personal Finance & Investing",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Spending and net worth tracker without bank linking, with Apple Wallet logging.",
+  "deal": "Lifetime Premium 80% off: $199.99 to $39.99 with one App Store code per person, through Dec 31.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19sshskrh3xgk/",
+  "headline": "80% off Lifetime Premium",
+  "ends": "2026-12-31"
+ },
+ {
+  "name": "DictaWiz",
+  "url": "https://dictawiz.com",
+  "category": "AI Tools",
+  "subcategory": "Voice & Audio",
+  "platforms": [
+   "ios",
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Voice keyboard, recorder and text expander for iPhone with Mac sync.",
+  "deal": "Lifetime $69 to $29.99 with code BLACKFRIDAY2026, through Nov 30.",
+  "codes": [
+   "BLACKFRIDAY2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19ssgg7sb2g4h/",
+  "headline": "Lifetime $29.99 instead of $69",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "SmartBox: Find your stuff",
+  "url": "https://apps.apple.com/us/app/id6751839278",
+  "category": "Health & Lifestyle",
+  "subcategory": "Hobbies & Home",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Home and storage box organizer with QR codes, NFC tags and photo search.",
+  "deal": "$149.99 to $69.99 with App Store offer code BLACKDAYS, through Dec 12.",
+  "codes": [
+   "BLACKDAYS"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19stkm89w786b/",
+  "headline": "$69.99 instead of $149.99",
+  "ends": "2026-12-12"
+ },
+ {
+  "name": "Progress Pictures: Then & Now",
+  "url": "https://mahalomochi.com/thenandnow",
+  "category": "Health & Lifestyle",
+  "subcategory": "Fitness & Workouts",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Aligned progress photos with a ghost overlay and timelapse playback.",
+  "deal": "Lifetime Premium 50% off: $99.99 to $49.99 with code THENNOWBF50, through Dec 1.",
+  "codes": [
+   "THENNOWBF50"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19sukr8t2uty8/",
+  "headline": "50% off Lifetime Premium",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Resolutely",
+  "url": "https://mahalomochi.com/resolutely",
+  "category": "Health & Lifestyle",
+  "subcategory": "Health & Mental Wellbeing",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Free habit and resolution tracker that grows a plant over the year.",
+  "deal": "Winter Pack 50% off: $19.99 to $9.99 with code WINTERBF50, through Dec 1.",
+  "codes": [
+   "WINTERBF50"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19sukwbd9y7tx/",
+  "headline": "50% off the Winter Pack",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "LLM Master",
+  "url": "https://apps.apple.com/app/id6769785318",
+  "category": "Learning",
+  "subcategory": "Programming & Tech",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Study app that explains how large language models work.",
+  "deal": "About 60% off: $22.99 to $8.99, no code, through Dec 3.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19svouacj8t9c/",
+  "headline": "About 60% off, now $8.99",
+  "ends": "2026-12-03"
+ },
+ {
+  "name": "PassCollect",
+  "url": "https://lucadevelops.com",
+  "category": "Health & Lifestyle",
+  "subcategory": "Weather & Misc",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Lightweight wallet for loyalty cards.",
+  "deal": "Lifetime $19.99 to $9.99, or $0.99 for the first year, live on the App Store.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19svyvscm2tr8/",
+  "headline": "Lifetime half price, first year $0.99"
+ },
+ {
+  "name": "Timee",
+  "url": "https://apps.apple.com/sk/app/timee-time-tracker/id6815184618",
+  "category": "Productivity",
+  "subcategory": "Calendar & Time Tracking",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Time tracker with workout-style activity cards, Live Activities and StandBy view.",
+  "deal": "33% off: €5.99 to €3.99 with App Store offer code OFFNOW, through Dec 1.",
+  "codes": [
+   "OFFNOW"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19sxpcnenjw9t/",
+  "headline": "33% off, now €3.99",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Zancada",
+  "url": "https://apps.apple.com/app/id6829781795",
+  "category": "Health & Lifestyle",
+  "subcategory": "Fitness & Workouts",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Controls walking pad treadmills from iPhone and logs walks to Apple Health.",
+  "deal": "33% off: $17.99 to $11.99, no code, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19sxujd34xrfn/",
+  "headline": "33% off, now $11.99",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Big Year",
+  "url": "https://apps.apple.com/app/id6837002080",
+  "category": "Productivity",
+  "subcategory": "Calendar & Time Tracking",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Whole-year planner showing trips, concerts and birthdays on one screen.",
+  "deal": "78% off: $17.99 to $3.99, no code, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19sxujynhdo9w/",
+  "headline": "78% off, now $3.99",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "ECG Reports",
+  "url": "https://apps.apple.com/app/ecg-reports/id6774714382",
+  "category": "Health & Lifestyle",
+  "subcategory": "Health & Mental Wellbeing",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Organizes Apple Watch ECGs with notes and PDF reports.",
+  "deal": "$2.99 to $0.99 in the US (€0.99 in euro stores), through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19t179h24gr36/",
+  "headline": "$0.99 instead of $2.99",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "TripCache",
+  "url": "https://tripcache.app",
+  "category": "Health & Lifestyle",
+  "subcategory": "Travel & Navigation",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Travel expense tracker that organizes spending by trip in any currency.",
+  "deal": "Lifetime 50% off: $9.99 to $4.99 with App Store offer code BFSALE, through Dec 1.",
+  "codes": [
+   "BFSALE"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19t18ikqhnsip/",
+  "headline": "50% off lifetime, now $4.99",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Hushful",
+  "url": "https://apps.apple.com/us/app/hushful-wishlist-gift-lists/id6805499302",
+  "category": "Health & Lifestyle",
+  "subcategory": "Family, Kids & Relationships",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Shared wishlists where friends claim gifts privately to avoid duplicates.",
+  "deal": "Lifetime Pro $4.99 to $1.99 in the app, through Dec 4.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19t1seyktlkpv/",
+  "headline": "Lifetime Pro $1.99 instead of $4.99",
+  "ends": "2026-12-04"
+ },
+ {
+  "name": "Booky",
+  "url": "https://escobar.sv/booky/",
+  "category": "Business & Finance",
+  "subcategory": "Personal Finance & Investing",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "Expense tracker that logs Apple Pay purchases automatically, no bank login.",
+  "deal": "Pro 75% off the first year: $12.99 to $3.29 with code BOOKY75, through Dec 1.",
+  "codes": [
+   "BOOKY75"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19t1xhexbm9lv/",
+  "headline": "75% off the first year of Pro",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Penvo",
+  "url": "https://penvo.pro",
+  "category": "Business & Finance",
+  "subcategory": "Personal Finance & Investing",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Voice-first expense tracker with shared ledgers, envelope budgets and receipt scan.",
+  "deal": "Lifetime Pro 50% off: $59.99 to $29.99, applied in the app, through Dec 1.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19t20zri6bndt/",
+  "headline": "50% off Lifetime Pro",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Nami",
+  "url": "https://namitheapp.com",
+  "category": "Health & Lifestyle",
+  "subcategory": "Food & Nutrition",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Water tracker that grows a garden as you drink, for iPhone and Apple Watch.",
+  "deal": "Lifetime 40% off: $19.99 to $11.99 with code 40OFFLIFETIME.",
+  "codes": [
+   "40OFFLIFETIME"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19t23jrv1l82p/",
+  "headline": "40% off lifetime"
+ },
+ {
+  "name": "MediFamily",
+  "url": "https://apps.apple.com/app/id6810080893",
+  "category": "Health & Lifestyle",
+  "subcategory": "Health & Mental Wellbeing",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Offline family health organizer with pill reminders and an encrypted vault.",
+  "deal": "Pro Lifetime $69.99 to $29.99, automatic App Store price drop, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19t2dag11ef50/",
+  "headline": "Pro Lifetime $29.99 instead of $69.99",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Daylivia",
+  "url": "https://apps.apple.com/app/id6794620176",
+  "category": "Health & Lifestyle",
+  "subcategory": "Health & Mental Wellbeing",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Private habit, mood and journal app for spotting patterns over time.",
+  "deal": "Lifetime Premium 80% off: $79.99 to $15.99, through Dec 14.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19t2it27uppur/",
+  "headline": "80% off Lifetime Premium",
+  "ends": "2026-12-14"
+ },
+ {
+  "name": "Memento",
+  "url": "https://www.getmemento.ca",
+  "category": "Productivity",
+  "subcategory": "Tasks & Projects",
+  "platforms": [
+   "ios",
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Apple Reminders as color-coded cards on iPhone, iPad, Mac and Watch.",
+  "deal": "50% off: $7.99 to $3.99, Nov 27 to 30.",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19ssjvhcizf35/",
+  "headline": "50% off, now $3.99",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "StashEm",
+  "url": "https://apps.apple.com/app/stashem-home-inventory-finder/id6822747988",
+  "category": "Health & Lifestyle",
+  "subcategory": "Hobbies & Home",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Family home inventory: log where things are and share a shopping list.",
+  "deal": "StashEm Family 50% off: $19.99 to $9.99 with code REDDITFAMILY, through Dec 31.",
+  "codes": [
+   "REDDITFAMILY"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19ssyveqdq3hd/",
+  "headline": "50% off the Family plan",
+  "ends": "2026-12-31"
+ },
+ {
+  "name": "Travel Scan",
+  "url": "https://apps.apple.com/us/app/travel-scan-trip-planner/id6446209231",
+  "category": "Health & Lifestyle",
+  "subcategory": "Travel & Navigation",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Builds trip itineraries from booking screenshots and forwarded emails.",
+  "deal": "Lifetime 60% off: $49.99 to $19.99 with code LIFETIME60, through Nov 30.",
+  "codes": [
+   "LIFETIME60"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19sshlgn4esrk/",
+  "headline": "60% off lifetime",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Oneline",
+  "url": "https://apps.apple.com/app/id6758101912",
+  "category": "Productivity",
+  "subcategory": "Notes & Writing",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "One-line-a-day diary with yearly rewind and a map of your days.",
+  "deal": "50% off: $29.99 to $14.99 first year (BF2026) or $59.99 to $29.99 lifetime (BF2026LIFE), through Dec 8.",
+  "codes": [
+   "BF2026",
+   "BF2026LIFE"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19ssj8mrqz4tf/",
+  "headline": "50% off yearly and lifetime",
+  "ends": "2026-12-08"
+ },
+ {
+  "name": "Whittle.fm",
+  "url": "https://whittle.fm",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Podcasts & Transcription",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "Plays only the podcast segments about a topic you search, ads skipped.",
+  "deal": "Premium 50% off the first year: $20 to $10 with code REDDIT, first 1,000 redemptions, through Jan 11, 2027.",
+  "codes": [
+   "REDDIT"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19ssqkv6zy1wl/",
+  "headline": "50% off the first year",
+  "ends": "2027-01-11"
+ },
+ {
+  "name": "Easy Wake",
+  "url": "https://tomredway.co.uk/easywake",
+  "category": "Health & Lifestyle",
+  "subcategory": "Health & Mental Wellbeing",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Smart alarm that wakes you in light sleep with a get-out-of-bed challenge.",
+  "deal": "50% off: £22.99 to £11.49, no code, Nov 27 to 30.",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xyw380/comment/19svc1ktzdyxw/",
+  "headline": "50% off, now £11.49",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "PackGoat",
+  "url": "https://apps.apple.com/app/id6758299437",
+  "category": "Health & Lifestyle",
+  "subcategory": "Travel & Navigation",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "Reusable packing lists with trip-specific suggestions.",
+  "deal": "Lifetime $44.99 to $24.99 with code GOATFRIDAY26, through Dec 1.",
+  "codes": [
+   "GOATFRIDAY26"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1xtcgdn/packgoat_a_packing_list_app_for_people_who_hate/",
+  "headline": "Lifetime $24.99 instead of $44.99",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Vault: Photos, Videos & Files",
+  "url": "https://apps.apple.com/us/app/vault-photos-videos-files/id6826777976",
+  "category": "Security & Privacy",
+  "subcategory": "Secure Email & Storage",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Encrypted offline photo and file vault with no ads or tracking.",
+  "deal": "Lifetime Pro 50% off: $29.99 to $14.99.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AppHookup/comments/1xyhy66/ios_vault_photos_videos_files_lifetime_pro_2999/",
+  "headline": "50% off Lifetime Pro"
+ },
+ {
+  "name": "Ray Scan",
+  "url": "https://apps.apple.com/app/id6804876091",
+  "category": "Productivity",
+  "subcategory": "Documents & PDFs",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Document scanner app with OCR and AI features.",
+  "deal": "Lifetime Unlimited + AI 33% off: $59.99 to $39.99, through Cyber Monday.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/IPhoneApps/comments/1y3nqad/ios_ray_scan_document_scanner_iap_lifetime/",
+  "headline": "33% off lifetime, now $39.99",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "XeOS",
+  "url": "https://desktopmodeiphone.com/",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Windows & Screens",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Turns an iPhone into a desktop computer on an external display.",
+  "deal": "25% off the $39.99 lifetime deal with App Store offer code XEOSREDDIT.",
+  "codes": [
+   "XEOSREDDIT"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1y1rl9x/xeos_turns_your_iphone_into_a_chromebook_samsung/",
+  "headline": "25% off the lifetime deal"
+ },
+ {
+  "name": "Vista Weather",
+  "url": "https://apps.apple.com/us/app/vista-weather-forecast-maps/id6768575893",
+  "category": "Health & Lifestyle",
+  "subcategory": "Weather & Misc",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "Weather app with 20+ data sources and native-resolution forecast maps.",
+  "deal": "Premium annual 53% off the first year: $14.99 to $6.99.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/iosapps/comments/1y3i032/i_built_an_advanced_weather_app_with_20_data/",
+  "headline": "53% off the first year"
+ },
+ {
+  "name": "MapCheck",
+  "url": "https://apps.apple.com/us/app/mapcheck-offline-geotif-pdf/id6761805550",
+  "category": "Health & Lifestyle",
+  "subcategory": "Travel & Navigation",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Offline custom maps from PDF and GeoTIFF files for hiking and fieldwork.",
+  "deal": "Lifetime 20% off: $24.99 to $19.99.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AppHookup/comments/1y0vdk0/ios_iphonemapcheck_pdf_tiff_custom_offline/",
+  "headline": "20% off lifetime"
+ },
+ {
+  "name": "Merchant of the Skies",
+  "url": "https://apps.apple.com/us/app/merchant-of-the-skies/id6754459969",
+  "category": "Gaming",
+  "subcategory": "Games & Apps",
+  "platforms": [
+   "ios",
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Premium pixel-art trading sim with no ads or in-app purchases.",
+  "deal": "Lowest price ever: $7.99 to $4.95, through Dec 4.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AppHookup/comments/1y3hsf3/ios_merchant_of_the_skies_799_495_lowest_price/",
+  "headline": "Lowest price ever, now $4.95",
+  "ends": "2026-12-04"
+ },
+ {
+  "name": "Dragon's Gambit: Chess",
+  "url": "https://apps.apple.com/app/id6768390263",
+  "category": "Gaming",
+  "subcategory": "Games & Apps",
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "pricing": "one-time",
+  "description": "Offline chess with story mode, historical scenarios and 2,500 puzzles.",
+  "deal": "50% off: iOS $4.99 to $2.49 through Dec 26; Android $4.99 to $2.50 Nov 23 to Dec 6.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AppHookup/comments/1y2n8ai/iosandroid_dragons_gambit_chess_499_249_250/",
+  "headline": "50% off on iOS and Android",
+  "ends": "2026-12-26"
+ },
+ {
+  "name": "Widgetter",
+  "url": "https://apps.apple.com/app/id1553223588",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Custom home screen widget maker for iPhone.",
+  "deal": "30% off Lifetime Premium, Nov 23 to 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/Widgetter/comments/1y3o7tg/black_friday_is_here_get_30_off_widgetter/",
+  "headline": "30% off Lifetime Premium",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "PHORM",
+  "url": "https://phorm.to",
+  "category": "AI Tools",
+  "subcategory": "Image & Video",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "credits",
+  "description": "Turns one photo into a repaired, print-ready 3D model for home printers.",
+  "deal": "50% more models per pack at the same price: 5 for $4.99, 8 for $6.99, 15 for $12.99, Nov 27 to 30.",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.reddit.com/r/SaaS/comments/1y1nwmq/comment/19sydk1psepk5/",
+  "headline": "50% more models in every pack",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "PhotoProof",
+  "url": "https://photoproof.io",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Photo Editing",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Online photo proofing and client gallery app for photographers.",
+  "deal": "60% off Pro yearly (€28.80 first year) and 50% off Studio, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/SaaS/comments/1y1nwmq/comment/19syhu6rsad45/",
+  "headline": "60% off Pro yearly",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "ArraySubs",
+  "url": "https://subscriptionplugin.pro/",
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "WooCommerce subscriptions and memberships plugin with pause and skip.",
+  "deal": "60% off all packages, already applied.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/SaaS/comments/1y1nwmq/comment/19syopscql8mc/",
+  "headline": "60% off all packages"
+ },
+ {
+  "name": "Testomato",
+  "url": "https://testomato.com/black-friday/",
+  "category": "Developer Tools",
+  "subcategory": "Monitoring & Analytics",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Uptime and website monitoring with content checks and status pages.",
+  "deal": "50% off all plans for up to a year, new customers.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/SaaS/comments/1y1nwmq/comment/19t2k9bfmjco3/",
+  "headline": "50% off all plans for a year"
+ },
+ {
+  "name": "US Stock Sense",
+  "url": "https://usstocksense.com",
+  "category": "Business & Finance",
+  "subcategory": "Personal Finance & Investing",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "US stock research site with screener, valuation comparison and portfolio tracking.",
+  "deal": "Annual plan 50% off for a limited time.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/SideProject/comments/1y24bc4/comment/19t0qxpl2aksk/",
+  "headline": "50% off the annual plan"
+ },
+ {
+  "name": "Beaver Builder",
+  "url": "https://www.wpbeaverbuilder.com/black-friday-2026/",
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Drag-and-drop page builder plugin for WordPress.",
+  "deal": "50% off the first year of Plus plans and above, new purchases and upgrades, Nov 27 to 30.",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.reddit.com/r/Wordpress/comments/1y0ig7q/comment/19t2scidv0mqo/",
+  "headline": "50% off the first year",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Amelia",
+  "url": "https://wpamelia.com/pricing/",
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Appointment and event booking plugin for WordPress.",
+  "deal": "Up to 70% off plans.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/Wordpress/comments/1y0ig7q/comment/19t13r2xkje3o/",
+  "headline": "Up to 70% off plans"
+ },
+ {
+  "name": "GeoDirectory",
+  "url": "https://wpgeodirectory.com/black-friday/",
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Directory and listings plugin for WordPress.",
+  "deal": "40% off everything: memberships from $69, lifetime deal $897.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/Wordpress/comments/1y0ig7q/comment/19sy064jukish/",
+  "headline": "40% off everything"
+ },
+ {
+  "name": "Lazy Blocks Pro",
+  "url": "https://www.lazyblocks.com/pro/",
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Builds custom Gutenberg blocks without code.",
+  "deal": "40% off the first year of any Pro plan with code BF2026, through Nov 30.",
+  "codes": [
+   "BF2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/Wordpress/comments/1y0ig7q/comment/19sxnklbyq7fl/",
+  "headline": "40% off the first year",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Ghost Kit Pro",
+  "url": "https://www.ghostkit.io/pricing/",
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Motion and scroll effects for WordPress blocks.",
+  "deal": "40% off the first year of any Pro plan with code BF2026, through Nov 30.",
+  "codes": [
+   "BF2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/Wordpress/comments/1y0ig7q/comment/19sxnklbyq7fl/",
+  "headline": "40% off the first year",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Visual Portfolio Pro",
+  "url": "https://www.visualportfolio.com/pricing/",
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Portfolio and photo gallery builder for WordPress.",
+  "deal": "40% off the first year of any Pro plan with code BF2026, through Nov 30.",
+  "codes": [
+   "BF2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/Wordpress/comments/1y0ig7q/comment/19sxnklbyq7fl/",
+  "headline": "40% off the first year",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Content Framework",
+  "url": "https://contentframework.io/",
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "WordPress plugin for structured content and simpler client editing.",
+  "deal": "35% off, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/Wordpress/comments/1y0ig7q/comment/19syq3qprnx2b/",
+  "headline": "35% off",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Revertix Pro",
+  "url": "https://wordpress.org/plugins/revertix/",
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Staging, backups, migration and rollback in one WordPress plugin.",
+  "deal": "PRO 30% off, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/Wordpress/comments/1y0ig7q/comment/19t1hdzxqhijk/",
+  "headline": "30% off Pro",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Wombat Plugins",
+  "url": "https://www.studiowombat.com/",
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "WooCommerce plugins including Advanced Product Fields and product search.",
+  "deal": "30% to 40% off everything.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/Wordpress/comments/1y0ig7q/comment/19t2hq8p72s6d/",
+  "headline": "30% to 40% off everything"
+ },
+ {
+  "name": "Permalink Manager Pro",
+  "url": "https://permalinkmanager.pro/pricing/",
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Custom permalink and URL structure plugin for WordPress.",
+  "deal": "30% off all Pro plans.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/Wordpress/comments/1y0ig7q/comment/19sx19urxiko3/",
+  "headline": "30% off all plans"
+ },
+ {
+  "name": "Listora",
+  "url": "https://listora.org/",
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Monetizable business directory plugin for WordPress.",
+  "deal": "30% off.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/Wordpress/comments/1y0ig7q/comment/19sxn7ap6edk4/",
+  "headline": "30% off"
+ },
+ {
+  "name": "Gato AI Translations",
+  "url": "https://gatoaitranslations.com/black-friday",
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "one-time",
+  "description": "AI translation plugin for multilingual WordPress sites.",
+  "deal": "All-Inclusive Lifetime Deal with every extension, up to $696 off.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/Wordpress/comments/1y0ig7q/comment/19swbxc02e8tc/",
+  "headline": "Lifetime deal, up to $696 off"
+ },
+ {
+  "name": "SantoHost",
+  "url": "https://santohost.com/black-friday/",
+  "category": "Hosting & Cloud",
+  "subcategory": "Web & WordPress Hosting",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "WordPress and web hosting provider.",
+  "deal": "Save 80% on hosting, their lowest prices of the year.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/Wordpress/comments/1y0ig7q/comment/19t0jxelfwun7/",
+  "headline": "80% off hosting"
+ },
+ {
+  "name": "Emporiqa",
+  "url": "https://emporiqa.com/integrations/woocommerce/",
+  "category": "Business & Finance",
+  "subcategory": "Customer Support & Chat",
+  "platforms": [
+   "wordpress",
+   "web"
+  ],
+  "pricing": "credits",
+  "description": "AI shopping assistant for WooCommerce stores.",
+  "deal": "$100 of free credit instead of $25 for stores created by end of November.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/Wordpress/comments/1y0ig7q/comment/19swzevtpnehu/",
+  "headline": "$100 starting credit instead of $25",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Cloud Security Alliance",
+  "url": "https://cloudsecurityalliance.org/p/cyber-monday-2026",
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Cloud security training and certificates including CCSK, CCZT and TAISE.",
+  "deal": "50% off all online training and certificate exams for 24 hours on Nov 30; join the waitlist for the code.",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.reddit.com/r/cybersecurity/comments/1y1pg0r/comment/19t11tjesmrds/",
+  "headline": "50% off all training and exams",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "ByteBlind",
+  "url": "https://training.byteblind.com/",
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Hands-on Android app hacking course.",
+  "deal": "40% off, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/cybersecurity/comments/1y1pg0r/comment/19t2lo6569na8/",
+  "headline": "40% off the course",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "FlexiHub",
+  "url": "https://www.flexihub.com/prices/",
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "pricing": "subscription",
+  "description": "Shares USB and serial devices over the network to remote computers.",
+  "deal": "50% off any annual plan, renewals included, with Reddit-only code BF502026, through Nov 30.",
+  "codes": [
+   "BF502026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/FlexiHubApp/comments/1y3jizw/black_friday_week_50_off_flexihub_annual_plans/",
+  "headline": "50% off any annual plan",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Suno",
+  "url": "https://suno.com/pricing",
+  "category": "AI Tools",
+  "subcategory": "Voice & Audio",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI music generator that makes songs from text prompts.",
+  "deal": "Extra 30% off annual plans for a week.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/SunoAI/comments/1y3ocee/suno_black_friday_sale_is_on/",
+  "headline": "Extra 30% off annual plans"
+ },
+ {
+  "name": "WildTangent",
+  "url": "https://www.wildtangent.com/",
+  "category": "Gaming",
+  "subcategory": "Game Stores & Sales",
+  "platforms": [
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "PC casual and hidden-object game store.",
+  "deal": "Early Black Friday Sale: 50% off Collector's Editions such as Home for Friends: Loving Paws, Argonauts Agency 15 and Myth Finders 2.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/GameDeals/comments/1xwpmto/wildtangent_early_black_friday_sale_home_for/",
+  "headline": "50% off Collector's Editions"
+ },
+ {
+  "name": "WinGameStore",
+  "url": "https://www.wingamestore.com/showcase/THQ-Nordic-Black-Friday-Sale/",
+  "category": "Gaming",
+  "subcategory": "Game Stores & Sales",
+  "platforms": [
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Digital PC game store.",
+  "deal": "THQ Nordic and SEGA Black Friday sales: up to 90% off, e.g. Darksiders III $3.99, Total War: WARHAMMER III $8.99.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/GameDeals/comments/1xytky0/wingamestore_thq_nordic_black_friday_sale_remnant/",
+  "headline": "Up to 90% off THQ Nordic and SEGA"
+ },
+ {
+  "name": "JD Factory",
+  "url": "https://jdfactory.store/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Audio plugin developer.",
+  "deal": "40% off sitewide with code BF2026, through Dec 6.",
+  "codes": [
+   "BF2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1xxw2yi/jd_factory_black_fridaycyber_monday_sale_40_off/",
+  "headline": "40% off sitewide",
+  "ends": "2026-12-06"
+ },
+ {
+  "name": "The Drum Broker",
+  "url": "https://hiphopdrumsamples.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Hip-hop drum kits, breaks and sample packs.",
+  "deal": "50% off with code BF26 through Nov 29, then 40% off with code CM26 Nov 30 to Dec 4.",
+  "codes": [
+   "BF26",
+   "CM26"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1xzq3us/the_drum_broker_black_friday_sale_and_cyber/",
+  "headline": "50% off drums, then 40% off",
+  "ends": "2026-12-04"
+ },
+ {
+  "name": "Auburn Sounds",
+  "url": "https://www.auburnsounds.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Audio plugin maker of Panagement and Psypan.",
+  "deal": "Psypan 2 $10, Panagement 2 $9, through Nov 27.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y0u2ng/auburn_sounds_black_friday_offer_psypan_2_10/",
+  "headline": "Psypan 2 $10, Panagement 2 $9",
+  "ends": "2026-11-27"
+ },
+ {
+  "name": "APU Software",
+  "url": "https://apu.software/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Audio plugin developer.",
+  "deal": "40% off sitewide, applied at checkout, plus bundle and loyalty discounts, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y16w7z/apu_software_black_friday_sale_40_off_plugins/",
+  "headline": "40% off sitewide",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Neural DSP",
+  "url": "https://neuraldsp.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Guitar amp and effects plugins.",
+  "deal": "50% off all plugins plus €10 store credit per €100 spent, through Dec 2.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y1828f/neural_dsp_black_friday_sale_50_off_all_plugins/",
+  "headline": "50% off all plugins",
+  "ends": "2026-12-02"
+ },
+ {
+  "name": "Cableguys",
+  "url": "https://www.cableguys.com/products",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Maker of ShaperBox and modulation plugins.",
+  "deal": "Sale prices: Cableguys Bundle $149, ShaperBox 3 $89, VolumeShaper 7 $19, FilterShaper XL $49, plus upgrades.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y19gjz/cableguys_black_friday_sale_cableguys_bundle_149/",
+  "headline": "ShaperBox 3 $89, full bundle $149"
+ },
+ {
+  "name": "Celemony Melodyne",
+  "url": "https://shop.celemony.com/cgi-bin/WebObjects/CelemonyShop",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Melodyne pitch and time correction software.",
+  "deal": "Melodyne 5 Essential $25 (74% off), Assistant $249, Editor $399, Studio $699, upgrades discounted.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y19wwo/celemony_black_friday_sale_melodyne_5_pitch/",
+  "headline": "Essential edition $25, 74% off"
+ },
+ {
+  "name": "ebb&flow",
+  "url": "https://ebbandflow.audio/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Sample-based virtual instruments.",
+  "deal": "Up to 40% off every instrument plus extra 10% loyalty discount, through Dec 2.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y1dp6z/ebbandflow_black_friday_sale_up_to_40_off_site/",
+  "headline": "Up to 40% off instruments",
+  "ends": "2026-12-02"
+ },
+ {
+  "name": "Fractal Sounds",
+  "url": "https://fractalsounds.ca/collections/presets",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Synth preset packs.",
+  "deal": "Buy-more-save-more: 20% off one pack up to 70% off, through Dec 11.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y1drbd/fractal_sounds_black_friday_sale_up_to_70_off/",
+  "headline": "Up to 70% off presets",
+  "ends": "2026-12-11"
+ },
+ {
+  "name": "OddGrooves",
+  "url": "https://oddgrooves.com/deals/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "MIDI drum groove packs.",
+  "deal": "Over 50% off MIDI packs from $3 plus extra 20% off orders over $50, through Dec 4.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y1eijn/oddgrooves_black_friday_sale_over_50_off_midi/",
+  "headline": "Over 50% off MIDI packs",
+  "ends": "2026-12-04"
+ },
+ {
+  "name": "Vochlea",
+  "url": "https://vochlea.com/products",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Maker of Dubler voice-to-MIDI software and mic.",
+  "deal": "Up to 50% off bundles and plugins, e.g. Music Makers Suite $139.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y2tegw/vochlea_black_friday_sale_music_makers_suite_139/",
+  "headline": "Up to 50% off bundles"
+ },
+ {
+  "name": "Void & Vista",
+  "url": "https://www.voidandvista.com/en-us/blogs/news/black-friday-2026-30-off",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Sample packs and sound design tools.",
+  "deal": "30% off everything, through Dec 18.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y1ey4l/void_vista_black_friday_sale_30_off_site_wide/",
+  "headline": "30% off everything",
+  "ends": "2026-12-18"
+ },
+ {
+  "name": "Overloud",
+  "url": "https://www.overloud.com/categories",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Guitar amp simulation and effects plugins.",
+  "deal": "Up to 80% off all products.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y1eyzt/overloud_black_friday_sale_up_to_80_off_select/",
+  "headline": "Up to 80% off"
+ },
+ {
+  "name": "Pulse Audio",
+  "url": "https://pulse.audio/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Online store for sample packs and plugins from many developers.",
+  "deal": "Black Friday sale: up to 96% off many products.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y1f0uf/pulse_audio_black_friday_sale_up_to_96_off_from/",
+  "headline": "Up to 96% off"
+ },
+ {
+  "name": "DDMF",
+  "url": "https://ddmf.eu/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Mixing and EQ plugin developer.",
+  "deal": "50% off sitewide, through Dec 7.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y231p5/ddmf_black_friday_sale_50_off_site_wide_until_7/",
+  "headline": "50% off sitewide",
+  "ends": "2026-12-07"
+ },
+ {
+  "name": "Resonance Sound",
+  "url": "https://www.resonance-sound.com/black-friday-cyber-monday-sale/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Synth presets, samples and instruments.",
+  "deal": "Up to 90% off and exclusive bundles, through Dec 6.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y24c4u/resonance_sound_black_friday_sale_up_to_90_off/",
+  "headline": "Up to 90% off",
+  "ends": "2026-12-06"
+ },
+ {
+  "name": "Tracktion",
+  "url": "https://www.tracktion.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Maker of the Waveform DAW and audio plugins.",
+  "deal": "Up to 60% off sitewide, through Dec 7.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y24hsb/tracktion_black_friday_sale_40_off_site_wide/",
+  "headline": "Up to 60% off sitewide",
+  "ends": "2026-12-07"
+ },
+ {
+  "name": "Pssst Instruments",
+  "url": "https://pssst-instruments.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Experimental sampled instruments and plugins.",
+  "deal": "Everything up to 50% off.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y27c0e/pssst_instruments_black_friday_sale_up_to_50_off/",
+  "headline": "Up to 50% off everything"
+ },
+ {
+  "name": "Viral Audio",
+  "url": "https://viral-audio.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Kontakt instrument libraries.",
+  "deal": "30% off all Kontakt libraries.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y27ub6/viral_audio_black_friday_sale_30_off_kontakt/",
+  "headline": "30% off all libraries"
+ },
+ {
+  "name": "Ocean Swift",
+  "url": "https://oceanswift.net/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Synth presets and sample packs.",
+  "deal": "Up to 88% off sitewide, through Dec 1.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y28038/ocean_swift_black_friday_sale_up_to_88_off_site/",
+  "headline": "Up to 88% off sitewide",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "G-Sonique",
+  "url": "https://www.g-sonique.com/shop",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Synth and effects plugins.",
+  "deal": "50% off sitewide, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y2tqwm/gsonique_black_friday_sale_50_off_site_wide/",
+  "headline": "50% off sitewide",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "MrMoustache",
+  "url": "https://mrmoustache.es/en/plugins",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Audio effect plugins.",
+  "deal": "30% off all plugins, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y30j66/mrmoustache_black_friday_sale_up_to_50_off_site/",
+  "headline": "30% off all plugins",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "DHPlugins",
+  "url": "https://dhplugins.com/store/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Maker of the Halo 2 synth and LFO-EQ.",
+  "deal": "Up to 65% off, no code: Halo 2 £99 to £35, LFO-EQ £39 to £19, Nov 23 to Dec 1.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y36vg8/dhplugins_black_friday_cyber_monday_sale_halo2_35/",
+  "headline": "Up to 65% off, Halo 2 £35",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Goodhertz",
+  "url": "https://goodhertz.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Audio effect plugins such as Lossy and Vulf Compressor.",
+  "deal": "35% off every plugin, through Dec 7.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y37dlg/goodhertz_black_friday_sale_up_to_34_off_plugins/",
+  "headline": "35% off every plugin",
+  "ends": "2026-12-07"
+ },
+ {
+  "name": "Imaginando",
+  "url": "https://www.imaginando.pt/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows",
+   "ios",
+   "android"
+  ],
+  "pricing": "one-time",
+  "description": "Synths and music apps for desktop and mobile.",
+  "deal": "Up to 50% off plugins and bundles, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y37iro/imaginando_black_friday_sale_up_to_50_off_plugins/",
+  "headline": "Up to 50% off",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "PSP Audioware",
+  "url": "https://www.pspaudioware.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Mixing and mastering plugins.",
+  "deal": "Up to 67% off, e.g. InfiniStrip Earth $99, VintageWarmer and Lexicon PSP 42 discounted.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y37sqj/psp_audioware_black_friday_sale_psp_infinistrip/",
+  "headline": "Up to 67% off"
+ },
+ {
+  "name": "Isotonik Studios",
+  "url": "https://isotonikstudios.com/shop-ableton-live/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Ableton Live devices, packs and plugins.",
+  "deal": "Up to 30% off the whole store with code BLACK2026, through Dec 1.",
+  "codes": [
+   "BLACK2026"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y383f7/isotonik_studios_black_friday_sale_up_to_30_off/",
+  "headline": "Up to 30% off the store",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Sound Radix",
+  "url": "https://www.soundradix.com/shop/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Auto-Align, Drum Leveler and phase plugins.",
+  "deal": "25% off everything for two weeks, through Dec 8.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y3kwjb/soundradix_black_friday_sale_radical_bundle_45/",
+  "headline": "25% off everything",
+  "ends": "2026-12-08"
+ },
+ {
+  "name": "Fracture Sounds",
+  "url": "https://fracturesounds.com/shop/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Cinematic Kontakt instruments.",
+  "deal": "Up to 40% off products and up to 50% off bundles, through Dec 3.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y3lx9l/fracture_sounds_black_friday_sale_up_to_40_off/",
+  "headline": "Up to 50% off bundles",
+  "ends": "2026-12-03"
+ },
+ {
+  "name": "Muletone Audio",
+  "url": "https://www.muletoneaudio.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Sampled instrument libraries.",
+  "deal": "Up to 80% off all libraries, through Dec 7.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y3lyk4/muletone_audio_black_friday_sale_up_to_80_off_all/",
+  "headline": "Up to 80% off libraries",
+  "ends": "2026-12-07"
+ },
+ {
+  "name": "Cinematic Studio Series",
+  "url": "https://cinematicstudioseries.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Orchestral Kontakt sample libraries.",
+  "deal": "25% off instruments, through Dec 2.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y3m4qr/cinematic_studio_series_black_friday_sale_25_off/",
+  "headline": "25% off instruments",
+  "ends": "2026-12-02"
+ },
+ {
+  "name": "UVI",
+  "url": "https://www.uvi.net/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Falcon synth, instruments and soundware.",
+  "deal": "50% off instruments, effects and soundware plus extra 10% on two or more, through Nov 29.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y3mep0/uvi_exclusive_black_friday_sale_50_off/",
+  "headline": "50% off, extra 10% on two",
+  "ends": "2026-11-29"
+ },
+ {
+  "name": "Jono Buchanan Music",
+  "url": "https://learn.jonobuchananmusic.com/p/black-friday",
+  "category": "Learning",
+  "subcategory": "Online Course Platforms",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Music production courses and sound packs.",
+  "deal": "Up to 40% off courses, collections and sound packs with codes BLACK26, BLACK2630, BLACK26ALL, through Dec 1.",
+  "codes": [
+   "BLACK26",
+   "BLACK2630",
+   "BLACK26ALL"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y3n15p/jono_buchanan_music_black_friday_sale_black/",
+  "headline": "Up to 40% off courses and packs",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Frank Gambale Guitar School",
+  "url": "https://www.frankgambaleguitarschool.com/",
+  "category": "Learning",
+  "subcategory": "Online Course Platforms",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Online guitar courses.",
+  "deal": "35% off all courses with code FRIDAYBLACK35 plus extra 10% off bundle collections with BFBUNDLE10, through Dec 1.",
+  "codes": [
+   "FRIDAYBLACK35",
+   "BFBUNDLE10"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y3ne08/frank_gambale_music_school_black_friday_sale_35/",
+  "headline": "35% off all courses",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Epicomposer",
+  "url": "https://epicomposer.com/store/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Sound packs and film scoring templates.",
+  "deal": "Everything 50% off, through Dec 7.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y3npr4/epicomposer_black_friday_sale_50_off_sound_packs/",
+  "headline": "Everything 50% off",
+  "ends": "2026-12-07"
+ },
+ {
+  "name": "Boutique Tones",
+  "url": "https://boutiquetones.com/collections/all",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Guitar tone presets and impulse responses.",
+  "deal": "50% off everything, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y3nteb/boutique_tones_early_black_friday_sale_50_off/",
+  "headline": "50% off everything",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Crocus Soundware",
+  "url": "https://crocussoundware.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Sample libraries for composers.",
+  "deal": "Libraries $35 each, $28 each for 3+, Total 16 Bundle $299, extra code BF_EXTRA, through Nov 30.",
+  "codes": [
+   "BF_EXTRA"
+  ],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y3nyec/crocus_soundware_black_friday_sale_bundle_3_or/",
+  "headline": "Libraries from $28, bundle $299",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Korneff Audio",
+  "url": "https://korneffaudio.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Analog-modeled mixing plugins.",
+  "deal": "Up to 50% off plugins.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y1exdf/korneff_audio_black_friday_sale_up_to_50_off_site/",
+  "headline": "Up to 50% off plugins"
+ },
+ {
+  "name": "Louder Than Liftoff",
+  "url": "https://louderthanliftoff.com/collections/black-friday-2026",
+  "category": "Hardware & Electronics",
+  "subcategory": "Audio",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Boutique studio audio hardware and modules.",
+  "deal": "Silver Bullet mk2 up to $500 off, Chroma and modules 15% off, plugin $30, through Nov 30.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y3o3vm/louder_than_liftoff_black_friday_sale_discounts/",
+  "headline": "Up to $500 off studio hardware",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Noise Engineering",
+  "url": "https://noiseengineering.us/collections/all/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Eurorack modules and plugins.",
+  "deal": "15% off all Eurorack modules, cases and plugins; All the Noise Plugin Bundle $196.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y3oaig/noise_engineering_black_friday_sale_all_the_noise/",
+  "headline": "15% off modules and plugins"
+ },
+ {
+  "name": "Walrus Audio",
+  "url": "https://www.walrusaudio.com/",
+  "category": "Hardware & Electronics",
+  "subcategory": "Audio",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Guitar effects pedals.",
+  "deal": "20% to 30% off select effect pedals, through Dec 3.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y2avlc/walrus_audio_black_friday_sale_up_to_30_off/",
+  "headline": "20% to 30% off pedals",
+  "ends": "2026-12-03"
+ },
+ {
+  "name": "Thonk",
+  "url": "https://www.thonk.co.uk/",
+  "category": "Hardware & Electronics",
+  "subcategory": "Audio",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "DIY synth kits and Eurorack parts.",
+  "deal": "At least 10% off most Music Thing and Thonk kits, some up to 30% off.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y2ax6c/thonk_ltd_black_friday_sale_up_to_50_off_synth/",
+  "headline": "Up to 30% off synth kits"
+ },
+ {
+  "name": "Grumpy Monkey Plugins",
+  "url": "https://grumpymonkeyplugins.com/collections/all-products",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Audio plugin developer.",
+  "deal": "Holiday sale up to 33% off sitewide, through Dec 31.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y3mtp5/grumpy_monkey_plugins_black_friday_sale_up_to_33/",
+  "headline": "Up to 33% off sitewide",
+  "ends": "2026-12-31"
+ },
+ {
+  "name": "Inlet Audio",
+  "url": "https://www.inletaudio.com/collections/instruments",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Sampled string and woodwind instruments.",
+  "deal": "Bundles 20% off and up to 20% off when combining libraries, plus a gift card with paid instruments.",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.reddit.com/r/AudioProductionDeals/comments/1y191vt/inlet_audio_black_friday_sale_up_to_20_when_you/",
+  "headline": "Up to 20% off bundles"
+ }
+]

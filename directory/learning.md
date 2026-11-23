@@ -2,11 +2,11 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/learning/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**242 live deals**, 92 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**247 live deals**, 94 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
-- [Online Course Platforms](#online-course-platforms) (55)
-- [Programming & Tech](#programming--tech) (39)
-- [Cybersecurity Certs & Training](#cybersecurity-certs--training) (72)
+- [Online Course Platforms](#online-course-platforms) (57)
+- [Programming & Tech](#programming--tech) (40)
+- [Cybersecurity Certs & Training](#cybersecurity-certs--training) (74)
 - [Cloud & DevOps Certs](#cloud--devops-certs) (11)
 - [Languages](#languages) (25)
 - [Books & Ebooks](#books--ebooks) (32)
@@ -40,10 +40,12 @@
 | [Home Boss (Nuria Corbi)](https://x.com/NuriaCorbi) | Courses on children's book creation and self-publishing. | 40% off all courses and digital resources |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/homeboss/) |
 | [Insurance Training Center](https://insurancetrainingcenter.com/lp/black-friday/) | Insurance courses and certifications. | 40% off every course and certification | `BLACKFRIDAY40` | Nov 27 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/insurancetrainingcenter/) |
 | [IW Mentor](https://x.com/WonderLaura) | Microsoft 365, Power Platform and Copilot Studio training. | **Soon.** 40% off Ultimate, $650 → $390/yr |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/iwmentor/) |
+| [Jono Buchanan Music](https://learn.jonobuchananmusic.com/p/black-friday) | Music production courses and sound packs. | Up to 40% off courses and packs | `BLACK26` `BLACK2630` `BLACK26ALL` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/jonobuchananmusic/) |
 | [TheoryScore](https://theoryscore.com/black-friday/) | UK driving theory test practice with DVSA topic questions and timed mock tests. | 40% off first billing period, yearly $24.99 → $15 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/theoryscore/) |
 | [Transcription Certification Institute](https://x.com/TranscriptionCI) | Transcription training courses. | 40% off all courses | `BLACK40` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/transcriptioncertificationinstitute/) |
 | [Udemy](https://www.udemy.com/) | Marketplace of self-paced video courses on programming, cloud, AI and more. | Courses from $9.99, Team Plan 40% off |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/udemy/) |
 | [LearnWorlds](https://get.learnworlds.com/coupon) | Platform to create and sell online courses. | Up to 39% off Learning Center plans |  | Nov 23 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/learnworlds/) |
+| [Frank Gambale Guitar School](https://www.frankgambaleguitarschool.com/) | Online guitar courses. | 35% off all courses | `FRIDAYBLACK35` `BFBUNDLE10` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/frankgambaleguitarschool/) |
 | [Human Givens College](https://x.com/humangivens) | Mental health and psychotherapy courses. | Up to 35% off online courses and live training |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/humangivenscollege/) |
 | [StormwaterONE](https://x.com/StormwaterONE) | Stormwater inspector training and certification. | 35% off eligible courses |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/stormwaterone/) |
 | [TOAnimate courses](https://x.com/TOAnimate_) | Blender rigging and animation courses. | 35% off all courses | `BF2026` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/toanimatecourses/) |
@@ -88,6 +90,7 @@
 | [Codemia](https://codemia.io/pricing?via=javarevisited) | System design interview practice platform. | 60% off lifetime plan |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/codemia/) |
 | [DataCamp](https://www.datacamp.com/) | Interactive courses in data science, Python, R and SQL. | 60% off Premium annual, $330 → $132/yr |  | Nov 29 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/datacamp/) |
 | [HyperionDev](https://x.com/HypDev) | Coding bootcamps and tech courses with mentor support. | Up to 60% off selected courses |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/hyperiondev/) |
+| [LLM Master](https://apps.apple.com/app/id6769785318) | Study app that explains how large language models work. | About 60% off, now $8.99 |  | Dec 3 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/llmmaster/) |
 | [Unlearn](https://unlearn.dev/pricing) | Courses and agent skills teaching developers to build and ship with AI agents. | 56% off Plus lifetime, $899 → $399 |  | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/unlearn/) |
 | [Udacity](https://www.udacity.com/experience) | Nanodegree programs in AI, cloud and data engineering. | 55% off, monthly plan $249 → $113 | `BF55` | Nov 23 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/udacity/) |
 | [Networking: The Internet](https://classes.pracnet.net/courses/networking?coupon=BF2026NET&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Vendor-neutral networking course built from first principles. | 51% off lifetime access, $59 → $29 | `BF2026NET` | Dec 6 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/networking/) |
@@ -130,6 +133,7 @@
 | [LetsDefend](https://letsdefend.io/) | Blue team training platform with SOC analyst labs. | 55% off annual VIP, 444.99 PLN → 200.25 PLN | `BLCKFRDY55` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/letsdefend/) |
 | [7ASecurity](https://7asecurity.com/) | Self-paced mobile, web and cloud application security courses. | 50% off self-paced courses | `BFCM50` | Dec 10 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/7asecurity/) |
 | [AppSec.training](https://appsec.training) | Online training in application security, DevSecOps and secure development. | 50% off |  | Dec 31 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/appsectraining/) |
+| [Cloud Security Alliance](https://cloudsecurityalliance.org/p/cyber-monday-2026) | Cloud security training and certificates including CCSK, CCZT and TAISE. | **Soon.** 50% off all training and exams |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/cloudsecurityalliance/) |
 | [RedTeamLeaders](https://courses.redteamleaders.com/catalog) | Hacking labs and offensive security certifications. | 50% off hacking labs and certifications | `BLACKFRIDAY50` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/redteamleaders/) |
 | [TCM Security](https://tcm-sec.com/) | Practical ethical hacking courses and certifications. | 50% off first Academy payment, 20% off certs |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/tcmsecurity/) |
 | [TrueCyber Red Team training](https://truecyber.world/training/red-synopsis.me) | Red team training course with lifetime access. | 50% off lifetime red team training with the next update |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/truecyberredteamtraining/) |
@@ -139,6 +143,7 @@
 | [AppSecEngineer](https://www.appsecengineer.com/individuals/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on labs for application, cloud and AI security training. | 40% off Pro Plus annual plans and bootcamps | `LEVELUP40` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/appsecengineer/) |
 | [Blu Raven](https://academy.bluraven.io/courses) | Courses on detection engineering and threat hunting with KQL. | Up to 40% off courses |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/bluraven/) |
 | [Blu Raven Academy](https://academy.bluraven.io/black-friday-2026) | Courses on KQL, threat hunting and detection engineering. | Up to 40% off security courses | `BFCM25` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/bluravenacademy/) |
+| [ByteBlind](https://training.byteblind.com/) | Hands-on Android app hacking course. | 40% off the course |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/byteblind/) |
 | [Centri (formerly Security Blue Team)](https://centri.org/black-friday) | Blue team security certifications such as BTL1 and BTL2. | Up to 40% off certifications, bundle £699 |  | Dec 4 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/centri/) |
 | [CQURE Academy](https://cqureacademy.com) | Cybersecurity training courses and live classes. | Up to 40% off security courses, 25% off live classes |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/cqureacademy/) |
 | [GenAI Security Lab](https://genaisecuritylab.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on labs attacking vulnerable LLM, RAG, agent and MCP apps, mapped to OWASP. | 40% off 4-month pass and first year | `BLACKFRIDAY40` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/genaisecuritylab/) |

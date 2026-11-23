@@ -2,11 +2,11 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/business-finance/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**172 live deals**, 77 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**179 live deals**, 80 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
-- [Personal Finance & Investing](#personal-finance--investing) (49)
-- [Accounting & Invoicing](#accounting--invoicing) (17)
-- [Customer Support & Chat](#customer-support--chat) (27)
+- [Personal Finance & Investing](#personal-finance--investing) (54)
+- [Accounting & Invoicing](#accounting--invoicing) (18)
+- [Customer Support & Chat](#customer-support--chat) (28)
 - [Team & Operations](#team--operations) (40)
 - [Startup & Indie Tools](#startup--indie-tools) (24)
 - [Legal & Documents](#legal--documents) (15)
@@ -17,7 +17,10 @@
 |---|---|---|---|---|---|
 | [Equira Portfolio Tracker](https://apps.apple.com/us/app/equira-portfolio-manager/id6751342549) | iPhone app for tracking an investment portfolio. | Lifetime Plus free for first 100 users, was $99.99 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/equiraportfoliotracker/) |
 | [TotalFigures](https://totalfigures.app/?ref=bf26-awesome) | Private app that tracks net worth and every transaction in one place. | 88% off Premium, lifetime $79.99 → $9.59 |  | Dec 3 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/totalfigures/) |
+| [TESORIN](https://trytesorin.com) | Spending and net worth tracker without bank linking, with Apple Wallet logging. | 80% off Lifetime Premium |  | Dec 31 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/tesorin/) |
 | [TradingView](https://www.tradingview.com/) | Charting and trading platform for stocks, crypto and other markets. | Up to 80% off annual plans plus 1 free month |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/tradingview/) |
+| [Booky](https://escobar.sv/booky/) | Expense tracker that logs Apple Pay purchases automatically, no bank login. | 75% off the first year of Pro | `BOOKY75` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/booky/) |
+| [Meli](https://trymeli.app) | Turns bank alert emails into spending insights and budgets without a bank login. | 75% off the first year | `MACAPPS75` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/meli/) |
 | [OrbySystems](https://orbysystems.ai/offers) | Local financial AI that answers questions from your bank and brokerage statements. | 75% off, Plus $49.95 → $12.49 | `BLACKFRIDAY26` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/orbysystems/) |
 | [TipRanks Premium](https://lp.tipranks.com/go-pro-affiliates-50off/?coupon=50TRAD002&im_ref=UCVRutVadxyZRTSSfGxdm2A2UkryObxZMxaUX40&sharedid=&llf=75646&irmpname=JKB%20Online%20Media%20Inc.&irpid=75646&custom18=affiliate&utm_source=impact&utm_medium=affiliate&irgwc=1&afsrc=1) | Stock research with analyst ratings and data. | 50% to 75% off Premium | `50TRAD002` | Dec 5 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/tiprankspremium/) |
 | [Par](https://par.sawirstudio.com/black-friday-2026/?utm_source=awesome-bf-2026) | RPN financial calculator for iPhone and iPad with TVM, loans, NPV, IRR and bonds. | 60% off one-time purchase, $4.99 → $1.99 |  | Nov 26 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/par/) |
@@ -33,12 +36,14 @@
 | [Life Math Money](https://blackfriday.lifemathmoney.com/) | Personal finance spreadsheets and courses. | 50% or more off all products |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/lifemathmoney/) |
 | [Nimblewit](https://x.com/nimblewitapp) | Dividend income calendar and retirement income planner. | 50% off the Builder and Planner plans |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/nimblewit/) |
 | [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | Options strategy visualizer, scanners and trade journal for retail traders. | 50% off every plan, annual from $100 → $50 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/optionsmatrixpro/) |
+| [Penvo](https://penvo.pro) | Voice-first expense tracker with shared ledgers, envelope budgets and receipt scan. | 50% off Lifetime Pro |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/penvo/) |
 | [SIGNUM HQ](https://apps.apple.com/app/signum-hq-stock-market-intel/id6783130444?pt=129074309&ct=bf_tony_1122&mt=8) | US stock app with real-time prices, AI move explanations and earnings calendar. | 50% off first year of Pro, $74.99 → $37.49 | `BLACKFRIDAY50` `BFCM50` | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/signumhq/) |
 | [StockEdge](https://stockedge.com/pricing) | Indian stock market scans, analytics and insights app. | About 50% off stock research plans, from ₹124/mo | `GREENEDGE` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/stockedge/) |
 | [SubManager](https://submanager.app) | Subscription tracker with renewal reminders for Apple devices. | 50% off |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/submanager/) |
 | [Tenet Research](https://tenetresearch.ai/pricing) | AI stock investing and research platform. | 50% off Elite, 20% off annual plan |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/tenetresearch/) |
 | [Toffee](https://www.toffeefinance.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Debt payoff planner using snowball or avalanche methods. | 50% off Pro lifetime, $59.99 → $29.99 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/toffee/) |
 | [TradesViz](https://www.tradesviz.com) | Trading journal and analytics. | 50% off yearly plans plus a free screener year | `TVBF26` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/tradesviz/) |
+| [US Stock Sense](https://usstocksense.com) | US stock research site with screener, valuation comparison and portfolio tracking. | 50% off the annual plan |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/usstocksense/) |
 | [YNAB](https://www.ynab.com/) | Zero-based budgeting app for planning every dollar. | 50% off annual |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/ynab/) |
 | [Cheddar Flow](https://cheddarflow.co/x) | Real-time options flow, dark pool and gamma exposure data. | 45% off all options flow plans |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/cheddarflow/) |
 | [ChartScout](https://chartscout.io/black-friday) | Chart pattern detection and alerts for crypto traders. | 40% off Pro for 3 months, $39 → $23.40/mo | `BLACKFRIDAY2026` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/chartscout/) |
@@ -77,6 +82,7 @@
 | [EasyPay Gibraltar](https://x.com/EasyPay_News) | Payroll and HR software for Gibraltar businesses. | 50% off new subscriptions and upgrades |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/easypaygibraltar/) |
 | [Invoice Factory](https://apps.apple.com/us/app/id6744819252?utm_source=awesome-bf-2026&utm_medium=github&utm_campaign=bfcm2026) | Invoice maker and bookkeeping app for freelancers and small businesses. | 50% off first year of Premium, $179.99 → $89.99 |  | Dec 6 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/invoicefactory/) |
 | [InvoiceMama](https://invoicemama.com/) | Quick invoicing for small businesses. | 50% off every paid plan |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/invoicemama/) |
+| [Invoiceur](https://invoiceur.app) | Simple invoicing app for independent professionals on Apple devices. | 50% off lifetime, now $89 | `BLACKFRIYAY26` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/invoiceur/) |
 | [Evinco business software](https://www.evinco-software.com/eng/) | Billing, cheque printing and receipt software for small businesses. | 30% off lifetime business software licenses |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/evincobusinesssoftware/) |
 | [Odie](https://apps.apple.com/app/id6804490803) | Automatic iPhone mileage log that keeps trips on the device. | 30% off first year of Pro | `BLACKFRIDAY` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/odie/) |
 | [Paperkeep](https://paperkeep.be/pro.html) | Browser extension that downloads and renames your SaaS invoices. | 30% off first year of Pro, €39 → €27.30 | `PAPERKEEP30` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/paperkeep/) |
@@ -116,6 +122,7 @@
 | [KrispCall](https://try.krispcall.com/promo) | Cloud phone system with virtual numbers. | 15% off all plans | `KRISPBLK15OTD` | Dec 3 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/krispcall/) |
 | [Aircall](https://get.aircall.io/discount) | Cloud business phone system and call center software with AI voice agents. | Unlimited AI voice agent minutes |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/aircall/) |
 | [Chatwoot](https://www.chatwoot.com) | Open-source omnichannel customer support inbox. | Free self-hosted |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/chatwoot/) |
+| [Emporiqa](https://emporiqa.com/integrations/woocommerce/) | AI shopping assistant for WooCommerce stores. | $100 starting credit instead of $25 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/emporiqa/) |
 | [HelpJet](https://helpjet.com/) | Help desk with ticketing and knowledge base. | Double usage on annual plans, worth $360 |  | Dec 3 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/helpjet/) |
 | [Heyy](https://www.heyy.io/pricing) | Automates sales and support conversations across messaging channels. | 2 months free with yearly billing |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/heyy/) |
 

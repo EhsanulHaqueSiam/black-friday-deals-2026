@@ -2,15 +2,15 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/health-lifestyle/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**151 live deals**, 50 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**171 live deals**, 59 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
-- [Fitness & Workouts](#fitness--workouts) (30)
-- [Health & Mental Wellbeing](#health--mental-wellbeing) (38)
-- [Food & Nutrition](#food--nutrition) (13)
-- [Travel & Navigation](#travel--navigation) (13)
-- [Family, Kids & Relationships](#family-kids--relationships) (15)
-- [Hobbies & Home](#hobbies--home) (34)
-- [Weather & Misc](#weather--misc) (8)
+- [Fitness & Workouts](#fitness--workouts) (32)
+- [Health & Mental Wellbeing](#health--mental-wellbeing) (45)
+- [Food & Nutrition](#food--nutrition) (14)
+- [Travel & Navigation](#travel--navigation) (18)
+- [Family, Kids & Relationships](#family-kids--relationships) (16)
+- [Hobbies & Home](#hobbies--home) (36)
+- [Weather & Misc](#weather--misc) (10)
 
 ## Fitness & Workouts
 
@@ -25,6 +25,7 @@
 | [Gymex](https://gymex.fitness/blackfriday?utm_source=awesome_bfcm&utm_medium=deal_list&utm_campaign=bf2026) | Gym workout tracker with an AI coach that answers from your training data. | Lifetime from £30, or 50% off monthly for 6 months | `BLACKFRIDAY` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/gymex/) |
 | [Gymfile](https://apps.apple.com/app/id1448100591?pt=119552309&ct=bf26_mrs&mt=8) | Workout tracker for lifters on iPhone, iPad and Apple Watch. | 50% off Pro lifetime, $109.99 → $54.99 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/gymfile/) |
 | [JYM app (Jim Stoppani)](https://www.jimstoppani.com/lp/bfcm) | Workout, nutrition and progress tracking app. | 50% off the fitness app for life for new members |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/jymapp/) |
+| [Progress Pictures: Then & Now](https://mahalomochi.com/thenandnow) | Aligned progress photos with a ghost overlay and timelapse playback. | 50% off Lifetime Premium | `THENNOWBF50` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/progresspictures/) |
 | [RepCount](https://www.repcountapp.com/black-friday?utm_source=awesome_bfcm&utm_medium=deal_list&utm_campaign=bf2026) | Gym workout tracker with routines, custom exercises and progress charts. | 50% off first year of Premium, $29.99 → $14.99 |  | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/repcount/) |
 | [Therabody (Theragun)](https://www.therabody.com/) | Percussive massage guns and recovery devices. | Up to 50% off sitewide |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/therabody/) |
 | [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | Step counter and workout tracker for iPhone and Apple Watch. | 40% off lifetime, $39.99 → $23.99 | `BFCM26` `BFCM26FAMILY` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/steps/) |
@@ -33,6 +34,7 @@
 | [Daily Wander](https://www.dailywander.app/blog/black-friday-2026.html?utm_source=github&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=mariuslandwehr_black_friday_deals) | Creates circular walking routes on iPhone from a chosen distance or walking time. | 33% off a year of Premium, $29.99 → $19.99 | `WANDER33` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/dailywander/) |
 | [Liftonic](https://liftonic.app) | AI lifting coach and workout tracker for iPhone and Apple Watch. | 33% off first year, $59.99 → $39.99 |  | Dec 31 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/liftonic/) |
 | [Steps & Beasts](https://stepsandbeasts.app/black-friday) | Step-tracking game where reaching your daily goal hatches eggs and collects creatures. | 33% off Pro lifetime, $39.99 → $26.99 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/stepsbeasts/) |
+| [Zancada](https://apps.apple.com/app/id6829781795) | Controls walking pad treadmills from iPhone and logs walks to Apple Health. | 33% off, now $11.99 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/zancada/) |
 | [Exxentric](https://x.com/go_exxentric) | Flywheel training equipment. | 30% off Active and Go systems, 15% off sitewide |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/exxentric/) |
 | [Fit For Golf](https://x.com/dpbrumley) | Golf fitness training app. | 30% off, $140/yr ($11/mo) |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/fitforgolf/) |
 | [Science of Rowing](https://x.com/ScienceofRowing) | Rowing training memberships and conferences. | 30% off memberships and conferences |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/scienceofrowing/) |
@@ -51,6 +53,7 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
+| [Daylivia](https://apps.apple.com/app/id6794620176) | Private habit, mood and journal app for spotting patterns over time. | 80% off Lifetime Premium |  | Dec 14 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/daylivia/) |
 | [DeskRest](https://deskrest.com/offers) | Mac break reminder that prompts you to rest your eyes and move. | 80% off lifetime licenses | `BLACKFRIDAY80` | Dec 10 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/deskrest/) |
 | [Sleep Songs](https://apps.apple.com/us/app/sleep-songs/id481128551) | Looping calm songs with playlists and a sleep timer. | 80% off, $4.99 → $0.99 one-time |  | Nov 26 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/sleepsongs/) |
 | [Sleep Sounds](https://apps.apple.com/us/app/sleep-sounds/id390555459) | Mix 36 looping nature sounds with a sleep timer. | 80% off, $4.99 → $0.99 one-time |  | Nov 26 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/sleepsounds/) |
@@ -60,11 +63,14 @@
 | [Lift](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/lift) | Christian prayer companion with Scripture and daily reflections. | 60% off first year, $39.99 → $16 | `BF2026LIFT` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/lift/) |
 | [Calm](https://www.calm.com/) | Sleep, meditation and relaxation app. | 40 to 50% off |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/calm/) |
 | [ColourPop](https://colourpop.com) | Affordable cosmetics brand. | 50% off Bare Necessities palette, $17.50 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/colourpop/) |
+| [Easy Wake](https://tomredway.co.uk/easywake) | Smart alarm that wakes you in light sleep with a get-out-of-bed challenge. | **Soon.** 50% off, now £11.49 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/easywake/) |
 | [Glowster: 90-Day Glow Up Plan](https://apps.apple.com/us/app/glowster-90-day-glow-up-plan/id6777431023) | 90-day self-improvement plan with daily tasks for skin, hair, sleep and grooming. | 50% off first year, $19.99 → $9.99 | `BLACKFRIDAY26` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/glowster/) |
 | [Headspace](https://www.headspace.com/) | Guided meditation, sleep and mindfulness app. | 50% off first year, about $34.99 |  | Dec 4 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/headspace/) |
 | [Hura](https://get.huralya.com) | Self-care and wellbeing app. | 50% off the annual Plus wellbeing plan |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/hura/) |
+| [LookAway](https://lookaway.com/) | Mac screen break and posture reminder with custom wellness prompts. | 50% off all licenses | `BF2026` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/lookaway/) |
 | [Luten](https://apps.apple.com/app/id6777673392) | Adaptive sounds for sleep, focus, stress and kids on iPhone, iPad and CarPlay. | 50% off lifetime, $119.99 → $59.99 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/luten/) |
 | [PepFlow](https://pepflow.app/download) | Tracks peptide doses, schedules and reminders. | 50% off first year, $29.99 → $14.99 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/pepflow/) |
+| [Resolutely](https://mahalomochi.com/resolutely) | Free habit and resolution tracker that grows a plant over the year. | 50% off the Winter Pack | `WINTERBF50` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/resolutely/) |
 | [Sleep Widget and Tracker](https://apps.apple.com/us/app/sleep-widget-tracker-zzz/id6772411346) | Sleep tracker with home screen widgets for iPhone and iPad. | 50% off lifetime, $24.99 → $12.99 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/sleepwidgetandtracker/) |
 | [EyeHack](https://eyehack.app) | Mac eye break reminder every 20 minutes that cannot be snoozed. | 47% off one-time license, $14.99 → $7.99 | `BLACKFRIDAY` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/eyehack/) |
 | [Dayora](https://www.dayora.ai/black-friday?utm_source=awesome_bfcm&utm_campaign=bf2026) | AI journal with reflections on entries, mood tracking and voice journaling. | 40% off Plus first year, $72 → $43.20 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/dayora/) |
@@ -84,6 +90,9 @@
 | [Read My Dream](https://readmydream.com/plus) | Dream journal with AI readings and a painting of each dream. | 10% off Plus, yearly $39.99 → $35.99 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/readmydream/) |
 | [BrainTap](https://x.com/BrainTapTech) | Brain relaxation headset and app. | $285 off the Complete System |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/braintap/) |
 | [Dark Sleep](https://darksleep.app/?ref=Awesome-Black-Friday-Cyber-Monday#pricing) | Sleep sounds, soundscapes, guided breathing and a sunrise alarm for Apple TV. | Lifetime $29.99 → $19.99, annual $9.99 first year |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/darksleep/) |
+| [ECG Reports](https://apps.apple.com/app/ecg-reports/id6774714382) | Organizes Apple Watch ECGs with notes and PDF reports. | $0.99 instead of $2.99 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/ecgreports/) |
+| [Glueys](https://glueys.com/) | Mac break reminder with menu bar creatures for eye rest, stretching and water. | $1.99 instead of $2.99 |  | Dec 4 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/glueys/) |
+| [MediFamily](https://apps.apple.com/app/id6810080893) | Offline family health organizer with pill reminders and an encrypted vault. | Pro Lifetime $29.99 instead of $69.99 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/medifamily/) |
 | [Noom](https://www.noom.com/) | Weight loss program and app built on habit coaching. | Discount on select 12-month plans | `BFCM2026` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/noom/) |
 | [Oasis: Sleep & Nature Sounds](https://apps.apple.com/app/apple-store/id6759493932?pt=124024007&ct=bf_lists&mt=8) | Nature sound mixer for sleep and focus with field recordings and binaural beats. | Lifetime unlock free, normally $24.99 |  | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/oasis/) |
 | [Poop Tracker & Log: Ease](https://apps.apple.com/us/app/poop-tracker-log-ease/id6661017261) | Tracks bowel movements, symptoms and food with trends and exportable reports. | Lifetime $14.99 → $7.49 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/pooptrackerlog/) |
@@ -101,6 +110,7 @@
 | [Nomu Intermittent Fasting](https://apps.apple.com/app/id6759592087) | Intermittent fasting tracker for iPhone. | 57% off first year, $29.99 → $12.99 |  | Dec 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/nomuintermittentfasting/) |
 | [Equip Foods](https://x.com/EquipFoods) | Protein and nutrition products. | 40% off subscriptions, 30% off one-time orders |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/equipfoods/) |
 | [Gratly](https://gratly.app/pricing) | Saves recipes from any website in one click and shows them on a clean page. | 40% off lifetime, $99 → $59 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/gratly/) |
+| [Nami](https://namitheapp.com) | Water tracker that grows a garden as you drink, for iPhone and Apple Watch. | 40% off lifetime | `40OFFLIFETIME` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/nami/) |
 | [YumPal](https://elevenapril.com/yumpal) | Food journal that saves memorable meals to a dated timeline and map. | 37% off lifetime, $29.99 → $18.99 | `BLACKFRIDAY` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/yumpal/) |
 | [Factor](https://www.factor75.com/) | Prepared meal delivery service. | Up to $130 off plus free breakfast for a year |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/factor/) |
 | [HelloFresh](https://www.hellofresh.com/) | Weekly meal kit delivery service. | Free wok plus 10 free meals for new subscribers |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/hellofresh/) |
@@ -113,16 +123,21 @@
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
 | [LiveDepartures](https://busdeparture.co.uk/plans) | Live UK bus departure boards for phone, screens and Windows. | Up to 75% off bus departure boards, mobile for £1.40 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/livedepartures/) |
+| [Travel Scan](https://apps.apple.com/us/app/travel-scan-trip-planner/id6446209231) | Builds trip itineraries from booking screenshots and forwarded emails. | 60% off lifetime | `LIFETIME60` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/travelscan/) |
 | [Dryads Pathfinder](https://x.com/DryadsOutdoors) | Outdoor maps and trail planning app. | 50% off the subscription |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/dryadspathfinder/) |
 | [Fardel](https://fardelapp.com/?ref=Awesome-Black-Friday-Cyber-Monday) | iPhone trip planner with packing lists, itineraries, shared costs and offline guides. | 50% off Pro lifetime, $79.99 → $39.99 |  | Jan 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/fardel/) |
 | [Let's Trip](https://letstrip.ai/pricing) | AI travel planner with itineraries and hotel and flight price alerts. | 50% off Premium, $100 → $50/year |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/letstrip/) |
+| [OptiSafari](https://apps.apple.com/us/app/optisafari-walking-fog-map/id6827416840) | Offline fog-of-war exploration map with 23,000+ landmarks. | 50% off lifetime |  | Dec 21 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/optisafari/) |
 | [Pinvoy](https://appsbymo.app/pinvoy/?ref=bf-deals) | Opens shared map links from any service in the navigation app you use. | 50% off, $2.99 → $1.49 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/pinvoy/) |
+| [TripCache](https://tripcache.app) | Travel expense tracker that organizes spending by trip in any currency. | 50% off lifetime, now $4.99 | `BFSALE` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/tripcache/) |
 | [Placify](https://apps.apple.com/us/app/placify-map-trip-planner/id6739698007) | Personal map for saving places from links and planning day-by-day trips. | 40% off Pro lifetime, $49.99 → $29.99 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/placify/) |
 | [Autobarn](https://x.com/Autobarn) | Campervan hire in NZ and Australia. | Up to 33% off NZ, 15% off Australia campervan hire |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/autobarn/) |
 | [ExpertFlyer](https://www.expertflyer.com) | Finds award seats and upgrades, alerts on flight disruptions. | 30% off a new annual plan |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/expertflyer/) |
 | [Treader](https://www.treader.ca/pricing?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bfcm2026) | Group trip planner with date voting, a shared map and day-by-day itineraries. | 30% off first year of Pro, CA$49.99 → CA$34.99 | `BFRIDAY30` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/treader/) |
 | [Aviate](https://aviate.app) | Flight companion for tracking flights, boarding passes and trips. | 25% off the Pro lifetime license |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/aviate/) |
+| [MapCheck](https://apps.apple.com/us/app/mapcheck-offline-geotif-pdf/id6761805550) | Offline custom maps from PDF and GeoTIFF files for hiking and fieldwork. | 20% off lifetime |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/mapcheck/) |
 | [Inndirectly](https://x.com/Inndirectly) | Direct booking listings for vacation rental hosts. | Listing $25 for the first year | `BLACKFRIDAY-INN50` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/inndirectly/) |
+| [PackGoat](https://apps.apple.com/app/id6758299437) | Reusable packing lists with trip-specific suggestions. | Lifetime $24.99 instead of $44.99 | `GOATFRIDAY26` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/packgoat/) |
 | [Pilot – Flight Logbook](https://appsthere.com/apps/pilote) | Pilot logbook for Mac, iPhone and iPad with EASA and FAA rules. | Pro one-time $29.99 → $19.99 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/pilot/) |
 | [SeaTally – Sea Time Logbook](https://appsthere.com/apps/seatally) | Sea time logbook for sailing licences that records passages by GPS. | Pro one-time $29.99 → $19.99 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/seatally/) |
 
@@ -141,6 +156,7 @@
 | [Zone Tick](https://x.com/Zone_Tick) | Family location app with avatars and day replays. | 50% off your first payment on every plan |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/zonetick/) |
 | [Saventify](https://saventify.com) | Digital invitations with instant sending and RSVP tracking. | 37% off | `BF26` | Jan 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/saventify/) |
 | [Shadsoha printables](https://shadsoha.gumroad.com) | Printable worksheets and unit studies for kids. | 30% off printables, winter worksheets $5.25 | `BLACKFRIDAY30` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/shadsohaprintables/) |
+| [Hushful](https://apps.apple.com/us/app/hushful-wishlist-gift-lists/id6805499302) | Shared wishlists where friends claim gifts privately to avoid duplicates. | Lifetime Pro $1.99 instead of $4.99 |  | Dec 4 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/hushful/) |
 | [Relationship tracker: Duo](https://apps.apple.com/us/app/relationship-tracker-duo/id6759326768) | Private iPhone app for couples to save memories, milestones and time together. | Lifetime $14.99 → $7.49 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/relationshiptracker/) |
 | [Roads Audio](https://roadsaudio.com) | Asynchronous voice conversations with family and friends. | Plus lifetime $99.99 → $49.99 |  | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/roadsaudio/) |
 | [Seesaw](https://apps.apple.com/app/id6755359501) | iPhone app for couples with date night ideas. | Free, normally $2.99 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/seesaw/) |
@@ -159,6 +175,7 @@
 | [Itemlist](https://www.getitemlist.app/black-friday/) | Home inventory for iPhone and iPad, organized by location, room and container. | 50% off lifetime Pro, $59.99 → $29.99 |  | Dec 4 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/itemlist/) |
 | [Leafsight: Plant Doctor](https://apps.apple.com/us/app/leafsight-plant-doctor/id6753725440) | Diagnoses sick houseplants from a photo and tracks their recovery. | 50% off first year of Pro, $29.99 → $14.99 | `BLACKFRIDAY26` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/leafsight/) |
 | [Photo Booth App](https://thephotoboothapp.com/) | Turns an iPad or iPhone into an event photo booth with sharing and printing. | 50% off yearly, $99.99 → $49.99 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/photoboothapp/) |
+| [StashEm](https://apps.apple.com/app/stashem-home-inventory-finder/id6822747988) | Family home inventory: log where things are and share a shopping list. | 50% off the Family plan | `REDDITFAMILY` | Dec 31 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/stashem/) |
 | [Wuben](https://bit.ly/4kZbkMX) | EDC flashlights and outdoor lanterns. | Up to 50% off plus $10 off orders over $99 | `BFCM2026` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/wuben/) |
 | [CarcassTag](https://x.com/CarcassTag) | Reusable waterproof hunting carcass tags. | **Soon.** 45% off |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/carcasstag/) |
 | [Becoming](https://becoming.pics/#plus) | Android app that aligns progress photos into a steady timelapse. | 40% off Plus Forever, $39.99 → $23.99 | `BF2026` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/becoming/) |
@@ -183,6 +200,7 @@
 | [Vallejo](https://x.com/vallejocolors) | Hobby and model paints. | 10% off sitewide, free gift over 100 EUR | `BF2026` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/vallejo/) |
 | [Hellion Turbo](https://www.hellionturbo.com/black-friday/) | Bolt-on turbo kits for trucks and cars. | $500 off every turbo kit |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/hellionturbo/) |
 | [Serviced – Maintenance Log](https://appsthere.com/apps/serviced) | Offline maintenance log for home, car, boat and gear. | Pro one-time $14.99 → $9.99 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/serviced/) |
+| [SmartBox: Find your stuff](https://apps.apple.com/us/app/id6751839278) | Home and storage box organizer with QR codes, NFC tags and photo search. | $69.99 instead of $149.99 | `BLACKDAYS` | Dec 12 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/smartbox/) |
 | [SmrtMugg](https://smrtmugg.com) | Self-heating smart mug. | Go $79.99 → $49.99, 2 for $79.99 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/smrtmugg/) |
 
 ## Weather & Misc
@@ -191,9 +209,11 @@
 |---|---|---|---|---|---|
 | [Car Repair Estimate](https://apps.apple.com/app/car-repair-estimate-cost-ai/id6757721790) | iPhone app that estimates car repair costs from a photo. | Free lifetime Premium (normally $49.99), 50 codes | `6BFUS` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/carrepairestimate/) |
 | [FortuneTellerOnline](https://www.fortunetelleronline.app/#pricing) | AI tarot and fortune readings for love, career and yes-or-no questions. | 90% off all plans plus 10x bonus credits |  | Dec 31 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/fortunetelleronline/) |
+| [Vista Weather](https://apps.apple.com/us/app/vista-weather-forecast-maps/id6768575893) | Weather app with 20+ data sources and native-resolution forecast maps. | 53% off the first year |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/vistaweather/) |
 | [Weatherling](https://x.com/WeatherlingApp) | Animated weather scenes for your desktop. | 50% off, $1.99 → $0.99 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/weatherling/) |
 | [Comic Weather](https://comicweather.app/black-friday?ref=awesome-tony) | iPhone weather app that shows the forecast as a comic book page. | 40% off full version, $4.99 → $2.99 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/comicweather/) |
 | [Big Weather](https://urtti.com/weather) | Mac menu bar weather with on-device written summaries of the forecast. | 33% off Premium lifetime, $29.99 → $19.99 |  | Dec 3 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/bigweather/) |
 | [Convo1 iOS app: Full Unlock $1.99](https://apps.apple.com/us/app/convo1/id6801723067) | iPhone app sold with a one-time full unlock. | Free codes for full unlock, normally $1.99 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/convo1iosapp/) |
 | [EverythingWeather Pro](https://www.everythingwx.com) | Weather app with radar and forecasts. | $19.99 for the first year |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/everythingweatherpro/) |
 | [Jubs](https://www.tryjubs.com/black-friday) | Animated holiday widgets for the iPhone and iPad Home Screen and StandBy. | Premium $2.99 → $1.99 one-time |  | Nov 27 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/jubs/) |
+| [PassCollect](https://lucadevelops.com) | Lightweight wallet for loyalty cards. | Lifetime half price, first year $0.99 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/passcollect/) |

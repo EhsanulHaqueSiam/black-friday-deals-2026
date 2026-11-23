@@ -2,11 +2,11 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/gaming/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**54 live deals**, 6 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**59 live deals**, 7 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
-- [Game Stores & Sales](#game-stores--sales) (13)
+- [Game Stores & Sales](#game-stores--sales) (15)
 - [Game Subscriptions](#game-subscriptions) (2)
-- [Games & Apps](#games--apps) (39)
+- [Games & Apps](#games--apps) (42)
 
 ## Game Stores & Sales
 
@@ -15,12 +15,14 @@
 | [Humble Store](https://www.humblebundle.com/store) | Digital store for PC games and DLC. | Up to 97% off nearly 3,000 games |  | Dec 3 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/humblestore/) |
 | [EA app](https://www.ea.com/sales/black-friday-sale-2026) | EA's PC store and launcher for Battlefield, The Sims, Mass Effect and more. | Up to 95% off PC games, $1 for the first subscription month |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/eaapp/) |
 | [Gamesplanet](https://us.gamesplanet.com/games/offers/blackfriday) | Official digital retailer of PC game keys since 2005. | Up to 95% off PC games, with new offers weekly |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/gamesplanet/) |
+| [WinGameStore](https://www.wingamestore.com/showcase/THQ-Nordic-Black-Friday-Sale/) | Digital PC game store. | Up to 90% off THQ Nordic and SEGA |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/wingamestore/) |
 | [Ubisoft Store](https://store.ubisoft.com/us/deals) | Ubisoft's own PC game store for Assassin's Creed, Far Cry and more. | Up to 85% off games, plus an extra 20% off the cart | `HOLIDAY20` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/ubisoftstore/) |
 | [Epic Games Store](https://store.epicgames.com/) | PC game store. | Up to 80% off games and premium editions |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/epicgamesstore/) |
 | [Xbox / PC Game Deals](https://www.xbox.com/en-US/promotions/sales/black-friday) | Xbox store sale on console and PC games. | Up to 80% off games |  | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/xboxpcgamedeals/) |
 | [Battle.net](https://shop.battle.net/) | Blizzard and Activision PC store for Call of Duty, Diablo and more. | Up to 75% off games, including 70% off Cyberpunk 2077 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/battlenet/) |
 | [Flightsim.to store](https://flightsim.to/store/sales) | Marketplace for Microsoft Flight Simulator aircraft and scenery. | Up to 60% off 450+ flight simulator add-ons |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/flightsimtostore/) |
 | [Just Flight (Drzewiecki Design sale)](https://tinyurl.com/2w3v29ky) | Flight simulator add-on store. | 50% off all Drzewiecki Design scenery |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/justflight/) |
+| [WildTangent](https://www.wildtangent.com/) | PC casual and hidden-object game store. | 50% off Collector's Editions |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/wildtangent/) |
 | [Fanatical](https://www.fanatical.com/en/black-friday) | Official digital store for Steam PC game keys and bundles. | Discounted PC games and a spin bonus on orders over $15 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/fanatical/) |
 | [Green Man Gaming](https://www.greenmangaming.com/black-friday/) | Authorized retailer of PC game keys for Steam and other launchers. | Discounted Steam keys and a bonus pack for XP members |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/greenmangaming/) |
 | [Loaded](https://www.loaded.com/) | Digital store for PC and console game keys. | Buy 2 discounted games and get a third free |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/loaded/) |
@@ -51,6 +53,7 @@
 | [Acram Digital board games](https://x.com/acramdigital) | Digital editions of board games like Charterstone and Concordia. | Up to 60% off digital board games |  | Nov 28 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/acramdigitalboardgames/) |
 | [Atavism](https://www.atavismonline.com/) | MMORPG creation framework for Unity. | **Soon.** $149.70 perpetual license, $199 with maintenance and icons |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/atavism/) |
 | [Chess.com](https://www.chess.com/membership) | Online chess with lessons, puzzles and analysis. | 50% off all subscriptions |  | Dec 4 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/chess/) |
+| [Dragon's Gambit: Chess](https://apps.apple.com/app/id6768390263) | Offline chess with story mode, historical scenarios and 2,500 puzzles. | 50% off on iOS and Android |  | Dec 26 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/dragonsgambit/) |
 | [ESLUTECH games](https://x.com/eslutech) | Indie games on itch.io like The Journey of Hope and Capybara Garden. | **Soon.** 50% off the whole itch.io catalog |  | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/eslutechgames/) |
 | [Nioh 3](https://x.com/TeamNINJAStudio) | Samurai action RPG from Team NINJA. | 50% off Standard Edition, 25% off Season Pass |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/nioh3/) |
 | [Nuntius Games](https://store.steampowered.com/publisher/nuntiusgames/) | Indie game publisher on Steam. | Up to 50% off on Steam |  | Nov 24 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/nuntiusgames/) |
@@ -70,9 +73,11 @@
 | [StreamGames](https://x.com/StreamGamesTV) | Interactive game shows for Twitch streams. | 30% off interactive game shows for livestreams |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/streamgames/) |
 | [GO (gopaddock.gg)](https://gopaddock.gg/pricing) | Sim racing setups and coaching platform. | 25% off the annual sim racing plan | `BF26` | Dec 6 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/go/) |
 | [Hungry Horrors](https://store.steampowered.com/search/?term=Hungry%20Horrors) | Indie pixel art roguelike about monsters and British food. | 25% off the game on Steam |  | Dec 3 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/hungryhorrors/) |
+| [NostalgiApp](https://www.nostalgi.app) | Emulation and game library frontend with TV mode, achievements and save sync. | 25% off, now €22.49 | `BF25D` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/nostalgiapp/) |
 | [Notch Hero](https://notchhero.com/buy.html?discount_code=NHBF202625OFF&utm_source=github&utm_medium=bf-list&utm_campaign=bf2026) | Idle RPG that lives beside the MacBook notch while you work. | 25% off one-time license, $6.99 → $5.21 | `NHBF202625OFF` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/notchhero/) |
 | [R-Type Tactics I and II Cosmos](https://x.com/rtypetactics) | Fleet strategy game. | 25% off on Steam |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/rtypetacticsiandiicosmos/) |
 | [TJStats](https://x.com/TJStats) | Baseball stats and fantasy tools. | 25% off a new subscription | `TJBLACKFRIDAY` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/tjstats/) |
 | [Trippies Jump](https://x.com/trippies) | Arcade platform game. | **Soon.** 25% off, $3.75 |  | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/trippiesjump/) |
 | [Artsvit apps (Lumiere, Open Pi, TeaGo, Paletteo)](https://artsvit.com/black-friday/) | Indie Apple apps for photos, tea brewing, colors and more. | About 20% off lifetime unlocks for four App Store apps |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/artsvitapps/) |
 | [Studio WyldFurr](https://x.com/WyldFurr) | Virtual tabletop roleplaying packs for Foundry VTT. | **Soon.** 20% off in the Foundry Marketplace |  | Dec 7 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/studiowyldfurr/) |
+| [Merchant of the Skies](https://apps.apple.com/us/app/merchant-of-the-skies/id6754459969) | Premium pixel-art trading sim with no ads or in-app purchases. | Lowest price ever, now $4.95 |  | Dec 4 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/merchantoftheskies/) |

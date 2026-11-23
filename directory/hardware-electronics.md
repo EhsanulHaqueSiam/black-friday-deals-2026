@@ -2,10 +2,10 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/hardware-electronics/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**147 live deals**, 8 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**150 live deals**, 8 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
 - [Phones, Tablets & Computers](#phones-tablets--computers) (35)
-- [Audio](#audio) (14)
+- [Audio](#audio) (17)
 - [Smart Home](#smart-home) (15)
 - [Accessories & Peripherals](#accessories--peripherals) (61)
 - [Cameras & Drones](#cameras--drones) (7)
@@ -59,9 +59,12 @@
 | [Silenz](https://x.com/SilenzApp) | Pauses your music when someone talks to you. | 50% off, $7.99 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/silenz/) |
 | [Nothing](https://nothing.tech/) | Headphones, earbuds and phones from Nothing. | Up to 49% off, Headphone (a) $199 → $109 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/nothing/) |
 | [strandberg guitars](https://x.com/strandbergGuit) | Ergonomic headless guitars. | Up to 30% off select models |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/strandbergguitars/) |
+| [Thonk](https://www.thonk.co.uk/) | DIY synth kits and Eurorack parts. | Up to 30% off synth kits |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/thonk/) |
+| [Walrus Audio](https://www.walrusaudio.com/) | Guitar effects pedals. | 20% to 30% off pedals |  | Dec 3 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/walrusaudio/) |
 | [Beats Powerbeats Pro 2 Earbuds with HR Monitor](https://www.amazon.com/Beats-Powerbeats-Wireless-Bluetooth-Earbuds/dp/B0DT2344N3) | Wireless workout earbuds with heart rate tracking. | 28% off, $250 → $180 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/beatspowerbeatspro2earbudswithhrmonitor/) |
 | [Sonos](https://www.sonos.com/en-us/shop/promotional-offers) | Wireless speakers, soundbars and headphones. | Up to 25% off speakers, soundbars and headphones |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/sonos/) |
 | [Roon](https://roon.app) | Music server hardware and software. | 10% off Nucleus One, up to 20% off Nucleus Titan |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/roon/) |
+| [Louder Than Liftoff](https://louderthanliftoff.com/collections/black-friday-2026) | Boutique studio audio hardware and modules. | Up to $500 off studio hardware |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/louderthanliftoff/) |
 | [AirPods Pro 3](https://www.amazon.com/dp/B0FQFB8FMG) | Apple wireless earbuds with active noise cancellation. | $70 off, now $169.99 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/airpodspro3/) |
 | [AirPods Max 2](https://www.amazon.com/dp/B0GSS4SGZR) | Apple over-ear noise-cancelling headphones. | $130 off |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/airpodsmax2/) |
 | [Apple AirPods Max USB-C Over-Ear Bluetooth Headphones](https://flashdealfeed.com/walmart-black-friday-deals/) | Apple over-ear Bluetooth headphones with USB-C and noise cancellation. | $449 → $419.99 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/appleairpodsmaxusbcoverearbluetoothheadphones/) |
