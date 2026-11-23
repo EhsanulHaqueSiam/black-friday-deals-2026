@@ -9,7 +9,7 @@ body:
     validations: { required: true }
   - type: input
     id: page
-    attributes: { label: Deal page, placeholder: "https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/..." }
+    attributes: { label: Deal page, placeholder: "https://bf26-deals.pages.dev/deal/..." }
   - type: dropdown
     id: problem
     attributes:

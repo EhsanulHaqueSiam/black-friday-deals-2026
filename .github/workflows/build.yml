@@ -5,7 +5,6 @@ on:
   pull_request:
   push:
     branches: [main]
-    paths: ["data/**", "scripts/**"]
   schedule:
     - cron: "0 6 * * *"
   workflow_dispatch:
@@ -17,6 +16,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -33,6 +34,12 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --cached --quiet || (git commit -m "chore: rebuild directory" && git push)
+      - name: Deploy to Cloudflare Pages (primary site)
+        if: github.event_name != 'pull_request' && env.CLOUDFLARE_API_TOKEN != ''
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: d9736ec134497bdcb2b8f57ed86f6223
+        run: node scripts/cf.ts && npx -y wrangler@4 pages deploy dist --project-name bf26-deals --branch main --commit-dirty=true
       - name: Tell search engines (IndexNow)
         if: github.event_name != 'pull_request'
         run: node scripts/indexnow.ts || true

@@ -4,7 +4,9 @@
 import { mkdirSync, rmSync, writeFileSync } from "node:fs";
 import { ADULT, TAXONOMY, type Category } from "./taxonomy.ts";
 
-export const SITE = "https://ehsanulhaquesiam.github.io/black-friday-deals-2026/";
+export const SITE = "https://bf26-deals.pages.dev/";
+// SITE is the primary (canonical) address; BASE is the path prefix of the GitHub Pages mirror build.
+// scripts/cf.ts rewrites BASE to "/" for the Cloudflare Pages copy.
 export const BASE = "/black-friday-deals-2026/";
 export const REPO = "https://github.com/EhsanulHaqueSiam/black-friday-deals-2026";
 export const SUGGEST = `${REPO}/issues/new?template=deal.yml`;
@@ -274,6 +276,7 @@ export function renderSite(deals: PageDeal[], builtAt: string, v: { css: string;
     }
   }
   write(`${BASE}submit/`, submitPage(deals));
+  writeFileSync("docs/404.html", shell({ title: "Page not found | BF26 deals", description: "This deal page doesn't exist or the deal has ended.", path: `${BASE}404`, noindex: true, body: `<main class="submitpage"><h1>This deal isn't here</h1><p class="lead">It may have ended, or the link is wrong. Search above or start from the categories below.</p><div class="cta"><a class="btn go" href="${BASE}">See all live deals</a><a class="btn ghost" href="${BASE}submit/">List your product</a></div></main>` }));
   pages.push(`${BASE}submit/`, ...deals.filter((d) => d.category !== ADULT).map(dealPath));
   writeFileSync(
     "docs/sitemap.xml",

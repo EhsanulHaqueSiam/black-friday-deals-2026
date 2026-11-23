@@ -1,7 +1,7 @@
 # Adding a deal
 
 Every deal in this directory gets its own page on the website (for example
-`https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/namecheap/`) with a normal link to your
+`https://bf26-deals.pages.dev/deal/namecheap/`) with a normal link to your
 product, and shows up in its category page, the search and the sitemap.
 
 ## The quick way (companies and shoppers)
@@ -55,5 +55,5 @@ Add an entry to [`data/extra-community.json`](data/extra-community.json):
 Listed products can show this badge (the snippet is on each deal page):
 
 ```html
-<a href="https://ehsanulhaquesiam.github.io/black-friday-deals-2026/"><img src="https://ehsanulhaquesiam.github.io/black-friday-deals-2026/badge.svg" alt="Listed on BF26 deals" width="168" height="28"></a>
+<a href="https://bf26-deals.pages.dev/"><img src="https://bf26-deals.pages.dev/badge.svg" alt="Listed on BF26 deals" width="168" height="28"></a>
 ```

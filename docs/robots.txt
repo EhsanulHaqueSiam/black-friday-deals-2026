@@ -49,4 +49,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://ehsanulhaquesiam.github.io/black-friday-deals-2026/sitemap.xml
+Sitemap: https://bf26-deals.pages.dev/sitemap.xml

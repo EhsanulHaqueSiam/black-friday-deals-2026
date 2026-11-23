@@ -6,7 +6,7 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { TAXONOMY, isCategory } from "./taxonomy.ts";
 
-const SITE = "https://ehsanulhaquesiam.github.io/black-friday-deals-2026/";
+const SITE = "https://bf26-deals.pages.dev/";
 const mode = process.argv[2];
 const body = process.env.ISSUE_BODY ?? "";
 const issueUrl = process.env.ISSUE_URL ?? "";
