@@ -1,0 +1,2157 @@
+{
+ "1devtool": {
+  "category": "AI Tools",
+  "subcategory": "Coding & Agents",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux"
+  ],
+  "pricing": "one-time",
+  "description": "Desktop workbench for running several AI coding agent CLIs side by side."
+ },
+ "1password": {
+  "category": "Security & Privacy",
+  "subcategory": "Password Managers",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux",
+   "ios",
+   "android",
+   "web",
+   "browser-extension"
+  ],
+  "pricing": "subscription",
+  "description": "Password manager for individuals, families and teams."
+ },
+ "apracticalguidetowritingasoftwaretechnicaldesigndocument": {
+  "category": "Learning",
+  "subcategory": "Books & Ebooks",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Guide to writing software technical design documents, with real examples."
+ },
+ "activedock2": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Customizable Dock replacement for macOS."
+ },
+ "advancedaiactions": {
+  "category": "AI Tools",
+  "subcategory": "Automation & Workflows",
+  "platforms": [
+   "ios",
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Apple Shortcuts actions for OpenAI, Claude, Gemini and other AI providers."
+ },
+ "agentwright": {
+  "category": "Developer Tools",
+  "subcategory": "Boilerplates & Starter Kits",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Next.js starter kit for AI agent SaaS with tools, MCP, metering, auth and billing."
+ },
+ "aigli": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Video Editing",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "iPhone photo and video editor with multitrack editing, graphics and effects."
+ },
+ "alttextlab": {
+  "category": "Marketing & Sales",
+  "subcategory": "SEO",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "credits",
+  "description": "AI generator that writes alt text for website images in bulk or on upload."
+ },
+ "antshot": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Browser Extensions",
+  "platforms": [
+   "browser-extension"
+  ],
+  "pricing": "one-time",
+  "description": "Browser extension for full-page screenshots, including inner scrolling areas, with markup."
+ },
+ "apple": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Phones, Tablets & Computers",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Apple devices like iPhone, iPad, Mac, Apple Watch and AirPods."
+ },
+ "appsecengineer": {
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Hands-on labs for application, cloud and AI security training."
+ },
+ "artlist": {
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Royalty-free music, sound effects, stock footage and creative assets."
+ },
+ "atat": {
+  "category": "AI Tools",
+  "subcategory": "Chat & Assistants",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "Mac assistant that calls AI models from any text field with an @ shortcut."
+ },
+ "aura": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac notch island for now playing, music-tinted live wallpaper and keep-awake."
+ },
+ "aytenders": {
+  "category": "Business & Finance",
+  "subcategory": "Startup & Indie Tools",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Public tender notices from the EU, UK, Ireland and US with email alerts."
+ },
+ "bambulab": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Accessories & Peripherals",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Consumer and prosumer 3D printers and filament."
+ },
+ "becoming": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Hobbies & Home",
+  "platforms": [
+   "android"
+  ],
+  "pricing": "one-time",
+  "description": "Android app that aligns progress photos into a steady timelapse."
+ },
+ "bibigpt": {
+  "category": "AI Tools",
+  "subcategory": "Research & Learning",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI summaries, transcripts and Q&A for videos, podcasts and articles."
+ },
+ "bindrik": {
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac app for designing Amazon KDP book interiors and covers with correct bleed."
+ },
+ "blinkist": {
+  "category": "Entertainment",
+  "subcategory": "Audiobooks & Reading",
+  "platforms": [
+   "ios",
+   "android",
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Short text and audio summaries of nonfiction books."
+ },
+ "bluehost": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Web & WordPress Hosting",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Shared and WordPress web hosting."
+ },
+ "booksrail": {
+  "category": "Business & Finance",
+  "subcategory": "Accounting & Invoicing",
+  "platforms": [
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Windows double-entry accounting for rental property, stored in an encrypted file."
+ },
+ "brevo": {
+  "category": "Marketing & Sales",
+  "subcategory": "Email Marketing & Newsletters",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Email, SMS, WhatsApp and push marketing platform."
+ },
+ "buildkitforastro": {
+  "category": "Design",
+  "subcategory": "UI Kits & Templates",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Astro design system with blocks and animated visuals for marketing sites."
+ },
+ "bytebytego": {
+  "category": "Learning",
+  "subcategory": "Programming & Tech",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "System design interview prep courses and guides."
+ },
+ "calloutforclaudecode": {
+  "category": "Developer Tools",
+  "subcategory": "Testing & Debugging",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Voice-driven bug reports captured in one key and handed to Claude Code to fix."
+ },
+ "capture": {
+  "category": "Productivity",
+  "subcategory": "Notes & Writing",
+  "platforms": [
+   "ios",
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "One-tap quick notes for iPhone, iPad and Mac that send to other apps."
+ },
+ "cashculator": {
+  "category": "Business & Finance",
+  "subcategory": "Personal Finance & Investing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Personal budgeting app for planning and tracking where money goes."
+ },
+ "chatplaygroundai": {
+  "category": "AI Tools",
+  "subcategory": "Chat & Assistants",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Chat with several AI models like GPT, Claude and Gemini in one workspace."
+ },
+ "chipp": {
+  "category": "AI Tools",
+  "subcategory": "Automation & Workflows",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Builder for custom AI agents that handle repetitive tasks."
+ },
+ "citewing": {
+  "category": "Marketing & Sales",
+  "subcategory": "SEO",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI agent for backlink outreach and directory submissions."
+ },
+ "cleanshot": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Screen Recording",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "Screenshot and screen recording app for Mac."
+ },
+ "clipboardgrid": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Clipboard history shown as large cards, pasted by number key."
+ },
+ "cloudflareregistrar": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Domains",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Domain registration and renewal at wholesale cost."
+ },
+ "codecademypro": {
+  "category": "Learning",
+  "subcategory": "Programming & Tech",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Interactive coding lessons and career paths."
+ },
+ "comikai": {
+  "category": "AI Tools",
+  "subcategory": "Image & Video",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI studio for anime images, comics and motion comics with reusable characters."
+ },
+ "contabo": {
+  "category": "Hosting & Cloud",
+  "subcategory": "VPS & Cloud Servers",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Low-cost cloud VPS hosting in the EU, US and Asia."
+ },
+ "cooldock": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Second Dock for Mac with live widgets for music, calendar, weather and stats."
+ },
+ "cornerlens": {
+  "category": "Marketing & Sales",
+  "subcategory": "SEO",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Grid-based Google Maps rank tracking for local SEO agencies."
+ },
+ "cozycommerce": {
+  "category": "Developer Tools",
+  "subcategory": "Boilerplates & Starter Kits",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Next.js and Tailwind e-commerce kit with prebuilt components and pages."
+ },
+ "cue": {
+  "category": "AI Tools",
+  "subcategory": "Writing & Content",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Menu bar AI assistant that drafts and proofreads replies in Mac messaging apps."
+ },
+ "cvder": {
+  "category": "AI Tools",
+  "subcategory": "Writing & Content",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI tool that tailors your CV to a job posting and writes cover letters."
+ },
+ "dailycal": {
+  "category": "Productivity",
+  "subcategory": "Calendar & Time Tracking",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "iPhone agenda combining calendars, reminders and birthdays."
+ },
+ "datastandardize": {
+  "category": "AI Tools",
+  "subcategory": "Automation & Workflows",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI cleaner that maps messy CSV columns to a template and normalizes values."
+ },
+ "dayora": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Health & Mental Wellbeing",
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "AI journal with reflections on entries, mood tracking and voice journaling."
+ },
+ "designgurus": {
+  "category": "Learning",
+  "subcategory": "Programming & Tech",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "System design and coding interview prep courses."
+ },
+ "desktopcomposer": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Windows & Screens",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac app that applies desktop and app themes in one click."
+ },
+ "devworkspacepro": {
+  "category": "Developer Tools",
+  "subcategory": "Mac Dev Utilities",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "Desktop workspace that groups each project's files, terminals, services and logs."
+ },
+ "digitalphotoframe": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Hobbies & Home",
+  "platforms": [
+   "ios",
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "Turns an iPhone, iPad, Mac or Apple TV into a photo frame slideshow."
+ },
+ "diskivo": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac disk space analyzer with duplicate and app leftover finder."
+ },
+ "divjoy": {
+  "category": "Developer Tools",
+  "subcategory": "Boilerplates & Starter Kits",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "React codebase generator with prebuilt UI, auth and payments."
+ },
+ "docrenewal": {
+  "category": "Business & Finance",
+  "subcategory": "Legal & Documents",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Contract tracker that reminds teams about renewal and cancellation deadlines."
+ },
+ "dotaudiorecorder": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Records Mac system audio and detects key, BPM and chords with MIDI export."
+ },
+ "dropshare": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Uploads screenshots and files to your own storage and copies a share link."
+ },
+ "duepal": {
+  "category": "Productivity",
+  "subcategory": "Tasks & Projects",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Task countdowns on Lock Screen, widgets and Apple Watch with loud alarms."
+ },
+ "dynotable": {
+  "category": "Developer Tools",
+  "subcategory": "Databases & API Clients",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux"
+  ],
+  "pricing": "subscription",
+  "description": "DynamoDB desktop client with a SQL workbench for joins and aggregates."
+ },
+ "educative": {
+  "category": "Learning",
+  "subcategory": "Programming & Tech",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Interactive text-based coding and interview prep courses."
+ },
+ "elevenapril": {
+  "category": "Bundles & Deal Sites",
+  "subcategory": "Bundles",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Set of 25 indie iPhone apps for focus, health, pets, food and travel."
+ },
+ "engagebay": {
+  "category": "Marketing & Sales",
+  "subcategory": "CRM & Sales",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "All-in-one CRM with marketing, sales and support tools."
+ },
+ "erla": {
+  "category": "Learning",
+  "subcategory": "Languages",
+  "platforms": [
+   "ios",
+   "android",
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Language learning through graded stories, short videos and an AI tutor."
+ },
+ "evidencelens": {
+  "category": "AI Tools",
+  "subcategory": "Research & Learning",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "one-time",
+  "description": "Summarizes videos, articles and PDFs and checks claims against research."
+ },
+ "extensionlaunch": {
+  "category": "Marketing & Sales",
+  "subcategory": "Ads, Leads & Outreach",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Launch directory and submission service for browser extensions and apps."
+ },
+ "facescreen": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Screen Recording",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Floating webcam and text overlays with a ring light for recordings and calls."
+ },
+ "fastestvpn": {
+  "category": "Security & Privacy",
+  "subcategory": "VPN",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux",
+   "ios",
+   "android"
+  ],
+  "pricing": "one-time",
+  "description": "VPN service sold as a lifetime plan."
+ },
+ "fileminutes": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac file finder with folder search, keyboard browsing and type filters."
+ },
+ "findow": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Windows & Screens",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Scrolling and tiling window manager for Mac with saved workspaces."
+ },
+ "fivenotes": {
+  "category": "Productivity",
+  "subcategory": "Notes & Writing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Five quick notes kept in the Mac menu bar."
+ },
+ "flaviocopesaiworkshopandmasterclasses": {
+  "category": "Learning",
+  "subcategory": "Programming & Tech",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Programming courses on AI, TypeScript, React and Git."
+ },
+ "float": {
+  "category": "Productivity",
+  "subcategory": "Notes & Writing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Floating Markdown scratchpad on a global hotkey that saves plain files."
+ },
+ "fomotoast": {
+  "category": "Marketing & Sales",
+  "subcategory": "Ads, Leads & Outreach",
+  "platforms": [
+   "web",
+   "wordpress"
+  ],
+  "pricing": "one-time",
+  "description": "Social proof popups built from real customer activity on your site."
+ },
+ "founderlaunchos2026": {
+  "category": "Business & Finance",
+  "subcategory": "Startup & Indie Tools",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Notion launch workspace with a community directory and graphics templates."
+ },
+ "fswitcher": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Windows & Screens",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Per-display app and window switcher for Mac."
+ },
+ "generatepress": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Lightweight WordPress theme with premium modules."
+ },
+ "glifa": {
+  "category": "Productivity",
+  "subcategory": "Notes & Writing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac Markdown editor where AI edits arrive as proposals you accept or undo."
+ },
+ "grackerai": {
+  "category": "Marketing & Sales",
+  "subcategory": "SEO",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Tracks and improves how AI search engines cite B2B and security brands."
+ },
+ "gravityforms": {
+  "category": "Websites & E-commerce",
+  "subcategory": "Forms & Surveys",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Form builder plugin for WordPress."
+ },
+ "gymex": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Fitness & Workouts",
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "pricing": "one-time",
+  "description": "Gym workout tracker with an AI coach that answers from your training data."
+ },
+ "hackutilities": {
+  "category": "AI Tools",
+  "subcategory": "Coding & Agents",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux"
+  ],
+  "pricing": "one-time",
+  "description": "Desktop workspace for AI coding agents, dev servers and offline dev tools."
+ },
+ "headspace": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Health & Mental Wellbeing",
+  "platforms": [
+   "ios",
+   "android",
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Guided meditation, sleep and mindfulness app."
+ },
+ "hexordia": {
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Digital forensics classes, on demand and live, with class vouchers."
+ },
+ "hiapi": {
+  "category": "AI Tools",
+  "subcategory": "AI APIs & Credits",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "credits",
+  "description": "Pay-as-you-go API for image, video, audio and text models behind one key."
+ },
+ "hostinger": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Web & WordPress Hosting",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Shared, WordPress and cloud web hosting."
+ },
+ "icedrive": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Cloud Storage & Backup",
+  "platforms": [
+   "web",
+   "mac",
+   "windows",
+   "linux",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Encrypted cloud storage service."
+ },
+ "imageframer": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Photo Editing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Adds frames, mats and borders to photos and artwork."
+ },
+ "infinidesk": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Windows & Screens",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Multiple Mac desktops, each with its own icons, widgets and wallpaper."
+ },
+ "internxt": {
+  "category": "Security & Privacy",
+  "subcategory": "Secure Email & Storage",
+  "platforms": [
+   "web",
+   "mac",
+   "windows",
+   "linux",
+   "ios",
+   "android"
+  ],
+  "pricing": "one-time",
+  "description": "End-to-end encrypted cloud storage."
+ },
+ "ionos": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Web & WordPress Hosting",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Web hosting, domains and website services."
+ },
+ "jasper": {
+  "category": "AI Tools",
+  "subcategory": "Writing & Content",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI copywriting and marketing content platform."
+ },
+ "jubs": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Weather & Misc",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Animated holiday widgets for the iPhone and iPad Home Screen and StandBy."
+ },
+ "karmadomains": {
+  "category": "Marketing & Sales",
+  "subcategory": "SEO",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Expired domain search with spam history checks and SEO metrics."
+ },
+ "kernelpack": {
+  "category": "Security & Privacy",
+  "subcategory": "Antivirus & Security Suites",
+  "platforms": [
+   "windows",
+   "linux"
+  ],
+  "pricing": "one-time",
+  "description": "Kernel exploit and C2 toolkit for penetration testers."
+ },
+ "keyscreen": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Screen Recording",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Shows keystrokes on screen for Mac tutorials, streams and demos."
+ },
+ "kindle": {
+  "category": "Entertainment",
+  "subcategory": "Audiobooks & Reading",
+  "platforms": [
+   "ios",
+   "android",
+   "web",
+   "physical"
+  ],
+  "pricing": "subscription",
+  "description": "Amazon ebook and audiobook reading subscription."
+ },
+ "klaritydisk": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac disk usage treemap colored by file age, with a largest files list."
+ },
+ "krumzi": {
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Web app that turns a one-line prompt into editable flyers, posts and videos."
+ },
+ "labexpro": {
+  "category": "Learning",
+  "subcategory": "Cloud & DevOps Certs",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Hands-on labs for Linux, DevOps, cybersecurity and cloud."
+ },
+ "layerbase": {
+  "category": "Hosting & Cloud",
+  "subcategory": "VPS & Cloud Servers",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Flat-priced serverless Postgres, MySQL, Redis and other databases."
+ },
+ "leavemealone": {
+  "category": "Productivity",
+  "subcategory": "Email & Communication",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "One-click unsubscribes, sender blocking and newsletter digests."
+ },
+ "licensestore": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac app that stores software license keys, receipts and download links."
+ },
+ "liftonic": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Fitness & Workouts",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "AI lifting coach and workout tracker for iPhone and Apple Watch."
+ },
+ "linkfinderai": {
+  "category": "Marketing & Sales",
+  "subcategory": "Ads, Leads & Outreach",
+  "platforms": [
+   "web",
+   "browser-extension"
+  ],
+  "pricing": "one-time",
+  "description": "Finds emails, phone numbers and LinkedIn data from a profile, name or company."
+ },
+ "litur": {
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac color manager for designers and developers."
+ },
+ "logicballs": {
+  "category": "AI Tools",
+  "subcategory": "Writing & Content",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI workspace with thousands of writing, SEO and content tools."
+ },
+ "lsgraphics": {
+  "category": "Design",
+  "subcategory": "Mockups & Screenshots",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Browser mockup editor plus branding and device mockup bundles."
+ },
+ "mac4breakfast": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Menu bar battery monitor for Mac and nearby Apple devices."
+ },
+ "magicautomaai": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Video Editing",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "One-click macros for DaVinci Resolve, Premiere, After Effects and Final Cut."
+ },
+ "maillayer": {
+  "category": "Marketing & Sales",
+  "subcategory": "Email Marketing & Newsletters",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Self-hosted email marketing app that sends through SES, SendGrid or Mailgun."
+ },
+ "makemidas": {
+  "category": "AI Tools",
+  "subcategory": "Image & Video",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "credits",
+  "description": "AI images, video, music and voiceovers from many models on one credit balance."
+ },
+ "margin": {
+  "category": "Productivity",
+  "subcategory": "Calendar & Time Tracking",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Menu bar day planner that turns sentences into reminders and events."
+ },
+ "meanwhile": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Family, Kids & Relationships",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "Shares hourly photos to a partner's or friend's home screen widget."
+ },
+ "mictospeaker": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Turns your phone into a live microphone for a Bluetooth speaker."
+ },
+ "minitune": {
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Menu bar music player for YouTube, Apple Music, Spotify, Subsonic and local files."
+ },
+ "mojoauth": {
+  "category": "Developer Tools",
+  "subcategory": "Backend, APIs & Infra",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Passwordless login API with passkeys, magic links, OTP and social login."
+ },
+ "moosend": {
+  "category": "Marketing & Sales",
+  "subcategory": "Email Marketing & Newsletters",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Email marketing and automation platform."
+ },
+ "multidock2": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Extra dock panels for grouped apps, files and folders on Mac."
+ },
+ "musthaveplugins": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "Bundle of WordPress plugins for speed, security and site features."
+ },
+ "namecheap": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Domains",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Domain registrar with hosting and SSL certificates."
+ },
+ "nativeinstrumentskomplete": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Software instruments, effects and sample libraries for music production."
+ },
+ "nexos": {
+  "category": "AI Tools",
+  "subcategory": "Chat & Assistants",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Business AI workspace with access to many models under team controls."
+ },
+ "nihongolessons": {
+  "category": "Learning",
+  "subcategory": "Languages",
+  "platforms": [
+   "ios",
+   "android",
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Japanese vocabulary and grammar lessons with sentence-based flashcards."
+ },
+ "nomu": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Food & Nutrition",
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Intermittent fasting timer with schedules and streaks."
+ },
+ "notchhero": {
+  "category": "Gaming",
+  "subcategory": "Games & Apps",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Idle RPG that lives beside the MacBook notch while you work."
+ },
+ "notionbackups": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Cloud Storage & Backup",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Automatic backup and restore for Notion workspaces, plus Sheets sync."
+ },
+ "odie": {
+  "category": "Business & Finance",
+  "subcategory": "Accounting & Invoicing",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "Automatic iPhone mileage log that keeps trips on the device."
+ },
+ "oilstudio": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Screen Recording",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac screen recorder and transcript-based editor with auto zoom and captions."
+ },
+ "omnisocials": {
+  "category": "Marketing & Sales",
+  "subcategory": "Social Media",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Social media scheduling calendar that AI agents can publish to."
+ },
+ "openfree": {
+  "category": "Marketing & Sales",
+  "subcategory": "Ads, Leads & Outreach",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Paid banner and listing ad slots on an AI tool directory."
+ },
+ "orbysystems": {
+  "category": "Business & Finance",
+  "subcategory": "Personal Finance & Investing",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Local financial AI that answers questions from your bank and brokerage statements."
+ },
+ "ouraringgen4": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Accessories & Peripherals",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Smart ring that tracks sleep, recovery and activity."
+ },
+ "overcal": {
+  "category": "Productivity",
+  "subcategory": "Calendar & Time Tracking",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Menu bar calendar with agenda, world clocks and one-click meeting join."
+ },
+ "padrail": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Turns MacBook trackpad edges and corners into volume and brightness controls."
+ },
+ "paletteo": {
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "ios",
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Picks colors from photos or the camera and builds exportable palettes and gradients."
+ },
+ "paperkeep": {
+  "category": "Business & Finance",
+  "subcategory": "Accounting & Invoicing",
+  "platforms": [
+   "browser-extension"
+  ],
+  "pricing": "subscription",
+  "description": "Browser extension that downloads and renames your SaaS invoices."
+ },
+ "parallelsdesktop": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "Virtual machine app for running Windows and Linux on a Mac."
+ },
+ "pastepal": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac",
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Searchable clipboard manager for Mac, iPhone and iPad with iCloud sync."
+ },
+ "pentesterspace": {
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Penetration testing training for web, mobile, API and network."
+ },
+ "photoboothapp": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Hobbies & Home",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "Turns an iPad or iPhone into an event photo booth with sharing and printing."
+ },
+ "pictory": {
+  "category": "AI Tools",
+  "subcategory": "Image & Video",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI tool that turns scripts and articles into videos."
+ },
+ "pinboostr": {
+  "category": "Marketing & Sales",
+  "subcategory": "Social Media",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Pinterest scheduler that builds pins from your site posts and products."
+ },
+ "pirschanalytics": {
+  "category": "Marketing & Sales",
+  "subcategory": "Web Analytics",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Privacy-friendly, cookie-free web analytics."
+ },
+ "placify": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Travel & Navigation",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Personal map for saving places from links and planning day-by-day trips."
+ },
+ "pluralsight": {
+  "category": "Learning",
+  "subcategory": "Programming & Tech",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Online courses on cloud, security and software development."
+ },
+ "polypane": {
+  "category": "Developer Tools",
+  "subcategory": "Testing & Debugging",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux"
+  ],
+  "pricing": "subscription",
+  "description": "Browser for testing responsive layouts and accessibility."
+ },
+ "portico": {
+  "category": "Business & Finance",
+  "subcategory": "Team & Operations",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Client onboarding links with intake, payment and a private client portal."
+ },
+ "poxtureapp": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Health & Mental Wellbeing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac menu bar app that watches your posture through the camera and nudges you."
+ },
+ "prettyprogress": {
+  "category": "Productivity",
+  "subcategory": "Calendar & Time Tracking",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Countdown and progress bar widgets for events and deadlines."
+ },
+ "proofhub": {
+  "category": "Productivity",
+  "subcategory": "Tasks & Projects",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Project management and team collaboration platform."
+ },
+ "protonvpn": {
+  "category": "Security & Privacy",
+  "subcategory": "VPN",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Open-source Swiss VPN service."
+ },
+ "pulsetic": {
+  "category": "Developer Tools",
+  "subcategory": "Monitoring & Analytics",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Uptime monitoring for sites, APIs, SSL, DNS and cron jobs with status pages."
+ },
+ "qrat": {
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "ios",
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Customizable QR code generator with hundreds of templates."
+ },
+ "quickbooksonline": {
+  "category": "Business & Finance",
+  "subcategory": "Accounting & Invoicing",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Small business accounting and bookkeeping software."
+ },
+ "radiantly": {
+  "category": "AI Tools",
+  "subcategory": "Chat & Assistants",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Turns an expert's knowledge into a branded AI agent for clients."
+ },
+ "rapstarstudio": {
+  "category": "AI Tools",
+  "subcategory": "Voice & Audio",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "AI custom rap song with lyric videos made from names and inside jokes."
+ },
+ "recipeorganizerbyvima": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Food & Nutrition",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Recipe keeper that imports from sites, social video or photos, with meal plans."
+ },
+ "reelloft": {
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Local video library that streams to your phone or casts to TVs."
+ },
+ "removevideobg": {
+  "category": "AI Tools",
+  "subcategory": "Image & Video",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "credits",
+  "description": "Removes or replaces video backgrounds in the browser."
+ },
+ "reopen": {
+  "category": "Productivity",
+  "subcategory": "Documents & PDFs",
+  "platforms": [
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Converts PDFs to Excel and Word locally and checks columns against printed totals."
+ },
+ "rewritebar": {
+  "category": "AI Tools",
+  "subcategory": "Writing & Content",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "AI grammar, tone, translation and rewrite actions in any Mac app."
+ },
+ "rindstack": {
+  "category": "Developer Tools",
+  "subcategory": "Boilerplates & Starter Kits",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Next.js starter for selling licensed software with Lemon Squeezy and license keys."
+ },
+ "roomtape": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Browser Extensions",
+  "platforms": [
+   "browser-extension"
+  ],
+  "pricing": "one-time",
+  "description": "Records Google Meet and Teams calls to a local MP4 with no bot."
+ },
+ "runheed": {
+  "category": "Developer Tools",
+  "subcategory": "Monitoring & Analytics",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Error tracking for Node.js and Python that coding agents read over MCP."
+ },
+ "saasecure": {
+  "category": "Developer Tools",
+  "subcategory": "Testing & Debugging",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux"
+  ],
+  "pricing": "one-time",
+  "description": "Offline scanner that finds security vulnerabilities in source code."
+ },
+ "saventify": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Family, Kids & Relationships",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Digital invitations with instant sending and RSVP tracking."
+ },
+ "scrap": {
+  "category": "Marketing & Sales",
+  "subcategory": "Ads, Leads & Outreach",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Extracts Google Maps businesses with emails, phones and social profiles."
+ },
+ "screenshield": {
+  "category": "Security & Privacy",
+  "subcategory": "Privacy & Data Removal",
+  "platforms": [
+   "browser-extension"
+  ],
+  "pricing": "one-time",
+  "description": "Chrome extension that hides emails, card numbers and API keys while screen sharing."
+ },
+ "scribetoany": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Podcasts & Transcription",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Turns audio, video and links into transcripts with speaker labels and subtitles."
+ },
+ "seapostpurchasesurveyquiz": {
+  "category": "Websites & E-commerce",
+  "subcategory": "Forms & Surveys",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Post-purchase surveys for Shopify stores with automated follow-up workflows."
+ },
+ "seedeo": {
+  "category": "AI Tools",
+  "subcategory": "Image & Video",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "credits",
+  "description": "Generates video, images, music and voice across many AI models on one balance."
+ },
+ "seodog": {
+  "category": "Marketing & Sales",
+  "subcategory": "SEO",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac SEO suite with site audits and long-term Search Console history."
+ },
+ "serverdog": {
+  "category": "Developer Tools",
+  "subcategory": "Git, CI & DevOps",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac app that provisions VPS servers, deploys PHP and Node sites, and monitors them."
+ },
+ "shashankthigaleframertemplates": {
+  "category": "Design",
+  "subcategory": "UI Kits & Templates",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Framer website templates for med spas, retreats and therapy practices."
+ },
+ "shopify": {
+  "category": "Websites & E-commerce",
+  "subcategory": "E-commerce & Payments",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Platform for building and running an online store."
+ },
+ "sideprojectsmakingmrr": {
+  "category": "Business & Finance",
+  "subcategory": "Startup & Indie Tools",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Notion database of profitable side projects shared on Hacker News."
+ },
+ "signumhq": {
+  "category": "Business & Finance",
+  "subcategory": "Personal Finance & Investing",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "US stock app with real-time prices, AI move explanations and earnings calendar."
+ },
+ "sipflow": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Food & Nutrition",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Water intake tracker with a pet that fills up as you drink."
+ },
+ "skillry": {
+  "category": "AI Tools",
+  "subcategory": "Coding & Agents",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Agent skills for Claude Code, Codex and Cursor that make slides, sites and videos."
+ },
+ "slapmac": {
+  "category": "Gaming",
+  "subcategory": "Games & Apps",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "MacBook app that reacts to slaps with sounds, effects and a motion alarm."
+ },
+ "smartreach": {
+  "category": "Marketing & Sales",
+  "subcategory": "Ads, Leads & Outreach",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Sales engagement and cold email outreach platform."
+ },
+ "smoothcut": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Screen Recording",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Screen recorder with auto zoom on clicks, smooth cursor and camera bubble."
+ },
+ "snaptidy": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Photo Editing",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Swipe-based photo cleaner for iPhone and iPad."
+ },
+ "soarstarter": {
+  "category": "Developer Tools",
+  "subcategory": "Boilerplates & Starter Kits",
+  "platforms": [
+   "web",
+   "ios",
+   "android",
+   "mac",
+   "windows",
+   "linux"
+  ],
+  "pricing": "one-time",
+  "description": "Starter kits for web, mobile and desktop apps with auth and payments."
+ },
+ "soluna": {
+  "category": "Productivity",
+  "subcategory": "Calendar & Time Tracking",
+  "platforms": [
+   "mac",
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Shows two calendar systems side by side with world clocks and a date converter."
+ },
+ "soundbar": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Per-app volume, mute, equalizer and output device on Mac."
+ },
+ "spatialtap": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Menu bar app that enables spatial audio with head tracking for any Mac app."
+ },
+ "spritecanvas": {
+  "category": "AI Tools",
+  "subcategory": "Image & Video",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Turns prompts or character images into animated 2D sprite sheets for game engines."
+ },
+ "stamps": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Music tag editor that cleans titles and writes tags into audio files."
+ },
+ "static": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Web & WordPress Hosting",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Static website hosting with an in-browser editor, custom domains and forms."
+ },
+ "stickynotes": {
+  "category": "Productivity",
+  "subcategory": "Notes & Writing",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Sticky notes and checklists on the iPhone and iPad Home Screen."
+ },
+ "submanager": {
+  "category": "Business & Finance",
+  "subcategory": "Personal Finance & Investing",
+  "platforms": [
+   "ios",
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Subscription tracker with renewal reminders for Apple devices."
+ },
+ "sunomv": {
+  "category": "AI Tools",
+  "subcategory": "Image & Video",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Turns Suno or Udio songs into lyric-synced vertical music videos."
+ },
+ "superdevpro": {
+  "category": "Developer Tools",
+  "subcategory": "Testing & Debugging",
+  "platforms": [
+   "browser-extension"
+  ],
+  "pricing": "one-time",
+  "description": "Browser extension with 50+ web developer tools for CSS, fonts, colors and images."
+ },
+ "surfshark": {
+  "category": "Security & Privacy",
+  "subcategory": "VPN",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "VPN service with unlimited devices."
+ },
+ "sync": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Cloud Storage & Backup",
+  "platforms": [
+   "web",
+   "mac",
+   "windows",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "End-to-end encrypted cloud storage and file sharing."
+ },
+ "tabfinder2": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Clipboard, Launchers & Keyboard",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Searchable list of open tabs across Safari, Chrome, Brave and Opera."
+ },
+ "tagnivo": {
+  "category": "Business & Finance",
+  "subcategory": "Team & Operations",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Mac app for asset tracking, employee assignments and inventory audits."
+ },
+ "tailwindplus": {
+  "category": "Design",
+  "subcategory": "UI Kits & Templates",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Official Tailwind CSS UI components and site templates."
+ },
+ "taskip": {
+  "category": "Productivity",
+  "subcategory": "Tasks & Projects",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Project management with client portal, invoicing and CRM for agencies."
+ },
+ "teagoforgitea": {
+  "category": "Developer Tools",
+  "subcategory": "Git, CI & DevOps",
+  "platforms": [
+   "ios",
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Gitea client for browsing repos, pull requests and issues."
+ },
+ "terry": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Fitness & Workouts",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "subscription",
+  "description": "Step counter with a llama companion whose shape follows your activity."
+ },
+ "thesecopsgroup": {
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Penetration testing certification exams for web, network, cloud and AD."
+ },
+ "thrivethemes": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "WordPress themes and conversion-focused plugins."
+ },
+ "tidyshelf": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "On-device file search in plain English with text search in images and cleanup."
+ },
+ "timesheet": {
+  "category": "Productivity",
+  "subcategory": "Calendar & Time Tracking",
+  "platforms": [
+   "ios",
+   "android",
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Time tracking for freelancers and teams with invoices and reports."
+ },
+ "topazlabs": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Photo Editing",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "subscription",
+  "description": "AI upscaling, denoising and sharpening for photos and video."
+ },
+ "transcribee": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Podcasts & Transcription",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI transcription for audio, video and meetings in 90+ languages."
+ },
+ "transyncai": {
+  "category": "AI Tools",
+  "subcategory": "Voice & Audio",
+  "platforms": [
+   "windows",
+   "mac",
+   "ios",
+   "android",
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Real-time meeting translation with bilingual subtitles and translated speech."
+ },
+ "trophikos": {
+  "category": "Health & Lifestyle",
+  "subcategory": "Food & Nutrition",
+  "platforms": [
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Recipe and cocktail library with a cooking log for Apple devices."
+ },
+ "tutti": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Menu Bar & Dock",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Menu bar control for multiple audio outputs, per-app volume and brightness."
+ },
+ "typeui": {
+  "category": "AI Tools",
+  "subcategory": "Coding & Agents",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI design skills and prompts for coding agents, plus site analytics."
+ },
+ "ugreennas": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Accessories & Peripherals",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "Network attached storage devices with AI photo features."
+ },
+ "unduped": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Duplicate file finder for Mac and external drives."
+ },
+ "unraster": {
+  "category": "Productivity",
+  "subcategory": "Documents & PDFs",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "credits",
+  "description": "Converts slide and chart screenshots into editable PowerPoint or SVG."
+ },
+ "upto": {
+  "category": "Mac & Desktop Utilities",
+  "subcategory": "Files, Storage & System",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "Mac app updater covering App Store, Sparkle, Homebrew and more."
+ },
+ "vemetric": {
+  "category": "Marketing & Sales",
+  "subcategory": "Web Analytics",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Open-source web and product analytics across the user journey."
+ },
+ "vinaa": {
+  "category": "AI Tools",
+  "subcategory": "Chat & Assistants",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Native Mac AI chat for cloud and local models with MCP and iCloud sync."
+ },
+ "vocalremoverone": {
+  "category": "AI Tools",
+  "subcategory": "Voice & Audio",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "credits",
+  "description": "Splits songs into vocal and instrumental tracks."
+ },
+ "vulnsy": {
+  "category": "Security & Privacy",
+  "subcategory": "Antivirus & Security Suites",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Vulnerability scanning and security testing platform."
+ },
+ "wasmerpro": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Web & WordPress Hosting",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Cloud hosting for sites, APIs and web apps with GitHub deploys and SSH."
+ },
+ "wealthfolioconnect": {
+  "category": "Business & Finance",
+  "subcategory": "Personal Finance & Investing",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux"
+  ],
+  "pricing": "subscription",
+  "description": "Encrypted sync, backups and brokerage sync for the Wealthfolio portfolio app."
+ },
+ "whaledeck": {
+  "category": "Developer Tools",
+  "subcategory": "Git, CI & DevOps",
+  "platforms": [
+   "ios",
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Manage and monitor Docker servers from iPhone, iPad and Mac."
+ },
+ "whiteknightlabs": {
+  "category": "Learning",
+  "subcategory": "Cybersecurity Certs & Training",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Offensive security certification courses and academy passes."
+ },
+ "winklingo": {
+  "category": "Learning",
+  "subcategory": "Languages",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Search movie and YouTube clips by quote to learn how phrases are used."
+ },
+ "wispim": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Video Editing",
+  "platforms": [
+   "ios",
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Voice-following teleprompter for iPhone, iPad and Mac."
+ },
+ "wovo": {
+  "category": "AI Tools",
+  "subcategory": "Automation & Workflows",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux"
+  ],
+  "pricing": "subscription",
+  "description": "MCP server that lets an AI agent act across all your computers."
+ },
+ "wpos": {
+  "category": "Websites & E-commerce",
+  "subcategory": "WordPress Themes & Plugins",
+  "platforms": [
+   "wordpress"
+  ],
+  "pricing": "subscription",
+  "description": "AI agent inside wp-admin that builds pages in Gutenberg, Elementor or Divi."
+ },
+ "yaptake": {
+  "category": "Photo, Video & Audio",
+  "subcategory": "Video Editing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "subscription",
+  "description": "Mac video editor where deleting transcript words cuts the video."
+ },
+ "yubico": {
+  "category": "Hardware & Electronics",
+  "subcategory": "Accessories & Peripherals",
+  "platforms": [
+   "physical"
+  ],
+  "pricing": "physical",
+  "description": "YubiKey hardware security keys for two-factor login."
+ },
+ "zerodirs": {
+  "category": "Developer Tools",
+  "subcategory": "Boilerplates & Starter Kits",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "SEO-focused directory website boilerplate with free hosting setup."
+ },
+ "zooku": {
+  "category": "Hosting & Cloud",
+  "subcategory": "Web & WordPress Hosting",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Budget EU web hosting."
+ }
+}

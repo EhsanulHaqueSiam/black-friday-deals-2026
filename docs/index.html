@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Black Friday 2026 Deals</title>
+<meta name="description" content="Every Black Friday and Cyber Monday 2026 deal in one list: software, AI tools, VPNs, hosting, domains, courses, games and hardware, with promo codes.">
+<meta name="theme-color" content="#000000">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23000'/><text x='16' y='22' font-family='Arial' font-weight='700' font-size='15' text-anchor='middle' fill='%23ff6a2b'>%25</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="./">BF<i>26</i> deals</a>
+  <label class="search">
+    <span class="sr">Search deals</span>
+    <input id="q" type="search" placeholder="Search deals, codes, brands" autocomplete="off" spellcheck="false">
+    <kbd>/</kbd>
+  </label>
+  <span id="stats" class="stats"></span>
+  <button id="toggle" class="toggle" type="button" aria-expanded="false" aria-controls="side">Filters</button>
+</header>
+
+<div class="cols">
+  <aside id="side" class="side">
+    <h2>CATEGORY</h2>
+    <ul id="cats" class="cats"></ul>
+    <h2>PLATFORM</h2>
+    <div id="platforms" class="checks"></div>
+    <h2>DEAL</h2>
+    <div class="checks">
+      <label><input type="checkbox" data-flag="code"> Has promo code</label>
+      <label><input type="checkbox" data-flag="soon"> Ends in 3 days</label>
+      <label><input type="checkbox" data-flag="onetime"> One-time purchase</label>
+      <label><input type="checkbox" data-flag="live"> Live now (hide coming soon)</label>
+    </div>
+    <p class="foot">Built <span id="built"></span> from <a href="https://github.com/EhsanulHaqueSiam/black-friday-deals-2026">11 deal lists and web research</a>. Always check the price at checkout.</p>
+  </aside>
+
+  <main>
+    <div class="bar">
+      <span id="title" class="crumb"></span>
+      <label class="sort">Sort
+        <select id="sort">
+          <option value="group">By category</option>
+          <option value="discount">Biggest discount</option>
+          <option value="ends">Ending soon</option>
+          <option value="name">Name</option>
+        </select>
+      </label>
+    </div>
+    <div id="list" class="list" aria-live="polite"><p class="empty">Loading deals...</p></div>
+  </main>
+</div>
+<div id="toast" class="toast" role="status"></div>
+<script src="app.js"></script>
+</body>
+</html>
