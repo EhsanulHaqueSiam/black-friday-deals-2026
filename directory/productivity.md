@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/productivity/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**183 live deals**, 71 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**184 live deals**, 71 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
 - [Notes & Writing](#notes--writing) (42)
 - [Tasks & Projects](#tasks--projects) (37)
@@ -10,7 +10,7 @@
 - [Focus & Habits](#focus--habits) (17)
 - [Reading & Knowledge](#reading--knowledge) (21)
 - [Email & Communication](#email--communication) (19)
-- [Documents & PDFs](#documents--pdfs) (22)
+- [Documents & PDFs](#documents--pdfs) (23)
 
 ## Notes & Writing
 
@@ -223,6 +223,7 @@
 | [Bibliome Library](https://apps.apple.com/app/apple-store/id6786826590?pt=128973943&ct=bf26-mrs&mt=12) | Mac PDF library that files, searches and answers questions about documents on device. | 33% off, $29.99 → $19.99 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/bibliomelibrary/) |
 | [Ray Scan](https://apps.apple.com/app/id6804876091) | Document scanner app with OCR and AI features. | 33% off lifetime, now $39.99 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/rayscan/) |
 | [DataCheck](https://datacheck.cc/en/pricing) | Rule-based checks for duplicates and anomalies in research data tables. | 30% off one-time packs and desktop licenses |  | Dec 5 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/datacheck/) |
+| [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products) | Office apps suite with cloud storage and a built-in AI assistant. | 30% off the first year of Personal or Premium |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/microsoft365/) |
 | [PDF FlipBook](https://pdfflipbook.com/) | Turns PDFs into page-flipping online flipbooks. | 30% off | `BF2026` | Dec 5 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/pdfflipbook/) |
 | [Folge](https://folge.me) | Records clicks as screenshots to build step-by-step guides and SOPs offline. | 25% off Personal and Business licenses | `BLACKFRIDAY25` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/folge/) |
 | [Monkey Tools](https://xlguru.ca/mt26) | Power BI and Excel productivity add-in. | 20% off annual or lifetime, courses 25% off | `MONKEYDEAL26` `CYBERDEAL26` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/monkeytools/) |

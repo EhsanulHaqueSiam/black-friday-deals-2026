@@ -2,9 +2,9 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/security-privacy/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**101 live deals**, 25 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**102 live deals**, 26 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
-- [VPN](#vpn) (25)
+- [VPN](#vpn) (26)
 - [Password Managers](#password-managers) (8)
 - [Antivirus & Security Suites](#antivirus--security-suites) (32)
 - [Privacy & Data Removal](#privacy--data-removal) (22)
@@ -34,6 +34,7 @@
 | [Windscribe](https://windscribe.com/) | VPN with built-in ad and tracker blocking. | 58% off Pro, $69 → $29/yr |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/windscribe/) |
 | [Windscribe Pro](https://www.techradar.com/vpn/vpn-services/windscribe-black-friday-vpn-deal-makes-it-less-than-half-price-get-this-price-hike-free-lifetime-rate-of-usd29-for-safe-streaming-on-your-iphone-and-unlimited-other-devices) | VPN with unlimited devices and a built-in ad and tracker blocker. | 58% off Pro, $69 → $29/year locked for life |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/windscribepro/) |
 | [CometVPN](https://x.com/CometVPN_) | VPN with real residential home IP addresses. | 50% off residential VPN, 20% off standard VPN and IPs | `COMETBF` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/cometvpn/) |
+| [NordLayer](https://nordlayer.com/pricing/) | Business VPN and network access security for teams. | Extra 20% off annual business plans | `BF-20OFF` `BF-SPECIAL` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/nordlayer/) |
 | [OpenVPN CloudConnexa and Access Server](https://openvpn.net) | Business VPN and zero trust network access. | 20% off the first year for new customers | `BLACKFRIDAY20` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/openvpncloudconnexaandaccessserver/) |
 | [Hide.me](https://hide.me/) | VPN service for desktop and mobile with a no-logs policy. | $2.33/mo for 24 months plus 6 months free |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/hideme/) |
 | [IPVanish](https://www.ipvanish.com/) | VPN with unlimited simultaneous device connections. | From $2.19/mo on the 2-year plan |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/ipvanish/) |

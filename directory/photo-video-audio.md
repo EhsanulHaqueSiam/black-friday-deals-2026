@@ -2,13 +2,13 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/photo-video-audio/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**230 live deals**, 71 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**231 live deals**, 73 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
 - [Video Editing](#video-editing) (42)
-- [Screen Recording](#screen-recording) (35)
+- [Screen Recording](#screen-recording) (34)
 - [Photo Editing](#photo-editing) (40)
 - [Music & Audio Production](#music--audio-production) (93)
-- [Podcasts & Transcription](#podcasts--transcription) (20)
+- [Podcasts & Transcription](#podcasts--transcription) (22)
 
 ## Video Editing
 
@@ -89,7 +89,6 @@
 | [Cap](https://partners.dub.co/cap) | Open-source screen recorder with editing and shareable links. | 20% off for 12 months for new users |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/cap/) |
 | [Oil Studio](https://studio.oiloil.org/en/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac screen recorder and transcript-based editor with auto zoom and captions. | 20% off, $39 → $31.20 for 2 Macs | `BFCM2026` | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/oilstudio/) |
 | [Shotcourier](https://shotcourier.com) | Mac menu bar app that sends screenshots to Photos, folders, cloud storage or a link. | 20% off, $29 → $23.20 | `SHOTCOURIER20` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/shotcourier/) |
-| [CleanShot](https://cleanshot.com/pricing) | Screenshot and screen recording app for Mac. | Save 17% with annual Pro billing |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/cleanshot/) |
 | [CursorClip](https://cursorclip.com/pricing/?ref=bf-trungdq88) | Mac screen recorder that adds automatic zooms where you click. | Lifetime for $49, one-time | `BLACKFRIDAY` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/cursorclip/) |
 | [palmscreen](https://www.palmscreen.app/black-friday/?ref=Awesome-Black-Friday-Cyber-Monday) | Mac app for screenshots and screen recordings with editing and sharing. | $29 → $19 | `BLACKWEEK` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/palmscreen/) |
 | [ScreenPost](https://screenpost.app/buy?promo=LAUNCH19&ref=marius-landwehr) | Mac app to capture, annotate, redact and post screenshots to X. | $29 → $19 one-time | `LAUNCH19` | Dec 20 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/screenpost/) |
@@ -249,10 +248,12 @@
 | [VideoTranscriber.ai](https://videotranscriber.ai/) | Transcripts, subtitles and summaries in 200+ languages. | 60% off annual plans |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/videotranscriber/) |
 | [MeetMic](https://meetmic.app/buy) | On-device meeting recording, transcription, dictation and AI summaries for Mac. | 55% off lifetime licenses | `BF26` | Dec 10 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/meetmic/) |
 | [FluidCast](https://fluidcastapp.com/event.html) | Plays podcasts and syncs listening progress across devices. | 50% off the podcast player | `BLACKFRIDAY2026LT` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/fluidcast/) |
+| [Otter.ai](https://otter.ai/pricing) | AI meeting notes app that records, transcribes and summarizes conversations. | 50% off Pro or Business annual plans | `BANBF26PROA50OFF` `BANBF26BIZA50OFF` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/otter/) |
 | [PodcastorAI](https://x.com/podcastor_ai) | AI podcast generator with AI hosts. | 50% off the first year of annual plans |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/podcastorai/) |
 | [Replay](https://tryreplay.online/?utm_source=trungdq88&utm_medium=deals&utm_campaign=bf2026) | Records Zoom, Meet, Teams and other calls on your Mac with no bot joining. | 50% off one-time purchase, $10 → $5 | `REPLAYBF50` | Dec 31 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/replay/) |
 | [Sum](https://sumtranscribe.com/pricing) | Turns audio and video into transcripts and AI summaries in the browser. | 50% off the first month or year of Pro | `SUMBF50` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/sum/) |
 | [Whittle.fm](https://whittle.fm) | Plays only the podcast segments about a topic you search, ads skipped. | 50% off the first year | `REDDIT` | Jan 11 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/whittlefm/) |
+| [tl;dv](https://tldv.io/pricing/) | AI meeting recorder that transcribes and summarizes video calls. | Extra 45% off the Business annual plan | `BLACKFRIDAY45` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/tldv/) |
 | [Noota](https://www.noota.io/) | AI meeting recorder that writes notes and follow-up emails. | 40% off annual Pro and Business |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/noota/) |
 | [Podwise](https://podwise.ai/pricing?utm_source=awesomebfcm&utm_medium=deal_list&utm_campaign=bf2026) | AI podcast app with transcripts, summaries and mind maps for each episode. | 40% off for life, Standard $70.80 → $42.48/yr | `BF2026` | Dec 6 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/podwise/) |
 | [Transcribee](https://transcribee.io/black-friday/) | AI transcription for audio, video and meetings in 90+ languages. | 40% off Unlimited, yearly $199.99 → $119.99 | `BF2026` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/transcribee/) |

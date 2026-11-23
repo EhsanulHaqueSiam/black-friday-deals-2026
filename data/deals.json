@@ -1870,25 +1870,6 @@
     "headline": "Free tier"
   },
   {
-    "name": "AI Fiesta",
-    "url": "https://aifiesta.ai/",
-    "deal": "Save $55 with annual billing The annual plan is advertised at $89 paid yearly, compared with $12 per month ($144 over twelve months). The $55 saving is the billing-term difference. Confirm your local currency, taxes, and renewal total before paying..",
-    "codes": [],
-    "sources": [
-      "bergside/awesome-black-friday",
-      "labex-labs/black-friday-cyber-monday-deals"
-    ],
-    "id": "aifiesta",
-    "category": "AI Tools",
-    "subcategory": "Chat & Assistants",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "subscription",
-    "description": "Chat, research and create with several AI models in one workspace.",
-    "headline": "Annual plan $89/yr, save $55 vs monthly"
-  },
-  {
     "name": "AI Limits",
     "url": "https://apps.apple.com/app/id6819589802",
     "deal": "Up to 67% OFF Lifetime (one-time purchase). iPhone/iPad: $29.99 $9.99 with code BLACKFRIDAY (redeem). Mac: $49.99 $16.99 with code BLACKFRIDAYMAC (redeem). Android: $29.99 $9.99, no code needed, Nov 27 – Dec 1. US pricing; local prices vary. Until Dec 1, 2026",
@@ -10147,25 +10128,6 @@
     "description": "Mac cleanup and maintenance app for freeing space, malware checks and speed-ups."
   },
   {
-    "name": "CleanShot",
-    "url": "https://cleanshot.com/pricing",
-    "deal": "Save 17% on annual CleanShot Pro subscriptions CleanShot advertises 17% savings on Pro when billed annually instead of monthly. This applies to the Pro subscription, not the separate one-time app license. Student and existing PixelSnap-customer discounts have their own eligibility requirements; no stacking is promised..",
-    "codes": [],
-    "discount": 17,
-    "sources": [
-      "bergside/awesome-black-friday"
-    ],
-    "id": "cleanshot",
-    "category": "Photo, Video & Audio",
-    "subcategory": "Screen Recording",
-    "platforms": [
-      "mac"
-    ],
-    "pricing": "subscription",
-    "description": "Screenshot and screen recording app for Mac.",
-    "headline": "Save 17% with annual Pro billing"
-  },
-  {
     "name": "ClearoutPhone",
     "url": "https://clearoutphone.io/",
     "deal": "Up to 50% off PAYG and annual subscription plans. Nov 16 to Nov 29",
@@ -15785,6 +15747,28 @@
     "headline": "Up to 75% off shared hosting"
   },
   {
+    "name": "Dreamina (CapCut AI)",
+    "url": "https://dreamina.capcut.com/",
+    "deal": "Black Friday deals save up to 98%: Basic is $0.29 for the first month (then $15/mo) when paying by card or PayPal, Standard first month $21.60 instead of $36, plus bonus video generations.",
+    "codes": [],
+    "discount": 98,
+    "sources": [
+      "thoughtcook/verified-black-friday",
+      "https://x.com/dreamina_ai/status/2121921158928851126"
+    ],
+    "headline": "First month of Basic for $0.29",
+    "id": "dreamina",
+    "category": "AI Tools",
+    "subcategory": "Image & Video",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "AI image and video generator from the makers of a popular video editor."
+  },
+  {
     "name": "DriftClip and DeskMagic",
     "url": "https://x.com/sammyjoze",
     "deal": "Lifetime prices until Dec 1: DriftClip Pro $19, DeskMagic Pro $29, no code",
@@ -20677,11 +20661,15 @@
   {
     "name": "Freepik",
     "url": "https://www.freepik.com/pricing",
-    "deal": "obrazy stockowe - roczny plan premium 255 PLN zamiast 510 PLN",
+    "deal": "Black Friday: up to 62% off annual plans plus gift credits on higher tiers (up to 125K extra in the first year). Business plans up to 40% off from 3 seats. New purchases and monthly-to-annual switches. Ends Dec 1, 2026, 08:00 CET.",
     "codes": [],
+    "ends": "2026-12-01",
+    "discount": 62,
     "sources": [
-      "kacperszurek/blackfriday"
+      "kacperszurek/blackfriday",
+      "https://www.freepik.com/pricing"
     ],
+    "headline": "Annual Premium 510 → 255 PLN",
     "id": "freepik",
     "category": "Design",
     "subcategory": "Stock Photos, Video & Music",
@@ -20689,8 +20677,7 @@
       "web"
     ],
     "pricing": "subscription",
-    "description": "Stock images, vectors and AI image tools.",
-    "headline": "Annual Premium 510 → 255 PLN"
+    "description": "Stock images, vectors and AI image tools."
   },
   {
     "name": "FreqInOut FO1",
@@ -21843,6 +21830,29 @@
     ],
     "pricing": "one-time",
     "description": "Native Git client for Mac."
+  },
+  {
+    "name": "GitHub Copilot",
+    "url": "https://github.com/features/copilot/plans",
+    "deal": "30% off Copilot Fusion usage until Nov 30, 2026, on all plans (Pro $10/mo, Pro+ $39/mo, Max $100/mo). Plan prices themselves are unchanged.",
+    "codes": [],
+    "ends": "2026-11-30",
+    "discount": 30,
+    "sources": [
+      "https://github.com/features/copilot/plans"
+    ],
+    "headline": "30% off Fusion model usage",
+    "id": "githubcopilot",
+    "category": "AI Tools",
+    "subcategory": "Coding & Agents",
+    "platforms": [
+      "web",
+      "mac",
+      "windows",
+      "linux"
+    ],
+    "pricing": "subscription",
+    "description": "AI coding assistant with completions, chat and agents in your editor."
   },
   {
     "name": "GitKraken",
@@ -28224,6 +28234,28 @@
     "headline": "57% off, $6.99 → $2.99 one-time"
   },
   {
+    "name": "Kling AI",
+    "url": "https://kling.ai/app/membership/membership-plan",
+    "deal": "Black Friday: 50% off the first year of annual Individual and Team plans (Standard yearly $60 first year, then $79.20). New users get 35% off the first 3 months of a monthly Individual plan, one time. Up to 20% bonus credits with Auto Top-Up.",
+    "codes": [],
+    "discount": 50,
+    "newCustomersOnly": true,
+    "sources": [
+      "https://x.com/Kling_ai/status/2122963026919977161"
+    ],
+    "headline": "50% off the first year of annual plans",
+    "id": "klingai",
+    "category": "AI Tools",
+    "subcategory": "Image & Video",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "AI video and image generator for text-to-video and image-to-video clips."
+  },
+  {
     "name": "KloudUtils",
     "url": "https://kloudutils.com/?utm_source=trungdq88-blackfriday",
     "deal": "$30 OFF with code BFCM2026_PRO for Pro license: $79.00 $49.00 (3 devices - Macs, Windows or Linux) - $10 OFF with code BFCM2026_STD for Standard license (1 device), Nov 16 to Dec 6, 2026.",
@@ -28427,6 +28459,26 @@
     ],
     "pricing": "one-time",
     "description": "Analog-modeled mixing plugins."
+  },
+  {
+    "name": "Krea",
+    "url": "https://www.krea.ai/pricing",
+    "deal": "Black Friday sale: 40% to 70% off yearly plans (Pro $252/yr, Max $504/yr), flat 25% off monthly plans, top-up packs up to 29% off and lower per-generation prices on popular video and image models. Until Nov 30, 2026.",
+    "codes": [],
+    "ends": "2026-11-30",
+    "discount": 70,
+    "sources": [
+      "https://x.com/krea_ai/status/2123083834355007970"
+    ],
+    "headline": "Up to 70% off yearly plans, 25% off monthly",
+    "id": "krea",
+    "category": "AI Tools",
+    "subcategory": "Image & Video",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "AI image and video generation suite with real-time editing and upscaling."
   },
   {
     "name": "Krea3 AI",
@@ -31207,6 +31259,29 @@
     "headline": "First year Plus $59.99 → $39.99, Pro $119.99 → $89.99"
   },
   {
+    "name": "Luma Dream Machine",
+    "url": "https://lumalabs.ai/pricing",
+    "deal": "Code CHROMA-LUMA takes 50% off one month of Luma Plus, part of the Chroma Awards Season 2 promotion (submissions close Jan 7).",
+    "codes": [
+      "CHROMA-LUMA"
+    ],
+    "ends": "2027-01-07",
+    "discount": 50,
+    "sources": [
+      "https://x.com/LumaLabsAI/status/2120993306632982543"
+    ],
+    "headline": "50% off one month of Plus",
+    "id": "lumadreammachine",
+    "category": "AI Tools",
+    "subcategory": "Image & Video",
+    "platforms": [
+      "web",
+      "ios"
+    ],
+    "pricing": "subscription",
+    "description": "AI video and image generator for cinematic clips from text or images."
+  },
+  {
     "name": "Lumière - Media & Music Player",
     "url": "https://lumiere.artsvit.com/",
     "deal": "About 17.5–20% off Lumière Plus Lifetime (U.S. $59.99 → $47.99) · ARTSVITBF20 · Eligible App Store regions. Ends Dec 1, 12 a.m. PT or after 500 redemptions per app. Apple Account and acceptance of Apple terms required. No resale or cash value. Offer by Artem Svitelskyi. · until Nov 30",
@@ -33143,6 +33218,29 @@
     ],
     "pricing": "one-time",
     "description": "Mac notch utility with themes and an app launcher."
+  },
+  {
+    "name": "Microsoft 365",
+    "url": "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products",
+    "deal": "Limited-time 30% off: Personal $69.99 first year (reg $99.99) or $6.99 first month, Premium $139.99 first year (reg $199.99) or $13.99 first month. Renews at regular price, cannot be combined with the free trial, no end date given.",
+    "codes": [],
+    "discount": 30,
+    "sources": [
+      "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products"
+    ],
+    "headline": "30% off the first year of Personal or Premium",
+    "id": "microsoft365",
+    "category": "Productivity",
+    "subcategory": "Documents & PDFs",
+    "platforms": [
+      "windows",
+      "mac",
+      "ios",
+      "android",
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Office apps suite with cloud storage and a built-in AI assistant."
   },
   {
     "name": "Microsoft Agent Framework courses (The Training Boss)",
@@ -35954,6 +36052,33 @@
     "headline": "40% off annual Pro and Business"
   },
   {
+    "name": "NordLayer",
+    "url": "https://nordlayer.com/pricing/",
+    "deal": "Extra 20% off NordLayer Core annual plans for up to 20 seats with code BF-20OFF. Larger teams can get bigger discounts via sales with code BF-SPECIAL. Until Nov 30, 2026.",
+    "codes": [
+      "BF-20OFF",
+      "BF-SPECIAL"
+    ],
+    "ends": "2026-11-30",
+    "discount": 20,
+    "sources": [
+      "https://www.techradar.com/pro/nordsecurity-b2b-suite-black-friday-deal-cut-your-companys-security-costs-with-20-percent-off-nordpass-business-and-nordlayer"
+    ],
+    "headline": "Extra 20% off annual business plans",
+    "id": "nordlayer",
+    "category": "Security & Privacy",
+    "subcategory": "VPN",
+    "platforms": [
+      "windows",
+      "mac",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "Business VPN and network access security for teams."
+  },
+  {
     "name": "NordPass",
     "url": "https://nordpass.com/black-friday/",
     "deal": "Black Friday: up to 50% off + 3 extra months Annual Personal plans, paid upfront. The three Premium months require a two-year Premium or Family plan kept beyond 30 days. Renews at regular pricing; tax extra. Ends Dec 9, 2026 at 9 a.m. CET (UTC+1)..",
@@ -37708,6 +37833,29 @@
     "description": "Offline fog-of-war exploration map with 23,000+ landmarks."
   },
   {
+    "name": "Opus Clip",
+    "url": "https://www.opus.pro/pricing",
+    "deal": "40% off the first month of Pro on the monthly plan for new users, until Nov 30, 2026. A separate 2026 Black Friday sale is announced for this week by email.",
+    "codes": [],
+    "ends": "2026-11-30",
+    "discount": 40,
+    "newCustomersOnly": true,
+    "sources": [
+      "https://x.com/OpusClip/status/2117293158161891399"
+    ],
+    "headline": "40% off the first month of Pro",
+    "id": "opusclip",
+    "category": "AI Tools",
+    "subcategory": "Image & Video",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "AI tool that cuts long videos into captioned short clips for social media."
+  },
+  {
     "name": "OrbySystems",
     "url": "https://orbysystems.ai/offers",
     "deal": "75% OFF Plus and Premium with code BLACKFRIDAY26: Plus $49.95 $12.49, Premium $249.95 $62.49 (Premium US only). Covers 2027 and all earlier statement years. Now – Nov 30, 2026",
@@ -37862,6 +38010,30 @@
     "pricing": "one-time",
     "description": "Browser AI writing editor where an agent edits your document and you review each change.",
     "headline": "Lifetime plan $249 one-time (vs $468/yr)"
+  },
+  {
+    "name": "Otter.ai",
+    "url": "https://otter.ai/pricing",
+    "deal": "Black Friday: 50% off annual plans. Pro annual with code BANBF26PROA50OFF ($4.17/mo instead of $8.33, billed yearly), Business annual with code BANBF26BIZA50OFF.",
+    "codes": [
+      "BANBF26PROA50OFF",
+      "BANBF26BIZA50OFF"
+    ],
+    "discount": 50,
+    "sources": [
+      "https://otter.ai/pricing"
+    ],
+    "headline": "50% off Pro or Business annual plans",
+    "id": "otter",
+    "category": "Photo, Video & Audio",
+    "subcategory": "Podcasts & Transcription",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "AI meeting notes app that records, transcribes and summarizes conversations."
   },
   {
     "name": "OttoClipper",
@@ -43196,15 +43368,18 @@
   },
   {
     "name": "QuillBot",
-    "url": "https://quillbot.com/",
-    "deal": "58% OFF Premium, $8.33/mo annual",
+    "url": "https://www.quillbot.com/premium",
+    "deal": "40% off Premium, now through Dec 6, 2026.",
     "codes": [],
+    "ends": "2026-12-06",
     "discount": 58,
     "sources": [
       "Shashankt255/black-friday-deals-2026",
       "KevinKaul/black-friday-deals-2026",
-      "thuongtin/awesome-bfcm-2026"
+      "thuongtin/awesome-bfcm-2026",
+      "https://www.quillbot.com/premium"
     ],
+    "headline": "58% off Premium, $8.33/mo billed annually",
     "id": "quillbot",
     "category": "AI Tools",
     "subcategory": "Writing & Content",
@@ -43213,8 +43388,7 @@
       "browser-extension"
     ],
     "pricing": "subscription",
-    "description": "AI paraphrasing, grammar checking and summarizing tool.",
-    "headline": "58% off Premium, $8.33/mo billed annually"
+    "description": "AI paraphrasing, grammar checking and summarizing tool."
   },
   {
     "name": "Quire",
@@ -52687,10 +52861,11 @@
   {
     "name": "Suno",
     "url": "https://suno.com/pricing",
-    "deal": "Extra 30% off annual plans for a week.",
+    "deal": "Black Friday sale: extra 30% off annual Pro and Premier plans (normally Pro $96/yr, Premier $288/yr).",
     "codes": [],
     "discount": 30,
     "sources": [
+      "https://suno.com/pricing",
       "https://www.reddit.com/r/SunoAI/comments/1y3ocee/suno_black_friday_sale_is_on/"
     ],
     "headline": "Extra 30% off annual plans",
@@ -52698,10 +52873,12 @@
     "category": "AI Tools",
     "subcategory": "Voice & Audio",
     "platforms": [
-      "web"
+      "web",
+      "ios",
+      "android"
     ],
     "pricing": "subscription",
-    "description": "AI music generator that makes songs from text prompts."
+    "description": "AI music generator that writes and sings full songs from a prompt."
   },
   {
     "name": "SunoMV",
@@ -53499,6 +53676,27 @@
     "pricing": "subscription",
     "description": "Manages email signatures and banner campaigns for Google Workspace and Microsoft 365.",
     "headline": "2 years of Teams for the price of 1, $360 → $180"
+  },
+  {
+    "name": "Synthesia",
+    "url": "https://www.synthesia.io/pricing",
+    "deal": "Black Friday and Cyber Week offer: Pro first month as low as $19 (reg $89/mo, $49 during early access), or up to 51% off yearly Pro. New customers and free users only, Nov 23 to Dec 7, 2026.",
+    "codes": [],
+    "ends": "2026-12-07",
+    "discount": 51,
+    "newCustomersOnly": true,
+    "sources": [
+      "https://www.synthesia.io/pricing"
+    ],
+    "headline": "Pro from $19 first month, up to 51% off yearly",
+    "id": "synthesia",
+    "category": "AI Tools",
+    "subcategory": "Image & Video",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "AI avatar video maker for training, sales and explainer videos."
   },
   {
     "name": "Syrup Hosting",
@@ -56275,6 +56473,28 @@
     ],
     "pricing": "subscription",
     "description": "Baseball stats and fantasy tools."
+  },
+  {
+    "name": "tl;dv",
+    "url": "https://tldv.io/pricing/",
+    "deal": "Code BLACKFRIDAY45 takes an extra 45% off the Business annual plan, first 500 coupons only. Annual billing already shows up to 40% off.",
+    "codes": [
+      "BLACKFRIDAY45"
+    ],
+    "discount": 45,
+    "sources": [
+      "https://tldv.io/pricing/"
+    ],
+    "headline": "Extra 45% off the Business annual plan",
+    "id": "tldv",
+    "category": "Photo, Video & Audio",
+    "subcategory": "Podcasts & Transcription",
+    "platforms": [
+      "web",
+      "browser-extension"
+    ],
+    "pricing": "subscription",
+    "description": "AI meeting recorder that transcribes and summarizes video calls."
   },
   {
     "name": "TLFHost",
@@ -63714,6 +63934,28 @@
     ],
     "pricing": "subscription",
     "description": "WooCommerce plugins for payments, licenses, tracking and media."
+  },
+  {
+    "name": "Zemith",
+    "url": "https://www.zemith.com/pricing",
+    "deal": "20% off the first year of yearly plans on the web, no code: Plus $143.90 (then $179.88/yr), Professional $239.90 (then $299.88/yr). Nov 21 to Nov 30, 2026.",
+    "codes": [],
+    "ends": "2026-11-30",
+    "discount": 20,
+    "sources": [
+      "https://www.zemith.com/en/contents/ai-black-friday-deals"
+    ],
+    "headline": "20% off the first year of yearly plans",
+    "id": "zemith",
+    "category": "AI Tools",
+    "subcategory": "Chat & Assistants",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "All-in-one AI app with chat, image, video and voice tools across many models."
   },
   {
     "name": "Zenfolio",

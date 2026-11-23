@@ -2,13 +2,13 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/ai-tools/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**243 live deals**, 93 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**250 live deals**, 94 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
 - [Chat & Assistants](#chat--assistants) (31)
 - [Writing & Content](#writing--content) (42)
-- [Image & Video](#image--video) (82)
+- [Image & Video](#image--video) (88)
 - [Voice & Audio](#voice--audio) (29)
-- [Coding & Agents](#coding--agents) (22)
+- [Coding & Agents](#coding--agents) (23)
 - [Automation & Workflows](#automation--workflows) (20)
 - [Research & Learning](#research--learning) (14)
 - [AI APIs & Credits](#ai-apis--credits) (3)
@@ -45,7 +45,7 @@
 | [Elephas](https://elephas.app/pricing?utm_source=awesomebf&utm_medium=deal-list&utm_campaign=bf-2026) | Private AI assistant that answers questions over your documents with file and page citations. | 25% off, Personal $19 → $14.25/mo | `BF_26VK7BI5PHA` | Dec 20 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/elephas/) |
 | [Fluent (Mac AI assistant)](https://fluentmac.app/buy?discount_code=BF2026) | AI assistant that works inside any Mac app. | 25% off, Basic $49 → $36.75 | `BF2026` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/fluent/) |
 | [Unlimited AI Tools](https://unlimitedai.tools/pricing/) | Access to many AI models and tools in one subscription. | 25% off first year of Pro and Plus | `BLACKFRIDAY26` | Nov 29 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/unlimitedaitools/) |
-| [AI Fiesta](https://aifiesta.ai/) | Chat, research and create with several AI models in one workspace. | Annual plan $89/yr, save $55 vs monthly |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/aifiesta/) |
+| [Zemith](https://www.zemith.com/pricing) | All-in-one AI app with chat, image, video and voice tools across many models. | 20% off the first year of yearly plans |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/zemith/) |
 | [Carry](https://carry.md/#pricing) | Browser extension that saves ChatGPT, Claude and Gemini chats as Markdown files. | Lifetime license $79 → $59 | `BLACKFRIDAY20` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/carry/) |
 | [Outlier](https://outlier.host/) | Private local AI assistant for Apple silicon Macs. | One-time purchase $39 → $16.99 |  | Dec 20 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/outlier/) |
 
@@ -59,7 +59,7 @@
 | [Rezi](https://www.rezi.ai/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI resume builder that tailors ATS-friendly resumes and cover letters. | 70% off Pro for 3 months, $29 → $8.70/mo | `Blackfriday2026` | Dec 11 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/rezi/) |
 | [Decktopus](https://www.decktopus.com/) | Turns prompts into slide decks and helps format presentations. | 66% off annual AI slide maker, $10 → $3.40/mo |  | Dec 11 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/decktopus/) |
 | [FreshJobs](https://freshjobs.tech/#black-friday) | Job listings aggregator with ATS score checks and resume generation. | 60% off for 2 months | `MS86L5ZK5VSU` | Dec 17 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/freshjobs/) |
-| [QuillBot](https://quillbot.com/) | AI paraphrasing, grammar checking and summarizing tool. | 58% off Premium, $8.33/mo billed annually |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/quillbot/) |
+| [QuillBot](https://www.quillbot.com/premium) | AI paraphrasing, grammar checking and summarizing tool. | 58% off Premium, $8.33/mo billed annually |  | Dec 6 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/quillbot/) |
 | [Cooked](https://www.cookeddev.lol/pricing) | Tailors your CV and cover letter to a job posting, with ATS scoring. | 51% off lifetime Pro, $59 once |  | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/cooked/) |
 | [Cue](https://appsbymo.app/cue/?ref=bf-deals) | Menu bar AI assistant that drafts and proofreads replies in Mac messaging apps. | 50% off, $29 → $14.50 | `BLACKFRIDAY` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/cue/) |
 | [CVder](https://cvder.app/pricing) | AI tool that tailors your CV to a job posting and writes cover letters. | 50% off first Pro payment, annual €84 → €42 | `BF2026` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/cvder/) |
@@ -101,7 +101,9 @@
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
 | [JoggAI](https://x.com/Jogg_ai) | AI video and presentation generator. | Up to 2x credits at the same price |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/joggai/) |
+| [Dreamina (CapCut AI)](https://dreamina.capcut.com/) | AI image and video generator from the makers of a popular video editor. | First month of Basic for $0.29 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/dreamina/) |
 | [Higgsfield](https://higgsfield.ai/pricing) | AI video and image generation platform. | Up to 70% off premium plans |  | Nov 24 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/higgsfield/) |
+| [Krea](https://www.krea.ai/pricing) | AI image and video generation suite with real-time editing and upscaling. | Up to 70% off yearly plans, 25% off monthly |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/krea/) |
 | [Pixara](https://www.pixara.ai/) | Multi-model AI workspace for images, video and voiceovers. | 70% off Pro and Ultimate annual |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/pixara/) |
 | [Seedeo](https://seedeo.ai/black-friday) | Generates video, images, music and voice across many AI models on one balance. | 64% off Pro annual, 62% off credits | `bf26_pack99` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/seedeo/) |
 | [Higgsfield AI](https://goto.higgsfield.ai/raPQRv) | AI video generator with cinematic camera controls. | 63% off |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/higgsfieldai/) |
@@ -111,6 +113,7 @@
 | [PixVerse](https://motivaiprivatelimited.sjv.io/promo) | AI video generator from text and images. | Up to 59% off annual plans |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/pixverse/) |
 | [MVLAND](https://x.com/MVLAND_AI) | AI music video generator. | Up to 55% off annual plus 1 month bonus credits |  | Nov 28 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/mvland/) |
 | [ReelFlow](https://x.com/Reelflow_AI) | AI video studio with 26 video models. | Up to 55% off, plans from $11.70/mo |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/reelflow/) |
+| [Synthesia](https://www.synthesia.io/pricing) | AI avatar video maker for training, sales and explainer videos. | Pro from $19 first month, up to 51% off yearly |  | Dec 7 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/synthesia/) |
 | [Tagshop.ai](https://tagshop.ai/) | Generates UGC-style video ads from a product URL with AI. | Up to 51% off yearly plans |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/tagshop/) |
 | [1VideoTool](https://1videotool.com?utm_source=mrsbf&utm_campaign=bf2026) | Local AI video studio that turns a text description into a rendered MP4, drivable over MCP. | 50% off Pro license, $29 → $14.50 one-time | `BFDEALS50` | Nov 29 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/1videotool/) |
 | [AdCreative AI](https://free-trial.adcreative.ai/aitools-fyi-bf?ref=aitoolsfyi) | Generates ad images, videos and copy with AI. | 50% off quarterly and yearly plans, double credits |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/adcreativeai/) |
@@ -126,6 +129,8 @@
 | [InPlaceText](https://inplacetext.com/pricing/) | Replaces text in images while matching the original font, color and background. | Up to 50% bonus credits on credit packs |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/inplacetext/) |
 | [inReels](https://www.inreels.ai/pricing) | AI ad generator that turns product links into UGC video and static ads. | 50% off all yearly plans | `BLACKFRIDAY2026` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/inreels/) |
 | [InVideo](https://invideo.io/) | AI video creation platform. | 50% off |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/invideo/) |
+| [Kling AI](https://kling.ai/app/membership/membership-plan) | AI video and image generator for text-to-video and image-to-video clips. | 50% off the first year of annual plans |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/klingai/) |
+| [Luma Dream Machine](https://lumalabs.ai/pricing) | AI video and image generator for cinematic clips from text or images. | 50% off one month of Plus | `CHROMA-LUMA` | Jan 7 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/lumadreammachine/) |
 | [Media.io](https://www.media.io) | AI video and image tools. | Up to 50% off |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/media/) |
 | [Molens AI](https://molensai.com/black-friday) | Generates videos and images from prompts or photos with shared credits. | 50% off first year of annual, Starter $129 → $64.50 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/molensai/) |
 | [Motionflare](https://motionflare.ai/pricing) | Turns a website URL into an on-brand marketing video. | 50% off first month of Pro or Max |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/motionflare/) |
@@ -143,6 +148,7 @@
 | [Krea3 AI](https://krea3.org/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI image generator for portraits, product shots and posters. | 40% off first year of annual, Starter $149 → $89.40 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/krea3ai/) |
 | [MusicMV](https://musicmv.ai/black-friday) | Turns a song and a photo into a beat-synced AI music video. | Up to 40% off one-time credit packs |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/musicmv/) |
 | [OpenArt AI](https://openartai.pxf.io/c/6191520/3106413/38572?utm_source=impact&utm_medium=affiliate&utm_content=link) | AI image and video generation with many models. | Up to 40% off first year on annual plans |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/openartai/) |
+| [Opus Clip](https://www.opus.pro/pricing) | AI tool that cuts long videos into captioned short clips for social media. | 40% off the first month of Pro |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/opusclip/) |
 | [Recraft](https://www.recraft.ai) | AI image and vector generation tool for designers. | 40% off new annual design plans, from $6/mo |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/recraft/) |
 | [Shorvo](https://shorvostudio.com/pricing/?utm_source=awesome-bfcm) | Windows app that turns a script or topic into a YouTube Short with an AI voice. | 40% off Pro lifetime, $129 → $77.40 | `BF40` | Dec 10 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/shorvo/) |
 | [TranslateManga](https://translatemanga.net/?pricing_mode=annual#pricing) | AI translation of raw manga and webtoons inside the original speech bubbles. | 40% off yearly, Standard $6/mo, Pro $12/mo |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/translatemanga/) |
@@ -209,7 +215,7 @@
 | [Halopen](https://halopen.com/pricing/?ref=awesome-bf) | Hold-to-talk dictation for macOS that types speech at the cursor in any app. | 30% off first payment, lifetime $199 → $139.30 | `HOLIDAY` | Dec 31 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/halopen/) |
 | [Leelo](https://leelo-ai.com/black-friday?utm_source=tonybf) | AI voice studio for narration, videos, podcasts and audiobooks. | Lifetime from $59, plus 50% more credits on packs |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/leelo/) |
 | [RapStar Studio](https://rapstarstudio.com/pricing?utm_source=mrsdeals&utm_medium=github&utm_campaign=bf2026) | AI custom rap song with lyric videos made from names and inside jokes. | 30% off custom rap song, $9.90 → $6.93 | `BF2026` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/rapstarstudio/) |
-| [Suno](https://suno.com/pricing) | AI music generator that makes songs from text prompts. | Extra 30% off annual plans |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/suno/) |
+| [Suno](https://suno.com/pricing) | AI music generator that writes and sings full songs from a prompt. | Extra 30% off annual plans |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/suno/) |
 | [Parlo](https://parlohub.com/black-friday) | On-device Mac dictation, bot-free meeting notes and voice commands. | 26% off lifetime, $80 → $59 |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/parlo/) |
 | [Voibe](https://www.getvoibe.com/pricing/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Private AI dictation and bot-free meeting notes for Mac and Windows. | 25% off every plan, Dictation $199 → $149.25 | `BFCM26` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/voibe/) |
 | [NotchLive](https://notchlive.app/pricing#plans) | Private live captions for calls and videos on Mac, with translation and transcripts. | 20% off Pro, $29 → $23.20 |  | Dec 17 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/notchlive/) |
@@ -236,6 +242,7 @@
 | [Bitrig](https://bitrig.com/pricing) | Build iPhone apps by chatting with AI, right on your phone. | 33% off the monthly rate with a $120 first year |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/bitrig/) |
 | [ContextClip](https://noteifyapp.com/contextclip/) | Captures a UI control's screenshot and accessibility tree for pasting into AI coding agents. | 30% off, $9.99 → $6.99 | `MACPLUSBLACKFRIDAY26` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/contextclip/) |
 | [Enter](https://x.com/EnterProAI) | AI app and website builder. | 30% off plus up to 18,000 bonus credits |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/enter/) |
+| [GitHub Copilot](https://github.com/features/copilot/plans) | AI coding assistant with completions, chat and agents in your editor. | 30% off Fusion model usage |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/githubcopilot/) |
 | [Meku](https://meku.dev/pricing) | AI builder for websites and web apps with GitHub sync and Supabase. | 30% off all plans, kept on renewal | `BLFCM2026` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/meku/) |
 | [POSH](https://poshtui.com/black-friday?utm_source=tonybf&utm_campaign=bf2026) | Version-matched Ruby and Rails docs for coding agents via CLI and MCP. | 30% off while subscribed, €5 → €3.50/mo | `BLACKFRIDAY2026` | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/posh/) |
 | [SessionWatcher](https://www.sessionwatcher.com/pricing?ref=p-bf-mrs) | Shows live usage, costs and rate limits for Claude, Codex, Copilot, Cursor and Gemini. | 25% off, Pro lifetime $79 → $59 |  | Dec 6 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/sessionwatcher/) |
