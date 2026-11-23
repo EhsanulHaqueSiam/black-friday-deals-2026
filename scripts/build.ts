@@ -394,9 +394,10 @@ const deals: Deal[] = merged.map((r) => {
     platforms: (t?.platforms ?? []).filter((p): p is Platform => (PLATFORMS as readonly string[]).includes(p)),
     pricing: PRICING.find((p) => p === t?.pricing),
     description: t?.description,
-    headline: headlines[id] ?? r.headline ?? autoHeadline(r.deal),
+    // A research entry carries its own headline for its own (winning) deal text; it beats older stored ones.
+    headline: r.headline ?? headlines[id] ?? autoHeadline(r.deal),
     // The headline names the main offer; the deal text's biggest % can be an unrelated "up to".
-    discount: ((headlines[id] ?? r.headline) && extractDiscount(headlines[id] ?? r.headline!)) || r.discount,
+    discount: ((r.headline ?? headlines[id]) && extractDiscount(r.headline ?? headlines[id]!)) || r.discount,
   };
 });
 if (bad.length) console.warn(`ignored ${bad.length} tags outside the taxonomy:\n  ${bad.slice(0, 20).join("\n  ")}`);
