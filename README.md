@@ -1,6 +1,6 @@
 # Black Friday & Cyber Monday 2026 Deals Directory
 
-**2667 live deals**, **1015 with promo codes**, from 28 community deal lists on GitHub plus web, X and Reddit research. Duplicates, expired offers and "coming soon" placeholders are removed, and every deal is tagged by category, platform and pricing.
+**2657 live deals**, **1011 with promo codes**, from 28 community deal lists on GitHub plus web, X and Reddit research. Duplicates, expired offers and "coming soon" placeholders are removed, and every deal is tagged by category, platform and pricing.
 
 **Website: https://ehsanulhaquesiam.github.io/black-friday-deals-2026/** (search, filters, one-click codes, a page for every deal)
 
@@ -14,16 +14,16 @@ Black Friday is **Nov 27, 2026**, Cyber Monday is **Nov 30, 2026**. Last built *
 |---|---|---|
 | [AI Tools](directory/ai-tools.md) | 236 | Chat & Assistants 31, Writing & Content 41, Image & Video 81, Voice & Audio 25, Coding & Agents 22, Automation & Workflows 19, Research & Learning 14, AI APIs & Credits 3 |
 | [Developer Tools](directory/developer-tools.md) | 151 | Databases & API Clients 10, Git, CI & DevOps 14, Testing & Debugging 21, Editors & Terminals 13, Mac Dev Utilities 19, Boilerplates & Starter Kits 28, Backend, APIs & Infra 28, Monitoring & Analytics 18 |
-| [Design](directory/design.md) | 150 | UI Kits & Templates 48, Icons, Fonts & Illustrations 8, Design & Prototyping Tools 49, Mockups & Screenshots 6, Stock Photos, Video & Music 39 |
+| [Design](directory/design.md) | 149 | UI Kits & Templates 47, Icons, Fonts & Illustrations 8, Design & Prototyping Tools 49, Mockups & Screenshots 6, Stock Photos, Video & Music 39 |
 | [Photo, Video & Audio](directory/photo-video-audio.md) | 179 | Video Editing 40, Screen Recording 32, Photo Editing 34, Music & Audio Production 54, Podcasts & Transcription 19 |
 | [Productivity](directory/productivity.md) | 156 | Notes & Writing 35, Tasks & Projects 30, Calendar & Time Tracking 22, Focus & Habits 17, Reading & Knowledge 19, Email & Communication 14, Documents & PDFs 19 |
-| [Mac & Desktop Utilities](directory/mac-desktop-utilities.md) | 240 | Menu Bar & Dock 53, Windows & Screens 39, Clipboard, Launchers & Keyboard 48, Files, Storage & System 86, Browser Extensions 14 |
-| [Security & Privacy](directory/security-privacy.md) | 99 | VPN 25, Password Managers 8, Antivirus & Security Suites 32, Privacy & Data Removal 21, Secure Email & Storage 13 |
-| [Hosting & Cloud](directory/hosting-cloud.md) | 125 | Domains 21, Web & WordPress Hosting 44, PaaS & Serverless 2, VPS & Cloud Servers 43, Databases 1, Cloud Storage & Backup 10, Email Hosting 4 |
-| [Websites & E-commerce](directory/websites-e-commerce.md) | 203 | Website Builders & No-Code 31, WordPress Themes & Plugins 125, Forms & Surveys 18, E-commerce & Payments 29 |
-| [Marketing & Sales](directory/marketing-sales.md) | 248 | SEO 64, Email Marketing & Newsletters 36, Social Media 46, Ads, Leads & Outreach 64, CRM & Sales 15, Web Analytics 23 |
-| [Business & Finance](directory/business-finance.md) | 173 | Personal Finance & Investing 49, Accounting & Invoicing 17, Customer Support & Chat 27, Team & Operations 41, Startup & Indie Tools 24, Legal & Documents 15 |
-| [Learning](directory/learning.md) | 243 | Online Course Platforms 55, Programming & Tech 39, Cybersecurity Certs & Training 73, Cloud & DevOps Certs 11, Languages 25, Books & Ebooks 32, Communities & Newsletters 8 |
+| [Mac & Desktop Utilities](directory/mac-desktop-utilities.md) | 239 | Menu Bar & Dock 53, Windows & Screens 39, Clipboard, Launchers & Keyboard 48, Files, Storage & System 86, Browser Extensions 13 |
+| [Security & Privacy](directory/security-privacy.md) | 98 | VPN 25, Password Managers 8, Antivirus & Security Suites 31, Privacy & Data Removal 21, Secure Email & Storage 13 |
+| [Hosting & Cloud](directory/hosting-cloud.md) | 124 | Domains 20, Web & WordPress Hosting 44, PaaS & Serverless 2, VPS & Cloud Servers 43, Databases 1, Cloud Storage & Backup 10, Email Hosting 4 |
+| [Websites & E-commerce](directory/websites-e-commerce.md) | 202 | Website Builders & No-Code 31, WordPress Themes & Plugins 124, Forms & Surveys 18, E-commerce & Payments 29 |
+| [Marketing & Sales](directory/marketing-sales.md) | 245 | SEO 63, Email Marketing & Newsletters 36, Social Media 46, Ads, Leads & Outreach 62, CRM & Sales 15, Web Analytics 23 |
+| [Business & Finance](directory/business-finance.md) | 172 | Personal Finance & Investing 49, Accounting & Invoicing 17, Customer Support & Chat 27, Team & Operations 40, Startup & Indie Tools 24, Legal & Documents 15 |
+| [Learning](directory/learning.md) | 242 | Online Course Platforms 55, Programming & Tech 39, Cybersecurity Certs & Training 72, Cloud & DevOps Certs 11, Languages 25, Books & Ebooks 32, Communities & Newsletters 8 |
 | [Entertainment](directory/entertainment.md) | 74 | Streaming Video 33, Music 19, Audiobooks & Reading 6, News & Magazines 16 |
 | [Gaming](directory/gaming.md) | 54 | Game Stores & Sales 13, Game Subscriptions 2, Games & Apps 39 |
 | [Hardware & Electronics](directory/hardware-electronics.md) | 147 | Phones, Tablets & Computers 35, Audio 14, Smart Home 15, Accessories & Peripherals 61, Cameras & Drones 7, Retailer Sales 15 |

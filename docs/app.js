@@ -11,7 +11,9 @@ const ADULT = "Adult (18+)"; // hidden until the visitor ticks "Show 18+ deals"
 
 let DATA;
 let TODAY;
-const state = { q: "", cat: "", sub: "", platforms: new Set(), flags: new Set(), sort: "group" };
+const state = { q: "", cat: "", sub: "", platforms: new Set(), flags: new Set(), sort: "popular" };
+// How many independent community lists carry the deal: the popularity signal GitHub Pages can offer.
+const lists = (d) => d.sources.filter((s) => !s.startsWith("http")).length;
 
 const daysLeft = (d) => (d.ends ? Math.round((Date.parse(d.ends) - TODAY) / 864e5) : Infinity);
 const fmtDate = (iso) => new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
@@ -24,11 +26,61 @@ function passesFilters(d) {
   if (state.flags.has("soon") && !(daysLeft(d) <= 3)) return false;
   if (state.flags.has("onetime") && d.pricing !== "one-time") return false;
   if (state.flags.has("live") && d.upcoming) return false;
-  if (state.q) {
-    const hay = `${d.name} ${d.description ?? ""} ${d.headline} ${d.deal} ${d.codes.join(" ")} ${d.category} ${d.subcategory ?? ""}`.toLowerCase();
-    if (!state.q.split(/\s+/).every((w) => hay.includes(w))) return false;
-  }
+  if (state.q && !score(d)) return false;
   return true;
+}
+
+// --- search ---------------------------------------------------------------------------------
+// Every query word must match somewhere; the product name (and its website) counts most, so
+// "proton" lists Proton VPN before deals that only mention Proton. One typo is forgiven.
+const norm = (s) => String(s ?? "").toLowerCase().normalize("NFKD").replace(/[\u0300-\u036f]/g, "");
+const within1 = (a, b) => {
+  if (Math.abs(a.length - b.length) > 1) return false;
+  let i = 0, j = 0, edits = 0;
+  while (i < a.length && j < b.length) {
+    if (a[i] === b[j]) { i++; j++; continue; }
+    if (++edits > 1) return false;
+    if (a.length > b.length) i++;
+    else if (a.length < b.length) j++;
+    else { i++; j++; }
+  }
+  return edits + (a.length - i) + (b.length - j) <= 1;
+};
+const index = new Map(); // id -> precomputed lowercase fields
+function fields(d) {
+  let f = index.get(d.id);
+  if (!f) {
+    const name = norm(d.name);
+    f = {
+      name,
+      words: name.split(/[^a-z0-9]+/).filter(Boolean),
+      host: norm(host(d.url)),
+      text: norm(`${d.description ?? ""} ${d.headline}`),
+      cat: norm(`${d.category} ${d.subcategory ?? ""}`),
+      rest: norm(`${d.deal} ${d.codes.join(" ")}`),
+    };
+    index.set(d.id, f);
+  }
+  return f;
+}
+function score(d) {
+  const f = fields(d);
+  const q = norm(state.q).trim();
+  let total = f.name === q ? 200 : f.name.startsWith(q) ? 120 : 0;
+  for (const w of q.split(/\s+/).filter(Boolean)) {
+    const s =
+      f.words.some((x) => x === w) ? 60 :
+      f.words.some((x) => x.startsWith(w)) ? 45 :
+      f.name.includes(w) ? 30 :
+      f.host.includes(w) ? 25 :
+      f.text.includes(w) ? 12 :
+      f.cat.includes(w) ? 8 :
+      f.rest.includes(w) ? 4 :
+      w.length >= 4 && f.words.some((x) => within1(x, w)) ? 20 : 0;
+    if (!s) return 0;
+    total += s;
+  }
+  return total;
 }
 
 function render() {
@@ -78,7 +130,7 @@ function row(d) {
     <div class="n"><a href="${d.category === ADULT ? esc(d.url) : `deal/${esc(d.id)}/`}">${esc(d.name)}</a>${d.description ? `<small>${esc(d.description)}</small>` : ""}</div>
     <div class="act">${d.codes.length ? codeBtn(d.codes[0]) : `<span class="nocode">No code needed</span>`}${goBtn(d)}</div>
     <div class="h">${d.upcoming ? `<span class="soonTag">Soon</span>` : ""}${pct(d)}${esc(d.headline)}</div>
-    <div class="sub">${endsText(d)}<button class="more" aria-expanded="false">${d.codes.length > 1 ? `${d.codes.length} codes · ` : ""}details</button></div>
+    <div class="sub">${endsText(d)}${lists(d) >= 2 ? `<span class="left">on ${lists(d)} lists</span>` : ""}<button class="more" aria-expanded="false">${d.codes.length > 1 ? `${d.codes.length} codes · ` : ""}details</button></div>
   </article>`;
 }
 
@@ -100,7 +152,7 @@ function details(d) {
 
 // Editors' picks: only on the plain front view, so they never push filtered results down.
 function picks() {
-  const plain = !state.q && !state.cat && !state.platforms.size && [...state.flags].every((f) => f === "adult") && state.sort === "group";
+  const plain = !state.q && !state.cat && !state.platforms.size && [...state.flags].every((f) => f === "adult") && state.sort === "popular";
   const ds = plain ? (DATA.picks ?? []).map((p) => ({ ...DATA.deals.find((d) => d.id === p.id), why: p.why })).filter((d) => d.id) : [];
   if (!ds.length) return "";
   return `<section class="picks"><h2>Editors' picks</h2><p>Deals worth buying even if you weren't shopping.</p><div class="pg">${ds
@@ -121,12 +173,18 @@ function renderList(shown) {
     return;
   }
   const by = {
+    popular: (a, b) => lists(b) - lists(a) || (b.discount ?? -1) - (a.discount ?? -1) || a.name.localeCompare(b.name),
     discount: (a, b) => (b.discount ?? -1) - (a.discount ?? -1) || a.name.localeCompare(b.name),
     ends: (a, b) => daysLeft(a) - daysLeft(b) || a.name.localeCompare(b.name),
     name: (a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }),
   }[state.sort];
+  if (state.q && (state.sort === "group" || state.sort === "popular")) {
+    const ranked = [...shown].sort((a, b) => score(b) - score(a) || (b.discount ?? -1) - (a.discount ?? -1));
+    list.innerHTML = `<section class="group"><h3 class="sechead">BEST MATCHES FOR "${esc(state.q.toUpperCase())}"</h3>${ranked.map(row).join("")}</section>`;
+    return;
+  }
   if (by) {
-    list.innerHTML = `<section class="group">${[...shown].sort(by).map(row).join("")}</section>`;
+    list.innerHTML = (state.sort === "popular" ? picks() : "") + `<section class="group">${[...shown].sort(by).map(row).join("")}</section>`;
     return;
   }
   // Grouped: category > subcategory in taxonomy order, unknown subcategory last as "More".
@@ -137,7 +195,7 @@ function renderList(shown) {
       if (g.length) html += `<section class="group"><h3 class="sechead">${esc(state.cat ? "" : `${cat.toUpperCase()} / `)}${esc(s.toUpperCase())} · ${g.length}</h3>${g.map(row).join("")}</section>`;
     }
   }
-  list.innerHTML = picks() + html;
+  list.innerHTML = html;
 }
 
 // --- URL hash <-> state -------------------------------------------------------
@@ -148,7 +206,7 @@ function writeHash() {
   if (state.sub) p.set("s", state.sub);
   if (state.platforms.size) p.set("p", [...state.platforms].join(","));
   if (state.flags.size) p.set("f", [...state.flags].join(","));
-  if (state.sort !== "group") p.set("sort", state.sort);
+  if (state.sort !== "popular") p.set("sort", state.sort);
   const h = p.toString();
   history.replaceState(null, "", h ? `#${h}` : location.pathname);
 }
@@ -162,11 +220,31 @@ function readHash() {
   state.sub = p.get("s") ?? "";
   state.platforms = new Set((p.get("p") ?? "").split(",").filter((x) => x in PLATFORM_LABEL));
   state.flags = new Set((p.get("f") ?? "").split(",").filter((x) => FLAGS.includes(x)));
-  state.sort = ["discount", "ends", "name"].includes(p.get("sort")) ? p.get("sort") : "group";
+  state.sort = ["group", "discount", "ends", "name"].includes(p.get("sort")) ? p.get("sort") : "popular";
   $("#q").value = p.get("q") ?? "";
   $("#sort").value = state.sort;
   document.querySelectorAll("[data-flag]").forEach((el) => (el.checked = state.flags.has(el.dataset.flag)));
   document.querySelectorAll("[data-platform]").forEach((el) => (el.checked = state.platforms.has(el.dataset.platform)));
+}
+
+// --- search suggestions ---------------------------------------------------------------
+// The six best name matches under the search box; Enter or click opens the deal's page.
+let sel = -1;
+function closeSuggest() {
+  $("#suggest").hidden = true;
+  $("#q").setAttribute("aria-expanded", "false");
+  sel = -1;
+}
+function suggest() {
+  if (!state.q) return closeSuggest();
+  const hits = DATA.deals.filter(passesFilters).sort((a, b) => score(b) - score(a));
+  if (!hits.length) return closeSuggest();
+  sel = -1;
+  $("#suggest").innerHTML =
+    hits.slice(0, 6).map((d) => `<a class="it" role="option" href="${d.category === ADULT ? esc(d.url) : `deal/${esc(d.id)}/`}">${logo(d)}<span class="nm">${esc(d.name)}<span>${esc(d.headline)}</span></span>${d.codes.length ? `<code>${esc(d.codes[0])}</code>` : ""}</a>`).join("") +
+    (hits.length > 6 ? `<button type="button" class="all" data-close>See all ${hits.length} results</button>` : "");
+  $("#suggest").hidden = false;
+  $("#q").setAttribute("aria-expanded", "true");
 }
 
 // --- events ---------------------------------------------------------------------
@@ -202,13 +280,29 @@ function bind() {
     debounce = setTimeout(() => {
       state.q = e.target.value.trim().toLowerCase();
       render();
+      suggest();
     }, 120);
   });
+  $("#q").addEventListener("keydown", (e) => {
+    const items = [...document.querySelectorAll("#suggest .it")];
+    if ($("#suggest").hidden || !items.length) return;
+    if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+      e.preventDefault();
+      sel = (sel + (e.key === "ArrowDown" ? 1 : -1) + items.length) % items.length;
+      items.forEach((it, i) => it.classList.toggle("on", i === sel));
+    } else if (e.key === "Enter") {
+      if (sel >= 0) location.href = items[sel].href;
+      closeSuggest();
+    }
+  });
+  $("#q").addEventListener("focus", suggest);
+  $("#q").addEventListener("blur", () => setTimeout(closeSuggest, 150));
   document.addEventListener("keydown", (e) => {
     if (e.key === "/" && document.activeElement !== $("#q")) {
       e.preventDefault();
       $("#q").focus();
     } else if (e.key === "Escape" && document.activeElement === $("#q")) {
+      closeSuggest();
       $("#q").value = "";
       state.q = "";
       render();
@@ -233,6 +327,10 @@ function bind() {
   $("#sort").addEventListener("change", (e) => {
     state.sort = e.target.value;
     render();
+  });
+  $("#suggest").addEventListener("mousedown", (e) => e.preventDefault()); // keep focus so blur doesn't close before the click
+  $("#suggest").addEventListener("click", (e) => {
+    if (e.target.closest("[data-close]")) closeSuggest();
   });
   $("#list").addEventListener("click", (e) => {
     const code = e.target.closest(".code");

@@ -2,11 +2,11 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/learning/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**243 live deals**, 92 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**242 live deals**, 92 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
 - [Online Course Platforms](#online-course-platforms) (55)
 - [Programming & Tech](#programming--tech) (39)
-- [Cybersecurity Certs & Training](#cybersecurity-certs--training) (73)
+- [Cybersecurity Certs & Training](#cybersecurity-certs--training) (72)
 - [Cloud & DevOps Certs](#cloud--devops-certs) (11)
 - [Languages](#languages) (25)
 - [Books & Ebooks](#books--ebooks) (32)
@@ -171,7 +171,6 @@
 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI security, DevSecOps, API and cloud-native security certifications with hands-on labs. | 15% off certifications, up to $600 off bundles |  | Dec 5 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/practicaldevsecops/) |
 | [ISC2](https://www.isc2.org/training/black-friday-cyber-week-sale) | Cybersecurity certification body offering courses and certificates. | 10% off courses and certificates, 20% for members |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/isc2/) |
 | [Oh My Hack 2026](https://eventory.cc/event/oh-my-hack-2026/tickets) | Cybersecurity conference in Poland. | 10% off conference tickets | `Kacper10S` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/ohmyhack2026/) |
-| [Alphasec](https://alphasec.pl/ironps-black) | PowerShell fundamentals training course for security work. | PowerShell fundamentals course, 738 → 553 PLN |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/alphasec/) |
 | [Antisyphon Training](https://www.antisyphontraining.com/events/category/pay-forward-what-you-can/list/) | Live security courses with pay-what-you-can pricing on some classes. | Pay what you can on select courses |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/antisyphontraining/) |
 | [Blue Cape Security](https://bluecapesecurity.com/training-tracks/) | Incident response training tracks with hands-on labs for security analysts. | $700 off IR training bundle, $2,197 → $1,497 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/bluecapesecurity/) |
 | [CompTIA Bundle](https://www.stacksocial.com/) | Bundle of 9 CompTIA exam prep courses. | $200–270 → $25–38 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/comptiabundle/) |

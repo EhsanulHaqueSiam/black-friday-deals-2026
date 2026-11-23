@@ -407,9 +407,11 @@ const notDeals = deals.filter(
   (d) => d.description?.startsWith("NOT A DEAL") || /^(tba|free|free to use|free, self-hosted)$|no storewide (sale|discount)/i.test(d.headline),
 );
 // Entries rejected by hand (low trust, wrong product): data/blocklist.json is a list of names.
+// Deals whose page is gone or whose domain no longer resolves (scripts/check-links.ts).
+const deadIds = new Set(Object.keys(existsSync("data/deadlinks.json") ? JSON.parse(readFileSync("data/deadlinks.json", "utf8")) : {}));
 const blocked = new Set(existsSync("data/blocklist.json") ? (JSON.parse(readFileSync("data/blocklist.json", "utf8")) as string[]).map((n) => n.toLowerCase()) : []);
 const live = deals
-  .filter((d) => !expired.includes(d) && !notDeals.includes(d) && !blocked.has(d.name.toLowerCase()))
+  .filter((d) => !expired.includes(d) && !notDeals.includes(d) && !blocked.has(d.name.toLowerCase()) && !deadIds.has(d.id))
   .sort((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }));
 
 // --- write data ----------------------------------------------------------------------

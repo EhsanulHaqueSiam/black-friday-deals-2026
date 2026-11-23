@@ -2,9 +2,9 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/hosting-cloud/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**125 live deals**, 44 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**124 live deals**, 44 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
-- [Domains](#domains) (21)
+- [Domains](#domains) (20)
 - [Web & WordPress Hosting](#web--wordpress-hosting) (44)
 - [PaaS & Serverless](#paas--serverless) (2)
 - [VPS & Cloud Servers](#vps--cloud-servers) (43)
@@ -35,7 +35,6 @@
 | [L53 .ggff.net domain](https://customer.l53.net/news/black-friday-special-offer-2026-get-a-free-domain-for-up-to-2-years) | Free .ggff.net domain registration from L53. | Free .ggff.net domain for up to 2 years | `kxu26bf8k2y` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/l53ggffnetdomain/) |
 | [Lionz.si premium domain](https://domains.atom.com/lpd/name/Lionz.si) | Premium Lionz.si domain name for sale. | Premium .si domain $850 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/lionzsipremiumdomain/) |
 | [NiceNIC](https://nicenic.com/news/Black-Friday-2026-Get-VIP-COM-at-12-99-Without-the-1-500-Upfront-Deposit-42655) | Domain registrar. | VIP .com $12.99, .net rebate up to $3/domain |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/nicenic/) |
-| [Rovivals.si premium domain](http://Rovivals.si/) | Premium .si domain name for sale. | Premium .si domain $900 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/rovivalssipremiumdomain/) |
 | [XYZ domains](https://gen.xyz/blog/blackfriday2026) | .xyz domain registry. | .xyz domains from $1.50 the first year |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/xyzdomains/) |
 
 ## Web & WordPress Hosting

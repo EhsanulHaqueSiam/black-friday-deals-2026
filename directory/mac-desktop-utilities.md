@@ -2,13 +2,13 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/mac-desktop-utilities/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**240 live deals**, 141 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**239 live deals**, 141 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
 - [Menu Bar & Dock](#menu-bar--dock) (53)
 - [Windows & Screens](#windows--screens) (39)
 - [Clipboard, Launchers & Keyboard](#clipboard-launchers--keyboard) (48)
 - [Files, Storage & System](#files-storage--system) (86)
-- [Browser Extensions](#browser-extensions) (14)
+- [Browser Extensions](#browser-extensions) (13)
 
 ## Menu Bar & Dock
 
@@ -273,4 +273,3 @@
 | [Pickode](https://pickode.com/?utm_source=github&utm_medium=community&utm_campaign=bf2026) | Browser extension that copies any website section as HTML, CSS, React, Tailwind or Vue. | 35% off Pro and Team, yearly and lifetime | `BF2026` | Nov 23 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/pickode/) |
 | [Bookmark Manager + Quick Search](https://devapt.com/bookmark-manager/) | Browser bookmark manager with spotlight-style search and organization tools. | 30% off lifetime license | `30BF2026` | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/bookmarkmanagerquicksearch/) |
 | [SimpleFill](https://simplefill.app) | Browser extension for text expansion, AI actions and form filling. | 25% off, $29 → $21.75 one-time |  | Dec 7 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/simplefill/) |
-| [Header Genie](https://www.headergenie.com) | Browser extension to view and edit HTTP headers. | **Soon.** 20% off Pro for the HTTP header extension |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/headergenie/) |

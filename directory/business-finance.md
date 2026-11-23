@@ -2,12 +2,12 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/business-finance/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**173 live deals**, 77 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**172 live deals**, 77 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
 - [Personal Finance & Investing](#personal-finance--investing) (49)
 - [Accounting & Invoicing](#accounting--invoicing) (17)
 - [Customer Support & Chat](#customer-support--chat) (27)
-- [Team & Operations](#team--operations) (41)
+- [Team & Operations](#team--operations) (40)
 - [Startup & Indie Tools](#startup--indie-tools) (24)
 - [Legal & Documents](#legal--documents) (15)
 
@@ -126,7 +126,6 @@
 | [Belvak](https://belvak.com/pricing) | All-in-one app for service companies: projects, clients, time, invoices and payroll. | 80% off first payment, $15 → $3 first month | `WEL202680` | Jan 31 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/belvak/) |
 | [iGMS](https://www.igms.com) | Vacation rental management software for hosts. | 80% off the first 3 months plus free setup |  | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/igms/) |
 | [OpenStays](https://openstays.org/pricing/) | Booking and property management software for hotels and homestays. | Up to 80% off annual plans in India |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/openstays/) |
-| [Restrory RMS](https://restrory.com/) | Restaurant management with POS, kitchen display and inventory. | Up to 80% off |  | Dec 7 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/restroryrms/) |
 | [Olqan](https://olqan.com/november-offer/) | Business management software for small teams. | Up to 74% off 12-month plans, 5 users $720 → $249 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/olqan/) |
 | [Agency Handy](https://www.agencyhandy.com/) | Client portal and project management for service agencies. | 70% off annual plans | `YEARLY70` | Dec 31 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/agencyhandy/) |
 | [BarcodeCraft](https://apps.apple.com/us/app/barcode-generator-barcodecraft/id6742451464) | Barcode generator for iPhone and iPad that exports EAN, Code 128, PDF417 and more as PNG. | 50% off lifetime, $9.99 → $4.99 |  | Dec 4 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/barcodecraft/) |

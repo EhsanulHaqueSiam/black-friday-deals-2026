@@ -17,8 +17,9 @@
   <a class="brand" href="./">BF<i>26</i> deals</a>
   <label class="search">
     <span class="sr">Search deals</span>
-    <input id="q" type="search" placeholder="Search deals, codes, brands" autocomplete="off" spellcheck="false">
+    <input id="q" type="search" role="combobox" aria-controls="suggest" aria-expanded="false" aria-autocomplete="list" placeholder="Search deals, codes, brands" autocomplete="off" spellcheck="false">
     <kbd>/</kbd>
+    <div id="suggest" class="suggest-dd" role="listbox" hidden></div>
   </label>
   <span id="stats" class="stats"></span>
   <a class="btn ghost suggest" href="https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml" target="_blank" rel="noopener">+ Suggest a deal</a>
@@ -47,9 +48,10 @@
       <span id="title" class="crumb"></span>
       <label class="sort">Sort
         <select id="sort">
-          <option value="group">By category</option>
+          <option value="popular">Popular</option>
           <option value="discount">Biggest discount</option>
           <option value="ends">Ending soon</option>
+          <option value="group">By category</option>
           <option value="name">Name</option>
         </select>
       </label>

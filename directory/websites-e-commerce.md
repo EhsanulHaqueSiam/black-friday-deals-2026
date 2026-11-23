@@ -2,10 +2,10 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/websites-e-commerce/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**203 live deals**, 74 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**202 live deals**, 73 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
 - [Website Builders & No-Code](#website-builders--no-code) (31)
-- [WordPress Themes & Plugins](#wordpress-themes--plugins) (125)
+- [WordPress Themes & Plugins](#wordpress-themes--plugins) (124)
 - [Forms & Surveys](#forms--surveys) (18)
 - [E-commerce & Payments](#e-commerce--payments) (29)
 
@@ -86,7 +86,6 @@
 | [BdThemes](https://bdthemes.com/deals/) | Elementor addons including Element Pack and Prime Slider. | Up to 50% off Elementor addons |  | Dec 5 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/bdthemes/) |
 | [Crocoblock](https://crocoblock.com/) | JetPlugins suite of dynamic content plugins for Elementor and Gutenberg. | 50% off lifetime at $499.50, up to 40% off bundles | `bfcroco2026` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/crocoblock/) |
 | [CyberChimps](https://cyberchimps.com/pricing/) | WordPress themes and plugins including the Responsive theme. | 50% off Responsive theme | `BFCM50` | Dec 5 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/cyberchimps/) |
-| [DotCamp](https://dotcamp.dev/) | Bundle of WordPress plugins for building and extending sites. | 50% off | `BF2026` | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/dotcamp/) |
 | [FlexOrder](https://wcordersync.com/pricing/) | Syncs WooCommerce orders with Google Sheets. | Up to 50% off |  | Dec 8 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/flexorder/) |
 | [FlexTable WordPress plugin](https://wppool.dev/offers/) | WordPress plugin that turns Google Sheets into responsive tables. | Up to 50% off, lifetime from $99 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/flextablewordpressplugin/) |
 | [HasThemes](https://hasthemes.com/wordpress-black-friday-cyber-monday-deals/) | WordPress themes and plugins for Elementor and WooCommerce. | Up to 50% off |  | Dec 5 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/hasthemes/) |

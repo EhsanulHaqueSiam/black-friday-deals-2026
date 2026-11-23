@@ -2736,24 +2736,6 @@
     "description": "PC water cooling parts."
   },
   {
-    "name": "Alphasec",
-    "url": "https://alphasec.pl/ironps-black",
-    "deal": "Szkolenie PowerShell żelazne podstawy - 553 PLN zamiast 738 PLN",
-    "codes": [],
-    "sources": [
-      "kacperszurek/blackfriday"
-    ],
-    "id": "alphasec",
-    "category": "Learning",
-    "subcategory": "Cybersecurity Certs & Training",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "one-time",
-    "description": "PowerShell fundamentals training course for security work.",
-    "headline": "PowerShell fundamentals course, 738 → 553 PLN"
-  },
-  {
     "name": "AltTextLab",
     "url": "https://www.alttextlab.com/black-friday?utm_source=github&utm_medium=deal_list&utm_campaign=bf2026",
     "deal": "40% OFF one-time credit packs (from $6 → $3.60) and the first year of Pro annual (from $48 → $28.80) with code BF2026 (until Dec 1, 2026)",
@@ -5809,28 +5791,6 @@
     "pricing": "physical",
     "description": "Marketplace for refurbished phones, laptops and other tech.",
     "headline": "Up to 70% off refurbished tech"
-  },
-  {
-    "name": "BacklinkAgent",
-    "url": "https://backlinkagent.com/",
-    "deal": "50% OFF annual (Nov 20 – Dec 11)",
-    "codes": [],
-    "ends": "2026-12-11",
-    "discount": 50,
-    "sources": [
-      "Shashankt255/black-friday-deals-2026",
-      "KevinKaul/black-friday-deals-2026",
-      "thuongtin/awesome-bfcm-2026"
-    ],
-    "id": "backlinkagent",
-    "category": "Marketing & Sales",
-    "subcategory": "SEO",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "subscription",
-    "description": "SEO backlink building tool with a developer API.",
-    "headline": "50% off annual plans"
   },
   {
     "name": "BacklinkBuilding.Agency",
@@ -14863,30 +14823,6 @@
     "headline": "$49 → $29 one-time"
   },
   {
-    "name": "DotCamp",
-    "url": "https://dotcamp.dev/",
-    "deal": "50% OFF, code BF2026 (Nov 20 – Dec 2)",
-    "codes": [
-      "BF2026"
-    ],
-    "ends": "2026-12-02",
-    "discount": 50,
-    "sources": [
-      "Shashankt255/black-friday-deals-2026",
-      "KevinKaul/black-friday-deals-2026",
-      "thuongtin/awesome-bfcm-2026"
-    ],
-    "id": "dotcamp",
-    "category": "Websites & E-commerce",
-    "subcategory": "WordPress Themes & Plugins",
-    "platforms": [
-      "wordpress"
-    ],
-    "pricing": "subscription",
-    "description": "Bundle of WordPress plugins for building and extending sites.",
-    "headline": "50% off"
-  },
-  {
     "name": "Dotstore",
     "url": "https://x.com/thedotstore",
     "deal": "60% off premium plugins with code BFCM2026, ends Dec 5",
@@ -21893,26 +21829,6 @@
     "description": "High-resolution HDRI sky and environment maps."
   },
   {
-    "name": "Header Genie",
-    "url": "https://www.headergenie.com",
-    "deal": "20% off Header Genie PRO starting Black Friday",
-    "codes": [],
-    "discount": 20,
-    "upcoming": true,
-    "sources": [
-      "https://x.com/HeaderGenie/status/2124831247121645787"
-    ],
-    "headline": "20% off Pro for the HTTP header extension",
-    "id": "headergenie",
-    "category": "Mac & Desktop Utilities",
-    "subcategory": "Browser Extensions",
-    "platforms": [
-      "browser-extension"
-    ],
-    "pricing": "subscription",
-    "description": "Browser extension to view and edit HTTP headers."
-  },
-  {
     "name": "Headspace",
     "url": "https://www.headspace.com/",
     "deal": "50% OFF first year (~$34.99), Nov 12 – Dec 4",
@@ -26709,24 +26625,6 @@
     "description": "Product support hub with knowledge base, AI widget and roadmap."
   },
   {
-    "name": "KNOXSS",
-    "url": "https://knoxss.me/?page_id=1974",
-    "deal": "automatyczne wykrywanie XSS - roczny plan Pro $75 zamiast $150",
-    "codes": [],
-    "sources": [
-      "kacperszurek/blackfriday"
-    ],
-    "id": "knoxss",
-    "category": "Security & Privacy",
-    "subcategory": "Antivirus & Security Suites",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "subscription",
-    "description": "Automated XSS vulnerability scanner.",
-    "headline": "Pro yearly plan $150 → $75"
-  },
-  {
     "name": "Koala AI",
     "url": "https://koala.sh/",
     "deal": "40% off annual plans · Expires: 2026-12-02 · AI SEO content writer, 60+ SEO tools via MCP, Google Search Console and Analytics; lowest pricing of the year; ends Dec 2",
@@ -27667,29 +27565,6 @@
     ],
     "pricing": "physical",
     "description": "Premium rechargeable wand massagers."
-  },
-  {
-    "name": "LeadConnect",
-    "url": "https://leadconnect.io/blog/black-friday-saas-deals/",
-    "deal": "40% off annual plans. Nov 24 to Dec 5",
-    "codes": [
-      "LCBF26"
-    ],
-    "ends": "2026-12-05",
-    "discount": 40,
-    "upcoming": true,
-    "sources": [
-      "https://www.engagebay.com/blog/black-friday-saas-deals/"
-    ],
-    "headline": "40% off annual plans",
-    "id": "leadconnect",
-    "category": "Marketing & Sales",
-    "subcategory": "Ads, Leads & Outreach",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "subscription",
-    "description": "LinkedIn outreach automation."
   },
   {
     "name": "LeadCRM",
@@ -42247,26 +42122,6 @@
     "description": "WordPress support chatbot plugin."
   },
   {
-    "name": "Restrory RMS",
-    "url": "https://restrory.com/",
-    "deal": "Up to 80% off the restaurant management system (POS, kitchen display, inventory, staff scheduling). Nov 6 to Dec 7",
-    "codes": [],
-    "ends": "2026-12-07",
-    "discount": 80,
-    "sources": [
-      "https://www.engagebay.com/blog/black-friday-saas-deals/"
-    ],
-    "headline": "Up to 80% off",
-    "id": "restroryrms",
-    "category": "Business & Finance",
-    "subcategory": "Team & Operations",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "subscription",
-    "description": "Restaurant management with POS, kitchen display and inventory."
-  },
-  {
     "name": "ReUI",
     "url": "https://reui.io/pricing",
     "deal": "30% off · React UI component library. Discount stated by the maker in the tweet.",
@@ -42994,25 +42849,6 @@
     "headline": "Lifetime license $29 → $25"
   },
   {
-    "name": "Rovivals.si premium domain",
-    "url": "http://Rovivals.si/",
-    "deal": "Black Friday price · Price: $900 · Expires: 2026-11-30 · Premium .SI domain via Atom; DM to acquire or make an offer; bundle deals available",
-    "codes": [],
-    "ends": "2026-11-30",
-    "sources": [
-      "thuongtin/awesome-bfcm-2026"
-    ],
-    "id": "rovivalssipremiumdomain",
-    "category": "Hosting & Cloud",
-    "subcategory": "Domains",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "one-time",
-    "description": "Premium .si domain name for sale.",
-    "headline": "Premium .si domain $900"
-  },
-  {
     "name": "Row.so",
     "url": "https://row.so/pricing?ref=Awesome-Black-Friday-Cyber-Monday",
     "deal": "30% OFF all plans with code BF2026: Yearly Launch $288 $201.60/yr, Growth $468 $327.60/yr, Scale $948 $663.60/yr; Lifetime Growth $599 $419.30, Scale $1,099 $769.30 (until Dec 2, 2026)",
@@ -43660,29 +43496,6 @@
     "pricing": "subscription",
     "description": "Managed cloud VPS and web hosting.",
     "headline": "Up to 71% off"
-  },
-  {
-    "name": "Scalelist",
-    "url": "https://scalelist.com/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026",
-    "deal": "40% OFF annual plans · 12 months for the price of 7 · code BF40 · Nov 9, 2026 - Dec 2, 2026",
-    "codes": [
-      "BF40"
-    ],
-    "ends": "2026-12-02",
-    "discount": 40,
-    "sources": [
-      "twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals",
-      "thuongtin/awesome-bfcm-2026"
-    ],
-    "id": "scalelist",
-    "category": "Marketing & Sales",
-    "subcategory": "Ads, Leads & Outreach",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "subscription",
-    "description": "Finds email addresses and mobile numbers of sales prospects.",
-    "headline": "40% off annual plans, 12 months for the price of 7"
   },
   {
     "name": "Scalenut",
@@ -49556,27 +49369,6 @@
     ],
     "pricing": "one-time",
     "description": "Virtual tabletop roleplaying packs for Foundry VTT."
-  },
-  {
-    "name": "Studio81",
-    "url": "https://studioneightone.com/",
-    "deal": "50% off templates with code BLACKFRIDAY50",
-    "codes": [
-      "BLACKFRIDAY50"
-    ],
-    "discount": 50,
-    "sources": [
-      "https://x.com/studio_eightone/status/2123717861646434572"
-    ],
-    "headline": "50% off Framer and Webflow templates",
-    "id": "studio81",
-    "category": "Design",
-    "subcategory": "UI Kits & Templates",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "one-time",
-    "description": "Premium Framer and Webflow templates."
   },
   {
     "name": "SUAPP AI",

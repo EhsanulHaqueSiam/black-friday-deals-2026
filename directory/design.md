@@ -2,9 +2,9 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/design/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**150 live deals**, 57 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**149 live deals**, 56 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
-- [UI Kits & Templates](#ui-kits--templates) (48)
+- [UI Kits & Templates](#ui-kits--templates) (47)
 - [Icons, Fonts & Illustrations](#icons-fonts--illustrations) (8)
 - [Design & Prototyping Tools](#design--prototyping-tools) (49)
 - [Mockups & Screenshots](#mockups--screenshots) (6)
@@ -25,7 +25,6 @@
 | [Insert Frame](https://insertframe.io/blackfriday) | Framer templates and components. | 25% off products, bundles up to 50% off |  | Nov 27 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/insertframe/) |
 | [NgBracket](https://x.com/duncanfaulkner) | Angular component packs: data tables, scheduler, form builder. | 50% off Angular components, single packs £29.50 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/ngbracket/) |
 | [Ralcon Studio](https://x.com/RalconStudio) | Website sections and templates for building sites with AI. | 50% off everything |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/ralconstudio/) |
-| [Studio81](https://studioneightone.com/) | Premium Framer and Webflow templates. | 50% off Framer and Webflow templates | `BLACKFRIDAY50` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/studio81/) |
 | [TailGrids](https://pimjo.com/black-friday-cyber-monday-deal) | 600+ Tailwind CSS components, blocks and templates for HTML, React, Vue and Figma. | 50% off All Access plans |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/tailgrids/) |
 | [TemplateMonster](http://www.templatemonster.com/sale/) | Marketplace for website templates, themes and design assets. | Up to 50% off |  | Dec 5 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/templatemonster/) |
 | [Buildkit for Astro](https://astrobuildkit.com) | Astro design system with blocks and animated visuals for marketing sites. | Up to 47% off |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/buildkitforastro/) |

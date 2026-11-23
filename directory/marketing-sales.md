@@ -2,12 +2,12 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/marketing-sales/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**248 live deals**, 109 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**245 live deals**, 107 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
-- [SEO](#seo) (64)
+- [SEO](#seo) (63)
 - [Email Marketing & Newsletters](#email-marketing--newsletters) (36)
 - [Social Media](#social-media) (46)
-- [Ads, Leads & Outreach](#ads-leads--outreach) (64)
+- [Ads, Leads & Outreach](#ads-leads--outreach) (62)
 - [CRM & Sales](#crm--sales) (15)
 - [Web Analytics](#web-analytics) (23)
 
@@ -25,7 +25,6 @@
 | [Scalenut](https://www.scalenut.com/) | AI platform for researching and writing SEO content. | 65% off annual plans |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/scalenut/) |
 | [AEO Audit Pro](https://x.com/aeoauditpro) | Audits how sites appear in AI answer engines. | 50% off any subscription, Academy free | `BFRIDAY50` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/aeoauditpro/) |
 | [Appfigures](https://appfigures.com/platform/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=tony) | App store optimization and intelligence: keywords, competitors, download and revenue estimates. | 50% off monthly or annual plans for 12 months | `BF2650` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/appfigures/) |
-| [BacklinkAgent](https://backlinkagent.com/) | SEO backlink building tool with a developer API. | 50% off annual plans |  | Dec 11 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/backlinkagent/) |
 | [BacklinkCRM](https://backlinkcrm.io/pricing/) | Tracks and manages backlinks and link-building outreach. | 50% off annual plans | `BFCM2026` | Dec 11 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/backlinkcrm/) |
 | [BoringLaunch](https://www.boringlaunch.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Done-for-you submissions to 50 to 100+ startup directories for backlinks. | 50% off listings, Basic $299 → $149 | `BASIC50` | Dec 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/boringlaunch/) |
 | [CiteWing](https://citewing.com) | AI agent for backlink outreach and directory submissions. | 36% off Pro, 50% off directory submission |  | Dec 31 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/citewing/) |
@@ -210,13 +209,11 @@
 | [Groupboss](https://groupboss.io/cyber-monday-deal) | Collects leads from Facebook group membership answers. | 40% off first year of yearly, 30% off monthly | `GBCM40` `GBCM30` | Dec 20 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/groupboss/) |
 | [HeyStream](https://heystream.com/pricing?coupon=BF2026) | Branded live webinars and broadcasts that capture audience signals for follow-up. | 40% off first year of annual plans | `BF2026` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/heystream/) |
 | [HeySummit](https://heysummit.com/pricing?coupon=V3UlY3Iz&utm_source=awesome-bfcm&utm_medium=referral&utm_campaign=black_friday_2026) | Platform for hosting online summits and workshops with ticket sales. | 40% off first year, annual Starter $390 → $234 | `V3UlY3Iz` | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/heysummit/) |
-| [LeadConnect](https://leadconnect.io/blog/black-friday-saas-deals/) | LinkedIn outreach automation. | **Soon.** 40% off annual plans | `LCBF26` | Dec 5 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/leadconnect/) |
 | [LeadMerlin](https://leadmerlin.com/black-friday/?utm_source=awesome-bfcm) | Local business lead data from Google Maps with owner names, verified emails and tech stack. | 40% off first payment, Starter $348 → $208.80/yr | `BF2026` | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/leadmerlin/) |
 | [LinkedFusion](https://www.linkedfusion.io/blogs/black-friday-saas-deals/) | LinkedIn outreach automation. | **Soon.** 40% off annual plans | `LFBF25` | Dec 5 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/linkedfusion/) |
 | [Lusha](https://partnerstack.lusha.com/pkg6s1a4597a-omvn4r) | B2B contact database and sales intelligence. | 35% off annual, up to 40% off Pro annual |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/lusha/) |
 | [Reply.io](https://reply.io/) | Sales outreach platform with email sequences and an AI SDR. | 40% off, plus 25% off AI SDR annual plans | `BF26REPLY` `BF26JASON` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/reply/) |
 | [Saleshandy](https://www.saleshandy.com/) | Cold email outreach with sequences and a lead finder. | Up to 40% off yearly plans | `BFCM26` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/saleshandy/) |
-| [Scalelist](https://scalelist.com/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Finds email addresses and mobile numbers of sales prospects. | 40% off annual plans, 12 months for the price of 7 | `BF40` | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/scalelist/) |
 | [SendCopy](https://x.com/sendcopyai) | LinkedIn outreach across multiple accounts from one workflow. | 40% off LinkedIn outreach software | `SCBFCM26` | Dec 5 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/sendcopy/) |
 | [Verploy](https://verploy.com/founding/) | Software platform for marketing agencies. | **Soon.** 40% off for life for first 30 agencies |  | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/verploy/) |
 | [Salesforge](https://www.salesforge.ai) | AI cold email outreach platform. | 39% off annual Pro and Growth plans |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/salesforge/) |

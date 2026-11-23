@@ -2,11 +2,11 @@
 
 [All categories](../README.md) · [Browse on the website](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/c/security-privacy/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**99 live deals**, 25 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**98 live deals**, 25 with promo codes. Biggest discounts first. Last built 2026-11-23.
 
 - [VPN](#vpn) (25)
 - [Password Managers](#password-managers) (8)
-- [Antivirus & Security Suites](#antivirus--security-suites) (32)
+- [Antivirus & Security Suites](#antivirus--security-suites) (31)
 - [Privacy & Data Removal](#privacy--data-removal) (21)
 - [Secure Email & Storage](#secure-email--storage) (13)
 
@@ -87,7 +87,6 @@
 | [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | Exploit development and penetration testing framework with 46,000+ exploits. | 20% off plus lifetime upgrade, €1,200 → €960 | `LIFETIME` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/exploitpack/) |
 | [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | Kernel exploit and C2 toolkit for penetration testers. | 20% off plus lifetime upgrade, €1,200 → €960 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/kernelpack/) |
 | [Alias Robotics CSI PRO](https://x.com/AliasRobotics) | Cybersecurity AI for security testing. | Monthly 350 → 199 EUR first month | `BLACKFRIDAY` `BLACKYEAR` |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/aliasroboticscsipro/) |
-| [KNOXSS](https://knoxss.me/?page_id=1974) | Automated XSS vulnerability scanner. | Pro yearly plan $150 → $75 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/knoxss/) |
 | [Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount) | Offensive security suite bundling exploitation, C2 and kernel tools with AI. | Exploit, Control and Kernel Pack bundle €4,000 |  | Nov 30 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/ultimatepackai/) |
 
 ## Privacy & Data Removal
