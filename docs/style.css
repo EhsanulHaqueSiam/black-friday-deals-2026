@@ -384,3 +384,12 @@ body { letter-spacing: -0.005em; }
 .faq p { color: #cfcfcf; font-size: 13.5px; margin-top: 6px; max-width: 75ch; }
 .faq a, .catpage .intro a { color: var(--fg); }
 @media (max-width: 760px) { .faq { padding: 18px 16px 22px; } }
+
+/* Share */
+.sharebox { margin: 4px 0 16px; }
+.lbl2 { display: block; font: 500 11px var(--mono); color: var(--faint); letter-spacing: .02em; margin-bottom: 8px; text-transform: uppercase; }
+.shares { display: flex; flex-wrap: wrap; gap: 6px; }
+.shares .btn { height: 32px; font-size: 12.5px; padding: 0 11px; }
+.shares [data-share] { background: var(--fg); color: #000; border-color: var(--fg); }
+.dshare { display: flex; gap: 6px; }
+.dshare .btn { height: 30px; font-size: 12.5px; }

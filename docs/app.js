@@ -177,6 +177,7 @@ function details(d) {
     ${d.codes.length > 1 ? `<div class="codes">${d.codes.map(codeBtn).join("")}</div>` : ""}
     <p class="meta">${meta.join(" · ")}</p>
     <p class="meta">Sources: ${src.join(", ")}</p>
+    ${d.category === ADULT ? "" : `<p class="dshare"><button class="btn ghost" data-share="${esc(d.id)}">Share</button><a class="btn ghost" href="deal/${esc(d.id)}/">Open deal page</a></p>`}
   </div>`;
 }
 
@@ -424,6 +425,22 @@ function toast(msg) {
   toastTimer = setTimeout(() => t.classList.remove("on"), 1400);
 }
 
+// Shares the deal's page on this site (not the vendor link): share sheet on phones, copy elsewhere.
+async function shareDeal(d) {
+  const url = new URL(`deal/${d.id}/`, location.href.split("#")[0].split("?")[0]).href;
+  const text = `${d.name}: ${d.headline}${d.codes.length ? `, code ${d.codes[0]}` : ""}`;
+  if (navigator.share) {
+    try {
+      await navigator.share({ title: `${d.name} Black Friday deal`, text, url });
+    } catch {}
+    return;
+  }
+  try {
+    await navigator.clipboard.writeText(url);
+  } catch {}
+  toast("Link copied");
+}
+
 async function copy(btn) {
   const code = btn.dataset.code;
   try {
@@ -534,6 +551,8 @@ function bind() {
     }
     const arrow = e.target.closest("[data-scroll]");
     if (arrow) return arrow.closest("section").querySelector(".pg").scrollBy({ left: Number(arrow.dataset.scroll) * 480, behavior: "smooth" });
+    const share = e.target.closest("[data-share]");
+    if (share) return shareDeal(DATA.deals.find((d) => d.id === share.dataset.share));
     const code = e.target.closest(".code");
     if (code) return copy(code);
     if (e.target.closest("a")) return;

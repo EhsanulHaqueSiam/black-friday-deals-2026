@@ -3,6 +3,42 @@
 (() => {
   const toast = document.getElementById("toast");
   let timer;
+  const say = (msg) => {
+    toast.textContent = msg;
+    toast.classList.add("on");
+    clearTimeout(timer);
+    timer = setTimeout(() => toast.classList.remove("on"), 1400);
+  };
+  const copyText = async (text) => {
+    try {
+      await navigator.clipboard.writeText(text);
+    } catch {
+      const ta = Object.assign(document.createElement("textarea"), { value: text });
+      document.body.append(ta);
+      ta.select();
+      document.execCommand("copy");
+      ta.remove();
+    }
+  };
+  // Share: the phone's share sheet when there is one, otherwise copy the deal page link.
+  document.addEventListener("click", async (e) => {
+    const share = e.target.closest("[data-share]");
+    const link = e.target.closest("[data-copylink]");
+    if (share) {
+      const { url, text } = share.dataset;
+      if (navigator.share) {
+        try {
+          await navigator.share({ title: document.title, text, url });
+        } catch {}
+      } else {
+        await copyText(url);
+        say("Link copied");
+      }
+    } else if (link) {
+      await copyText(link.dataset.copylink);
+      say("Link copied");
+    }
+  });
   document.addEventListener("click", async (e) => {
     const btn = e.target.closest(".code");
     if (!btn) return;

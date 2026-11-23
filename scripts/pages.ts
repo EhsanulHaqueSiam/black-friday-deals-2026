@@ -116,6 +116,27 @@ function row(d: PageDeal) {
   </article>`;
 }
 
+// Share links always point at this site's deal page; visitors then click "Get deal".
+function shareBox(d: PageDeal) {
+  const url = SITE + dealPath(d).slice(BASE.length);
+  const text = `${d.name}: ${d.headline}${d.codes.length ? `, code ${d.codes[0]}` : ""}`;
+  const u = encodeURIComponent(url), t = encodeURIComponent(text);
+  const nets: [string, string][] = [
+    ["X", `https://x.com/intent/post?text=${t}&url=${u}`],
+    ["WhatsApp", `https://wa.me/?text=${encodeURIComponent(`${text} ${url}`)}`],
+    ["Telegram", `https://t.me/share/url?url=${u}&text=${t}`],
+    ["Reddit", `https://www.reddit.com/submit?url=${u}&title=${t}`],
+    ["LinkedIn", `https://www.linkedin.com/sharing/share-offsite/?url=${u}`],
+    ["Facebook", `https://www.facebook.com/sharer/sharer.php?u=${u}`],
+    ["Email", `mailto:?subject=${encodeURIComponent(`Black Friday deal: ${d.name}`)}&body=${encodeURIComponent(`${text}\n${url}`)}`],
+  ];
+  return `<div class="sharebox"><span class="lbl2">Share this deal</span><div class="shares">
+    <button class="btn ghost" data-share data-url="${esc(url)}" data-text="${esc(text)}">Share</button>
+    <button class="btn ghost" data-copylink="${esc(url)}">Copy link</button>
+    ${nets.map(([n, href]) => `<a class="btn ghost net" href="${esc(href)}" target="_blank" rel="noopener">${n}</a>`).join("")}
+  </div></div>`;
+}
+
 function dealPage(d: PageDeal, related: PageDeal[]) {
   const crumbs = [`<a href="${BASE}">All deals</a>`, `<a href="${catPath(d.category)}">${esc(d.category)}</a>`];
   if (d.subcategory) crumbs.push(`<a href="${catPath(d.category, d.subcategory)}">${esc(d.subcategory)}</a>`);
@@ -133,6 +154,7 @@ function dealPage(d: PageDeal, related: PageDeal[]) {
     <div class="acts">${d.codes.length ? codeBtn(d.codes[0]) : `<span class="nocode btn">No code needed</span>`}${goBtn(d, `Get deal on ${host(d.url) || "site"}`)}</div>
     ${d.codes.length > 1 ? `<details class="more-codes"><summary>${d.codes.length - 1} more code${d.codes.length > 2 ? "s" : ""}</summary><div class="codes">${d.codes.slice(1).map((c) => codeBtn(c)).join("")}</div></details>` : ""}
   </section>
+  ${shareBox(d)}
   ${facts.length ? `<p class="facts">${facts.map((f) => `<span>${esc(f)}</span>`).join("")}</p>` : ""}
   <h2 class="lbl">FULL TERMS</h2>
   <p class="terms">${esc(d.deal)}</p>
