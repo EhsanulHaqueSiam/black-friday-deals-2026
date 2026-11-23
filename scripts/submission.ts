@@ -65,6 +65,7 @@ if (/^https:\/\//.test(url)) {
   try {
     const r = await fetch(url, { redirect: "follow", headers: { "user-agent": "Mozilla/5.0 (deal directory link check)" }, signal: AbortSignal.timeout(15000) });
     if (r.status === 404 || r.status === 410) problems.push(`Offer URL returns ${r.status}.`);
+    else if (r.status >= 400) notes.push(`Offer URL answered ${r.status} to the bot (often a bot wall); a maintainer will open it.`);
     else ok.push(`Link works (${r.status})`);
   } catch {
     notes.push("Couldn't reach the offer URL from GitHub's servers; a maintainer will check it.");
