@@ -30,6 +30,14 @@
     const ph = Object.assign(document.createElement("span"), { className: `${img.className} ph`, textContent: (img.dataset.initial || "?").toUpperCase() });
     img.replaceWith(ph);
   }, true);
+  // Remember opened deals in this browser only, for the home page's "For you" suggestions.
+  const opened = document.querySelector("[data-deal]")?.dataset.deal;
+  if (opened) {
+    try {
+      const seen = JSON.parse(localStorage.getItem("bf26.viewed") ?? "[]");
+      localStorage.setItem("bf26.viewed", JSON.stringify([opened, ...seen.filter((x) => x !== opened)].slice(0, 30)));
+    } catch {}
+  }
   // The search box goes to the home page, which reads ?q= into its filters.
   const q = document.querySelector(".search input");
   document.addEventListener("keydown", (e) => {

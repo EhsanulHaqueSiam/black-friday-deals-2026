@@ -43,6 +43,9 @@ const PLATFORM: Record<string, string> = { web: "Web", mac: "Mac", windows: "Win
 export const dealPath = (d: PageDeal) => `${BASE}deal/${d.id}/`;
 const catPath = (c: string, s?: string) => `${BASE}c/${slug(c)}/${s ? `${slug(s)}/` : ""}`;
 
+// Popularity GitHub Pages can show: how many independent community lists carry the deal.
+const lists = (d: PageDeal) => d.sources.filter((s) => !s.startsWith("http")).length;
+const popular = (a: PageDeal, b: PageDeal) => lists(b) - lists(a) || (b.discount ?? -1) - (a.discount ?? -1) || a.name.localeCompare(b.name);
 const logo = (d: PageDeal, cls = "logo") =>
   `<img class="${cls}" src="https://icons.duckduckgo.com/ip3/${esc(host(d.url))}.ico" alt="" loading="lazy" width="28" height="28" data-initial="${esc(d.name[0] ?? "?")}">`;
 const codeBtn = (c: string, label = "Copy") => `<button class="btn code" data-code="${esc(c)}" title="Copy ${esc(c)}">${esc(c)}<i>${esc(label)}</i></button>`;
@@ -63,6 +66,9 @@ ${o.noindex ? '<meta name="robots" content="noindex">' : ""}
 <meta property="og:type" content="website">
 <meta name="theme-color" content="#000000">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23000'/><text x='16' y='22' font-family='Arial' font-weight='700' font-size='15' text-anchor='middle' fill='%23ff6a2b'>%25</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400..700&family=Geist+Mono:wght@400..600&display=swap">
 <link rel="stylesheet" href="${BASE}style.css">
 </head>
 <body class="page">
@@ -103,7 +109,7 @@ function dealPage(d: PageDeal, related: PageDeal[]) {
   const update = `${REPO}/issues/new?template=deal.yml&title=${encodeURIComponent(`Update: ${d.name}`)}`;
   const badge = `<a href="${SITE}deal/${d.id}/"><img src="${SITE}badge.svg" alt="Listed on BF26 deals" width="168" height="28"></a>`;
   const title = `${d.name} Black Friday 2026: ${d.headline}`;
-  const body = `<main class="dealpage">
+  const body = `<main class="dealpage" data-deal="${esc(d.id)}">
   <nav class="crumb">${crumbs.join(" / ")}</nav>
   <div class="dh">${logo(d, "logo lg")}<div><h1>${esc(d.name)}</h1>${d.description ? `<p>${esc(d.description)}</p>` : ""}</div></div>
   <section class="offer">
@@ -129,13 +135,17 @@ function categoryPage(c: Category, s: string | undefined, ds: PageDeal[], all: P
   const name = s ?? c;
   const crumbs = [`<a href="${BASE}">All deals</a>`, s ? `<a href="${catPath(c)}">${esc(c)}</a>` : ""].filter(Boolean).join(" / ");
   const codes = ds.filter((d) => d.codes.length).length;
-  const sorted = [...ds].sort((a, b) => (b.discount ?? -1) - (a.discount ?? -1) || a.name.localeCompare(b.name));
+  const sorted = [...ds].sort(popular);
+  const top = sorted.length >= 4 ? sorted.slice(0, 3) : [];
   const body = `<main class="catpage">
   <nav class="crumb">${crumbs}</nav>
   <h1>${esc(name)} Black Friday deals</h1>
-  <p class="intro">${ds.length} live Black Friday and Cyber Monday 2026 offers${s ? ` in ${esc(c)}` : ""}, ${codes} with promo codes. Biggest discounts first.</p>
+  <p class="intro">${ds.length} live Black Friday and Cyber Monday 2026 offers${s ? ` in ${esc(c)}` : ""}, ${codes} with promo codes. Most popular first.</p>
   <nav class="subs"><a href="${catPath(c)}" class="${s ? "" : "on"}">All ${inCat.length}</a>${subs.map(([x, n]) => `<a href="${catPath(c, x)}" class="${x === s ? "on" : ""}">${esc(x)} ${n}</a>`).join("")}</nav>
-  <section class="group">${sorted.map(row).join("")}</section>
+  ${top.length ? `<section class="toppicks"><h2 class="lbl">TOP PICKS IN ${esc(name.toUpperCase())}</h2><div class="tp">${top
+    .map((d, i) => `<div class="tc"><span class="rank">#${i + 1}</span><a class="tn" href="${dealPath(d)}">${logo(d)}<b>${esc(d.name)}</b></a>${d.discount ? `<span class="big">${d.discount}% off</span>` : ""}<p>${esc(d.headline)}</p><div class="tact">${d.codes.length ? codeBtn(d.codes[0]) : ""}${goBtn(d)}</div></div>`)
+    .join("")}</div></section>` : ""}
+  <section class="group"><h2 class="lbl">ALL ${ds.length} DEALS</h2>${sorted.map(row).join("")}</section>
 </main>`;
   return shell({ title: `${name} Black Friday & Cyber Monday 2026 deals (${ds.length})`, description: `${ds.length} live ${name} Black Friday 2026 deals, ${codes} with promo codes.`, path: catPath(c, s), body, noindex: c === ADULT });
 }
@@ -148,7 +158,7 @@ export function renderSite(deals: PageDeal[], builtAt: string) {
     writeFileSync(file, html);
   };
   for (const d of deals) {
-    const related = deals.filter((x) => x.id !== d.id && x.category === d.category && x.subcategory === d.subcategory).sort((a, b) => (b.discount ?? -1) - (a.discount ?? -1)).slice(0, 6);
+    const related = deals.filter((x) => x.id !== d.id && x.category === d.category && x.subcategory === d.subcategory).sort(popular).slice(0, 6);
     write(dealPath(d), dealPage(d, related));
   }
   const pages: string[] = [BASE];

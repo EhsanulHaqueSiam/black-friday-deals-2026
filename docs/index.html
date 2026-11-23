@@ -10,6 +10,9 @@
 <meta property="og:title" content="Black Friday 2026 Deals, All in One List">
 <meta property="og:description" content="Every Black Friday and Cyber Monday 2026 deal in one searchable directory, with promo codes.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23000'/><text x='16' y='22' font-family='Arial' font-weight='700' font-size='15' text-anchor='middle' fill='%23ff6a2b'>%25</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400..700&family=Geist+Mono:wght@400..600&display=swap">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -21,6 +24,7 @@
     <kbd>/</kbd>
     <div id="suggest" class="suggest-dd" role="listbox" hidden></div>
   </label>
+  <span id="countdown" class="countdown" hidden></span>
   <span id="stats" class="stats"></span>
   <a class="btn ghost suggest" href="https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml" target="_blank" rel="noopener">+ Suggest a deal</a>
   <button id="toggle" class="toggle" type="button" aria-expanded="false" aria-controls="side">Filters</button>
@@ -56,6 +60,7 @@
         </select>
       </label>
     </div>
+    <nav id="chips" class="chips" aria-label="Quick finds"></nav>
     <div id="list" class="list" aria-live="polite"><p class="empty">Loading deals...</p></div>
   </main>
 </div>
