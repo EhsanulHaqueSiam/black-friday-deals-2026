@@ -33,7 +33,7 @@ type Deal = {
 };
 // Tags from data/enrich/*.json (or given inline by a web-research entry).
 type Tags = { category: string; subcategory: string; platforms: string[]; pricing: string; description: string };
-type Raw = Omit<Deal, "id" | "category" | "platforms" | "headline"> & { tags?: Tags; manual?: boolean };
+type Raw = Omit<Deal, "id" | "category" | "platforms" | "headline"> & { tags?: Tags; manual?: boolean; headline?: string };
 
 // Every 2026 Black Friday deal list on GitHub with parseable deals (found with `gh search repos`).
 // Freshest and most code-rich first: on duplicates the earlier one wins ties. Append new lists at
@@ -316,14 +316,14 @@ for (const [repo, kind] of SOURCES) {
 
 // Deals found by web research. Shape: { name, url, category, deal, codes, ends?, upcoming?, source }.
 type Extra = { name: string; url: string; category: string; deal: string; codes?: string[]; ends?: string; upcoming?: boolean; source: string }
-  & Partial<Pick<Tags, "subcategory" | "platforms" | "pricing" | "description">>;
+  & Partial<Pick<Tags, "subcategory" | "platforms" | "pricing" | "description">> & { headline?: string };
 // data/extra.json is checked by hand, so it loads first and wins ties against agent research.
 const extraFiles = readdirSync("data").filter((f) => /^extra.*\.json$/.test(f)).sort((a, b) => +(b === "extra.json") - +(a === "extra.json"));
 for (const f of extraFiles) {
   for (const e of JSON.parse(readFileSync(`data/${f}`, "utf8")) as Extra[]) {
     const d = finish(e.name, e.url, e.category, e.deal, e.source, undefined, e.upcoming);
     const tags = e.subcategory ? { category: e.category, subcategory: e.subcategory, platforms: e.platforms ?? [], pricing: e.pricing ?? "", description: e.description ?? "" } : undefined;
-    if (d) raws.push({ ...d, codes: e.codes?.length ? e.codes : d.codes, ends: e.ends ?? d.ends, tags, manual: f === "extra.json" || undefined });
+    if (d) raws.push({ ...d, codes: e.codes?.length ? e.codes : d.codes, ends: e.ends ?? d.ends, tags, manual: f === "extra.json" || undefined, headline: e.headline });
   }
 }
 
@@ -393,9 +393,9 @@ const deals: Deal[] = merged.map((r) => {
     platforms: (t?.platforms ?? []).filter((p): p is Platform => (PLATFORMS as readonly string[]).includes(p)),
     pricing: PRICING.find((p) => p === t?.pricing),
     description: t?.description,
-    headline: headlines[id] ?? autoHeadline(r.deal),
+    headline: headlines[id] ?? r.headline ?? autoHeadline(r.deal),
     // The headline names the main offer; the deal text's biggest % can be an unrelated "up to".
-    discount: (headlines[id] && extractDiscount(headlines[id])) || r.discount,
+    discount: ((headlines[id] ?? r.headline) && extractDiscount(headlines[id] ?? r.headline!)) || r.discount,
   };
 });
 if (bad.length) console.warn(`ignored ${bad.length} tags outside the taxonomy:\n  ${bad.slice(0, 20).join("\n  ")}`);
@@ -410,7 +410,7 @@ const live = deals
   .sort((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }));
 
 // --- write data ----------------------------------------------------------------------
-const publish = ({ path, about, tags: _, manual: __, ...d }: Deal & { tags?: Tags; manual?: boolean }) => d;
+const publish = ({ path, about, tags: _, manual: __, ...d }: Deal & { tags?: Tags; manual?: boolean }) => d; // drops build-only fields
 mkdirSync("docs", { recursive: true });
 writeFileSync("data/deals.json", JSON.stringify(live.map(publish), null, 2) + "\n");
 const stats = { live: live.length, withCodes: live.filter((d) => d.codes.length).length, sources: SOURCES.length, sourceRepos: SOURCES.map(([r]) => r), builtAt: TODAY.toISOString().slice(0, 10) };

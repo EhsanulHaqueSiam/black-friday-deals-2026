@@ -1,0 +1,1391 @@
+[
+ {
+  "name": "Fanatical",
+  "url": "https://www.fanatical.com/en/black-friday",
+  "category": "Gaming",
+  "subcategory": "Game Stores & Sales",
+  "platforms": [
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Official digital store for Steam PC game keys and bundles.",
+  "deal": "Black Friday Sale on thousands of PC games with 4 new Star Deals daily and a spin-the-wheel bonus on orders over $15. Ends Dec 1, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://gg.deals/deal/fanatical-black-friday-sale-2026-is-here-with-1000s-of-deals-and-a-bonus-for-spending-over-15/",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Green Man Gaming",
+  "url": "https://www.greenmangaming.com/black-friday/",
+  "category": "Gaming",
+  "subcategory": "Game Stores & Sales",
+  "platforms": [
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Authorized retailer of PC game keys for Steam and other launchers.",
+  "deal": "Black Friday Sale with thousands of discounted official Steam keys plus a Black Friday 2026 Bonus Pack for XP members",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://gg.deals/deal/green-man-gaming-has-thousands-of-cheap-steam-keys-waiting-for-black-friday-deal-hunters/"
+ },
+ {
+  "name": "Ubisoft Store",
+  "url": "https://store.ubisoft.com/us/deals",
+  "category": "Gaming",
+  "subcategory": "Game Stores & Sales",
+  "platforms": [
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Ubisoft's own PC game store for Assassin's Creed, Far Cry and more.",
+  "deal": "Black Friday Sale up to 85% off, plus code HOLIDAY20 for an extra 20% off the cart (stacks with sale prices). Through Dec 1, 2026",
+  "codes": [
+   "HOLIDAY20"
+  ],
+  "upcoming": false,
+  "source": "https://news.ubisoft.com/en-us/article/DMoSyesS7zNPfGu6suvmP/ubisofts-black-friday-sale-save-25-of-assassins-creed-black",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "EA app",
+  "url": "https://www.ea.com/sales/black-friday-sale-2026",
+  "category": "Gaming",
+  "subcategory": "Game Stores & Sales",
+  "platforms": [
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "EA's PC store and launcher for Battlefield, The Sims, Mass Effect and more.",
+  "deal": "Black Friday Sale 2026 up to 95% off, e.g. It Takes Two $7.99, Mass Effect Legendary Edition $8.99; first month of EA Play for $1",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://gg.deals/deal/ea-black-friday-sale-2026/"
+ },
+ {
+  "name": "Battle.net",
+  "url": "https://shop.battle.net/",
+  "category": "Gaming",
+  "subcategory": "Game Stores & Sales",
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Blizzard and Activision PC store for Call of Duty, Diablo and more.",
+  "deal": "Black Friday Sale up to 75% off, incl. Call of Duty titles, Cyberpunk 2077 (70% off) and Diablo IV Age of Hatred Collection 25% off",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://gg.deals/deal/black-friday-comes-to-battlenet-early-with-big-time-savings-on-big-name-games/"
+ },
+ {
+  "name": "Gamesplanet",
+  "url": "https://us.gamesplanet.com/games/offers/blackfriday",
+  "category": "Gaming",
+  "subcategory": "Game Stores & Sales",
+  "platforms": [
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Official digital retailer of PC game keys since 2005.",
+  "deal": "Black Friday sale with weekly waves of deals up to 95% off, e.g. Return to Monkey Island $7.49, Wartales 74% off",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://gg.deals/deal/gamesplanets-black-friday-weekly-deals/"
+ },
+ {
+  "name": "Loaded",
+  "url": "https://www.loaded.com/",
+  "category": "Gaming",
+  "subcategory": "Game Stores & Sales",
+  "platforms": [
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Digital store for PC and console game keys.",
+  "deal": "Black Friday Sale: 3 games for the price of 2 on already discounted titles like Citizen Sleeper and Disco Elysium",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://gg.deals/deal/loadeds-black-friday-sale-gets-you-3-games-for-the-price-of-2-on-already-discounted-titles/"
+ },
+ {
+  "name": "Xbox Game Pass Ultimate",
+  "url": "https://www.stacksocial.com/sales/xbox-game-pass-ultimate-subscriptions-3",
+  "category": "Gaming",
+  "subcategory": "Game Subscriptions",
+  "platforms": [
+   "windows",
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Microsoft game subscription with hundreds of games and cloud play.",
+  "deal": "1-month Game Pass Ultimate code for $17.99 (reg $22.99) at StackSocial, US Microsoft accounts, new and existing members, one per account",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.windowscentral.com/gaming/xbox/game-pass-ultimate-early-black-friday-month-sub-2026"
+ },
+ {
+  "name": "YouTube TV",
+  "url": "https://tv.youtube.com/",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Live TV streaming service with 100+ cable channels and unlimited DVR.",
+  "deal": "New subscribers save $15/mo for the first 5 months of the base plan ($67.99/mo, $75 total). Ends Nov 26, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.businessinsider.com/guides/deals/best-black-friday-streaming-deals-2026",
+  "ends": "2026-11-26"
+ },
+ {
+  "name": "Prime Video Channels",
+  "url": "https://www.amazon.com/gp/video/storefront",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Add-on streaming subscriptions billed through Prime Video.",
+  "deal": "Black Friday add-on deals Nov 19 to 30, 2026: Apple TV $6.99/mo for 6 months, HBO Max $5.49/mo for 12 months, Paramount+ $2.99/mo for 2 months, Starz $2.99/mo, AMC+ $1.99/mo, MGM+ $1.99/mo, Acorn TV $2.49/mo",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.billboard.com/culture/product-recommendations/prime-video-black-friday-cyber-monday-streaming-deals-2026-1236385908/",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Roku Channel Store",
+  "url": "https://www.roku.com/blog/black-friday-2026",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Premium streaming subscriptions sold through Roku.",
+  "deal": "Up to 90% off 40+ subscriptions: MGM+ $0.99/mo for 3 months, HBO Max $5.49/mo for 12 months, Apple TV $6.99/mo for 6 months, Shudder $1.99/mo, BritBox $2.99/mo",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.roku.com/blog/black-friday-2026"
+ },
+ {
+  "name": "AMC+",
+  "url": "https://www.amcplus.com/",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Streaming service for AMC originals like The Walking Dead universe.",
+  "deal": "Via Prime Video: with ads $1.99/mo for 2 months (reg $7.99), Premium $2.75/mo for 2 months, annual $54.99 (reg $109.99). Through Nov 30, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://mashable.com/entertainment/best-early-black-friday-streaming-deals-2026",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "MGM+",
+  "url": "https://www.mgmplus.com/",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Streaming service for MGM movies and original series.",
+  "deal": "Via Prime Video $1.99/mo for 2 months (reg $7.99) or $30.99/yr; via Roku $0.99/mo for 3 months. Through Nov 30, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://mashable.com/entertainment/best-early-black-friday-streaming-deals-2026",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "BritBox",
+  "url": "https://www.britbox.com/",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Streaming service for British TV dramas, mysteries and comedies.",
+  "deal": "Via Prime Video: Standard $2.75/mo for 2 months (reg $10.99), Standard annual $79.99, Premier annual $124.99; via Roku $2.99/mo for 2 months",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://mashable.com/entertainment/best-early-black-friday-streaming-deals-2026",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Acorn TV",
+  "url": "https://acorn.tv/",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Streaming service for British and international mysteries and dramas.",
+  "deal": "Via Prime Video $2.49/mo for 2 months (reg $8.99) or 50% off annual; via Roku $2.99/mo for 2 months. Through Nov 30, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://mashable.com/entertainment/best-early-black-friday-streaming-deals-2026",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Hallmark+",
+  "url": "https://www.hallmarkplus.com/",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Streaming service for Hallmark holiday movies and series.",
+  "deal": "Via Prime Video $2.25/mo for 3 months (reg $8.99) or $39.99/yr (reg $79.99); same $2.25/mo deal on Roku",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://mashable.com/entertainment/best-early-black-friday-streaming-deals-2026",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Shudder",
+  "url": "https://www.shudder.com/",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Streaming service for horror, thriller and supernatural films.",
+  "deal": "Via Roku $1.99/mo for 2 months (reg $9.99)",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.roku.com/blog/black-friday-2026"
+ },
+ {
+  "name": "BBC Select",
+  "url": "https://www.bbcselect.com/",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Streaming service for BBC documentaries on history, science and culture.",
+  "deal": "Via Prime Video $1.75/mo for 3 months (reg $6.99); via Roku $0.99/mo for 2 months",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://mashable.com/entertainment/best-early-black-friday-streaming-deals-2026"
+ },
+ {
+  "name": "PBS Masterpiece",
+  "url": "https://www.amazon.com/gp/video/storefront",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Prime Video channel for PBS Masterpiece dramas and mysteries.",
+  "deal": "Via Prime Video $1.75/mo for 2 months (reg $6.99). Through Nov 30, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://mashable.com/entertainment/best-early-black-friday-streaming-deals-2026",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Fox One",
+  "url": "https://www.foxone.com/",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Fox streaming service with live sports, news and entertainment.",
+  "deal": "$4.99 for the first month (reg $19.99) via Roku subscriptions Black Friday sale",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.roku.com/blog/black-friday-2026"
+ },
+ {
+  "name": "Frndly TV",
+  "url": "https://try.frndlytv.com/",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Low-cost live TV streaming with Hallmark, A&E, History and more.",
+  "deal": "Premium monthly $0.99/mo for 3 months (reg $12.99) or $99 for a year, via Roku",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.roku.com/blog/black-friday-2026"
+ },
+ {
+  "name": "Curiosity Stream",
+  "url": "https://curiositystream.com/",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Streaming service for science, nature and history documentaries.",
+  "deal": "Via Roku $2.99/mo for 2 months",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.roku.com/blog/black-friday-2026"
+ },
+ {
+  "name": "HIDIVE",
+  "url": "https://www.hidive.com/",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Anime streaming service with simulcasts and dubs.",
+  "deal": "Via Roku $0.99/mo for 2 months",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.roku.com/blog/black-friday-2026"
+ },
+ {
+  "name": "Sundance Now",
+  "url": "https://www.sundancenow.com/",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Streaming service for crime dramas, thrillers and indie series.",
+  "deal": "Via Roku $0.99/mo for 2 months",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.roku.com/blog/black-friday-2026"
+ },
+ {
+  "name": "NFL Sunday Ticket",
+  "url": "https://tv.youtube.com/learn/nflsundayticket/",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Out-of-market NFL Sunday games streamed on YouTube.",
+  "deal": "Rest of the 2026 season for $48 (reg $150) Black Friday offer",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://mashable.com/entertainment/best-early-black-friday-streaming-deals-2026"
+ },
+ {
+  "name": "DAZN",
+  "url": "https://www.dazn.com/en-GB/welcome",
+  "category": "Entertainment",
+  "subcategory": "Streaming Video",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Sports streaming service known for boxing and combat sports.",
+  "deal": "UK: 60% off the first month of a Monthly Flex Pass, GBP 9.99 then GBP 25.99/mo, qualifying customers, Nov 23 to 30, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.dazn.com/en-GB/news/boxing/black-friday-offer-discounted-boxing-subscription-watch-worlds-best-boxing-with-60-off/qcyh678ufxs21l5v68rrxktkj",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Kobo",
+  "url": "https://www.kobo.com/us/en/p/black-friday-deals",
+  "category": "Learning",
+  "subcategory": "Books & Ebooks",
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "pricing": "one-time",
+  "description": "Ebook and audiobook store with Kobo eReaders.",
+  "deal": "US: ebooks up to 85% off Nov 23 to 30, select audiobooks $9.99 and under Nov 20 to 30, $30 off Kobo Libra Colour; regional ebook sales up to 70% off",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.kobo.com/blog/kobos-black-friday-deals-ebooks-audiobooks-and-ereaders",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Spitfire Audio",
+  "url": "https://www.spitfireaudio.com/en-us/collections/black-friday",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Orchestral and cinematic sample libraries for composers.",
+  "deal": "Black Friday Sale up to 75% off; The Ton bundle (Impressionism, Appassionata Strings, Cinematic Soft Piano) $99; extra 20% off carts over GBP 599. Ends Dec 4, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://rekkerd.org/spitfire-audio-black-friday-sale-libraries-bundles/",
+  "ends": "2026-12-04"
+ },
+ {
+  "name": "FabFilter",
+  "url": "https://www.fabfilter.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows",
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Mixing and mastering plugins like Pro-Q 4, Pro-L 2 and Saturn 2.",
+  "deal": "Black Friday Sale: 25% off all plugins, bundles and account upgrades at the FabFilter shop. Ends Dec 1, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://rekkerd.org/fabfilter-black-friday-sale-plugins-bundles/",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Soundtoys",
+  "url": "https://www.soundtoys.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Analog-style effects plugins like Decapitator and EchoBoy.",
+  "deal": "Black Friday Sale up to 75% off: Soundtoys 5 bundle $239 (reg $599), Decapitator and EchoBoy $49, upgrades 60% off. Through Dec 3, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://bedroomproducersblog.com/2026/11/20/soundtoys-black-friday-sale-2026/",
+  "ends": "2026-12-03"
+ },
+ {
+  "name": "Toontrack",
+  "url": "https://www.toontrack.com/black-friday/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Drum and songwriting software like Superior Drummer 3 and EZdrummer 3.",
+  "deal": "Two weeks of daily Black Friday deals: EZdrummer 3 and EZkeys 2 about 45% off, Superior Drummer 3 up to 50% off, EZmix 3 up to 54% off. Through Dec 1, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://rekkerd.org/toontrack-black-friday-sale-deals/",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Arturia",
+  "url": "https://www.arturia.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Software synths and vintage instrument emulations.",
+  "deal": "Black Friday: Pigments 7 $99 (reg $199) and V Collection 11 Pro $349 (reg $699) at Plugin Boutique",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.musicradar.com/news/the-best-black-friday-plugin-deals"
+ },
+ {
+  "name": "Universal Audio",
+  "url": "https://www.uaudio.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "UAD Native plugins emulating classic studio hardware.",
+  "deal": "Black Friday: UAD Native plugins up to 80% off, e.g. Avalon VT-737 $39, SSL 4000 G Bus Compressor $79, 1176 Collection $49",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.musicradar.com/news/the-best-black-friday-plugin-deals"
+ },
+ {
+  "name": "IK Multimedia",
+  "url": "https://www.ikmultimedia.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows",
+   "ios"
+  ],
+  "pricing": "one-time",
+  "description": "Guitar amp and instrument software like AmpliTube and MODO Bass.",
+  "deal": "Black Friday: AmpliTube 5 $29.99 (reg $199.99, 85% off) at IK, MODO Bass 2 $29.99, plus savings on Total Studio MAX",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.musicradar.com/news/the-best-black-friday-plugin-deals"
+ },
+ {
+  "name": "Antares Auto-Tune",
+  "url": "https://www.antarestech.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "subscription",
+  "description": "Vocal pitch correction and tuning software.",
+  "deal": "Black Friday: 70% off Auto-Tune annual subscriptions",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.musicradar.com/news/the-best-black-friday-plugin-deals"
+ },
+ {
+  "name": "Avid Pro Tools",
+  "url": "https://www.avid.com/pro-tools",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "subscription",
+  "description": "Industry-standard DAW for recording, editing and mixing.",
+  "deal": "Black Friday: up to 40% off Pro Tools annual subscriptions at Avid",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.musicradar.com/news/the-best-black-friday-plugin-deals"
+ },
+ {
+  "name": "Positive Grid",
+  "url": "https://www.positivegrid.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Guitar amp modeling software and smart amps.",
+  "deal": "Black Friday: BIAS X 40% off",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.musicradar.com/news/the-best-black-friday-plugin-deals"
+ },
+ {
+  "name": "Synchro Arts",
+  "url": "https://www.synchroarts.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Music & Audio Production",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Vocal alignment and tuning plugins like VocAlign and RePitch.",
+  "deal": "Black Friday: VocAlign 6 Pro $119 (reg $199, 40% off)",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.musicradar.com/news/the-best-black-friday-plugin-deals"
+ },
+ {
+  "name": "VSCO",
+  "url": "https://www.vsco.co/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Photo Editing",
+  "platforms": [
+   "ios",
+   "android",
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Photo and video editing app with presets and film-style filters.",
+  "deal": "50% off the first year of VSCO Pro and VSCO One annual memberships with code BLACKFRIDAY50, new memberships and upgrades. Through Dec 4, 2026",
+  "codes": [
+   "BLACKFRIDAY50"
+  ],
+  "upcoming": false,
+  "source": "https://theappwhisperer.com/2026/11/best-black-friday-mobile-photography-app-deals-2026-the-iphone-and-android-apps-worth-watching/",
+  "ends": "2026-12-04"
+ },
+ {
+  "name": "Adobe Lightroom",
+  "url": "https://www.adobe.com/products/photoshop-lightroom.html",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Photo Editing",
+  "platforms": [
+   "mac",
+   "windows",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Photo editing and organizing app for photographers.",
+  "deal": "Amazon Black Friday: Lightroom 1TB 12-month plan $64.99 (reg $119.88); Photography Plan 1TB (Photoshop + Lightroom) $119.99 (reg $239.88)",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://amateurphotographer.com/latest/deals/even-if-youre-not-a-big-adobe-fan-youll-be-kicking-yourself-if-you-miss-these-black-friday-deals-on-photoshop-and-lightroom/"
+ },
+ {
+  "name": "Qobuz",
+  "url": "https://www.qobuz.com/us-en/discover",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "platforms": [
+   "web",
+   "ios",
+   "android",
+   "mac",
+   "windows"
+  ],
+  "pricing": "subscription",
+  "description": "Hi-res music streaming and download store.",
+  "deal": "Black Friday: up to 60% off a large selection of Hi-Res and CD-quality album downloads in the US through Nov 30; up to 20% off 3, 6 or 12-month gift cards with code HOLIDAY26 Nov 16 to Dec 14, 2026",
+  "codes": [
+   "HOLIDAY26"
+  ],
+  "upcoming": false,
+  "source": "https://x.com/qobuz/status/2123805273068540028",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "3D Scan Store",
+  "url": "https://www.3dscanstore.com/",
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Store of 3D scanned heads, bodies and skin textures for character artists.",
+  "deal": "Black November: 55% off every Personal licence and 25% off Commercial licences. Until Nov 30, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Cascadeur",
+  "url": "https://cascadeur.com/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux"
+  ],
+  "pricing": "subscription",
+  "description": "Physics-assisted 3D character animation software.",
+  "deal": "40% off the first year of Indie, Pro and Teams annual subscriptions, Nov 26 to Dec 7, 2026",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-12-07"
+ },
+ {
+  "name": "Clip Studio Paint",
+  "url": "https://www.clipstudio.net/en/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "mac",
+   "windows",
+   "ios",
+   "android"
+  ],
+  "pricing": "subscription",
+  "description": "Drawing and painting app for comics, manga and illustration.",
+  "deal": "Pre-Black Friday: 53% off Clip Studio Paint Pro and 30% off EX, perpetual licenses and subscriptions. Until Nov 26, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-11-26"
+ },
+ {
+  "name": "Reallusion",
+  "url": "https://www.reallusion.com/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Character Creator, iClone and Cartoon Animator for 3D and 2D animation.",
+  "deal": "50% off all software perpetual licenses, 30% off subscriptions, 50% off Content Store and ActorCore assets, Nov 20 to 30, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "ActionVFX",
+  "url": "https://www.actionvfx.com/",
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Stock VFX elements, 2D assets, 3D models and VDBs for compositors.",
+  "deal": "40% off all content, Nov 26 8am ET to Nov 27 11:59pm ET, 2026",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-11-27"
+ },
+ {
+  "name": "Daz 3D",
+  "url": "https://www.daz3d.com/",
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "3D characters, clothing and scenes plus free Daz Studio software.",
+  "deal": "Black Friday: selected 3D characters and clothing, usually 50% off, on Nov 27, 2026",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/"
+ },
+ {
+  "name": "Rebelle",
+  "url": "https://www.escapemotions.com/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Escape Motions painting apps: Rebelle, Flame Painter, Amberlight and Inspirit.",
+  "deal": "Black Friday: 20% off Escape Motions digital painting software",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/"
+ },
+ {
+  "name": "Moho",
+  "url": "https://moho.lostmarble.com/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "2D animation software with bone rigging, Debut and Pro editions.",
+  "deal": "Black Friday: 40% off Moho Debut and Pro with code BLACKFRIDAY",
+  "codes": [
+   "BLACKFRIDAY"
+  ],
+  "upcoming": true,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/"
+ },
+ {
+  "name": "Polycam",
+  "url": "https://poly.cam/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "ios",
+   "android",
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "3D scanning app for photogrammetry, LiDAR and Gaussian splats.",
+  "deal": "Black Friday: 25% off Business plans",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/"
+ },
+ {
+  "name": "RizomUV",
+  "url": "https://www.rizom-lab.com/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux"
+  ],
+  "pricing": "one-time",
+  "description": "UV unwrapping and layout software for 3D artists.",
+  "deal": "30% off new perpetual Indie licenses, 20% off Pro, 10% off rent to own, Nov 25 to 30, 2026",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Verge3D",
+  "url": "https://www.soft8soft.com/verge3d/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux"
+  ],
+  "pricing": "one-time",
+  "description": "Toolkit for publishing interactive 3D web experiences from Blender, 3ds Max and Maya.",
+  "deal": "Black Friday: 25% off with code BlackFriday",
+  "codes": [
+   "BlackFriday"
+  ],
+  "upcoming": true,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/"
+ },
+ {
+  "name": "The Pixel Lab",
+  "url": "https://www.thepixellab.net/",
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "VFX assets and materials for Octane, Redshift and Unreal Engine.",
+  "deal": "Black Friday: 30% off all products with code FALL30",
+  "codes": [
+   "FALL30"
+  ],
+  "upcoming": true,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/"
+ },
+ {
+  "name": "Unity Asset Store",
+  "url": "https://assetstore.unity.com/",
+  "category": "Gaming",
+  "subcategory": "Games & Apps",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Marketplace for Unity add-ons, tools and game assets.",
+  "deal": "Black Friday: 50% off selected assets plus flash deals up to 95% off throughout the sale",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/"
+ },
+ {
+  "name": "aescripts + aeplugins",
+  "url": "https://aescripts.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Video Editing",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Marketplace for After Effects and video editing scripts and plugins.",
+  "deal": "25% off selected products. Until Dec 4, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-12-04"
+ },
+ {
+  "name": "Beeble",
+  "url": "https://beeble.ai/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Video Editing",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI relighting and VFX tools for video footage.",
+  "deal": "20% off monthly and 30% off annual subscriptions. Until Nov 30, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "BlenderKit",
+  "url": "https://www.blenderkit.com/",
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux"
+  ],
+  "pricing": "subscription",
+  "description": "Asset library of models, materials and HDRIs inside Blender.",
+  "deal": "33% off subscriptions. Until Dec 2, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-12-02"
+ },
+ {
+  "name": "Boris FX",
+  "url": "https://borisfx.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Video Editing",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "subscription",
+  "description": "VFX plugins like Sapphire, Continuum, Mocha Pro and Silhouette.",
+  "deal": "25% off Sapphire, Continuum, Mocha Pro, Silhouette, SynthEyes, Optics and audio tools, Nov 23 to Dec 4, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-12-04"
+ },
+ {
+  "name": "CGTrader",
+  "url": "https://www.cgtrader.com/",
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Large marketplace and subscription library of 3D models.",
+  "deal": "30% off the first month of a monthly subscription and up to 70% off marketplace models. Ends Nov 30, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://x.com/CG_Trader/status/2124760191451201707",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Chaos V-Ray",
+  "url": "https://www.chaos.com/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "subscription",
+  "description": "Rendering software: V-Ray, Corona, Enscape and Veras.",
+  "deal": "20% off all Chaos products with code BLACK26. Until Nov 30, 2026",
+  "codes": [
+   "BLACK26"
+  ],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Marvelous Designer",
+  "url": "https://www.marvelousdesigner.com/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "subscription",
+  "description": "3D cloth and garment simulation software.",
+  "deal": "35% off annual subscriptions from Black Friday to Cyber Monday",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Fab",
+  "url": "https://www.fab.com/",
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Epic Games marketplace for Unreal Engine and Unity assets and plugins.",
+  "deal": "Up to 70% off selected stock assets, plugins and tools. Until Dec 1, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "FlippedNormals",
+  "url": "https://flippednormals.com/",
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Marketplace for 3D assets, Blender add-ons and art tutorials.",
+  "deal": "New FlipBox deals every 48 hours on Blender add-ons and asset bundles, Nov 23 to Dec 6, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-12-06"
+ },
+ {
+  "name": "FxFactory",
+  "url": "https://fxfactory.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Video Editing",
+  "platforms": [
+   "mac"
+  ],
+  "pricing": "one-time",
+  "description": "Plugins for Final Cut Pro, After Effects and DaVinci Resolve.",
+  "deal": "30% off all products with code BLACKFRIDAY. Until Nov 30, 2026",
+  "codes": [
+   "BLACKFRIDAY"
+  ],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Greyscalegorilla",
+  "url": "https://greyscalegorilla.com/",
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "subscription",
+  "description": "Materials, HDRIs and Cinema 4D plugins for 3D artists.",
+  "deal": "40% off annual subscriptions during Cyber Month",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/"
+ },
+ {
+  "name": "HDRMAPS",
+  "url": "https://hdrmaps.com/",
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "High-resolution HDRI sky and environment maps.",
+  "deal": "30% off all products from Black Friday to Cyber Monday",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "iMeshh",
+  "url": "https://imeshh.com/",
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Library of architectural 3D assets for Blender.",
+  "deal": "40% off the first six months of monthly or annual subscriptions. Until Nov 30, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "INSYDIUM",
+  "url": "https://insydium.ltd/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "NeXus and X-Particles simulation tools for Cinema 4D and Blender.",
+  "deal": "Half Price Black Friday Sale: 50% off everything with code BLKFRI26. Until Dec 1, 2026",
+  "codes": [
+   "BLKFRI26"
+  ],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "iToo Forest Pack",
+  "url": "https://www.itoosoft.com/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "windows"
+  ],
+  "pricing": "subscription",
+  "description": "3ds Max plugins Forest Pack and RailClone plus asset collections.",
+  "deal": "Up to 40% off ForestPack, RailClone and asset collections, Nov 23 to 30, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "JangaFX",
+  "url": "https://jangafx.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Video Editing",
+  "platforms": [
+   "mac",
+   "windows",
+   "linux"
+  ],
+  "pricing": "one-time",
+  "description": "Real-time VFX tools EmberGen, LiquiGen, GeoGen and IlluGen.",
+  "deal": "30% off new Indie licenses and maintenance, Nov 23 to 30, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-11-30"
+ },
+ {
+  "name": "Kitbash3D",
+  "url": "https://kitbash3d.com/",
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Kitbashing 3D asset library for environments and concept art.",
+  "deal": "40% off annual subscriptions during Cyber Month",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/"
+ },
+ {
+  "name": "Lens Distortions",
+  "url": "https://lensdistortions.com/",
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Library of light leaks, lens flares and VFX overlays.",
+  "deal": "25% off the first year of the All-Access Subscription. Until Dec 1, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Silo",
+  "url": "https://nevercenter.com/silo/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Nevercenter's 3D subdivision surface modeler.",
+  "deal": "40% off with code GATHER over Black Friday and Cyber Monday",
+  "codes": [
+   "GATHER"
+  ],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/"
+ },
+ {
+  "name": "Next Limit Maxwell",
+  "url": "https://nextlimit.com/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "Maxwell renderer and RealFlow fluid simulation software.",
+  "deal": "50% off Maxwell and RealFlow, all editions. Until Dec 3, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-12-03"
+ },
+ {
+  "name": "SketchUp",
+  "url": "https://www.sketchup.com/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "mac",
+   "windows",
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "3D modeling software for architecture and design.",
+  "deal": "25% off annual Pro and Studio subscriptions with code CYBERSK26",
+  "codes": [
+   "CYBERSK26"
+  ],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/"
+ },
+ {
+  "name": "Maxtree",
+  "url": "https://maxtree.org/",
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Collections of 3D plant and tree models.",
+  "deal": "50% off all products. Until Dec 1, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-12-01"
+ },
+ {
+  "name": "Hyper3D Rodin",
+  "url": "https://hyper3d.ai/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "AI generator that turns text and images into 3D models.",
+  "deal": "50% off the first year of annual Creator or Business subscriptions. Until Dec 8, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-12-08"
+ },
+ {
+  "name": "Fox Renderfarm",
+  "url": "https://www.foxrenderfarm.com/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "credits",
+  "description": "Cloud render farm for 3D and VFX projects.",
+  "deal": "50% extra GPU render coupons or 100% extra CPU render coupons. Until Dec 31, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-12-31"
+ },
+ {
+  "name": "AEJuice",
+  "url": "https://aejuice.com/",
+  "category": "Photo, Video & Audio",
+  "subcategory": "Video Editing",
+  "platforms": [
+   "mac",
+   "windows"
+  ],
+  "pricing": "subscription",
+  "description": "Transitions and add-on packs for After Effects and DaVinci Resolve.",
+  "deal": "Around 50% off most bundles and subscriptions. Until Dec 31, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-12-31"
+ },
+ {
+  "name": "Gaea",
+  "url": "https://quadspinner.com/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "windows"
+  ],
+  "pricing": "one-time",
+  "description": "QuadSpinner terrain generation software.",
+  "deal": "Buy Gaea 2 and get Gaea 3 free on release. Until Dec 4, 2026",
+  "codes": [],
+  "upcoming": false,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-12-04"
+ },
+ {
+  "name": "Mixos",
+  "url": "https://mixos.io/",
+  "category": "Design",
+  "subcategory": "Design & Prototyping Tools",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "subscription",
+  "description": "Browser-based 3D creation suite.",
+  "deal": "30% off the first three months monthly or first year annual, Nov 27 to Dec 6, 2026",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
+  "ends": "2026-12-06"
+ },
+ {
+  "name": "ArtStation Marketplace",
+  "url": "https://www.artstation.com/marketplace",
+  "category": "Design",
+  "subcategory": "Stock Photos, Video & Music",
+  "platforms": [
+   "web"
+  ],
+  "pricing": "one-time",
+  "description": "Marketplace for brushes, 3D assets and tutorials from digital artists.",
+  "deal": "One last Black Friday sale on ArtStation Marketplace before checkout moves to Gumroad, Nov 25 to Dec 4, 2026",
+  "codes": [],
+  "upcoming": true,
+  "source": "https://magazine.artstation.com/2026/11/artstation-marketplace-migration-2026/",
+  "ends": "2026-12-04"
+ }
+]
