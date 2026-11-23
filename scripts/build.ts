@@ -441,7 +441,7 @@ writeFileSync(
 
 // Cache-busting: Pages lets browsers cache for 10 minutes, so assets carry a content hash.
 const hash = (f: string) => createHash("sha1").update(readFileSync(f)).digest("hex").slice(0, 8);
-const v = { app: hash("docs/app.js"), css: hash("docs/style.css"), page: hash("docs/page.js") };
+const v = { app: hash("docs/app.js"), css: hash("docs/style.css"), page: hash("docs/page.js"), fx: hash("docs/fx.js") };
 // Best brands: household names (data/brands.json, ids); gone ones drop out.
 const brandIds = existsSync("data/brands.json") ? (JSON.parse(readFileSync("data/brands.json", "utf8")) as string[]).filter((id) => live.some((d) => d.id === id)) : [];
 // Rank static pages by live engagement too (likes, shares, clicks); skipped when offline.
@@ -454,6 +454,7 @@ const home = renderHome(live.map(publish), picks, stats.builtAt);
 const index = readFileSync("docs/index.html", "utf8")
   .replace(/<!--cats-->[\s\S]*?<!--\/cats-->/, `<!--cats-->${categoryNav(live)}<!--/cats-->`)
   .replace(/src="app\.js(\?v=\w+)?"/, `src="app.js?v=${v.app}"`)
+  .replace(/src="fx\.js(\?v=\w+)?"/, `src="fx.js?v=${v.fx}"`)
   .replace(/href="style\.css(\?v=\w+)?"/, `href="style.css?v=${v.css}"`)
   // crawlable home: JSON-LD, the most popular deals as static rows, and the FAQ
   .replace(/<!--ld-->[\s\S]*?<!--\/ld-->/, `<!--ld-->${home.ld}<!--/ld-->`)

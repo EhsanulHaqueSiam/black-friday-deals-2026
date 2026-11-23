@@ -1,25 +1,8 @@
 // Shared behaviour for the static deal and category pages: copy-code buttons, logo fallback, "/" to search.
+// Motion and the toast come from fx.js, which loads first.
 "use strict";
 (() => {
-  const toast = document.getElementById("toast");
-  let timer;
-  const say = (msg) => {
-    toast.textContent = msg;
-    toast.classList.add("on");
-    clearTimeout(timer);
-    timer = setTimeout(() => toast.classList.remove("on"), 1400);
-  };
-  const copyText = async (text) => {
-    try {
-      await navigator.clipboard.writeText(text);
-    } catch {
-      const ta = Object.assign(document.createElement("textarea"), { value: text });
-      document.body.append(ta);
-      ta.select();
-      document.execCommand("copy");
-      ta.remove();
-    }
-  };
+  const { copyText, copied, toast } = FX;
   // Share: the phone's share sheet when there is one, otherwise copy the deal page link.
   document.addEventListener("click", async (e) => {
     const share = e.target.closest("[data-share]");
@@ -32,32 +15,19 @@
         } catch {}
       } else {
         await copyText(url);
-        say("Link copied");
+        toast("Link copied", "Send it to someone who's shopping");
       }
     } else if (link) {
       await copyText(link.dataset.copylink);
-      say("Link copied");
+      toast("Link copied", "Send it to someone who's shopping");
     }
   });
   document.addEventListener("click", async (e) => {
     const btn = e.target.closest(".code");
     if (!btn) return;
-    const code = btn.dataset.code;
-    try {
-      await navigator.clipboard.writeText(code);
-    } catch {
-      const ta = Object.assign(document.createElement("textarea"), { value: code });
-      document.body.append(ta);
-      ta.select();
-      document.execCommand("copy");
-      ta.remove();
-    }
-    btn.classList.add("done");
-    setTimeout(() => btn.classList.remove("done"), 1200);
-    toast.textContent = `Copied ${code}`;
-    toast.classList.add("on");
-    clearTimeout(timer);
-    timer = setTimeout(() => toast.classList.remove("on"), 1400);
+    copyText(btn.dataset.code);
+    copied(btn);
+    toast(`Copied ${btn.dataset.code}`, "Paste it at checkout");
   });
   // Unknown favicon: the product's initial instead of a broken image.
   document.addEventListener("error", (e) => {

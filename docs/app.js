@@ -125,6 +125,7 @@ function render() {
   renderTree(base);
   renderChips();
   renderList(shown);
+  afterRender();
   const extra = [state.day ? `ending ${fmtDate(state.day)}` : "", state.band ? BANDS.find((b) => b.k === state.band)?.label : ""].filter(Boolean).join(", ");
   $("#title").innerHTML = `<b>${shown.length.toLocaleString()}</b> deals${state.cat ? ` in ${esc(state.sub || state.cat)}` : ""}${extra ? ` ${esc(extra)} <button class="clear" data-clear>Clear</button>` : ""}`;
   writeHash();
@@ -153,19 +154,32 @@ const host = (u) => {
     return "";
   }
 };
+// Line icons (Lucide shapes), drawn with currentColor.
+const svg = (paths) => `<svg class="i" viewBox="0 0 24 24" aria-hidden="true">${paths}</svg>`;
+const I = {
+  arrow: svg('<path d="M7 7h10v10"/><path d="M7 17 17 7"/>'),
+  up: svg('<path d="m6 15 6-6 6 6"/>'),
+  left: svg('<path d="m15 18-6-6 6-6"/>'),
+  right: svg('<path d="m9 18 6-6-6-6"/>'),
+  share: svg('<path d="M12 3v12"/><path d="m8 7 4-4 4 4"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/>'),
+  link: svg('<path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/>'),
+};
 const logo = (d) => `<img class="logo" src="https://icons.duckduckgo.com/ip3/${esc(host(d.url))}.ico" alt="" loading="lazy" width="28" height="28" data-initial="${esc(d.name[0] ?? "?")}">`;
-const codeBtn = (c) => `<button class="btn code" data-code="${esc(c)}" title="Copy ${esc(c)}">${esc(c)}<i>Copy</i></button>`;
-const goBtn = (d, label = "Get deal") => `<a class="btn go" href="${esc(d.url)}" target="_blank" rel="noopener">${label} <span aria-hidden="true">↗</span></a>`;
+// The label swaps Copy -> Copied (fx.js flips the button); the toast announces it to screen readers.
+const codeBtn = (c) => `<button class="btn code" data-code="${esc(c)}" title="Copy ${esc(c)}"><span class="cv" translate="no">${esc(c)}</span><span class="cl"><span class="c0">${FX.ICON.copy}Copy</span><span class="c1" aria-hidden="true">${FX.ICON.check}Copied</span></span></button>`;
+const goBtn = (d, label = "Get deal") => `<a class="btn go" href="${esc(d.url)}" target="_blank" rel="noopener">${label}${I.arrow}</a>`;
 const dayWord = (n) => (n === 0 ? "last day" : n === 1 ? "1 day left" : `${n} days left`);
 const endsText = (d) => (d.ends ? `<span class="left${daysLeft(d) <= 3 ? " hot" : ""}">ends ${fmtDate(d.ends)} · ${dayWord(daysLeft(d))}</span>` : "");
 // The discount badge, unless the headline already says it.
 const pct = (d) => (d.discount && !d.headline.includes(`${d.discount}%`) ? `<span class="pct">${d.discount}% off</span>` : "");
+// Poster-size discount for cards: "70%" in the display face, then a small "off".
+const bigPct = (n) => `<span class="n">${n}%</span><span class="off">off</span>`;
 
 // One compact row: logo, name, headline, copy-code + get-deal. Full terms open on click (details()).
 function row(d) {
   const on = liked.has(d.id);
   return `<article class="row" data-id="${esc(d.id)}">
-    <button class="vote${on ? " on" : ""}" data-like="${esc(d.id)}" aria-pressed="${on}" aria-label="Like ${esc(d.name)}">${likes(d) || ""}</button>
+    <button class="vote${on ? " on" : ""}" data-like="${esc(d.id)}" aria-pressed="${on}" aria-label="Like ${esc(d.name)}">${I.up}<span class="roll">${likes(d) || ""}</span></button>
     ${logo(d)}
     <div class="n"><a href="${d.category === ADULT ? esc(d.url) : `deal/${esc(d.id)}/`}">${esc(d.name)}</a>${d.vendor ? `<span class="vtag sm" title="Listed by the company">✓</span>` : ""}${d.description ? `<small>${esc(d.description)}</small>` : ""}</div>
     <div class="act">${d.codes.length ? codeBtn(d.codes[0]) : `<span class="nocode">No code needed</span>`}${goBtn(d)}</div>
@@ -198,10 +212,10 @@ function picks() {
   const plain = isPlain();
   const ds = plain ? (DATA.picks ?? []).map((p) => ({ ...DATA.deals.find((d) => d.id === p.id), why: p.why })).filter((d) => d.id) : [];
   if (!ds.length) return "";
-  return `<section class="picks"><div class="shead"><div><h2>Editors' picks</h2><p>Deals worth buying even if you weren't shopping.</p></div><span class="arws"><button class="arw" data-scroll="-1" aria-label="Previous picks">‹</button><button class="arw" data-scroll="1" aria-label="More picks">›</button></span></div><div class="pg">${ds
-    .map((d) => `<div class="pc" data-id="${esc(d.id)}">
+  return `<section class="picks"><div class="shead"><div><h2>Editors' picks</h2><p>Deals worth buying even if you weren't shopping.</p></div><span class="arws"><button class="arw" data-scroll="-1" aria-label="Previous picks">${I.left}</button><button class="arw" data-scroll="1" aria-label="More picks">${I.right}</button></span></div><div class="pg">${ds
+    .map((d) => `<div class="pc" data-id="${esc(d.id)}"><span class="glare" aria-hidden="true"></span>
       <div class="ptop">${logo(d)}<div><b>${esc(d.name)}</b><span>${esc(d.subcategory ?? d.category)}</span></div></div>
-      ${d.discount ? `<div class="big">${d.discount}% off</div>` : ""}
+      ${d.discount ? `<div class="big">${bigPct(d.discount)}</div>` : ""}
       <div class="ph">${esc(d.discount ? (d.headline.replace(new RegExp(`^(up to )?${d.discount}% off,?\\s*`, "i"), "") || d.headline).replace(/^./, (c) => c.toUpperCase()) : d.headline)}</div>
       <div class="why">${esc(d.why)}</div>
       <div class="pact">${d.codes.length ? codeBtn(d.codes[0]) : ""}${goBtn(d)}</div>
@@ -332,40 +346,80 @@ function forYou() {
 const CAT_HUES = [12, 200, 265, 330, 150, 40, 95, 0, 220, 175, 300, 55, 125, 240, 20, 280, 185, 340];
 const catColor = (c) => `oklch(0.72 0.12 ${CAT_HUES[Object.keys(DATA.taxonomy).indexOf(c) % CAT_HUES.length]})`;
 
-// "Black Friday in 3d 4h" / "Cyber Monday ends in 6h": counts down, refreshed once a minute.
+// Countdown marks: Black Friday starts at midnight US Eastern; Cyber Monday ends a day later.
+const MARKS = [[Date.UTC(2026, 10, 27, 5), "Black Friday in"], [Date.UTC(2026, 11, 1, 8), "Cyber Monday ends in"]];
+const nextMark = () => MARKS.find(([t]) => t > Date.now());
+// Header pill: "Black Friday in 3d 4h", refreshed once a minute.
 function countdown() {
-  const now = Date.now();
-  const marks = [
-    [Date.UTC(2026, 10, 27, 5), "Black Friday in"],
-    [Date.UTC(2026, 11, 1, 8), "Cyber Monday ends in"],
-  ];
-  const next = marks.find(([t]) => t > now);
-  const el = $("#countdown");
+  const next = nextMark(), el = $("#countdown");
   if (!next) return (el.hidden = true);
-  const mins = Math.floor((next[0] - now) / 60000);
+  const mins = Math.floor((next[0] - Date.now()) / 60000);
   const d = Math.floor(mins / 1440), h = Math.floor((mins % 1440) / 60), m = mins % 60;
   el.textContent = `${next[1]} ${d ? `${d}d ` : ""}${h}h${d ? "" : ` ${m}m`}`;
   el.hidden = false;
 }
 
+// Season strip on the front view: a big rolling countdown and the deal week as a track with a "now" needle.
+const WEEK = [Date.UTC(2026, 10, 24, 5), Date.UTC(2026, 11, 2, 5)]; // Nov 24 to the end of Dec 1, US Eastern
+const WEEK_DAYS = ["Nov 24", "25", "Thanksgiving", "Black Friday", "28", "29", "Cyber Monday", "Dec 1"];
+const UNITS = { d: "days", h: "hours", m: "min", s: "sec" };
+function season() {
+  if (!nextMark()) return "";
+  return `<section class="season" aria-label="Countdown"><div><span class="cdl">${nextMark()[1]}</span>
+    <div class="cd" role="timer">${Object.entries(UNITS).map(([u, label]) => `<span class="u" data-u="${u}"><b class="roll"></b><small>${label}</small></span>`).join('<span class="sep" aria-hidden="true">:</span>')}</div></div>
+    <div class="wk" aria-hidden="true">${WEEK_DAYS.map((t, i) => `<span class="seg${i === 3 || i === 6 ? " key" : ""}"><i></i><small>${t}</small></span>`).join("")}<span class="needle"></span></div>
+    <button class="btn ghost" data-sharesite>${I.share}<span>Share the list</span></button></section>`;
+}
+// Ticks once a second, only while the strip is on screen and the tab is visible.
+function tick() {
+  const s = document.querySelector(".season");
+  if (!s || document.hidden) return;
+  const r = s.getBoundingClientRect();
+  if (r.bottom < 0 || r.top > innerHeight) return;
+  const next = nextMark();
+  if (!next) return s.remove();
+  const left = Math.floor((next[0] - Date.now()) / 1000);
+  const parts = { d: Math.floor(left / 86400), h: Math.floor((left % 86400) / 3600), m: Math.floor((left % 3600) / 60), s: left % 60 };
+  s.querySelector(".cdl").textContent = next[1];
+  s.querySelector(".cd").setAttribute("aria-label", `${parts.d} days ${parts.h} hours ${parts.m} minutes`);
+  for (const [u, n] of Object.entries(parts)) FX.digits(s.querySelector(`[data-u="${u}"] .roll`), String(n).padStart(2, "0"), -1);
+  s.querySelector(".wk").style.setProperty("--p", Math.min(1, Math.max(0, (Date.now() - WEEK[0]) / (WEEK[1] - WEEK[0]))).toFixed(4));
+}
 
 // --- "Don't miss": last chance, ending by day, numbers, best brands ----------------------
 let lcTab = ""; // "24" | "48" | "week"; empty = the shortest window that has deals
+let grown = false; // the chart's bars grow from the baseline once per visit, the first time it is seen
 const iso = (t) => new Date(t).toISOString().slice(0, 10);
 const whenText = (d) => {
   const n = daysLeft(d);
   return n === 0 ? "Ends today" : n === 1 ? "Ends tomorrow" : `Ends ${fmtDate(d.ends)}`;
 };
-function dontMiss() {
-  const pool = DATA.deals.filter((d) => d.category !== ADULT || state.flags.has("adult"));
-  const windows = [["24", "Next 24 hours", 0], ["48", "Next 48 hours", 1], ["week", "This week", 7]].map(([k, label, max]) => ({ k, label, ds: pool.filter((d) => d.ends && daysLeft(d) <= max) }));
+const dmPool = () => DATA.deals.filter((d) => d.category !== ADULT || state.flags.has("adult"));
+const lcWindows = (pool) => [["24", "Next 24 hours", 0], ["48", "Next 48 hours", 1], ["week", "This week", 7]].map(([k, label, max]) => ({ k, label, ds: pool.filter((d) => d.ends && daysLeft(d) <= max) }));
+// Last chance: the tabs are a segmented control (an indicator slides to the chosen tab).
+function lastChance(pool) {
+  const windows = lcWindows(pool);
   const tab = windows.find((w) => w.k === lcTab) ?? windows.find((w) => w.ds.length) ?? windows[2];
   const cards = [...tab.ds].sort((a, b) => (b.discount ?? -1) - (a.discount ?? -1) || popular(a, b)).slice(0, 14);
-  const last = `<section class="dm lastchance"><div class="shead"><div><h2>Last chance</h2><p>Deals that end soon, biggest discounts first.</p></div></div>
-    <div class="tabs">${windows.map((w) => `<button class="chip${w.k === tab.k ? " on" : ""}" data-lc="${w.k}">${w.label} <b>${w.ds.length.toLocaleString()}</b></button>`).join("")}</div>
+  return `<section class="dm lastchance"><div class="shead"><div><h2>Last chance</h2><p>Deals that end soon, biggest discounts first.</p></div></div>
+    <div class="tabs"><span class="ind" aria-hidden="true"></span>${windows.map((w) => `<button class="chip${w.k === tab.k ? " on" : ""}" aria-pressed="${w.k === tab.k}" data-lc="${w.k}">${w.label} <b>${w.ds.length.toLocaleString()}</b></button>`).join("")}</div>
     <div class="lc">${cards
-      .map((d) => `<div class="lcc" data-id="${esc(d.id)}"><span class="when">${whenText(d)}</span><a class="t" href="${dealHref(d)}">${logo(d)}<b>${esc(d.name)}</b></a>${d.discount ? `<span class="big">${d.discount}% off</span>` : ""}<p>${esc(d.headline)}</p><div class="btns">${d.codes.length ? codeBtn(d.codes[0]) : `<span class="nocode">No code</span>`}${goBtn(d, "Get")}</div></div>`)
+      .map((d) => `<div class="lcc" data-id="${esc(d.id)}"><div class="lt"><span class="when${daysLeft(d) === 0 ? " hot" : ""}">${whenText(d)}</span><a class="t" href="${dealHref(d)}">${logo(d)}<b>${esc(d.name)}</b></a>${d.discount ? `<span class="big">${bigPct(d.discount)}</span>` : ""}<p>${esc(d.headline)}</p></div><div class="btns">${d.codes.length ? codeBtn(d.codes[0]) : `<span class="nocode">No code needed</span>`}${goBtn(d, "Get")}</div></div>`)
       .join("")}</div></section>`;
+}
+function moveInd(tabs) {
+  const on = tabs?.querySelector(".chip.on"), ind = tabs?.querySelector(".ind");
+  if (!on || !ind) return;
+  const first = !ind.style.width; // place it without sliding the first time
+  if (first) ind.style.transition = "none";
+  ind.style.width = `${on.offsetWidth}px`;
+  ind.style.transform = `translateX(${on.offsetLeft}px)`;
+  if (first) (void ind.offsetWidth, (ind.style.transition = ""));
+}
+const placeInds = () => document.querySelectorAll(".tabs").forEach(moveInd);
+function dontMiss() {
+  const pool = dmPool();
+  const windows = lcWindows(pool);
 
   // Ending by day: the next 15 days; the two busiest days are highlighted and named in the title.
   const days = Array.from({ length: 15 }, (_, i) => {
@@ -376,9 +430,9 @@ function dontMiss() {
   const top2 = [...days].sort((a, b) => b.n - a.n).slice(0, 2).filter((x) => x.n >= max * 0.3);
   const hot = new Set(top2.map((x) => x.day));
   const title = top2.length === 2 ? `${(top2[0].n + top2[1].n).toLocaleString()} deals end on ${[...top2].sort((a, b) => a.day.localeCompare(b.day)).map((x) => fmtDate(x.day)).join(" and ")}` : `${days[0].n} deals end today`;
-  const label = (x, i) => (i === 0 ? "Today" : x.day.endsWith("-11-27") ? "BF 27" : x.day.endsWith("-11-30") ? "CM 30" : x.day.endsWith("-12-01") ? "Dec 1" : String(Number(x.day.slice(8))));
+  const label = (x, i) => (i === 0 ? "Today" : x.day.endsWith("-11-27") ? "BF" : x.day.endsWith("-11-30") ? "CM" : String(Number(x.day.slice(8))));
   const chart = `<section class="dm"><div class="shead"><div><h2>${title}</h2><p>Deals ending each day, next two weeks. Tap a day to see its deals.</p></div></div>
-    <div class="tl">${days.map((x) => `<button class="tbar${hot.has(x.day) ? " hot" : ""}" data-day="${x.day}" style="height:${Math.max(3, Math.round((x.n / max) * 150))}px" aria-label="${x.n} deals end ${fmtDate(x.day)}"><span>${x.n}</span></button>`).join("")}</div>
+    <div class="tl${grown ? " in" : ""}">${days.map((x, i) => `<button class="tbar${hot.has(x.day) ? " hot" : ""}" data-day="${x.day}" style="--h:${Math.max(2, (x.n / max) * 100).toFixed(1)}%;--i:${i}" aria-label="${x.n} deals end ${fmtDate(x.day)}"><span class="col"></span><span class="val">${x.n}</span><span class="tip" aria-hidden="true">${x.n.toLocaleString()} end ${fmtDate(x.day)}</span></button>`).join("")}</div>
     <div class="tlx">${days.map((x, i) => `<span${i === 0 ? ' class="today"' : ""}>${label(x, i)}</span>`).join("")}</div>
     <p class="legend">${pool.filter((d) => !d.ends).length.toLocaleString()} deals have no end date and are not shown.</p></section>`;
 
@@ -402,7 +456,7 @@ function dontMiss() {
         .map((d) => `<a class="bd" data-id="${esc(d.id)}" href="${dealHref(d)}">${logo(d)}<b>${esc(d.name)}</b><em>${d.discount ? `${d.discount}% off` : "On sale"}</em></a>`)
         .join("")}</div></section>`
     : "";
-  return last + chart + numbers + brands;
+  return season() + lastChance(pool) + chart + numbers + brands;
 }
 
 // --- search suggestions ---------------------------------------------------------------
@@ -426,45 +480,107 @@ function suggest() {
 }
 
 // --- events ---------------------------------------------------------------------
-let toastTimer;
-function toast(msg) {
-  const t = $("#toast");
-  t.textContent = msg;
-  t.classList.add("on");
-  clearTimeout(toastTimer);
-  toastTimer = setTimeout(() => t.classList.remove("on"), 1400);
+const toast = FX.toast;
+const SITE_URL = () => location.href.split("#")[0].split("?")[0];
+const fine = matchMedia("(hover: hover) and (pointer: fine)");
+
+// Share links for one URL: the same networks as the static deal pages.
+const nets = (url, text, subject) => {
+  const u = encodeURIComponent(url), t = encodeURIComponent(text);
+  return [
+    ["x", "X", `https://x.com/intent/post?text=${t}&url=${u}`],
+    ["whatsapp", "WhatsApp", `https://wa.me/?text=${encodeURIComponent(`${text} ${url}`)}`],
+    ["telegram", "Telegram", `https://t.me/share/url?url=${u}&text=${t}`],
+    ["reddit", "Reddit", `https://www.reddit.com/submit?url=${u}&title=${t}`],
+    ["linkedin", "LinkedIn", `https://www.linkedin.com/sharing/share-offsite/?url=${u}`],
+    ["facebook", "Facebook", `https://www.facebook.com/sharer/sharer.php?u=${u}`],
+    ["email", "Email", `mailto:?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`${text}\n${url}`)}`],
+  ];
+};
+
+// Share popover for mouse and trackpad users (phones get the native share sheet). Ported from the
+// ui-sdk.dev popover behavior: opens beside its button, stays on screen, Escape or a click outside
+// closes it and focus returns to the button.
+let popFor = null;
+function closePop() {
+  const pop = $("#sharepop");
+  if (!pop || pop.hidden) return;
+  pop.hidden = true;
+  popFor?.setAttribute("aria-expanded", "false");
+  popFor = null;
+}
+function openPop(btn, { url, text, subject, title, line, pct, logoHtml }) {
+  let pop = $("#sharepop");
+  if (!pop) {
+    pop = Object.assign(document.createElement("div"), { id: "sharepop", className: "sharepop", tabIndex: -1, hidden: true });
+    pop.setAttribute("role", "dialog");
+    document.body.append(pop);
+  }
+  if (popFor === btn) return closePop();
+  closePop();
+  pop.setAttribute("aria-label", `Share ${title}`);
+  pop.innerHTML = `<div class="sp">${logoHtml}<div><b>${esc(title)}</b><span>${esc(line)}</span></div>${pct ? `<em>${pct}%</em>` : ""}</div>
+    <div class="nets">${nets(url, text, subject).map(([id, name, href]) => `<a class="net" href="${esc(href)}" target="_blank" rel="noopener"><svg aria-hidden="true"><use href="nets.svg#${id}"/></svg><small>${name}</small></a>`).join("")}</div>
+    <button class="btn link" data-copyurl="${esc(url)}">${I.link}<span>${esc(url.replace(/^https?:\/\//, ""))}</span><i>Copy</i></button>`;
+  pop.hidden = false;
+  const r = btn.getBoundingClientRect(), w = pop.offsetWidth, h = pop.offsetHeight;
+  const left = Math.min(Math.max(8, r.right - w), innerWidth - w - 8);
+  const top = r.bottom + 8 + h > innerHeight - 8 && r.top - 8 - h > 8 ? r.top - 8 - h : r.bottom + 8;
+  pop.style.left = `${left}px`;
+  pop.style.top = `${top}px`;
+  pop.style.transformOrigin = `${r.right - left - r.width / 2}px ${top > r.top ? "0" : "100%"}`;
+  pop.classList.remove("in");
+  void pop.offsetWidth;
+  pop.classList.add("in");
+  popFor = btn;
+  btn.setAttribute("aria-expanded", "true");
+  pop.focus({ preventScroll: true });
 }
 
-// Shares the deal's page on this site (not the vendor link): share sheet on phones, copy elsewhere.
-async function shareDeal(d) {
-  const url = new URL(`deal/${d.id}/`, location.href.split("#")[0].split("?")[0]).href;
+// Shares the deal's page on this site (not the vendor link).
+async function shareDeal(d, btn) {
+  const url = new URL(`deal/${d.id}/`, SITE_URL()).href;
   const text = `${d.name}: ${d.headline}${d.codes.length ? `, code ${d.codes[0]}` : ""}`;
-  if (navigator.share) {
-    try {
-      await navigator.share({ title: `${d.name} Black Friday deal`, text, url });
-    } catch {}
-    return;
-  }
+  if (fine.matches || !navigator.share) return openPop(btn, { url, text, subject: `Black Friday deal: ${d.name}`, title: d.name, line: d.headline, pct: d.discount, logoHtml: logo(d) });
   try {
-    await navigator.clipboard.writeText(url);
+    await navigator.share({ title: `${d.name} Black Friday deal`, text, url });
   } catch {}
-  toast("Link copied");
+}
+async function shareSite(btn) {
+  const url = SITE_URL();
+  const text = `Every Black Friday 2026 deal in one list: ${DATA.deals.length.toLocaleString()} deals, ${DATA.deals.filter((d) => d.codes.length).length.toLocaleString()} promo codes`;
+  if (fine.matches || !navigator.share) return openPop(btn, { url, text, subject: "Black Friday 2026 deals, all in one list", title: "BF26 deals", line: text, logoHtml: '<span class="logo ph">%</span>' });
+  try {
+    await navigator.share({ title: "BF26 deals", text, url });
+  } catch {}
 }
 
 async function copy(btn) {
   const code = btn.dataset.code;
-  try {
-    await navigator.clipboard.writeText(code);
-  } catch {
-    const ta = Object.assign(document.createElement("textarea"), { value: code });
-    document.body.append(ta);
-    ta.select();
-    document.execCommand("copy");
-    ta.remove();
-  }
-  btn.classList.add("done");
-  setTimeout(() => btn.classList.remove("done"), 1200);
-  toast(`Copied ${code}`);
+  FX.copyText(code);
+  FX.copied(btn);
+  toast(`Copied ${code}`, "Paste it at checkout");
+}
+
+// Pointer tilt with a soft glare on editors' picks (mouse and trackpad only).
+function tilt(e) {
+  const card = e.target.closest?.(".pc");
+  if (!card || FX.reduce || !fine.matches) return;
+  const r = card.getBoundingClientRect(), px = (e.clientX - r.left) / r.width, py = (e.clientY - r.top) / r.height;
+  card.style.transform = `perspective(900px) rotateX(${((0.5 - py) * 5).toFixed(2)}deg) rotateY(${((px - 0.5) * 6).toFixed(2)}deg)`;
+  card.style.setProperty("--gx", `${(px * 100).toFixed(1)}%`);
+  card.style.setProperty("--gy", `${(py * 100).toFixed(1)}%`);
+}
+
+// After each list render: place the tab indicators, start the countdown, and grow the chart once.
+const growIO = new IntersectionObserver((es) => {
+  for (const e of es) if (e.isIntersecting) { e.target.classList.add("in"); grown = true; growIO.disconnect(); }
+}, { threshold: 0.35 });
+function afterRender() {
+  placeInds();
+  tick();
+  const tl = document.querySelector(".tl:not(.in)");
+  if (tl) growIO.observe(tl);
 }
 
 function bind() {
@@ -547,8 +663,15 @@ function bind() {
     if (opened && holder) remember(holder.dataset.id);
     const lc = e.target.closest("[data-lc]");
     if (lc) {
+      // Swap only the cards, so the indicator can slide and the long list below isn't rebuilt.
       lcTab = lc.dataset.lc;
-      return render();
+      const sec = lc.closest(".lastchance"), tmp = document.createElement("div");
+      tmp.innerHTML = lastChance(dmPool());
+      const cards = tmp.querySelector(".lc");
+      cards.classList.add("swap");
+      sec.querySelector(".lc").replaceWith(cards);
+      sec.querySelectorAll("[data-lc]").forEach((b) => { b.classList.toggle("on", b === lc); b.setAttribute("aria-pressed", String(b === lc)); });
+      return moveInd(sec.querySelector(".tabs"));
     }
     const bar = e.target.closest("[data-day]");
     const band = e.target.closest("[data-band]");
@@ -570,13 +693,21 @@ function bind() {
       beacon(id, on ? "like" : "unlike");
       vote.classList.toggle("on", on);
       vote.setAttribute("aria-pressed", String(on));
-      vote.textContent = STATS[id].like || "";
+      const roll = vote.querySelector(".roll"), n = STATS[id].like;
+      if (n) FX.digits(roll, String(n), on ? 1 : -1);
+      else (roll.textContent = "", delete roll.dataset.v);
+      if (on && !FX.reduce) {
+        vote.querySelector(".i").animate([{ transform: "none" }, { transform: "translateY(-5px)" }, { transform: "none" }], { duration: 380, easing: FX.EASE });
+        FX.burst(vote, 8);
+      }
       return;
     }
     if (holder && e.target.closest(".go")) beacon(holder.dataset.id, state.q ? "search" : "click");
     const share = e.target.closest("[data-share]");
     if (share) beacon(share.dataset.share, "share");
-    if (share) return shareDeal(DATA.deals.find((d) => d.id === share.dataset.share));
+    if (share) return shareDeal(DATA.deals.find((d) => d.id === share.dataset.share), share);
+    const site = e.target.closest("[data-sharesite]");
+    if (site) return shareSite(site);
     const code = e.target.closest(".code");
     if (code) return copy(code);
     if (e.target.closest("a")) return;
@@ -603,6 +734,32 @@ function bind() {
     const open = $("#side").classList.toggle("open");
     e.currentTarget.setAttribute("aria-expanded", String(open));
   });
+  // Share popover: copy its link, close on a click outside, Escape, or scroll.
+  document.addEventListener("click", (e) => {
+    const cp = e.target.closest("[data-copyurl]");
+    if (cp) {
+      FX.copyText(cp.dataset.copyurl);
+      toast("Link copied", "Send it to someone who's shopping");
+      return closePop();
+    }
+    if (e.target.closest(".net")) return setTimeout(closePop, 0);
+    if (!e.target.closest("#sharepop, [data-share], [data-sharesite]")) closePop();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key !== "Escape" || !popFor) return;
+    const btn = popFor;
+    closePop();
+    btn.focus();
+  });
+  addEventListener("scroll", closePop, { passive: true });
+  $("#list").addEventListener("pointermove", tilt);
+  $("#list").addEventListener("pointerout", (e) => {
+    const card = e.target.closest(".pc");
+    if (card && !card.contains(e.relatedTarget)) card.style.transform = "";
+  });
+  addEventListener("resize", placeInds);
+  document.fonts?.ready.then(placeInds);
+  setInterval(tick, 1000);
 }
 
 async function main() {

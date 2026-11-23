@@ -6,6 +6,9 @@
 /app.js
   ! Cache-Control
   Cache-Control: public, max-age=31536000, immutable
+/fx.js
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable
 /page.js
   ! Cache-Control
   Cache-Control: public, max-age=31536000, immutable

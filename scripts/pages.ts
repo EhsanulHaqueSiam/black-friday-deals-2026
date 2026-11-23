@@ -119,10 +119,19 @@ const pop = (d: PageDeal) => { const s = STATS[d.id] ?? {}; return 8 * (s.like ?
 export const popular = (a: PageDeal, b: PageDeal) => pop(b) - pop(a) || (b.discount ?? -1) - (a.discount ?? -1) || a.name.localeCompare(b.name);
 const logo = (d: PageDeal, cls = "logo") =>
   `<img class="${cls}" src="https://icons.duckduckgo.com/ip3/${esc(host(d.url))}.ico" alt="" loading="lazy" width="28" height="28" data-initial="${esc(d.name[0] ?? "?")}">`;
-const codeBtn = (c: string, label = "Copy") => `<button class="btn code" data-code="${esc(c)}" title="Copy ${esc(c)}">${esc(c)}<i>${esc(label)}</i></button>`;
-export const goBtn = (d: PageDeal, label = "Get deal") => `<a class="btn go" href="${esc(d.url)}" target="_blank" rel="noopener">${esc(label)} <span aria-hidden="true">↗</span></a>`;
+// Same markup as docs/app.js: fx.js flips the button and swaps Copy for Copied.
+const svg = (paths: string, cls = "i") => `<svg class="${cls}" viewBox="0 0 24 24" aria-hidden="true">${paths}</svg>`;
+const GLYPH = {
+  copy: svg('<rect width="13" height="13" x="9" y="9" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>'),
+  check: svg('<path pathLength="1" d="M20 6 9 17l-5-5"/>', "i ck"),
+  arrow: svg('<path d="M7 7h10v10"/><path d="M7 17 17 7"/>'),
+  share: svg('<path d="M12 3v12"/><path d="m8 7 4-4 4 4"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/>'),
+  link: svg('<path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/>'),
+};
+const codeBtn = (c: string) => `<button class="btn code" data-code="${esc(c)}" title="Copy ${esc(c)}"><span class="cv" translate="no">${esc(c)}</span><span class="cl"><span class="c0">${GLYPH.copy}Copy</span><span class="c1" aria-hidden="true">${GLYPH.check}Copied</span></span></button>`;
+export const goBtn = (d: PageDeal, label = "Get deal") => `<a class="btn go" href="${esc(d.url)}" target="_blank" rel="noopener">${esc(label)}${GLYPH.arrow}</a>`;
 
-let ASSET_V = { css: "", page: "" }; // content hashes from build.ts, for cache-busting
+let ASSET_V = { css: "", page: "", fx: "" }; // content hashes from build.ts, for cache-busting
 // JSON-LD for search engines and answer engines; "</" is escaped so text can't close the script tag.
 export const ldScript = (items: object[]) => items.map((x) => `<script type="application/ld+json">${JSON.stringify({ "@context": "https://schema.org", ...x }).replace(/</g, "\\u003c")}</script>`).join("\n");
 export const breadcrumb = (items: [string, string][]) => ({
@@ -130,7 +139,7 @@ export const breadcrumb = (items: [string, string][]) => ({
   itemListElement: items.map(([name, path], i) => ({ "@type": "ListItem", position: i + 1, name, item: SITE + path.slice(BASE.length) })),
 });
 // Fonts load without blocking first paint (text shows in the fallback font, then swaps).
-export const FONTS = `<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Geist:wght@400..700&family=Geist+Mono:wght@400..600&display=swap" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400..700&family=Geist+Mono:wght@400..600&display=swap"></noscript>`;
+export const FONTS = `<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Anton&family=Geist:wght@400..700&family=Geist+Mono:wght@400..600&display=swap" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Geist:wght@400..700&family=Geist+Mono:wght@400..600&display=swap"></noscript>`;
 // "<" and ">" percent-encoded so naive HTML parsers don't read the data URI as markup.
 const ICON = `<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23000'/%3E%3Ctext x='16' y='22' font-family='Arial' font-weight='700' font-size='15' text-anchor='middle' fill='%23ff6a2b'%3E%25%3C/text%3E%3C/svg%3E">`;
 // Links to every "best X" guide; in the footer of every page and on the home page.
@@ -175,6 +184,7 @@ ${o.body}
   <p>Black Friday &amp; Cyber Monday 2026 deals, merged from 28 community lists and web research. Always check the price at checkout. <a href="${REPO}">Source on GitHub</a></p>
 </footer>
 <div id="toast" class="toast" role="status"></div>
+<script src="${BASE}fx.js?v=${ASSET_V.fx}"></script>
 <script src="${BASE}page.js?v=${ASSET_V.page}"></script>
 </body>
 </html>
@@ -198,19 +208,20 @@ function shareBox(d: PageDeal) {
   const url = SITE + dealPath(d).slice(BASE.length);
   const text = `${d.name}: ${d.headline}${d.codes.length ? `, code ${d.codes[0]}` : ""}`;
   const u = encodeURIComponent(url), t = encodeURIComponent(text);
-  const nets: [string, string][] = [
-    ["X", `https://x.com/intent/post?text=${t}&url=${u}`],
-    ["WhatsApp", `https://wa.me/?text=${encodeURIComponent(`${text} ${url}`)}`],
-    ["Telegram", `https://t.me/share/url?url=${u}&text=${t}`],
-    ["Reddit", `https://www.reddit.com/submit?url=${u}&title=${t}`],
-    ["LinkedIn", `https://www.linkedin.com/sharing/share-offsite/?url=${u}`],
-    ["Facebook", `https://www.facebook.com/sharer/sharer.php?u=${u}`],
-    ["Email", `mailto:?subject=${encodeURIComponent(`Black Friday deal: ${d.name}`)}&body=${encodeURIComponent(`${text}\n${url}`)}`],
+  // [icon id in nets.svg, label, share URL]
+  const nets: [string, string, string][] = [
+    ["x", "X", `https://x.com/intent/post?text=${t}&url=${u}`],
+    ["whatsapp", "WhatsApp", `https://wa.me/?text=${encodeURIComponent(`${text} ${url}`)}`],
+    ["telegram", "Telegram", `https://t.me/share/url?url=${u}&text=${t}`],
+    ["reddit", "Reddit", `https://www.reddit.com/submit?url=${u}&title=${t}`],
+    ["linkedin", "LinkedIn", `https://www.linkedin.com/sharing/share-offsite/?url=${u}`],
+    ["facebook", "Facebook", `https://www.facebook.com/sharer/sharer.php?u=${u}`],
+    ["email", "Email", `mailto:?subject=${encodeURIComponent(`Black Friday deal: ${d.name}`)}&body=${encodeURIComponent(`${text}\n${url}`)}`],
   ];
   return `<div class="sharebox"><span class="lbl2">Share this deal</span><div class="shares">
-    <button class="btn ghost" data-share data-url="${esc(url)}" data-text="${esc(text)}">Share</button>
-    <button class="btn ghost" data-copylink="${esc(url)}">Copy link</button>
-    ${nets.map(([n, href]) => `<a class="btn ghost net" href="${esc(href)}" target="_blank" rel="noopener">${n}</a>`).join("")}
+    <button class="btn go" data-share data-url="${esc(url)}" data-text="${esc(text)}">${GLYPH.share}Share</button>
+    <button class="btn ghost" data-copylink="${esc(url)}">${GLYPH.link}Copy link</button>
+    ${nets.map(([id, n, href]) => `<a class="btn ghost net" href="${esc(href)}" target="_blank" rel="noopener" aria-label="Share on ${n}"><svg aria-hidden="true"><use href="${BASE}nets.svg#${id}"/></svg><span>${n}</span></a>`).join("")}
   </div></div>`;
 }
 
@@ -339,7 +350,7 @@ function submitPage(deals: PageDeal[]) {
   const body = `<main class="submitpage">
   <h1>List your Black Friday deal</h1>
   <p class="lead">Free. ${deals.length.toLocaleString()} deals and growing, read by people actively looking to buy this week. Your listing goes live as soon as it is approved.</p>
-  <div class="cta"><a class="btn go" href="${SUGGEST}" target="_blank" rel="noopener">Submit your deal (2 min form) <span aria-hidden="true">↗</span></a><a class="btn ghost" href="${REPO}/issues/new?template=deal.yml&title=${encodeURIComponent("Update: ")}" target="_blank" rel="noopener">Update an existing listing</a></div>
+  <div class="cta"><a class="btn go" href="${SUGGEST}" target="_blank" rel="noopener">Submit your deal (2 min form)${GLYPH.arrow}</a><a class="btn ghost" href="${REPO}/issues/new?template=deal.yml&title=${encodeURIComponent("Update: ")}" target="_blank" rel="noopener">Update an existing listing</a></div>
   <h2 class="lbl">WHAT YOUR LISTING GETS</h2>
   <div class="gets">
     <div class="g"><b>Its own page</b><span>/deal/your-product/ with your offer, codes and a direct link to your site.</span></div>
@@ -365,7 +376,7 @@ function submitPage(deals: PageDeal[]) {
   return shell({ title: "List your Black Friday 2026 deal for free", description: "Add your product's Black Friday or Cyber Monday 2026 deal to the directory: its own page, a followed link, search and category placement.", path: `${BASE}submit/`, body });
 }
 
-export function renderSite(deals: PageDeal[], builtAt: string, v: { css: string; page: string }, sources: number) {
+export function renderSite(deals: PageDeal[], builtAt: string, v: { css: string; page: string; fx: string }, sources: number) {
   ASSET_V = v;
   for (const dir of ["docs/deal", "docs/c", "docs/best", "docs/about"]) rmSync(dir, { recursive: true, force: true }); // drop pages of expired deals
   const write = (path: string, html: string) => {
