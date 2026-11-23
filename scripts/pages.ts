@@ -53,7 +53,13 @@ const codeBtn = (c: string, label = "Copy") => `<button class="btn code" data-co
 const goBtn = (d: PageDeal, label = "Get deal") => `<a class="btn go" href="${esc(d.url)}" target="_blank" rel="noopener">${esc(label)} <span aria-hidden="true">↗</span></a>`;
 
 let ASSET_V = { css: "", page: "" }; // content hashes from build.ts, for cache-busting
-function shell(o: { title: string; description: string; path: string; body: string; noindex?: boolean }) {
+// JSON-LD for search engines and answer engines; "</" is escaped so text can't close the script tag.
+export const ldScript = (items: object[]) => items.map((x) => `<script type="application/ld+json">${JSON.stringify({ "@context": "https://schema.org", ...x }).replace(/</g, "\\u003c")}</script>`).join("\n");
+export const breadcrumb = (items: [string, string][]) => ({
+  "@type": "BreadcrumbList",
+  itemListElement: items.map(([name, path], i) => ({ "@type": "ListItem", position: i + 1, name, item: SITE + path.slice(BASE.length) })),
+});
+function shell(o: { title: string; description: string; path: string; body: string; noindex?: boolean; ld?: object[] }) {
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -66,6 +72,12 @@ ${o.noindex ? '<meta name="robots" content="noindex">' : ""}
 <meta property="og:title" content="${esc(o.title)}">
 <meta property="og:description" content="${esc(o.description)}">
 <meta property="og:type" content="website">
+<meta property="og:url" content="${esc(SITE + o.path.slice(BASE.length))}">
+<meta property="og:image" content="${SITE}og.png">
+<meta property="og:site_name" content="BF26 deals">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="${SITE}og.png">
+${ldScript(o.ld ?? [])}
 <meta name="theme-color" content="#000000">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23000'/><text x='16' y='22' font-family='Arial' font-weight='700' font-size='15' text-anchor='middle' fill='%23ff6a2b'>%25</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -130,7 +142,26 @@ function dealPage(d: PageDeal, related: PageDeal[]) {
   <p class="claim">Your product? <a href="${esc(update)}" target="_blank" rel="noopener">Update this listing</a>.</p>
   <details class="badge"><summary>Add the "Listed on BF26 deals" badge to your site</summary><img src="${BASE}badge.svg" alt="Listed on BF26 deals" width="168" height="28"><textarea readonly rows="3">${esc(badge)}</textarea></details>
 </main>`;
-  return shell({ title, description: `${d.name}: ${d.headline}.${d.codes.length ? ` Code ${d.codes[0]}.` : ""}${d.ends ? ` Ends ${fmt(d.ends)}.` : ""} ${d.description ?? ""}`.trim(), path: dealPath(d), body, noindex: d.category === ADULT });
+  const crumbsLd: [string, string][] = [["All deals", BASE], [d.category, catPath(d.category)]];
+  if (d.subcategory) crumbsLd.push([d.subcategory, catPath(d.category, d.subcategory)]);
+  crumbsLd.push([d.name, dealPath(d)]);
+  const product = {
+    "@type": "Product",
+    name: d.name,
+    description: d.description ?? d.headline,
+    url: SITE + dealPath(d).slice(BASE.length),
+    image: `https://icons.duckduckgo.com/ip3/${host(d.url)}.ico`,
+    brand: { "@type": "Brand", name: d.name },
+    category: [d.category, d.subcategory].filter(Boolean).join(" > "),
+    offers: {
+      "@type": "Offer",
+      url: d.url,
+      description: `${d.headline}${d.codes.length ? `. Code: ${d.codes.join(", ")}` : ""}`,
+      availability: d.upcoming ? "https://schema.org/PreOrder" : "https://schema.org/InStock",
+      ...(d.ends ? { priceValidUntil: d.ends } : {}),
+    },
+  };
+  return shell({ title, description: `${d.name}: ${d.headline}.${d.codes.length ? ` Code ${d.codes[0]}.` : ""}${d.ends ? ` Ends ${fmt(d.ends)}.` : ""} ${d.description ?? ""}`.trim(), path: dealPath(d), body, noindex: d.category === ADULT, ld: [breadcrumb(crumbsLd), product] });
 }
 
 function categoryPage(c: Category, s: string | undefined, ds: PageDeal[], all: PageDeal[]) {
@@ -144,14 +175,23 @@ function categoryPage(c: Category, s: string | undefined, ds: PageDeal[], all: P
   const body = `<main class="catpage">
   <nav class="crumb">${crumbs}</nav>
   <h1>${esc(name)} Black Friday deals</h1>
-  <p class="intro">${ds.length} live Black Friday and Cyber Monday 2026 offers${s ? ` in ${esc(c)}` : ""}, ${codes} with promo codes. Most popular first.</p>
+  <p class="intro">${sorted[0] ? `Best right now: <a href="${dealPath(sorted[0])}"><b>${esc(sorted[0].name)}</b></a>, ${esc(sorted[0].headline)}${sorted[0].codes.length ? ` (code <code>${esc(sorted[0].codes[0])}</code>)` : ""}. ` : ""}${ds.length} live Black Friday and Cyber Monday 2026 offers${s ? ` in ${esc(c)}` : ""}, ${codes} with promo codes. Most popular first.</p>
   <nav class="subs"><a href="${catPath(c)}" class="${s ? "" : "on"}">All ${inCat.length}</a>${subs.map(([x, n]) => `<a href="${catPath(c, x)}" class="${x === s ? "on" : ""}">${esc(x)} ${n}</a>`).join("")}</nav>
   ${top.length ? `<section class="toppicks"><h2 class="lbl">TOP PICKS IN ${esc(name.toUpperCase())}</h2><div class="tp">${top
     .map((d, i) => `<div class="tc"><span class="rank">#${i + 1}</span><a class="tn" href="${dealPath(d)}">${logo(d)}<b>${esc(d.name)}</b></a>${d.discount ? `<span class="big">${d.discount}% off</span>` : ""}<p>${esc(d.headline)}</p><div class="tact">${d.codes.length ? codeBtn(d.codes[0]) : ""}${goBtn(d)}</div></div>`)
     .join("")}</div></section>` : ""}
   <section class="group"><h2 class="lbl">ALL ${ds.length} DEALS</h2>${sorted.map(row).join("")}</section>
 </main>`;
-  return shell({ title: `${name} Black Friday & Cyber Monday 2026 deals (${ds.length})`, description: `${ds.length} live ${name} Black Friday 2026 deals, ${codes} with promo codes.`, path: catPath(c, s), body, noindex: c === ADULT });
+  const crumbsLd: [string, string][] = [["All deals", BASE], [c, catPath(c)]];
+  if (s) crumbsLd.push([s, catPath(c, s)]);
+  const list = {
+    "@type": "ItemList",
+    name: `${name} Black Friday 2026 deals`,
+    numberOfItems: ds.length,
+    itemListElement: sorted.slice(0, 50).map((d, i) => ({ "@type": "ListItem", position: i + 1, name: `${d.name}: ${d.headline}`, url: SITE + dealPath(d).slice(BASE.length) })),
+  };
+  const best = sorted[0] ? ` Best: ${sorted[0].name}, ${sorted[0].headline}.` : "";
+  return shell({ title: `${name} Black Friday & Cyber Monday 2026 deals (${ds.length})`, description: `${ds.length} live ${name} Black Friday 2026 deals, ${codes} with promo codes.${best}`, path: catPath(c, s), body, noindex: c === ADULT, ld: [breadcrumb(crumbsLd), list] });
 }
 
 
@@ -217,7 +257,9 @@ export function renderSite(deals: PageDeal[], builtAt: string, v: { css: string;
     "docs/sitemap.xml",
     `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${pages.map((p) => `<url><loc>${SITE}${p.slice(BASE.length)}</loc><lastmod>${builtAt}</lastmod></url>`).join("\n")}\n</urlset>\n`,
   );
-  writeFileSync("docs/robots.txt", `User-agent: *\nAllow: /\nSitemap: ${SITE}sitemap.xml\n`);
+  // Search and AI crawlers are all welcome; listed by name so the intent is explicit.
+  const bots = ["Googlebot", "Bingbot", "GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "Claude-User", "PerplexityBot", "Perplexity-User", "Google-Extended", "Applebot", "Applebot-Extended", "DuckAssistBot", "meta-externalagent", "CCBot"];
+  writeFileSync("docs/robots.txt", `${bots.map((b) => `User-agent: ${b}\nAllow: /\n`).join("\n")}\nUser-agent: *\nAllow: /\n\nSitemap: ${SITE}sitemap.xml\n`);
   return pages.length;
 }
 
@@ -227,3 +269,78 @@ export const categoryNav = (deals: PageDeal[]) =>
     .filter((c) => c !== ADULT && deals.some((d) => d.category === c))
     .map((c) => `<a href="${catPath(c)}">${esc(c)}</a>`)
     .join("");
+
+// --- Home page extras for crawlers and answer engines -----------------------------------------
+// Returns HTML/JSON-LD injected into docs/index.html, and writes llms.txt / llms-full.txt.
+export function renderHome(deals: PageDeal[], picks: { id: string; why: string }[], builtAt: string, brands: string[] = []) {
+  const visible = deals.filter((d) => d.category !== ADULT);
+  const codes = visible.filter((d) => d.codes.length).length;
+  // "Best" answers prefer editors' picks and household brands, then the most-listed deal.
+  const featured = [...picks.map((p) => p.id), ...brands];
+  const rank = (d: PageDeal) => { const i = featured.indexOf(d.id); return i < 0 ? Infinity : i; };
+  const top = (test: (d: PageDeal) => boolean) => visible.filter(test).sort((a, b) => rank(a) - rank(b) || popular(a, b))[0];
+  const line = (d?: PageDeal) => (d ? `${d.name}: ${d.headline}${d.codes.length ? ` (code ${d.codes[0]})` : ""}${d.ends ? `, ends ${fmt(d.ends)}` : ""}` : "");
+  const link = (d?: PageDeal) => (d ? `<a href="${dealPath(d)}">${esc(d.name)}</a>: ${esc(d.headline)}${d.codes.length ? ` (code <code>${esc(d.codes[0])}</code>)` : ""}` : "");
+  const soon = visible.filter((d) => d.ends && Date.parse(d.ends) - Date.parse(builtAt) <= 2 * 864e5).sort(popular);
+
+  // Answer-first FAQ: each answer names the current best deal, so answer engines can quote it.
+  const best: [string, PageDeal | undefined][] = [
+    ["VPN", top((d) => d.subcategory === "VPN")],
+    ["password manager", top((d) => d.subcategory === "Password Managers")],
+    ["web hosting", top((d) => d.subcategory === "Web & WordPress Hosting")],
+    ["domain", top((d) => d.subcategory === "Domains")],
+    ["AI tool", top((d) => d.category === "AI Tools")],
+    ["developer tool", top((d) => d.category === "Developer Tools")],
+    ["Mac app", top((d) => d.platforms.includes("mac") && d.category === "Mac & Desktop Utilities")],
+    ["online course", top((d) => d.category === "Learning")],
+    ["game", top((d) => d.category === "Gaming")],
+  ];
+  const faq: { q: string; html: string; text: string }[] = [
+    { q: "When is Black Friday 2026?", text: "Black Friday 2026 is Friday, November 27, 2026, and Cyber Monday is Monday, November 30, 2026. Most deals in this directory run until November 30 or December 1.", html: "Black Friday 2026 is <b>Friday, November 27</b>, and Cyber Monday is <b>Monday, November 30</b>. Most deals here run until November 30 or December 1." },
+    { q: "How many Black Friday 2026 deals are listed here?", text: `${visible.length} live deals, ${codes} with promo codes, merged from 28 community deal lists plus web, X and Reddit research. Updated daily; expired deals are removed.`, html: `<b>${visible.length.toLocaleString()} live deals</b>, ${codes.toLocaleString()} with promo codes, merged from 28 community deal lists plus web, X and Reddit research. Updated daily; expired deals are removed.` },
+    ...best.filter(([, d]) => d).map(([what, d]) => ({ q: `What is the best ${what} Black Friday deal in 2026?`, text: `${line(d)}.`, html: `${link(d)}.` })),
+    { q: "Which Black Friday deals end soonest?", text: soon.length ? `${soon.length} deals end within 48 hours, including ${soon.slice(0, 3).map((d) => d.name).join(", ")}.` : "See the Last chance section for deals ending soon.", html: soon.length ? `${soon.length} deals end within 48 hours, including ${soon.slice(0, 3).map((d) => `<a href="${dealPath(d)}">${esc(d.name)}</a>`).join(", ")}.` : "See Last chance above." },
+    { q: "How do I list my product's Black Friday deal?", text: `Use the free submission form at ${SITE}submit/. Each listing gets its own page with a link to your site.`, html: `Use the free <a href="${BASE}submit/">submission form</a>. Each listing gets its own page with a link to your site.` },
+  ];
+  const faqHtml = `<section class="faq"><h2>Black Friday 2026: quick answers</h2>${faq.map((f) => `<details><summary>${esc(f.q)}</summary><p>${f.html}</p></details>`).join("")}</section>`;
+  const ld = ldScript([
+    { "@type": "WebSite", name: "BF26 deals", url: SITE, description: `Directory of ${visible.length} Black Friday and Cyber Monday 2026 deals with promo codes.`, potentialAction: { "@type": "SearchAction", target: { "@type": "EntryPoint", urlTemplate: `${SITE}?q={search_term_string}` }, "query-input": "required name=search_term_string" } },
+    { "@type": "FAQPage", mainEntity: faq.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.text } })) },
+    { "@type": "ItemList", name: "Editors' picks: Black Friday 2026", itemListElement: picks.map((p, i) => visible.find((d) => d.id === p.id)).filter(Boolean).map((d, i) => ({ "@type": "ListItem", position: i + 1, name: `${d!.name}: ${d!.headline}`, url: SITE + dealPath(d!).slice(BASE.length) })) },
+  ]);
+  // What crawlers see before app.js runs: the 60 most popular deals as plain rows.
+  const ssr = `<section class="group"><h3 class="sechead">MOST POPULAR DEALS</h3>${[...visible].sort(popular).slice(0, 60).map(row).join("")}</section>`;
+
+  // llms.txt: a compact guide for AI agents; llms-full.txt: every deal, one line each.
+  const cats = (Object.keys(TAXONOMY) as Category[]).filter((c) => c !== ADULT && visible.some((d) => d.category === c));
+  writeFileSync(
+    "docs/llms.txt",
+    `# BF26 deals: Black Friday & Cyber Monday 2026 deals directory
+
+> ${visible.length} live Black Friday and Cyber Monday 2026 deals (${codes} with promo codes) on software, AI tools, VPNs, hosting, domains, courses, games and hardware. Merged from 28 community deal lists plus web, X and Reddit research, deduplicated, tagged and updated daily. Built ${builtAt}.
+
+Black Friday 2026 is Friday, November 27. Cyber Monday is Monday, November 30. Prices and codes come from vendors and deal lists; check at checkout.
+
+## Best deal per category
+${cats.map((c) => { const d = top((x) => x.category === c); return `- [${c}](${SITE}c/${slug(c)}/): ${line(d)}`; }).join("\n")}
+
+## Editors' picks
+${picks.map((p) => visible.find((d) => d.id === p.id)).filter(Boolean).map((d) => `- [${d!.name}](${SITE}${dealPath(d!).slice(BASE.length)}): ${line(d)}`).join("\n")}
+
+## Data
+- [Every deal, one line each](${SITE}llms-full.txt)
+- [All deals as JSON](${SITE}data.json): fields name, url, category, subcategory, headline, deal, codes, ends, discount
+- [Sitemap](${SITE}sitemap.xml)
+- [Submit a deal](${SITE}submit/)
+- [Source on GitHub](${REPO})
+`,
+  );
+  writeFileSync(
+    "docs/llms-full.txt",
+    `# BF26 deals: every live Black Friday 2026 deal (${visible.length}), built ${builtAt}
+# Format: Name | Category > Subcategory | Offer | Codes | Ends | Deal page | Vendor URL
+${[...visible].sort(popular).map((d) => [d.name, [d.category, d.subcategory].filter(Boolean).join(" > "), d.headline, d.codes.join(" ") || "-", d.ends ?? "-", SITE + dealPath(d).slice(BASE.length), d.url].join(" | ")).join("\n")}
+`,
+  );
+  return { ld, ssr, faqHtml };
+}

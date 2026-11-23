@@ -8,7 +8,7 @@ import {
   TAXONOMY, PLATFORMS, PRICING, ADULT, guessCategory, isCategory, isSubcategory,
   type Category, type Platform, type Pricing,
 } from "./taxonomy.ts";
-import { SITE, SUGGEST, categoryNav, renderSite, slug } from "./pages.ts";
+import { SITE, SUGGEST, categoryNav, renderHome, renderSite, slug } from "./pages.ts";
 
 const TODAY = new Date(process.env.TODAY ?? new Date().toISOString().slice(0, 10));
 const YEAR = 2026;
@@ -442,10 +442,17 @@ writeFileSync(
 // Cache-busting: Pages lets browsers cache for 10 minutes, so assets carry a content hash.
 const hash = (f: string) => createHash("sha1").update(readFileSync(f)).digest("hex").slice(0, 8);
 const v = { app: hash("docs/app.js"), css: hash("docs/style.css"), page: hash("docs/page.js") };
+// Best brands: household names (data/brands.json, ids); gone ones drop out.
+const brandIds = existsSync("data/brands.json") ? (JSON.parse(readFileSync("data/brands.json", "utf8")) as string[]).filter((id) => live.some((d) => d.id === id)) : [];
+const home = renderHome(live.map(publish), picks, stats.builtAt, brandIds);
 const index = readFileSync("docs/index.html", "utf8")
   .replace(/<!--cats-->[\s\S]*?<!--\/cats-->/, `<!--cats-->${categoryNav(live)}<!--/cats-->`)
   .replace(/src="app\.js(\?v=\w+)?"/, `src="app.js?v=${v.app}"`)
-  .replace(/href="style\.css(\?v=\w+)?"/, `href="style.css?v=${v.css}"`);
+  .replace(/href="style\.css(\?v=\w+)?"/, `href="style.css?v=${v.css}"`)
+  // crawlable home: JSON-LD, the most popular deals as static rows, and the FAQ
+  .replace(/<!--ld-->[\s\S]*?<!--\/ld-->/, `<!--ld-->${home.ld}<!--/ld-->`)
+  .replace(/<!--ssr-->[\s\S]*?<!--\/ssr-->/, `<!--ssr-->${home.ssr}<!--/ssr-->`)
+  .replace(/<!--faq-->[\s\S]*?<!--\/faq-->/, `<!--faq-->${home.faqHtml}<!--/faq-->`);
 writeFileSync("docs/index.html", index);
 const pageCount = renderSite(live.map(publish), stats.builtAt, v);
 
