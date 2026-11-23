@@ -449,7 +449,7 @@ export function renderHome(deals: PageDeal[], picks: { id: string; why: string }
     { "@type": "ItemList", name: "Editors' picks: Black Friday 2026", itemListElement: picks.map((p, i) => visible.find((d) => d.id === p.id)).filter(Boolean).map((d, i) => ({ "@type": "ListItem", position: i + 1, name: `${d!.name}: ${d!.headline}`, url: SITE + dealPath(d!).slice(BASE.length) })) },
   ]);
   // What crawlers see before app.js runs: the 60 most popular deals as plain rows.
-  const ssr = `<section class="group"><h3 class="sechead">MOST POPULAR DEALS</h3>${[...visible].sort(popular).slice(0, 60).map(row).join("")}</section>`;
+  const ssr = `<section class="group"><h2 class="sechead">MOST POPULAR DEALS</h2>${[...visible].sort(popular).slice(0, 60).map(row).join("")}</section>`;
 
   // llms.txt: a compact guide for AI agents; llms-full.txt: every deal, one line each.
   const cats = (Object.keys(TAXONOMY) as Category[]).filter((c) => c !== ADULT && visible.some((d) => d.category === c));
