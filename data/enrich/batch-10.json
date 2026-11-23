@@ -1,0 +1,171 @@
+{
+  "decktopus": {
+    "category": "AI Tools",
+    "subcategory": "Writing & Content",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Turns prompts into slide decks and helps format presentations."
+  },
+  "docket": {
+    "category": "Marketing & Sales",
+    "subcategory": "SEO",
+    "platforms": [
+      "mac",
+      "windows",
+      "linux"
+    ],
+    "pricing": "one-time",
+    "description": "Audits websites for SEO issues on your own computer."
+  },
+  "dockx": {
+    "category": "Mac & Desktop Utilities",
+    "subcategory": "Menu Bar & Dock",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Displays live information in the macOS Dock and menu bar."
+  },
+  "easynews": {
+    "category": "Entertainment",
+    "subcategory": "News & Magazines",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Searches Usenet in a browser and supports downloads through NNTP clients."
+  },
+  "eweka": {
+    "category": "Entertainment",
+    "subcategory": "News & Magazines",
+    "platforms": [
+      "mac",
+      "windows",
+      "linux",
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Provides long-retention Usenet access with a newsreader, VPN and browser access."
+  },
+  "fluidcast": {
+    "category": "Photo, Video & Audio",
+    "subcategory": "Podcasts & Transcription",
+    "platforms": [
+      "ios",
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Plays podcasts and syncs listening progress across devices."
+  },
+  "growave": {
+    "category": "Websites & E-commerce",
+    "subcategory": "E-commerce & Payments",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Adds loyalty rewards, product reviews and wish lists to Shopify stores."
+  },
+  "hitpaw": {
+    "category": "AI Tools",
+    "subcategory": "Image & Video",
+    "platforms": [
+      "mac",
+      "windows"
+    ],
+    "pricing": "subscription",
+    "description": "Uses AI to enhance photo and video quality."
+  },
+  "imagineart": {
+    "category": "AI Tools",
+    "subcategory": "Image & Video",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Creates images from text prompts using AI."
+  },
+  "newshosting": {
+    "category": "Entertainment",
+    "subcategory": "News & Magazines",
+    "platforms": [
+      "mac",
+      "windows",
+      "linux",
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Provides long-retention Usenet access, a searchable newsreader and VPN service."
+  },
+  "reui": {
+    "category": "Design",
+    "subcategory": "UI Kits & Templates",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Provides reusable React components for building web interfaces."
+  },
+  "savemode": {
+    "category": "Mac & Desktop Utilities",
+    "subcategory": "Menu Bar & Dock",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Blocks selected Mac apps from using data when connected to a mobile hotspot."
+  },
+  "trinka": {
+    "category": "AI Tools",
+    "subcategory": "Writing & Content",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Checks grammar and suggests edits for academic papers and technical documents."
+  },
+  "tweaknews": {
+    "category": "Entertainment",
+    "subcategory": "News & Magazines",
+    "platforms": [
+      "mac",
+      "windows",
+      "linux",
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Provides Usenet access and includes a browser-based Usenet account."
+  },
+  "usenetserver": {
+    "category": "Entertainment",
+    "subcategory": "News & Magazines",
+    "platforms": [
+      "mac",
+      "windows",
+      "linux",
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Provides Usenet access with up to 100 connections and a bundled VPN."
+  },
+  "wallsy": {
+    "category": "Marketing & Sales",
+    "subcategory": "CRM & Sales",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Collects and approves customer testimonials for publication on a website."
+  },
+  "youmind": {
+    "category": "AI Tools",
+    "subcategory": "Research & Learning",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Organizes research sources and notes in an AI-assisted workspace."
+  }
+}
