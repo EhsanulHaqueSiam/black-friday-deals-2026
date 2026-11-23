@@ -25,7 +25,7 @@ function passesFilters(d) {
   if (state.flags.has("onetime") && d.pricing !== "one-time") return false;
   if (state.flags.has("live") && d.upcoming) return false;
   if (state.q) {
-    const hay = `${d.name} ${d.description ?? ""} ${d.deal} ${d.codes.join(" ")} ${d.category} ${d.subcategory ?? ""}`.toLowerCase();
+    const hay = `${d.name} ${d.description ?? ""} ${d.headline} ${d.deal} ${d.codes.join(" ")} ${d.category} ${d.subcategory ?? ""}`.toLowerCase();
     if (!state.q.split(/\s+/).every((w) => hay.includes(w))) return false;
   }
   return true;
@@ -56,27 +56,62 @@ function renderTree(base) {
   $("#cats").innerHTML = html;
 }
 
+const host = (u) => {
+  try {
+    return new URL(u).hostname.replace(/^www\./, "");
+  } catch {
+    return "";
+  }
+};
+const logo = (d) => `<img class="logo" src="https://icons.duckduckgo.com/ip3/${esc(host(d.url))}.ico" alt="" loading="lazy" width="28" height="28" data-initial="${esc(d.name[0] ?? "?")}">`;
+const codeBtn = (c) => `<button class="btn code" data-code="${esc(c)}" title="Copy ${esc(c)}">${esc(c)}<i>Copy</i></button>`;
+const goBtn = (d, label = "Get deal") => `<a class="btn go" href="${esc(d.url)}" target="_blank" rel="noopener">${label} <span aria-hidden="true">↗</span></a>`;
+const dayWord = (n) => (n === 0 ? "last day" : n === 1 ? "1 day left" : `${n} days left`);
+const endsText = (d) => (d.ends ? `<span class="left${daysLeft(d) <= 3 ? " hot" : ""}">ends ${fmtDate(d.ends)} · ${dayWord(daysLeft(d))}</span>` : "");
+// The discount badge, unless the headline already says it.
+const pct = (d) => (d.discount && !d.headline.includes(`${d.discount}%`) ? `<span class="pct">${d.discount}% off</span>` : "");
+
+// One compact row: logo, name, headline, copy-code + get-deal. Full terms open on click (details()).
 function row(d) {
-  const left = daysLeft(d);
-  const codes = d.codes.length
-    ? `<div class="codes">${d.codes.slice(0, 3).map((c) => `<button class="code" data-code="${esc(c)}" title="Copy code">${esc(c)}</button>`).join("")}${d.codes.length > 3 ? `<button class="more" data-more="${esc(d.id)}">+${d.codes.length - 3} more</button>` : ""}</div>`
-    : `<span class="nocode">no code needed</span>`;
+  return `<article class="row" data-id="${esc(d.id)}">
+    ${logo(d)}
+    <div class="n"><a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.name)}</a>${d.description ? `<small>${esc(d.description)}</small>` : ""}</div>
+    <div class="act">${d.codes.length ? codeBtn(d.codes[0]) : `<span class="nocode">No code needed</span>`}${goBtn(d)}</div>
+    <div class="h">${d.upcoming ? `<span class="soonTag">Soon</span>` : ""}${pct(d)}${esc(d.headline)}</div>
+    <div class="sub">${endsText(d)}<button class="more" aria-expanded="false">${d.codes.length > 1 ? `${d.codes.length} codes · ` : ""}details</button></div>
+  </article>`;
+}
+
+function details(d) {
   const meta = [
     `${esc(d.category)}${d.subcategory ? ` / ${esc(d.subcategory)}` : ""}`,
-    d.platforms.map((p) => PLATFORM_LABEL[p] ?? p).join(", "),
-    d.pricing,
-    d.newCustomersOnly ? "new customers" : "",
-    // Web-researched source first (it is the verified one), then at most one list; the rest as a count.
-    [...d.sources].sort((a, b) => b.startsWith("http") - a.startsWith("http")).slice(0, 2)
-      .map((s) => (s.startsWith("http") ? `<a href="${esc(s)}" rel="noopener">source</a>` : `<a href="https://github.com/${esc(s)}" rel="noopener">via ${esc(s.split("/")[0])}</a>`))
-      .join(" ") + (d.sources.length > 2 ? ` <span title="${esc(d.sources.join(", "))}">+${d.sources.length - 2} lists</span>` : ""),
+    esc(d.platforms.map((p) => PLATFORM_LABEL[p] ?? p).join(", ")),
+    esc(d.pricing),
+    d.newCustomersOnly ? "new customers only" : "",
   ].filter(Boolean);
-  return `<article class="row">
-    <div class="t"><a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.name)}</a>${d.description ? `<small>${esc(d.description)}</small>` : ""}</div>
-    <div class="d">${d.upcoming ? `<span class="soonTag">Coming soon. </span>` : ""}${esc(d.deal)}</div>
-    <div class="m">${meta.map((m) => `<span>${m}</span>`).join("")}</div>
-    <div class="r">${d.discount ? `<span class="pct">${d.discount}% off</span>` : ""}${codes}${d.ends ? `<span class="ends${left <= 3 ? " soon" : ""}">ends ${fmtDate(d.ends)}</span>` : ""}</div>
-  </article>`;
+  const src = d.sources.map((s) => (s.startsWith("http") ? `<a href="${esc(s)}" rel="noopener">${esc(host(s))}</a>` : `<a href="https://github.com/${esc(s)}" rel="noopener">${esc(s)}</a>`));
+  return `<div class="det">
+    <p>${esc(d.deal)}</p>
+    ${d.codes.length > 1 ? `<div class="codes">${d.codes.map(codeBtn).join("")}</div>` : ""}
+    <p class="meta">${meta.join(" · ")}</p>
+    <p class="meta">Sources: ${src.join(", ")}</p>
+  </div>`;
+}
+
+// Editors' picks: only on the plain front view, so they never push filtered results down.
+function picks() {
+  const plain = !state.q && !state.cat && !state.platforms.size && [...state.flags].every((f) => f === "adult") && state.sort === "group";
+  const ds = plain ? (DATA.picks ?? []).map((p) => ({ ...DATA.deals.find((d) => d.id === p.id), why: p.why })).filter((d) => d.id) : [];
+  if (!ds.length) return "";
+  return `<section class="picks"><h2>Editors' picks</h2><p>Deals worth buying even if you weren't shopping.</p><div class="pg">${ds
+    .map((d) => `<div class="pc">
+      <div class="ptop">${logo(d)}<div><b>${esc(d.name)}</b><span>${esc(d.subcategory ?? d.category)}</span></div></div>
+      ${d.discount ? `<div class="big">${d.discount}% off</div>` : ""}
+      <div class="ph">${esc(d.discount ? (d.headline.replace(new RegExp(`^(up to )?${d.discount}% off,?\\s*`, "i"), "") || d.headline).replace(/^./, (c) => c.toUpperCase()) : d.headline)}</div>
+      <div class="why">${esc(d.why)}</div>
+      <div class="pact">${d.codes.length ? codeBtn(d.codes[0]) : ""}${goBtn(d)}</div>
+    </div>`)
+    .join("")}</div></section>`;
 }
 
 function renderList(shown) {
@@ -102,7 +137,7 @@ function renderList(shown) {
       if (g.length) html += `<section class="group"><h3 class="sechead">${esc(state.cat ? "" : `${cat.toUpperCase()} / `)}${esc(s.toUpperCase())} · ${g.length}</h3>${g.map(row).join("")}</section>`;
     }
   }
-  list.innerHTML = html;
+  list.innerHTML = picks() + html;
 }
 
 // --- URL hash <-> state -------------------------------------------------------
@@ -199,12 +234,23 @@ function bind() {
   $("#list").addEventListener("click", (e) => {
     const code = e.target.closest(".code");
     if (code) return copy(code);
-    const more = e.target.closest(".more");
-    if (more) {
-      const d = DATA.deals.find((x) => x.id === more.dataset.more);
-      more.outerHTML = d.codes.slice(3).map((c) => `<button class="code" data-code="${esc(c)}" title="Copy code">${esc(c)}</button>`).join("");
-    }
+    if (e.target.closest("a")) return;
+    // Anywhere else on a row toggles its details panel.
+    const r = e.target.closest(".row");
+    if (!r) return;
+    const open = r.querySelector(".det");
+    if (open) open.remove();
+    else r.insertAdjacentHTML("beforeend", details(DATA.deals.find((d) => d.id === r.dataset.id)));
+    r.classList.toggle("open", !open);
+    r.querySelector(".more").setAttribute("aria-expanded", String(!open));
   });
+  // Unknown favicon: show the product's initial instead of a broken image.
+  $("#list").addEventListener("error", (e) => {
+    const img = e.target;
+    if (!img.classList?.contains("logo")) return;
+    const ph = Object.assign(document.createElement("span"), { className: "logo ph", textContent: img.dataset.initial.toUpperCase() });
+    img.replaceWith(ph);
+  }, true);
   $("#toggle").addEventListener("click", (e) => {
     const open = $("#side").classList.toggle("open");
     e.currentTarget.setAttribute("aria-expanded", String(open));

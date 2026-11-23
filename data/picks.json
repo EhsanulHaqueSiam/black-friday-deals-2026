@@ -1,0 +1,14 @@
+[
+  { "id": "namecheap", "why": "Next year's domains, hosting and SSL at the year's lowest prices." },
+  { "id": "protonvpn", "why": "A no-logs VPN for under $3 a month." },
+  { "id": "1password", "why": "Half off the password manager most teams use." },
+  { "id": "cloudways", "why": "Managed servers for side projects, nearly free for two months." },
+  { "id": "humblestore", "why": "Thousands of PC games at their lowest prices of the year." },
+  { "id": "adobecreativecloud", "why": "A rare discount on every Creative Cloud app." },
+  { "id": "zerotomastery", "why": "A full year of dev courses for about $199." },
+  { "id": "typingmind", "why": "Lifetime AI chat app that runs on your own API keys." },
+  { "id": "pcloud", "why": "Pay once, keep the cloud storage for life." },
+  { "id": "tower", "why": "Half off a Git client that makes rebases painless." },
+  { "id": "masterclass", "why": "A year of classes from experts for $60." },
+  { "id": "elevenlabs", "why": "Studio-quality AI voices for half the usual price." }
+]

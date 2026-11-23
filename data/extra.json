@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "name": "Proton VPN",
+    "url": "https://protonvpn.com/black-friday",
+    "category": "Security & Privacy",
+    "subcategory": "VPN",
+    "platforms": [
+      "mac",
+      "windows",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "Open-source Swiss VPN with a no-logs policy.",
+    "deal": "70% off VPN Plus 1-year plan: $2.99/mo, billed $35.88 for the first 12 months, then $83.88/yr. Regular price $9.99/mo.",
+    "codes": [],
+    "source": "https://protonvpn.com/black-friday"
+  },
+  {
+    "name": "Proton Unlimited",
+    "url": "https://proton.me/pricing",
+    "category": "Security & Privacy",
+    "subcategory": "Secure Email & Storage",
+    "platforms": [
+      "web",
+      "mac",
+      "windows",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "Proton bundle: VPN, Mail, Drive, Pass and Calendar in one plan.",
+    "deal": "92% off the first month: $1.00, then $12.99/mo. Includes VPN, Mail, Drive, Pass and Calendar.",
+    "codes": [],
+    "source": "https://protonvpn.com/black-friday"
+  }
+]

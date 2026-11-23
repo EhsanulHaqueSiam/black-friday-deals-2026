@@ -20,6 +20,7 @@ type Deal = {
   platforms: Platform[];
   pricing?: Pricing;
   description?: string; // our own one-liner, from enrichment
+  headline: string; // short offer line for the site; data/headlines/*.json, else the deal's first clause
   deal: string;
   codes: string[];
   discount?: number; // biggest "NN% off" in the deal text
@@ -32,7 +33,7 @@ type Deal = {
 };
 // Tags from data/enrich/*.json (or given inline by a web-research entry).
 type Tags = { category: string; subcategory: string; platforms: string[]; pricing: string; description: string };
-type Raw = Omit<Deal, "id" | "category" | "platforms"> & { tags?: Tags };
+type Raw = Omit<Deal, "id" | "category" | "platforms" | "headline"> & { tags?: Tags; manual?: boolean };
 
 // Every 2026 Black Friday deal list on GitHub with parseable deals (found with `gh search repos`).
 // Freshest and most code-rich first: on duplicates the earlier one wins ties. Append new lists at
@@ -141,7 +142,7 @@ const finish = (name: string, url: string, path: string, rawDeal: string, source
   if (!name || !deal || deal.length < 3 || !/^https?:\/\//.test(url)) return; // the site puts url in href
   if (/\b2025\b/.test(rawDeal) && !/\b2026\b/.test(rawDeal)) return; // leftover from last year
   // Watchlist rows that only say a sale hasn't started ("no BF", "NO PROMO YET", "Not announced").
-  if (/^(not announced|no offer|tbd|tba|n\/a|none)\b|not (announced|live) yet|no offer confirmed|\bno (bf|black friday)\b|no promo yet|\bno sale\b/i.test(deal)) return;
+  if (/^(not announced|no offer|tbd|tba|n\/a|none)\b|not (announced|live) yet|no offer confirmed|\bno (bf|black friday)\b|no promo yet|\bno sale\b|\[?2026 tba\]?|\bdeal tba\b|no promo (?!code)|no 2026 (promo|deal|sale)/i.test(deal)) return;
   return {
     name, url, path, deal, about: about && clean(about),
     codes: extractCodes(rawDeal + " " + url),
@@ -191,7 +192,8 @@ function tableRow(cells: string[], header: string[], path: string, source: strin
   if (ni < 0) return;
   const own = cells[ni].match(LINK);
   let name: string = clean(own ? own[1] : cells[ni].split(/<br\s*\/?>/i)[0]);
-  if (name.length > 40 && name.includes(", ")) name = name.split(", ")[0]; // "Tool, 50% off ..., Black Friday 2026"
+  // "Tool, 50% off ..., Black Friday 2026": the offer belongs in the deal, not the name.
+  if (name.includes(", ") && (name.length > 40 || /\d+ ?% off|black friday|cyber monday|\$\d/i.test(name))) name = name.split(", ")[0];
   const url = own?.[2] ?? cells.map((c) => c.match(LINK)?.[2]).find((u) => u && !u.includes("github.com"));
   if (!name || !url || NAME_COL.test(name.toLowerCase())) return;
 
@@ -199,11 +201,11 @@ function tableRow(cells: string[], header: string[], path: string, source: strin
   const parts: string[] = [];
   if (hasHeader) {
     cells.forEach((c, i) => {
-      if (i === ni || !clean(c) || /^[—–-]$/.test(clean(c))) return;
+      if (i === ni || !/[\p{L}\p{N}]/u.test(clean(c))) return; // empty, dash or emoji-only cells
       if (DESC_COL.test(key[i])) about ||= c;
       else if (SKIP_COL.test(key[i])) parts.push(c.match(STATUS)?.[0] ?? "");
       // short cells such as "$5.00" read better with their column name
-      else parts.push(clean(c).length < 25 && !/deal|offer|discount|promo/.test(key[i]) ? `${clean(header[i])}: ${c}` : c);
+      else parts.push(clean(c).length < 25 && key[i] && !/deal|offer|discount|promo/.test(key[i]) ? `${clean(header[i])}: ${c}` : c);
     });
   } else {
     const rest = cells.slice(ni + 1);
@@ -315,11 +317,13 @@ for (const [repo, kind] of SOURCES) {
 // Deals found by web research. Shape: { name, url, category, deal, codes, ends?, upcoming?, source }.
 type Extra = { name: string; url: string; category: string; deal: string; codes?: string[]; ends?: string; upcoming?: boolean; source: string }
   & Partial<Pick<Tags, "subcategory" | "platforms" | "pricing" | "description">>;
-for (const f of readdirSync("data").filter((f) => /^extra.*\.json$/.test(f))) {
+// data/extra.json is checked by hand, so it loads first and wins ties against agent research.
+const extraFiles = readdirSync("data").filter((f) => /^extra.*\.json$/.test(f)).sort((a, b) => +(b === "extra.json") - +(a === "extra.json"));
+for (const f of extraFiles) {
   for (const e of JSON.parse(readFileSync(`data/${f}`, "utf8")) as Extra[]) {
     const d = finish(e.name, e.url, e.category, e.deal, e.source, undefined, e.upcoming);
     const tags = e.subcategory ? { category: e.category, subcategory: e.subcategory, platforms: e.platforms ?? [], pricing: e.pricing ?? "", description: e.description ?? "" } : undefined;
-    if (d) raws.push({ ...d, codes: e.codes?.length ? e.codes : d.codes, ends: e.ends ?? d.ends, tags });
+    if (d) raws.push({ ...d, codes: e.codes?.length ? e.codes : d.codes, ends: e.ends ?? d.ends, tags, manual: f === "extra.json" || undefined });
   }
 }
 
@@ -337,7 +341,7 @@ const urlKey = (u: string) => {
 };
 // Web-researched deals (source is a URL) were checked against the vendor's 2026 page, so they win.
 const score = (d: Raw) =>
-  (d.sources.some((s) => s.startsWith("http")) ? 8 : 0) + (d.codes.length ? 4 : 0) + (d.ends ? 2 : 0) + (d.upcoming ? 0 : 1);
+  (d.manual ? 32 : 0) + (d.sources.some((s) => s.startsWith("http")) ? 8 : 0) + (d.codes.length ? 4 : 0) + (d.ends ? 2 : 0) + (d.upcoming ? 0 : 1);
 
 const byKey = new Map<string, Raw>();
 const merged: Raw[] = [];
@@ -362,6 +366,16 @@ if (existsSync("data/enrich"))
   for (const f of readdirSync("data/enrich").filter((f) => f.endsWith(".json")))
     Object.assign(tags, JSON.parse(readFileSync(`data/enrich/${f}`, "utf8")));
 
+// Short offer lines written per deal id; until one exists, the deal text's first clause.
+const headlines: Record<string, string> = {};
+if (existsSync("data/headlines"))
+  for (const f of readdirSync("data/headlines").filter((f) => f.endsWith(".json")))
+    Object.assign(headlines, JSON.parse(readFileSync(`data/headlines/${f}`, "utf8")));
+const autoHeadline = (deal: string) => {
+  const first = deal.split(/ · |; |\. (?=[A-Z])/)[0];
+  return first.length > 90 ? first.slice(0, 88).replace(/\s+\S*$/, "") + "…" : first;
+};
+
 const seen = new Set<string>();
 const bad: string[] = [];
 const deals: Deal[] = merged.map((r) => {
@@ -379,23 +393,32 @@ const deals: Deal[] = merged.map((r) => {
     platforms: (t?.platforms ?? []).filter((p): p is Platform => (PLATFORMS as readonly string[]).includes(p)),
     pricing: PRICING.find((p) => p === t?.pricing),
     description: t?.description,
+    headline: headlines[id] ?? autoHeadline(r.deal),
+    // The headline names the main offer; the deal text's biggest % can be an unrelated "up to".
+    discount: (headlines[id] && extractDiscount(headlines[id])) || r.discount,
   };
 });
 if (bad.length) console.warn(`ignored ${bad.length} tags outside the taxonomy:\n  ${bad.slice(0, 20).join("\n  ")}`);
 
 const expired = deals.filter((d) => d.ends && new Date(d.ends) < TODAY);
 // Enrichment agents mark listings with no actual offer ("No offer confirmed yet") this way.
-const notDeals = deals.filter((d) => d.description?.startsWith("NOT A DEAL"));
+const notDeals = deals.filter(
+  (d) => d.description?.startsWith("NOT A DEAL") || /^(tba|free|free to use|free, self-hosted)$|no storewide (sale|discount)/i.test(d.headline),
+);
 const live = deals
   .filter((d) => !expired.includes(d) && !notDeals.includes(d))
   .sort((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }));
 
 // --- write data ----------------------------------------------------------------------
-const publish = ({ path, about, tags: _, ...d }: Deal & { tags?: Tags }) => d;
+const publish = ({ path, about, tags: _, manual: __, ...d }: Deal & { tags?: Tags; manual?: boolean }) => d;
 mkdirSync("docs", { recursive: true });
 writeFileSync("data/deals.json", JSON.stringify(live.map(publish), null, 2) + "\n");
 const stats = { live: live.length, withCodes: live.filter((d) => d.codes.length).length, sources: SOURCES.length, sourceRepos: SOURCES.map(([r]) => r), builtAt: TODAY.toISOString().slice(0, 10) };
-writeFileSync("docs/data.json", JSON.stringify({ ...stats, taxonomy: TAXONOMY, deals: live.map(publish) }));
+// Editors' picks: [{ id, why }] chosen by hand; ids that are no longer live drop out.
+const picks = existsSync("data/picks.json")
+  ? (JSON.parse(readFileSync("data/picks.json", "utf8")) as { id: string; why: string }[]).filter((p) => live.some((d) => d.id === p.id))
+  : [];
+writeFileSync("docs/data.json", JSON.stringify({ ...stats, taxonomy: TAXONOMY, picks, deals: live.map(publish) }));
 writeFileSync(
   "data/enrich-queue.json",
   JSON.stringify(live.filter((d) => !d.subcategory).map((d) => ({ id: d.id, name: d.name, url: d.url, section: d.path, about: d.about, deal: d.deal.slice(0, 240) })), null, 1) + "\n",
