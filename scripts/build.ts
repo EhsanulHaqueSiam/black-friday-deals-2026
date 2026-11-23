@@ -424,7 +424,9 @@ const stats = { live: live.length, withCodes: live.filter((d) => d.codes.length)
 const picks = existsSync("data/picks.json")
   ? (JSON.parse(readFileSync("data/picks.json", "utf8")) as { id: string; why: string }[]).filter((p) => live.some((d) => d.id === p.id))
   : [];
-writeFileSync("docs/data.json", JSON.stringify({ ...stats, taxonomy: TAXONOMY, picks, deals: live.map(publish) }));
+// Best brands: household names (data/brands.json, ids), shown as a logo grid; gone ones drop out.
+const brands = existsSync("data/brands.json") ? (JSON.parse(readFileSync("data/brands.json", "utf8")) as string[]).filter((id) => live.some((d) => d.id === id)) : [];
+writeFileSync("docs/data.json", JSON.stringify({ ...stats, taxonomy: TAXONOMY, picks, brands, deals: live.map(publish) }));
 writeFileSync(
   "data/enrich-queue.json",
   JSON.stringify(live.filter((d) => !d.subcategory).map((d) => ({ id: d.id, name: d.name, url: d.url, section: d.path, about: d.about, deal: d.deal.slice(0, 240) })), null, 1) + "\n",

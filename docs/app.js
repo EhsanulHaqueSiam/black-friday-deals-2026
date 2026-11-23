@@ -11,7 +11,7 @@ const ADULT = "Adult (18+)"; // hidden until the visitor ticks "Show 18+ deals"
 
 let DATA;
 let TODAY;
-const state = { q: "", cat: "", sub: "", platforms: new Set(), flags: new Set(), sort: "popular", preset: "" };
+const state = { q: "", cat: "", sub: "", platforms: new Set(), flags: new Set(), sort: "popular", preset: "", day: "", band: "" };
 
 // Quick finds: one tap applies a ready-made filter (and a fitting sort).
 const PRESETS = [
@@ -37,7 +37,16 @@ const daysLeft = (d) => (d.ends ? Math.round((Date.parse(d.ends) - TODAY) / 864e
 const fmtDate = (iso) => new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
 
 // Everything except category/subcategory, so the tree counts show what each category would give.
+// Discount bands for the "By the numbers" breakdown.
+const BANDS = [
+  { k: "75", label: "75%+ off", test: (n) => n >= 75 },
+  { k: "50", label: "50 to 74%", test: (n) => n >= 50 && n < 75 },
+  { k: "25", label: "25 to 49%", test: (n) => n >= 25 && n < 50 },
+  { k: "0", label: "under 25%", test: (n) => n > 0 && n < 25 },
+];
 function passesFilters(d) {
+  if (state.day && d.ends !== state.day) return false;
+  if (state.band && !(d.discount && BANDS.find((b) => b.k === state.band)?.test(d.discount))) return false;
   if (state.preset && !preset()?.test(d)) return false;
   if (d.category === ADULT && !state.flags.has("adult")) return false;
   if (state.platforms.size && !d.platforms.some((p) => state.platforms.has(p))) return false;
@@ -108,7 +117,8 @@ function render() {
   renderTree(base);
   renderChips();
   renderList(shown);
-  $("#title").innerHTML = `<b>${shown.length.toLocaleString()}</b> deals${state.cat ? ` in ${esc(state.sub || state.cat)}` : ""}`;
+  const extra = [state.day ? `ending ${fmtDate(state.day)}` : "", state.band ? BANDS.find((b) => b.k === state.band)?.label : ""].filter(Boolean).join(", ");
+  $("#title").innerHTML = `<b>${shown.length.toLocaleString()}</b> deals${state.cat ? ` in ${esc(state.sub || state.cat)}` : ""}${extra ? ` ${esc(extra)} <button class="clear" data-clear>Clear</button>` : ""}`;
   writeHash();
 }
 
@@ -172,7 +182,7 @@ function details(d) {
 
 // Editors' picks: only on the plain front view, so they never push filtered results down.
 // The front view (nothing filtered): only then show picks, best-per-category and "For you".
-const isPlain = () => !state.q && !state.cat && !state.preset && !state.platforms.size && [...state.flags].every((f) => f === "adult") && state.sort === "popular";
+const isPlain = () => !state.q && !state.cat && !state.preset && !state.day && !state.band && !state.platforms.size && [...state.flags].every((f) => f === "adult") && state.sort === "popular";
 function picks() {
   const plain = isPlain();
   const ds = plain ? (DATA.picks ?? []).map((p) => ({ ...DATA.deals.find((d) => d.id === p.id), why: p.why })).filter((d) => d.id) : [];
@@ -206,7 +216,7 @@ function renderList(shown) {
     return;
   }
   if (by) {
-    const top = state.sort === "popular" && isPlain() ? picks() + bestPerCategory() + forYou() : "";
+    const top = state.sort === "popular" && isPlain() ? dontMiss() + picks() + bestPerCategory() + forYou() : "";
     list.innerHTML = top + `<section class="group">${top ? `<h3 class="sechead">ALL DEALS · ${shown.length.toLocaleString()}</h3>` : ""}${[...shown].sort(by).map(row).join("")}</section>`;
     return;
   }
@@ -231,6 +241,8 @@ function writeHash() {
   if (state.flags.size) p.set("f", [...state.flags].join(","));
   if (state.sort !== "popular") p.set("sort", state.sort);
   if (state.preset) p.set("x", state.preset);
+  if (state.day) p.set("d", state.day);
+  if (state.band) p.set("b", state.band);
   const h = p.toString();
   history.replaceState(null, "", h ? `#${h}` : location.pathname);
 }
@@ -242,6 +254,8 @@ function readHash() {
   state.q = (p.get("q") ?? "").toLowerCase();
   state.cat = p.get("c") ?? "";
   state.preset = PRESETS.some((x) => x.k === p.get("x")) ? p.get("x") : "";
+  state.day = /^\d{4}-\d\d-\d\d$/.test(p.get("d") ?? "") ? p.get("d") : "";
+  state.band = BANDS.some((b) => b.k === p.get("b")) ? p.get("b") : "";
   state.sub = p.get("s") ?? "";
   state.platforms = new Set((p.get("p") ?? "").split(",").filter((x) => x in PLATFORM_LABEL));
   state.flags = new Set((p.get("f") ?? "").split(",").filter((x) => FLAGS.includes(x)));
@@ -321,6 +335,63 @@ function countdown() {
   const d = Math.floor(mins / 1440), h = Math.floor((mins % 1440) / 60), m = mins % 60;
   el.textContent = `${next[1]} ${d ? `${d}d ` : ""}${h}h${d ? "" : ` ${m}m`}`;
   el.hidden = false;
+}
+
+
+// --- "Don't miss": last chance, ending by day, numbers, best brands ----------------------
+let lcTab = ""; // "24" | "48" | "week"; empty = the shortest window that has deals
+const iso = (t) => new Date(t).toISOString().slice(0, 10);
+const whenText = (d) => {
+  const n = daysLeft(d);
+  return n === 0 ? "Ends today" : n === 1 ? "Ends tomorrow" : `Ends ${fmtDate(d.ends)}`;
+};
+function dontMiss() {
+  const pool = DATA.deals.filter((d) => d.category !== ADULT || state.flags.has("adult"));
+  const windows = [["24", "Next 24 hours", 0], ["48", "Next 48 hours", 1], ["week", "This week", 7]].map(([k, label, max]) => ({ k, label, ds: pool.filter((d) => d.ends && daysLeft(d) <= max) }));
+  const tab = windows.find((w) => w.k === lcTab) ?? windows.find((w) => w.ds.length) ?? windows[2];
+  const cards = [...tab.ds].sort((a, b) => (b.discount ?? -1) - (a.discount ?? -1) || popular(a, b)).slice(0, 14);
+  const last = `<section class="dm lastchance"><div class="shead"><div><h2>Last chance</h2><p>Deals that end soon, biggest discounts first.</p></div></div>
+    <div class="tabs">${windows.map((w) => `<button class="chip${w.k === tab.k ? " on" : ""}" data-lc="${w.k}">${w.label} <b>${w.ds.length.toLocaleString()}</b></button>`).join("")}</div>
+    <div class="lc">${cards
+      .map((d) => `<div class="lcc" data-id="${esc(d.id)}"><span class="when">${whenText(d)}</span><a class="t" href="${dealHref(d)}">${logo(d)}<b>${esc(d.name)}</b></a>${d.discount ? `<span class="big">${d.discount}% off</span>` : ""}<p>${esc(d.headline)}</p><div class="btns">${d.codes.length ? codeBtn(d.codes[0]) : `<span class="nocode">No code</span>`}${goBtn(d, "Get")}</div></div>`)
+      .join("")}</div></section>`;
+
+  // Ending by day: the next 15 days; the two busiest days are highlighted and named in the title.
+  const days = Array.from({ length: 15 }, (_, i) => {
+    const day = iso(TODAY + i * 864e5);
+    return { day, n: pool.filter((d) => d.ends === day).length };
+  });
+  const max = Math.max(1, ...days.map((x) => x.n));
+  const top2 = [...days].sort((a, b) => b.n - a.n).slice(0, 2).filter((x) => x.n >= max * 0.3);
+  const hot = new Set(top2.map((x) => x.day));
+  const title = top2.length === 2 ? `${(top2[0].n + top2[1].n).toLocaleString()} deals end on ${[...top2].sort((a, b) => a.day.localeCompare(b.day)).map((x) => fmtDate(x.day)).join(" and ")}` : `${days[0].n} deals end today`;
+  const label = (x, i) => (i === 0 ? "Today" : x.day.endsWith("-11-27") ? "BF 27" : x.day.endsWith("-11-30") ? "CM 30" : x.day.endsWith("-12-01") ? "Dec 1" : String(Number(x.day.slice(8))));
+  const chart = `<section class="dm"><div class="shead"><div><h2>${title}</h2><p>Deals ending each day, next two weeks. Tap a day to see its deals.</p></div></div>
+    <div class="tl">${days.map((x) => `<button class="tbar${hot.has(x.day) ? " hot" : ""}" data-day="${x.day}" style="height:${Math.max(3, Math.round((x.n / max) * 150))}px" aria-label="${x.n} deals end ${fmtDate(x.day)}"><span>${x.n}</span></button>`).join("")}</div>
+    <div class="tlx">${days.map((x, i) => `<span${i === 0 ? ' class="today"' : ""}>${label(x, i)}</span>`).join("")}</div>
+    <p class="legend">${pool.filter((d) => !d.ends).length.toLocaleString()} deals have no end date and are not shown.</p></section>`;
+
+  // By the numbers + discount bands.
+  const discounts = pool.map((d) => d.discount).filter(Boolean).sort((a, b) => a - b);
+  const median = discounts[Math.floor(discounts.length / 2)] ?? 0;
+  const bands = BANDS.map((b) => ({ ...b, n: pool.filter((d) => d.discount && b.test(d.discount)).length }));
+  const bmax = Math.max(1, ...bands.map((b) => b.n));
+  const numbers = `<section class="dm"><div class="nums">
+      <div class="num"><b>${pool.length.toLocaleString()}</b><span>live deals</span></div>
+      <div class="num"><b>${pool.filter((d) => d.codes.length).length.toLocaleString()}</b><span>with promo codes</span></div>
+      <div class="num"><b>${median}%</b><span>typical discount</span></div>
+      <div class="num hot"><b>${windows[1].ds.length}</b><span>end in 48 hours</span></div>
+    </div>
+    <div class="dist">${bands.map((b) => `<button class="r${b.n === bmax ? " hot" : ""}" data-band="${b.k}"><small>${b.label}</small><span class="track"><span class="fill" style="width:${Math.round((b.n / bmax) * 100)}%"></span></span><em>${b.n.toLocaleString()}</em></button>`).join("")}</div></section>`;
+
+  // Best brands: hand-picked household names (data/brands.json).
+  const brandDeals = (DATA.brands ?? []).map((id) => DATA.deals.find((d) => d.id === id)).filter(Boolean);
+  const brands = brandDeals.length
+    ? `<section class="dm"><div class="shead"><div><h2>Best brands on sale</h2><p>Household names, one tap to the deal.</p></div></div><div class="brands">${brandDeals
+        .map((d) => `<a class="bd" data-id="${esc(d.id)}" href="${dealHref(d)}">${logo(d)}<b>${esc(d.name)}</b><em>${d.discount ? `${d.discount}% off` : "On sale"}</em></a>`)
+        .join("")}</div></section>`
+    : "";
+  return last + chart + numbers + brands;
 }
 
 // --- search suggestions ---------------------------------------------------------------
@@ -428,6 +499,13 @@ function bind() {
   $("#suggest").addEventListener("click", (e) => {
     if (e.target.closest("[data-close]")) closeSuggest();
   });
+  $("#title").addEventListener("click", (e) => {
+    if (!e.target.closest("[data-clear]")) return;
+    state.day = state.band = "";
+    state.sort = "popular";
+    $("#sort").value = state.sort;
+    render();
+  });
   $("#chips").addEventListener("click", (e) => {
     const b = e.target.closest("[data-preset]");
     if (!b) return;
@@ -437,9 +515,23 @@ function bind() {
     render();
   });
   $("#list").addEventListener("click", (e) => {
-    const opened = e.target.closest(".go, .n a, .br, .fc, .pc a");
+    const opened = e.target.closest(".go, .n a, .br, .fc, .pc a, .bd, .lcc a");
     const holder = e.target.closest("[data-id]");
     if (opened && holder) remember(holder.dataset.id);
+    const lc = e.target.closest("[data-lc]");
+    if (lc) {
+      lcTab = lc.dataset.lc;
+      return render();
+    }
+    const bar = e.target.closest("[data-day]");
+    const band = e.target.closest("[data-band]");
+    if (bar || band) {
+      if (bar) [state.day, state.sort] = [bar.dataset.day, "discount"];
+      if (band) [state.band, state.sort] = [band.dataset.band, "popular"];
+      $("#sort").value = state.sort;
+      render();
+      return $("#list").scrollIntoView({ block: "start" });
+    }
     const arrow = e.target.closest("[data-scroll]");
     if (arrow) return arrow.closest("section").querySelector(".pg").scrollBy({ left: Number(arrow.dataset.scroll) * 480, behavior: "smooth" });
     const code = e.target.closest(".code");
