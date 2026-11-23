@@ -4,6 +4,18 @@
 
 Black Friday 2026 is Friday, November 27. Cyber Monday is Monday, November 30. Prices and codes come from vendors and deal lists; check at checkout.
 
+Updated November 23, 2026. How deals are sourced, checked and ranked: https://bf26-deals.pages.dev/about/
+
+## Best deal by type (guides with comparison tables)
+- [Best VPN Black Friday Deals 2026](https://bf26-deals.pages.dev/best/vpn/): Proton VPN: 70% off VPN Plus 1-year, $2.99/mo; 26 deals
+- [Best Web Hosting Black Friday Deals 2026](https://bf26-deals.pages.dev/best/web-hosting/): Cloudways: 80% off for 2 months, plus free migrations (code BFCM802), ends Dec 5; 45 deals
+- [Best AI Tools Black Friday Deals 2026](https://bf26-deals.pages.dev/best/ai-tools/): TypingMind: 60% off lifetime Premium (code BLACKFRIDAY2026), ends Dec 15; 250 deals
+- [Best Mac Apps Black Friday Deals 2026](https://bf26-deals.pages.dev/best/mac-apps/): Proton VPN: 70% off VPN Plus 1-year, $2.99/mo; 858 deals
+- [Best Online Courses Black Friday Deals 2026](https://bf26-deals.pages.dev/best/online-courses/): Zero To Mastery: 66% off annual membership, $588 → $199 (code BFCM26), ends Dec 1; 248 deals
+- [Best Password Managers Black Friday Deals 2026](https://bf26-deals.pages.dev/best/password-managers/): 1Password: 50% off Individual annual, $2.99/mo first year, ends Nov 30; 8 deals
+- [Best Developer Tools Black Friday Deals 2026](https://bf26-deals.pages.dev/best/developer-tools/): GitKraken: 60% off Pro Git tools and new seats for existing teams (code BLACKFRIDAY2026), ends Nov 27; 158 deals
+- [Best Domains Black Friday Deals 2026](https://bf26-deals.pages.dev/best/domains/): Namecheap: .com $8.98, hosting from $1.31/mo (code THEGAMESTLD26), ends Dec 4; 20 deals
+
 ## Best deal per category
 - [AI Tools](https://bf26-deals.pages.dev/c/ai-tools/): TypingMind: 60% off lifetime Premium (code BLACKFRIDAY2026), ends Dec 15
 - [Developer Tools](https://bf26-deals.pages.dev/c/developer-tools/): GitKraken: 60% off Pro Git tools and new seats for existing teams (code BLACKFRIDAY2026), ends Nov 27
@@ -42,5 +54,7 @@ Black Friday 2026 is Friday, November 27. Cyber Monday is Monday, November 30. P
 - [Every deal, one line each](https://bf26-deals.pages.dev/llms-full.txt)
 - [All deals as JSON](https://bf26-deals.pages.dev/data.json): fields name, url, category, subcategory, headline, deal, codes, ends, discount
 - [Sitemap](https://bf26-deals.pages.dev/sitemap.xml)
+- [Subcategories](https://bf26-deals.pages.dev/sitemap.xml): every /c/<category>/<subcategory>/ page lists its deals, best first
+- [About and method](https://bf26-deals.pages.dev/about/)
 - [Submit a deal](https://bf26-deals.pages.dev/submit/)
 - [Source on GitHub](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026)

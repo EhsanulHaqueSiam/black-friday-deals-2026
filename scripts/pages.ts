@@ -1,8 +1,10 @@
 // Static directory pages for GitHub Pages: one page per deal (/deal/<id>/), one per category and
 // subcategory (/c/<cat>/, /c/<cat>/<sub>/), plus sitemap.xml and robots.txt. Vendor links are plain
 // followed links: listing here gives every vendor a real backlink. Called from build.ts.
-import { mkdirSync, rmSync, writeFileSync } from "node:fs";
+import { createHash } from "node:crypto";
+import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { ADULT, TAXONOMY, type Category } from "./taxonomy.ts";
+import { HUBS, aboutPage, hubDeals, hubPage, hubPath, hubTitle, hubsFor } from "./hubs.ts";
 
 export const SITE = "https://bf26-deals.pages.dev/";
 // SITE is the primary (canonical) address; BASE is the path prefix of the GitHub Pages mirror build.
@@ -31,9 +33,16 @@ export type PageDeal = {
   sources: string[];
 };
 
-const esc = (s: unknown) =>
+export const esc = (s: unknown) =>
   String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!);
 export const slug = (s: string) => s.toLowerCase().replace(/&/g, " ").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+const origin = (u: string) => {
+  try {
+    return new URL(u).origin;
+  } catch {
+    return u;
+  }
+};
 const host = (u: string) => {
   try {
     return new URL(u).hostname.replace(/^www\./, "");
@@ -44,7 +53,62 @@ const host = (u: string) => {
 const fmt = (iso?: string) => (iso ? new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" }) : "");
 const PLATFORM: Record<string, string> = { web: "Web", mac: "Mac", windows: "Windows", linux: "Linux", ios: "iOS", android: "Android", "browser-extension": "Browser extension", wordpress: "WordPress", physical: "Physical product" };
 export const dealPath = (d: PageDeal) => `${BASE}deal/${d.id}/`;
-const catPath = (c: string, s?: string) => `${BASE}c/${slug(c)}/${s ? `${slug(s)}/` : ""}`;
+export const catPath = (c: string, s?: string) => `${BASE}c/${slug(c)}/${s ? `${slug(s)}/` : ""}`;
+const abs = (path: string) => SITE + path.slice(BASE.length);
+// "November 30, 2026" (or "Nov 30" with year=false): the form answer engines quote.
+export const fmtLong = (iso: string, year = true) =>
+  new Date(iso).toLocaleDateString("en-US", { month: year ? "long" : "short", day: "numeric", ...(year ? { year: "numeric" } : {}), timeZone: "UTC" });
+const sentence = (s: string) => (/[.!?…]$/.test(s) ? s : `${s}.`);
+// Cut at a word boundary so titles and descriptions fit what Google shows.
+const clip = (s: string, n: number) => (s.length <= n ? s : s.slice(0, n + 1).replace(/[\s,;:(]+\S*$/, "").replace(/[\s,;:]+$/, ""));
+
+// What a deal costs when the offer text says so: "$588 → $199" is 199, "$2.99/mo" is 2.99 a month.
+// "$100 off", "$50 credit", "save $20" and "was $588" are not prices.
+// shortcut: assumes "$" means USD; upgrade if deals start quoting other dollar currencies.
+export function parsePrice(text: string): { price: number; unit?: "MON" | "ANN" } | undefined {
+  const arrow = text.lastIndexOf("→");
+  const found: { price: number; unit?: "MON" | "ANN"; at: number }[] = [];
+  for (const m of text.matchAll(/\$\s?(\d[\d,]*(?:\.\d{1,2})?)(?:\s*\/\s*(mo|month|yr|year)\b)?/gi)) {
+    const before = text.slice(Math.max(0, m.index - 12), m.index), after = text.slice(m.index + m[0].length);
+    if (/(save|saving|up to|over|worth|was|value|normally|regularly|usually|reg\.?)\s*$/i.test(before) || /^\s*(off|credits?|discount|savings?|value|worth|bonus|gift|in\b)/i.test(after)) continue;
+    const price = Number(m[1].replace(/,/g, ""));
+    if (price > 0) found.push({ price, unit: m[2] ? (/^m/i.test(m[2]) ? "MON" : "ANN") : undefined, at: m.index });
+  }
+  const pick = (arrow >= 0 && found.find((f) => f.at > arrow)) || found[0];
+  return pick && { price: pick.price, unit: pick.unit };
+}
+export const priceText = (p?: ReturnType<typeof parsePrice>) => (p ? `$${Number.isInteger(p.price) ? p.price : p.price.toFixed(2)}${p.unit === "MON" ? "/mo" : p.unit === "ANN" ? "/yr" : ""}` : "");
+
+// Per-page "last changed" dates. A page's date moves only when its content key changes, so sitemap
+// lastmod and dateModified stay truthful instead of all moving on every daily rebuild.
+// Kept in data/lastmod.json (generated, committed by CI): path -> content hash, changed, first seen.
+type Mod = { h: string; d: string; p: string };
+const LASTMOD = "data/lastmod.json";
+let OLD: Record<string, Mod> = {};
+const MODS: Record<string, Mod> = {};
+let TODAY = "";
+export function modified(path: string, key: unknown): Mod {
+  const h = createHash("sha1").update(JSON.stringify(key)).digest("hex").slice(0, 12);
+  const old = OLD[path];
+  return (MODS[path] = old?.h === h ? old : { h, d: TODAY, p: old?.p ?? TODAY });
+}
+export const updatedLine = (m: Mod) => `<p class="updated">Updated <time datetime="${m.d}">${fmtLong(m.d)}</time></p>`;
+// WebPage node with real dates; `extra` adds mainEntity, speakable, or a narrower @type.
+export const webPage = (path: string, name: string, m: Mod, extra: object = {}) => ({
+  "@type": "WebPage", "@id": `${abs(path)}#webpage`, url: abs(path), name, inLanguage: "en",
+  isPartOf: { "@type": "WebSite", "@id": `${SITE}#website`, name: "BF26 deals", url: SITE },
+  datePublished: m.p, dateModified: m.d, ...extra,
+});
+// Editors' picks and household brands lead every "best" answer; set once per build by build.ts.
+let FEATURED: string[] = [];
+export function initPages(builtAt: string, featured: string[]) {
+  TODAY = builtAt;
+  FEATURED = featured;
+  OLD = existsSync(LASTMOD) ? JSON.parse(readFileSync(LASTMOD, "utf8")) : {};
+}
+const rank = (d: PageDeal) => { const i = FEATURED.indexOf(d.id); return i < 0 ? Infinity : i; };
+// Best first: featured deals, then the most popular. The first item is "the best X deal" site-wide.
+export const ranked = (ds: PageDeal[]) => [...ds].sort((a, b) => rank(a) - rank(b) || popular(a, b));
 
 // Popularity GitHub Pages can show: how many independent community lists carry the deal.
 const lists = (d: PageDeal) => d.sources.filter((s) => !s.startsWith("http")).length;
@@ -52,11 +116,11 @@ const lists = (d: PageDeal) => d.sources.filter((s) => !s.startsWith("http")).le
 let STATS: Record<string, Partial<Record<"view" | "click" | "share" | "search" | "like", number>>> = {};
 export const setStats = (s: typeof STATS) => void (STATS = s);
 const pop = (d: PageDeal) => { const s = STATS[d.id] ?? {}; return 8 * (s.like ?? 0) + 5 * (s.share ?? 0) + 3 * (s.click ?? 0) + 2 * (s.search ?? 0) + (s.view ?? 0) + 3 * lists(d); };
-const popular = (a: PageDeal, b: PageDeal) => pop(b) - pop(a) || (b.discount ?? -1) - (a.discount ?? -1) || a.name.localeCompare(b.name);
+export const popular = (a: PageDeal, b: PageDeal) => pop(b) - pop(a) || (b.discount ?? -1) - (a.discount ?? -1) || a.name.localeCompare(b.name);
 const logo = (d: PageDeal, cls = "logo") =>
   `<img class="${cls}" src="https://icons.duckduckgo.com/ip3/${esc(host(d.url))}.ico" alt="" loading="lazy" width="28" height="28" data-initial="${esc(d.name[0] ?? "?")}">`;
 const codeBtn = (c: string, label = "Copy") => `<button class="btn code" data-code="${esc(c)}" title="Copy ${esc(c)}">${esc(c)}<i>${esc(label)}</i></button>`;
-const goBtn = (d: PageDeal, label = "Get deal") => `<a class="btn go" href="${esc(d.url)}" target="_blank" rel="noopener">${esc(label)} <span aria-hidden="true">↗</span></a>`;
+export const goBtn = (d: PageDeal, label = "Get deal") => `<a class="btn go" href="${esc(d.url)}" target="_blank" rel="noopener">${esc(label)} <span aria-hidden="true">↗</span></a>`;
 
 let ASSET_V = { css: "", page: "" }; // content hashes from build.ts, for cache-busting
 // JSON-LD for search engines and answer engines; "</" is escaped so text can't close the script tag.
@@ -65,7 +129,13 @@ export const breadcrumb = (items: [string, string][]) => ({
   "@type": "BreadcrumbList",
   itemListElement: items.map(([name, path], i) => ({ "@type": "ListItem", position: i + 1, name, item: SITE + path.slice(BASE.length) })),
 });
-function shell(o: { title: string; description: string; path: string; body: string; noindex?: boolean; ld?: object[] }) {
+// Fonts load without blocking first paint (text shows in the fallback font, then swaps).
+export const FONTS = `<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Geist:wght@400..700&family=Geist+Mono:wght@400..600&display=swap" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400..700&family=Geist+Mono:wght@400..600&display=swap"></noscript>`;
+// "<" and ">" percent-encoded so naive HTML parsers don't read the data URI as markup.
+const ICON = `<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23000'/%3E%3Ctext x='16' y='22' font-family='Arial' font-weight='700' font-size='15' text-anchor='middle' fill='%23ff6a2b'%3E%25%3C/text%3E%3C/svg%3E">`;
+// Links to every "best X" guide; in the footer of every page and on the home page.
+export const hubNav = () => `<nav class="hubs">${HUBS.map((h) => `<a href="${hubPath(h)}">${esc(hubTitle(h))}</a>`).join("")}</nav>`;
+export function shell(o: { title: string; description: string; path: string; body: string; noindex?: boolean; ld?: object[] }) {
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -85,10 +155,10 @@ ${o.noindex ? '<meta name="robots" content="noindex">' : ""}
 <meta name="twitter:image" content="${SITE}og.png">
 ${ldScript(o.ld ?? [])}
 <meta name="theme-color" content="#000000">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23000'/><text x='16' y='22' font-family='Arial' font-weight='700' font-size='15' text-anchor='middle' fill='%23ff6a2b'>%25</text></svg>">
+${ICON}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400..700&family=Geist+Mono:wght@400..600&display=swap">
+${FONTS}
 <link rel="stylesheet" href="${BASE}style.css?v=${ASSET_V.css}">
 </head>
 <body class="page">
@@ -100,7 +170,8 @@ ${ldScript(o.ld ?? [])}
 ${o.body}
 <footer class="sitefoot">
   <nav>${(Object.keys(TAXONOMY) as Category[]).filter((c) => c !== ADULT).map((c) => `<a href="${catPath(c)}">${esc(c)}</a>`).join("")}</nav>
-  <nav class="forco"><a href="${BASE}submit/">List your product</a><a href="${REPO}/issues/new?template=report.yml">Report a deal</a><a href="${REPO}/blob/main/CONTRIBUTING.md">Contribute</a></nav>
+  ${hubNav()}
+  <nav class="forco"><a href="${BASE}about/">About</a><a href="${BASE}submit/">List your product</a><a href="${REPO}/issues/new?template=report.yml">Report a deal</a><a href="${REPO}/blob/main/CONTRIBUTING.md">Contribute</a></nav>
   <p>Black Friday &amp; Cyber Monday 2026 deals, merged from 28 community lists and web research. Always check the price at checkout. <a href="${REPO}">Source on GitHub</a></p>
 </footer>
 <div id="toast" class="toast" role="status"></div>
@@ -150,10 +221,14 @@ function dealPage(d: PageDeal, related: PageDeal[]) {
   const sources = d.sources.map((s) => (s.startsWith("http") ? `<a href="${esc(s)}" rel="noopener">${esc(host(s))}</a>` : `<a href="https://github.com/${esc(s)}" rel="noopener">${esc(s)}</a>`));
   const update = `${REPO}/issues/new?template=deal.yml&title=${encodeURIComponent(`Update: ${d.name}`)}`;
   const badge = `<a href="${SITE}deal/${d.id}/"><img src="${SITE}badge.svg" alt="Listed on BF26 deals" width="168" height="28"></a>`;
-  const title = `${d.name} Black Friday 2026: ${d.headline}`;
+  const title = clip(`${d.name} Black Friday 2026 ${d.codes.length ? "Promo Code" : "Deal"}: ${d.headline}`, 70);
+  const m = modified(dealPath(d), d);
+  const price = parsePrice(d.headline);
+  const qa = dealAnswers(d, price);
+  const hubs = hubsFor(d).filter((h) => d.category !== ADULT);
   const body = `<main class="dealpage" data-deal="${esc(d.id)}">
   <nav class="crumb">${crumbs.join(" / ")}</nav>
-  <div class="dh">${logo(d, "logo lg")}<div><h1>${esc(d.name)}${d.vendor ? ` <span class="vtag" title="Submitted by someone who works for the company">✓ Listed by the company</span>` : ""}</h1>${d.description ? `<p>${esc(d.description)}</p>` : ""}</div></div>
+  <div class="dh">${logo(d, "logo lg")}<div><h1>${esc(d.name)} Black Friday 2026 deal${d.vendor ? ` <span class="vtag" title="Submitted by someone who works for the company">✓ Listed by the company</span>` : ""}</h1>${d.description ? `<p>${esc(d.description)}</p>` : ""}${updatedLine(m)}</div></div>
   <section class="offer">
     <div class="o1">${d.discount ? `<span class="big">${d.discount}% off</span>` : `<span class="big sm">Black Friday offer</span>`}${d.ends ? `<span class="left">ends ${fmt(d.ends)}</span>` : ""}</div>
     <p class="hl">${d.upcoming ? `<span class="soonTag">Coming soon</span>` : ""}${esc(d.headline)}</p>
@@ -165,6 +240,9 @@ function dealPage(d: PageDeal, related: PageDeal[]) {
   <h2 class="lbl">FULL TERMS</h2>
   <p class="terms">${esc(d.deal)}</p>
   <p class="srcs">Sources: ${sources.join(", ")}</p>
+  <h2 class="lbl">QUICK ANSWERS</h2>
+  <section class="qa">${qa.map((x) => `<h3>${esc(x.q)}</h3><p>${esc(x.a)}</p>`).join("")}</section>
+  ${hubs.length ? `<p class="hublink">Compare: ${hubs.map((h) => `<a href="${hubPath(h)}">${esc(hubTitle(h))}</a>`).join(", ")}</p>` : ""}
   <div class="report"><span>Code didn't work or the deal ended?</span><a class="btn ghost" href="${esc(`${REPO}/issues/new?template=report.yml&title=${encodeURIComponent(`Report: ${d.name}`)}&product=${encodeURIComponent(d.name)}&page=${encodeURIComponent(`${SITE}deal/${d.id}/`)}`)}" target="_blank" rel="noopener">Report it</a></div>
   ${related.length ? `<section class="rel"><h2 class="lbl">MORE ${esc((d.subcategory ?? d.category).toUpperCase())} DEALS</h2>${related.map(row).join("")}</section>` : ""}
   <p class="claim">Your product? <a href="${esc(update)}" target="_blank" rel="noopener">Update this listing</a>.</p>
@@ -173,23 +251,52 @@ function dealPage(d: PageDeal, related: PageDeal[]) {
   const crumbsLd: [string, string][] = [["All deals", BASE], [d.category, catPath(d.category)]];
   if (d.subcategory) crumbsLd.push([d.subcategory, catPath(d.category, d.subcategory)]);
   crumbsLd.push([d.name, dealPath(d)]);
-  const product = {
-    "@type": "Product",
-    name: d.name,
-    description: d.description ?? d.headline,
-    url: SITE + dealPath(d).slice(BASE.length),
-    image: `https://icons.duckduckgo.com/ip3/${host(d.url)}.ico`,
-    brand: { "@type": "Brand", name: d.name },
-    category: [d.category, d.subcategory].filter(Boolean).join(" > "),
-    offers: {
-      "@type": "Offer",
-      url: d.url,
-      description: `${d.headline}${d.codes.length ? `. Code: ${d.codes.join(", ")}` : ""}`,
-      availability: d.upcoming ? "https://schema.org/PreOrder" : "https://schema.org/InStock",
-      ...(d.ends ? { priceValidUntil: d.ends } : {}),
+  const url = abs(dealPath(d));
+  const availability = d.upcoming ? "https://schema.org/PreOrder" : "https://schema.org/InStock";
+  const seller = { "@type": "Organization", name: d.name, url: origin(d.url) };
+  const offerText = `${d.headline}${d.codes.length ? `. Code: ${d.codes.join(", ")}` : ""}`;
+  // Google requires a price on Product offers, so Product is used only when the headline states one;
+  // otherwise the page's main entity is a plain Offer on a Service, which no rich result validates.
+  const main = price
+    ? {
+        "@type": "Product", name: d.name, description: d.description ?? d.headline, url, image: `${SITE}og.png`,
+        brand: { "@type": "Brand", name: d.name }, category: [d.category, d.subcategory].filter(Boolean).join(" > "),
+        offers: {
+          "@type": "Offer", url: d.url, description: offerText, availability, seller,
+          price: price.price, priceCurrency: "USD", ...(d.ends ? { priceValidUntil: d.ends } : {}),
+          ...(price.unit ? { priceSpecification: { "@type": "UnitPriceSpecification", price: price.price, priceCurrency: "USD", referenceQuantity: { "@type": "QuantitativeValue", value: 1, unitCode: price.unit } } } : {}),
+        },
+      }
+    : {
+        "@type": "Offer", name: `${d.name} Black Friday 2026 deal`, description: offerText, url: d.url, availability, seller,
+        ...(d.ends ? { validThrough: d.ends } : {}),
+        itemOffered: { "@type": "Service", name: d.name, url: d.url, ...(d.description ? { description: d.description } : {}) },
+      };
+  const description = clip([`${d.name} Black Friday 2026: ${sentence(d.headline)}`, d.codes.length ? `Code ${d.codes[0]}.` : "No code needed.", d.ends ? `Ends ${fmtLong(d.ends)}.` : "", d.newCustomersOnly ? "New customers only." : "", d.description ? sentence(d.description) : ""].filter(Boolean).join(" "), 158);
+  return shell({
+    title, description, path: dealPath(d), body, noindex: d.category === ADULT,
+    ld: [webPage(dealPath(d), title, m, { mainEntity: main }), breadcrumb(crumbsLd), { "@type": "FAQPage", mainEntity: qa.map((x) => ({ "@type": "Question", name: x.q, acceptedAnswer: { "@type": "Answer", text: x.a } })) }],
+  });
+}
+
+// Self-contained answers for one deal (code, end date, price, eligibility), shown on its page and
+// marked up as FAQPage so answer engines can quote a full sentence.
+function dealAnswers(d: PageDeal, price?: ReturnType<typeof parsePrice>) {
+  const out = [
+    {
+      q: `Is there a ${d.name} Black Friday 2026 promo code?`,
+      a: d.codes.length
+        ? `Yes: use ${d.codes.length > 1 ? `one of the codes ${d.codes.join(", ")}` : `code ${d.codes[0]}`} at checkout. ${sentence(d.headline)}`
+        : `No code is needed. ${sentence(d.headline)} The discount applies on ${host(d.url) || "the vendor's site"}.`,
     },
-  };
-  return shell({ title, description: `${d.name}: ${d.headline}.${d.codes.length ? ` Code ${d.codes[0]}.` : ""}${d.ends ? ` Ends ${fmt(d.ends)}.` : ""} ${d.description ?? ""}`.trim(), path: dealPath(d), body, noindex: d.category === ADULT, ld: [breadcrumb(crumbsLd), product] });
+    {
+      q: `When does the ${d.name} Black Friday deal end?`,
+      a: `${d.upcoming ? "It is announced but not live yet. " : ""}${d.ends ? `It ends ${fmtLong(d.ends)}.` : "No end date is announced. Most Black Friday 2026 deals run until Cyber Monday, November 30, 2026."}`,
+    },
+  ];
+  if (price) out.push({ q: `How much is ${d.name} on Black Friday 2026?`, a: `${priceText(price)} with this deal: ${sentence(d.headline)}` });
+  if (d.newCustomersOnly) out.push({ q: `Can existing ${d.name} customers get the deal?`, a: "No, it is for new customers only." });
+  return out;
 }
 
 function categoryPage(c: Category, s: string | undefined, ds: PageDeal[], all: PageDeal[]) {
@@ -198,12 +305,16 @@ function categoryPage(c: Category, s: string | undefined, ds: PageDeal[], all: P
   const name = s ?? c;
   const crumbs = [`<a href="${BASE}">All deals</a>`, s ? `<a href="${catPath(c)}">${esc(c)}</a>` : ""].filter(Boolean).join(" / ");
   const codes = ds.filter((d) => d.codes.length).length;
-  const sorted = [...ds].sort(popular);
+  const sorted = ranked(ds);
+  const path = catPath(c, s);
+  const m = modified(path, sorted.map((d) => [d.id, d.headline, d.codes, d.ends]));
+  const guides = HUBS.filter((h) => catPath(...h.all) === path || (!s && h.all[0] === c));
   const top = sorted.length >= 4 ? sorted.slice(0, 3) : [];
   const body = `<main class="catpage">
   <nav class="crumb">${crumbs}</nav>
-  <h1>${esc(name)} Black Friday deals</h1>
-  <p class="intro">${sorted[0] ? `Best right now: <a href="${dealPath(sorted[0])}"><b>${esc(sorted[0].name)}</b></a>, ${esc(sorted[0].headline)}${sorted[0].codes.length ? ` (code <code>${esc(sorted[0].codes[0])}</code>)` : ""}. ` : ""}${ds.length} live Black Friday and Cyber Monday 2026 offers${s ? ` in ${esc(c)}` : ""}, ${codes} with promo codes. Most popular first.</p>
+  <h1>${esc(name)} Black Friday deals 2026</h1>
+  ${updatedLine(m)}
+  <p class="intro">${sorted[0] ? `Best right now: <a href="${dealPath(sorted[0])}"><b>${esc(sorted[0].name)}</b></a>, ${esc(sorted[0].headline)}${sorted[0].codes.length ? ` (code <code>${esc(sorted[0].codes[0])}</code>)` : ""}. ` : ""}${ds.length} live Black Friday and Cyber Monday 2026 offers${s ? ` in ${esc(c)}` : ""}, ${codes} with promo codes. Editors' picks first, then the most popular.${guides.length ? ` Compare the best: ${guides.map((h) => `<a href="${hubPath(h)}">${esc(hubTitle(h))}</a>`).join(", ")}.` : ""}</p>
   <nav class="subs"><a href="${catPath(c)}" class="${s ? "" : "on"}">All ${inCat.length}</a>${subs.map(([x, n]) => `<a href="${catPath(c, x)}" class="${x === s ? "on" : ""}">${esc(x)} ${n}</a>`).join("")}</nav>
   ${top.length ? `<section class="toppicks"><h2 class="lbl">TOP PICKS IN ${esc(name.toUpperCase())}</h2><div class="tp">${top
     .map((d, i) => `<div class="tc"><span class="rank">#${i + 1}</span><a class="tn" href="${dealPath(d)}">${logo(d)}<b>${esc(d.name)}</b></a>${d.discount ? `<span class="big">${d.discount}% off</span>` : ""}<p>${esc(d.headline)}</p><div class="tact">${d.codes.length ? codeBtn(d.codes[0]) : ""}${goBtn(d)}</div></div>`)
@@ -215,11 +326,11 @@ function categoryPage(c: Category, s: string | undefined, ds: PageDeal[], all: P
   const list = {
     "@type": "ItemList",
     name: `${name} Black Friday 2026 deals`,
-    numberOfItems: ds.length,
+    numberOfItems: Math.min(ds.length, 50),
     itemListElement: sorted.slice(0, 50).map((d, i) => ({ "@type": "ListItem", position: i + 1, name: `${d.name}: ${d.headline}`, url: SITE + dealPath(d).slice(BASE.length) })),
   };
   const best = sorted[0] ? ` Best: ${sorted[0].name}, ${sorted[0].headline}.` : "";
-  return shell({ title: `${name} Black Friday & Cyber Monday 2026 deals (${ds.length})`, description: `${ds.length} live ${name} Black Friday 2026 deals, ${codes} with promo codes.${best}`, path: catPath(c, s), body, noindex: c === ADULT, ld: [breadcrumb(crumbsLd), list] });
+  return shell({ title: `${name} Black Friday 2026 Deals (${ds.length})`, description: `${ds.length} live ${name} Black Friday 2026 deals, ${codes} with promo codes.${best}`, path, body, noindex: c === ADULT, ld: [webPage(path, `${name} Black Friday 2026 deals`, m, { "@type": "CollectionPage" }), breadcrumb(crumbsLd), list] });
 }
 
 
@@ -254,9 +365,9 @@ function submitPage(deals: PageDeal[]) {
   return shell({ title: "List your Black Friday 2026 deal for free", description: "Add your product's Black Friday or Cyber Monday 2026 deal to the directory: its own page, a followed link, search and category placement.", path: `${BASE}submit/`, body });
 }
 
-export function renderSite(deals: PageDeal[], builtAt: string, v: { css: string; page: string }) {
+export function renderSite(deals: PageDeal[], builtAt: string, v: { css: string; page: string }, sources: number) {
   ASSET_V = v;
-  for (const dir of ["docs/deal", "docs/c"]) rmSync(dir, { recursive: true, force: true }); // drop pages of expired deals
+  for (const dir of ["docs/deal", "docs/c", "docs/best", "docs/about"]) rmSync(dir, { recursive: true, force: true }); // drop pages of expired deals
   const write = (path: string, html: string) => {
     const file = `docs/${path.slice(BASE.length)}index.html`;
     mkdirSync(file.replace(/index\.html$/, ""), { recursive: true });
@@ -279,15 +390,25 @@ export function renderSite(deals: PageDeal[], builtAt: string, v: { css: string;
       if (c !== ADULT) pages.push(catPath(c, s));
     }
   }
+  for (const h of HUBS) {
+    if (!hubDeals(h, deals).length) continue;
+    write(hubPath(h), hubPage(h, deals));
+    pages.push(hubPath(h));
+  }
+  const about = aboutPage(deals.filter((d) => d.category !== ADULT), sources);
+  write(about.path, about.html);
+  pages.push(about.path);
   write(`${BASE}submit/`, submitPage(deals));
   writeFileSync("docs/404.html", shell({ title: "Page not found | BF26 deals", description: "This deal page doesn't exist or the deal has ended.", path: `${BASE}404`, noindex: true, body: `<main class="submitpage"><h1>This deal isn't here</h1><p class="lead">It may have ended, or the link is wrong. Search above or start from the categories below.</p><div class="cta"><a class="btn go" href="${BASE}">See all live deals</a><a class="btn ghost" href="${BASE}submit/">List your product</a></div></main>` }));
   pages.push(`${BASE}submit/`, ...deals.filter((d) => d.category !== ADULT).map(dealPath));
   writeFileSync(
     "docs/sitemap.xml",
-    `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${pages.map((p) => `<url><loc>${SITE}${p.slice(BASE.length)}</loc><lastmod>${builtAt}</lastmod></url>`).join("\n")}\n</urlset>\n`,
+    `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${pages.map((p) => `<url><loc>${abs(p)}</loc><lastmod>${MODS[p]?.d ?? builtAt}</lastmod></url>`).join("\n")}\n</urlset>\n`,
   );
   // Search and AI crawlers are all welcome; listed by name so the intent is explicit.
   const bots = ["Googlebot", "Bingbot", "GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "Claude-User", "PerplexityBot", "Perplexity-User", "Google-Extended", "Applebot", "Applebot-Extended", "DuckAssistBot", "meta-externalagent", "CCBot"];
+  // Only pages built this time are kept, so expired deals drop out of the file too.
+  writeFileSync(LASTMOD, JSON.stringify(Object.fromEntries(Object.entries(MODS).sort(([a], [b]) => a.localeCompare(b))), null, 0).replace(/\},"/g, '},\n"') + "\n");
   writeFileSync("docs/robots.txt", `${bots.map((b) => `User-agent: ${b}\nAllow: /\n`).join("\n")}\nUser-agent: *\nAllow: /\n\nSitemap: ${SITE}sitemap.xml\n`);
   return pages.length;
 }
@@ -301,29 +422,17 @@ export const categoryNav = (deals: PageDeal[]) =>
 
 // --- Home page extras for crawlers and answer engines -----------------------------------------
 // Returns HTML/JSON-LD injected into docs/index.html, and writes llms.txt / llms-full.txt.
-export function renderHome(deals: PageDeal[], picks: { id: string; why: string }[], builtAt: string, brands: string[] = []) {
+export function renderHome(deals: PageDeal[], picks: { id: string; why: string }[], builtAt: string) {
   const visible = deals.filter((d) => d.category !== ADULT);
   const codes = visible.filter((d) => d.codes.length).length;
-  // "Best" answers prefer editors' picks and household brands, then the most-listed deal.
-  const featured = [...picks.map((p) => p.id), ...brands];
-  const rank = (d: PageDeal) => { const i = featured.indexOf(d.id); return i < 0 ? Infinity : i; };
-  const top = (test: (d: PageDeal) => boolean) => visible.filter(test).sort((a, b) => rank(a) - rank(b) || popular(a, b))[0];
+  // "Best" answers use the same order as the /best/ guides and category pages (see initPages).
+  const top = (test: (d: PageDeal) => boolean) => ranked(visible.filter(test))[0];
   const line = (d?: PageDeal) => (d ? `${d.name}: ${d.headline}${d.codes.length ? ` (code ${d.codes[0]})` : ""}${d.ends ? `, ends ${fmt(d.ends)}` : ""}` : "");
   const link = (d?: PageDeal) => (d ? `<a href="${dealPath(d)}">${esc(d.name)}</a>: ${esc(d.headline)}${d.codes.length ? ` (code <code>${esc(d.codes[0])}</code>)` : ""}` : "");
   const soon = visible.filter((d) => d.ends && Date.parse(d.ends) - Date.parse(builtAt) <= 2 * 864e5).sort(popular);
 
   // Answer-first FAQ: each answer names the current best deal, so answer engines can quote it.
-  const best: [string, PageDeal | undefined][] = [
-    ["VPN", top((d) => d.subcategory === "VPN")],
-    ["password manager", top((d) => d.subcategory === "Password Managers")],
-    ["web hosting", top((d) => d.subcategory === "Web & WordPress Hosting")],
-    ["domain", top((d) => d.subcategory === "Domains")],
-    ["AI tool", top((d) => d.category === "AI Tools")],
-    ["developer tool", top((d) => d.category === "Developer Tools")],
-    ["Mac app", top((d) => d.platforms.includes("mac") && d.category === "Mac & Desktop Utilities")],
-    ["online course", top((d) => d.category === "Learning")],
-    ["game", top((d) => d.category === "Gaming")],
-  ];
+  const best: [string, PageDeal | undefined][] = [...HUBS.map((h) => [h.what, top(h.test)] as [string, PageDeal | undefined]), ["game", top((d) => d.category === "Gaming")]];
   const faq: { q: string; html: string; text: string }[] = [
     { q: "When is Black Friday 2026?", text: "Black Friday 2026 is Friday, November 27, 2026, and Cyber Monday is Monday, November 30, 2026. Most deals in this directory run until November 30 or December 1.", html: "Black Friday 2026 is <b>Friday, November 27</b>, and Cyber Monday is <b>Monday, November 30</b>. Most deals here run until November 30 or December 1." },
     { q: "How many Black Friday 2026 deals are listed here?", text: `${visible.length} live deals, ${codes} with promo codes, merged from 28 community deal lists plus web, X and Reddit research. Updated daily; expired deals are removed.`, html: `<b>${visible.length.toLocaleString()} live deals</b>, ${codes.toLocaleString()} with promo codes, merged from 28 community deal lists plus web, X and Reddit research. Updated daily; expired deals are removed.` },
@@ -331,9 +440,11 @@ export function renderHome(deals: PageDeal[], picks: { id: string; why: string }
     { q: "Which Black Friday deals end soonest?", text: soon.length ? `${soon.length} deals end within 48 hours, including ${soon.slice(0, 3).map((d) => d.name).join(", ")}.` : "See the Last chance section for deals ending soon.", html: soon.length ? `${soon.length} deals end within 48 hours, including ${soon.slice(0, 3).map((d) => `<a href="${dealPath(d)}">${esc(d.name)}</a>`).join(", ")}.` : "See Last chance above." },
     { q: "How do I list my product's Black Friday deal?", text: `Use the free submission form at ${SITE}submit/. Each listing gets its own page with a link to your site.`, html: `Use the free <a href="${BASE}submit/">submission form</a>. Each listing gets its own page with a link to your site.` },
   ];
-  const faqHtml = `<section class="faq"><h2>Black Friday 2026: quick answers</h2>${faq.map((f) => `<details><summary>${esc(f.q)}</summary><p>${f.html}</p></details>`).join("")}</section>`;
+  const faqHtml = `<section class="faq"><h2>Black Friday 2026: quick answers</h2><p class="updated">Updated <time datetime="${builtAt}">${fmtLong(builtAt)}</time>. <a href="${BASE}about/">How deals are checked</a>.</p>${faq.map((f) => `<details><summary>${esc(f.q)}</summary><p>${f.html}</p></details>`).join("")}<h2>Best Black Friday 2026 deals by type</h2>${hubNav()}</section>`;
   const ld = ldScript([
-    { "@type": "WebSite", name: "BF26 deals", url: SITE, description: `Directory of ${visible.length} Black Friday and Cyber Monday 2026 deals with promo codes.`, potentialAction: { "@type": "SearchAction", target: { "@type": "EntryPoint", urlTemplate: `${SITE}?q={search_term_string}` }, "query-input": "required name=search_term_string" } },
+    { "@type": "Organization", "@id": `${SITE}#org`, name: "BF26 deals", url: SITE, logo: `${SITE}og.png`, sameAs: [REPO] },
+    { "@type": "WebPage", "@id": `${SITE}#webpage`, url: SITE, name: "Black Friday & Cyber Monday 2026 deals and promo codes", dateModified: builtAt, isPartOf: { "@id": `${SITE}#website` }, publisher: { "@id": `${SITE}#org` }, speakable: { "@type": "SpeakableSpecification", cssSelector: [".faq"] } },
+    { "@type": "WebSite", "@id": `${SITE}#website`, publisher: { "@id": `${SITE}#org` }, name: "BF26 deals", url: SITE, description: `Directory of ${visible.length} Black Friday and Cyber Monday 2026 deals with promo codes.`, potentialAction: { "@type": "SearchAction", target: { "@type": "EntryPoint", urlTemplate: `${SITE}?q={search_term_string}` }, "query-input": "required name=search_term_string" } },
     { "@type": "FAQPage", mainEntity: faq.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.text } })) },
     { "@type": "ItemList", name: "Editors' picks: Black Friday 2026", itemListElement: picks.map((p, i) => visible.find((d) => d.id === p.id)).filter(Boolean).map((d, i) => ({ "@type": "ListItem", position: i + 1, name: `${d!.name}: ${d!.headline}`, url: SITE + dealPath(d!).slice(BASE.length) })) },
   ]);
@@ -350,6 +461,11 @@ export function renderHome(deals: PageDeal[], picks: { id: string; why: string }
 
 Black Friday 2026 is Friday, November 27. Cyber Monday is Monday, November 30. Prices and codes come from vendors and deal lists; check at checkout.
 
+Updated ${fmtLong(builtAt)}. How deals are sourced, checked and ranked: ${SITE}about/
+
+## Best deal by type (guides with comparison tables)
+${HUBS.map((h) => { const ds = hubDeals(h, visible); return ds.length ? `- [${hubTitle(h)}](${abs(hubPath(h))}): ${line(ds[0])}; ${ds.length} deals` : ""; }).filter(Boolean).join("\n")}
+
 ## Best deal per category
 ${cats.map((c) => { const d = top((x) => x.category === c); return `- [${c}](${SITE}c/${slug(c)}/): ${line(d)}`; }).join("\n")}
 
@@ -360,6 +476,8 @@ ${picks.map((p) => visible.find((d) => d.id === p.id)).filter(Boolean).map((d) =
 - [Every deal, one line each](${SITE}llms-full.txt)
 - [All deals as JSON](${SITE}data.json): fields name, url, category, subcategory, headline, deal, codes, ends, discount
 - [Sitemap](${SITE}sitemap.xml)
+- [Subcategories](${SITE}sitemap.xml): every /c/<category>/<subcategory>/ page lists its deals, best first
+- [About and method](${SITE}about/)
 - [Submit a deal](${SITE}submit/)
 - [Source on GitHub](${REPO})
 `,

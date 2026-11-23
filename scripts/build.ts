@@ -8,7 +8,7 @@ import {
   TAXONOMY, PLATFORMS, PRICING, ADULT, guessCategory, isCategory, isSubcategory,
   type Category, type Platform, type Pricing,
 } from "./taxonomy.ts";
-import { SITE, SUGGEST, categoryNav, renderHome, renderSite, setStats, slug } from "./pages.ts";
+import { SITE, SUGGEST, categoryNav, initPages, renderHome, renderSite, setStats, slug } from "./pages.ts";
 
 const TODAY = new Date(process.env.TODAY ?? new Date().toISOString().slice(0, 10));
 const YEAR = 2026;
@@ -449,7 +449,8 @@ try {
   const r = await fetch(`${SITE}api/stats`, { signal: AbortSignal.timeout(8000) });
   if (r.ok) setStats(await r.json());
 } catch {}
-const home = renderHome(live.map(publish), picks, stats.builtAt, brandIds);
+initPages(stats.builtAt, [...picks.map((p) => p.id), ...brandIds]);
+const home = renderHome(live.map(publish), picks, stats.builtAt);
 const index = readFileSync("docs/index.html", "utf8")
   .replace(/<!--cats-->[\s\S]*?<!--\/cats-->/, `<!--cats-->${categoryNav(live)}<!--/cats-->`)
   .replace(/src="app\.js(\?v=\w+)?"/, `src="app.js?v=${v.app}"`)
@@ -459,7 +460,7 @@ const index = readFileSync("docs/index.html", "utf8")
   .replace(/<!--ssr-->[\s\S]*?<!--\/ssr-->/, `<!--ssr-->${home.ssr}<!--/ssr-->`)
   .replace(/<!--faq-->[\s\S]*?<!--\/faq-->/, `<!--faq-->${home.faqHtml}<!--/faq-->`);
 writeFileSync("docs/index.html", index);
-const pageCount = renderSite(live.map(publish), stats.builtAt, v);
+const pageCount = renderSite(live.map(publish), stats.builtAt, v, SOURCES.length);
 
 // --- README (index) + directory/<category>.md -------------------------------------------
 const cell = (s: string) => s.replace(/\|/g, "\\|").replace(/\n/g, " ");
