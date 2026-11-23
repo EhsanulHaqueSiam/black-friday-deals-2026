@@ -16,11 +16,12 @@ export type Hub = {
   all: [Category, string?]; // the full category page this guide summarizes
 };
 
+// "Mac apps" means Mac-first apps (no Windows build), so cross-platform services like VPNs don't win it.
 export const HUBS: Hub[] = [
   { slug: "vpn", what: "VPN", plural: "VPN", test: (d) => d.subcategory === "VPN", all: ["Security & Privacy", "VPN"] },
   { slug: "web-hosting", what: "web hosting", plural: "Web Hosting", test: (d) => d.subcategory === "Web & WordPress Hosting", all: ["Hosting & Cloud", "Web & WordPress Hosting"] },
   { slug: "ai-tools", what: "AI tool", plural: "AI Tools", test: (d) => d.category === "AI Tools", all: ["AI Tools"] },
-  { slug: "mac-apps", what: "Mac app", plural: "Mac Apps", test: (d) => d.platforms.includes("mac") && d.category !== "Hardware & Electronics", all: ["Mac & Desktop Utilities"] },
+  { slug: "mac-apps", what: "Mac app", plural: "Mac Apps", test: (d) => d.platforms.includes("mac") && !d.platforms.includes("windows") && d.category !== "Hardware & Electronics", all: ["Mac & Desktop Utilities"] },
   { slug: "online-courses", what: "online course", plural: "Online Courses", test: (d) => d.category === "Learning", all: ["Learning"] },
   { slug: "password-managers", what: "password manager", plural: "Password Managers", test: (d) => d.subcategory === "Password Managers", all: ["Security & Privacy", "Password Managers"] },
   { slug: "developer-tools", what: "developer tool", plural: "Developer Tools", test: (d) => d.category === "Developer Tools", all: ["Developer Tools"] },
