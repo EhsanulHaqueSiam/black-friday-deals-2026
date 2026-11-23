@@ -51,6 +51,7 @@ const logo = (d: PageDeal, cls = "logo") =>
 const codeBtn = (c: string, label = "Copy") => `<button class="btn code" data-code="${esc(c)}" title="Copy ${esc(c)}">${esc(c)}<i>${esc(label)}</i></button>`;
 const goBtn = (d: PageDeal, label = "Get deal") => `<a class="btn go" href="${esc(d.url)}" target="_blank" rel="noopener">${esc(label)} <span aria-hidden="true">↗</span></a>`;
 
+let ASSET_V = { css: "", page: "" }; // content hashes from build.ts, for cache-busting
 function shell(o: { title: string; description: string; path: string; body: string; noindex?: boolean }) {
   return `<!doctype html>
 <html lang="en">
@@ -69,7 +70,7 @@ ${o.noindex ? '<meta name="robots" content="noindex">' : ""}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400..700&family=Geist+Mono:wght@400..600&display=swap">
-<link rel="stylesheet" href="${BASE}style.css">
+<link rel="stylesheet" href="${BASE}style.css?v=${ASSET_V.css}">
 </head>
 <body class="page">
 <header class="top">
@@ -83,7 +84,7 @@ ${o.body}
   <p>Black Friday &amp; Cyber Monday 2026 deals, merged from 28 community lists and web research. Always check the price at checkout. <a href="${REPO}">Source on GitHub</a></p>
 </footer>
 <div id="toast" class="toast" role="status"></div>
-<script src="${BASE}page.js"></script>
+<script src="${BASE}page.js?v=${ASSET_V.page}"></script>
 </body>
 </html>
 `;
@@ -150,7 +151,8 @@ function categoryPage(c: Category, s: string | undefined, ds: PageDeal[], all: P
   return shell({ title: `${name} Black Friday & Cyber Monday 2026 deals (${ds.length})`, description: `${ds.length} live ${name} Black Friday 2026 deals, ${codes} with promo codes.`, path: catPath(c, s), body, noindex: c === ADULT });
 }
 
-export function renderSite(deals: PageDeal[], builtAt: string) {
+export function renderSite(deals: PageDeal[], builtAt: string, v: { css: string; page: string }) {
+  ASSET_V = v;
   for (const dir of ["docs/deal", "docs/c"]) rmSync(dir, { recursive: true, force: true }); // drop pages of expired deals
   const write = (path: string, html: string) => {
     const file = `docs/${path.slice(BASE.length)}index.html`;

@@ -2,6 +2,7 @@
 // and writes data/deals.json, docs/data.json (website), data/enrich-queue.json and README.md.
 // Run: node scripts/build.ts   (TODAY=YYYY-MM-DD to pin the date)
 import { execFileSync } from "node:child_process";
+import { createHash } from "node:crypto";
 import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs";
 import {
   TAXONOMY, PLATFORMS, PRICING, ADULT, guessCategory, isCategory, isSubcategory,
@@ -433,9 +434,16 @@ writeFileSync(
 );
 
 // --- static directory pages ---------------------------------------------------------
-const pageCount = renderSite(live.map(publish), stats.builtAt);
-const index = readFileSync("docs/index.html", "utf8");
-writeFileSync("docs/index.html", index.replace(/<!--cats-->[\s\S]*?<!--\/cats-->/, `<!--cats-->${categoryNav(live)}<!--/cats-->`));
+
+// Cache-busting: Pages lets browsers cache for 10 minutes, so assets carry a content hash.
+const hash = (f: string) => createHash("sha1").update(readFileSync(f)).digest("hex").slice(0, 8);
+const v = { app: hash("docs/app.js"), css: hash("docs/style.css"), page: hash("docs/page.js") };
+const index = readFileSync("docs/index.html", "utf8")
+  .replace(/<!--cats-->[\s\S]*?<!--\/cats-->/, `<!--cats-->${categoryNav(live)}<!--/cats-->`)
+  .replace(/src="app\.js(\?v=\w+)?"/, `src="app.js?v=${v.app}"`)
+  .replace(/href="style\.css(\?v=\w+)?"/, `href="style.css?v=${v.css}"`);
+writeFileSync("docs/index.html", index);
+const pageCount = renderSite(live.map(publish), stats.builtAt, v);
 
 // --- README (index) + directory/<category>.md -------------------------------------------
 const cell = (s: string) => s.replace(/\|/g, "\\|").replace(/\n/g, " ");
