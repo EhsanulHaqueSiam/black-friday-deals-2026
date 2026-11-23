@@ -10,7 +10,7 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
-| [5DayDeal](https://discounts.5daydeal.com/) | Creative software and training deals for photographers. | Up to 95% off software, presets, training and gear, ends Dec 2 |  | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/5daydeal/) |
+| [5DayDeal](https://discounts.5daydeal.com/) | Creative software and training deals for photographers. | Up to 95% off software, presets, training and gear |  | Dec 2 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/5daydeal/) |
 | [BundleHunt Black Friday Bundle 2026](https://bundlehunt.com) | Bundle of 44 Mac apps sold together. | 44 Mac apps for $216.79, was $2,358 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/bundlehuntblackfridaybundle2026/) |
 | [Humble Bundle](https://www.humblebundle.com/) | Bundles and store for games, ebooks and software. | Up to 90% off PC games, FF7 Rebirth $7.50 |  |  | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/humblebundle/) |
 | [BundleWP](https://bundlewp.com/complete-business-software-bundle/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Bundle of 11 business apps including restaurant, e-commerce and billing systems. | 87% off all 11 products, $1,029 → $129 | `BUNDLE129` | Dec 1 | [details](https://ehsanulhaquesiam.github.io/black-friday-deals-2026/deal/bundlewp/) |
