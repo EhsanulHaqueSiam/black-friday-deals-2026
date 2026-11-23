@@ -10,9 +10,6 @@ on:
 permissions:
   contents: write
   issues: write
-concurrency:
-  group: directory-build
-  cancel-in-progress: false
 jobs:
   check:
     if: (github.event.action == 'opened' || github.event.action == 'edited') && contains(github.event.issue.labels.*.name, 'deal')
@@ -36,6 +33,10 @@ jobs:
   publish:
     if: github.event.action == 'labeled' && github.event.label.name == 'approved' && contains(github.event.issue.labels.*.name, 'deal')
     runs-on: ubuntu-latest
+    # only publishing pushes commits, so only it queues behind the other site builds
+    concurrency:
+      group: directory-build
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
