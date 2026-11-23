@@ -131,3 +131,58 @@ main { min-width: 0; }
   .pg { grid-auto-columns: 78%; margin-right: -16px; padding-right: 16px; }
 }
 @media (prefers-reduced-motion: reduce) { .toast, .btn { transition: opacity 200ms ease; } .btn:active { transform: none; } }
+
+/* Header "Suggest a deal" and site footer (home and static pages) */
+.ghost { border: 1px solid #2a2a2a; color: var(--fg); background: none; }
+@media (hover: hover) and (pointer: fine) { .ghost:hover { border-color: #555; } }
+.top .suggest { height: 34px; }
+.sitefoot { border-top: 1px solid var(--line); padding: 20px; color: var(--faint); font-size: 12px; display: grid; gap: 10px; }
+.sitefoot nav { display: flex; flex-wrap: wrap; gap: 6px 14px; }
+.sitefoot a { color: var(--dim); }
+
+/* Static directory pages: /deal/<id>/ and /c/<cat>/ */
+body.page .top .search { max-width: 520px; }
+.dealpage, .catpage { max-width: 720px; margin: 0 auto; padding: 18px 20px 32px; }
+.catpage { max-width: 960px; }
+.dealpage .crumb, .catpage .crumb { font-size: 12.5px; color: var(--dim); }
+.crumb a { color: var(--dim); }
+.dh { display: grid; grid-template-columns: 56px minmax(0, 1fr); gap: 14px; align-items: center; margin: 12px 0 16px; }
+.logo.lg { width: 56px; height: 56px; border-radius: 12px; }
+.logo.lg.ph { font-size: 22px; }
+.dh h1 { font: 700 26px/1.15 var(--sans); letter-spacing: -.4px; }
+.dh p { color: var(--dim); margin-top: 3px; }
+.offer { border: 1px solid var(--line); border-radius: 12px; padding: 18px; display: grid; gap: 12px; margin-bottom: 14px; }
+.offer .o1 { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.offer .big { font: 700 34px/1 var(--sans); letter-spacing: -.8px; color: var(--acc); }
+.offer .big.sm { font-size: 20px; letter-spacing: -.2px; }
+.offer .hl { font-size: 16px; }
+.offer .acts { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.offer .acts .btn { justify-content: center; height: 40px; font-size: 14px; }
+.offer .nocode { justify-content: center; border: 1px solid var(--line); }
+.more-codes summary { cursor: pointer; color: var(--dim); font: 12px var(--mono); }
+.more-codes .codes { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.facts { display: flex; flex-wrap: wrap; gap: 6px 16px; font: 12px var(--mono); color: var(--dim); margin-bottom: 18px; }
+.lbl { font: 500 11px var(--mono); color: var(--faint); letter-spacing: .02em; margin: 18px 0 8px; }
+.terms { color: #d6d6d6; }
+.srcs { font: 11px var(--mono); color: var(--faint); margin-top: 8px; }
+.srcs a { color: var(--dim); }
+.rel .row { padding-left: 0; padding-right: 0; }
+.claim { margin-top: 22px; font-size: 13px; color: var(--dim); }
+.claim a { color: var(--fg); }
+.badge { margin-top: 8px; font-size: 13px; color: var(--dim); }
+.badge summary { cursor: pointer; }
+.badge img { display: block; margin: 10px 0; }
+.badge textarea { width: 100%; background: #0c0c0c; color: #ccc; border: 1px solid var(--line); border-radius: 7px; padding: 8px; font: 12px var(--mono); resize: vertical; }
+.catpage h1 { font: 700 26px/1.2 var(--sans); letter-spacing: -.4px; margin-top: 8px; }
+.catpage .intro { color: var(--dim); margin-top: 4px; }
+.catpage .subs { display: flex; flex-wrap: wrap; gap: 6px; margin: 14px 0 6px; }
+.catpage .subs a { font-size: 12.5px; color: #ccc; border: 1px solid #2a2a2a; border-radius: 6px; padding: 3px 9px; text-decoration: none; }
+.catpage .subs a.on { border-color: var(--fg); color: var(--fg); }
+.catpage .row { padding-left: 0; padding-right: 0; }
+.row.static { cursor: auto; }
+@media (max-width: 760px) {
+  .top .suggest { order: 2; padding: 0 10px; }
+  body.page .top .search { order: 3; flex-basis: 100%; max-width: none; }
+  .offer .acts { grid-template-columns: 1fr; }
+  .dealpage, .catpage { padding: 14px 16px 28px; }
+}

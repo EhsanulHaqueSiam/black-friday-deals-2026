@@ -1,0 +1,32 @@
+# Builds the directory on every pull request (validates submissions) and once a day on main
+# (pulls the latest community lists, drops expired deals, republishes the site).
+name: build
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths: ["data/**", "scripts/**"]
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node scripts/build.ts ${{ github.event_name == 'schedule' && '--fetch' || '' }}
+      - name: Commit rebuilt site
+        if: github.event_name != 'pull_request'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || (git commit -m "chore: rebuild directory" && git push)

@@ -75,7 +75,7 @@ const pct = (d) => (d.discount && !d.headline.includes(`${d.discount}%`) ? `<spa
 function row(d) {
   return `<article class="row" data-id="${esc(d.id)}">
     ${logo(d)}
-    <div class="n"><a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.name)}</a>${d.description ? `<small>${esc(d.description)}</small>` : ""}</div>
+    <div class="n"><a href="${d.category === ADULT ? esc(d.url) : `deal/${esc(d.id)}/`}">${esc(d.name)}</a>${d.description ? `<small>${esc(d.description)}</small>` : ""}</div>
     <div class="act">${d.codes.length ? codeBtn(d.codes[0]) : `<span class="nocode">No code needed</span>`}${goBtn(d)}</div>
     <div class="h">${d.upcoming ? `<span class="soonTag">Soon</span>` : ""}${pct(d)}${esc(d.headline)}</div>
     <div class="sub">${endsText(d)}<button class="more" aria-expanded="false">${d.codes.length > 1 ? `${d.codes.length} codes · ` : ""}details</button></div>
@@ -154,6 +154,9 @@ function writeHash() {
 }
 function readHash() {
   const p = new URLSearchParams(location.hash.slice(1));
+  // Searches sent from the static pages arrive as ?q=
+  const fromPage = new URLSearchParams(location.search).get("q");
+  if (fromPage && !p.has("q")) p.set("q", fromPage);
   state.q = (p.get("q") ?? "").toLowerCase();
   state.cat = p.get("c") ?? "";
   state.sub = p.get("s") ?? "";

@@ -1,0 +1,64 @@
+name: Suggest a deal
+description: Add a Black Friday / Cyber Monday 2026 deal to the directory (your own product or one you found).
+title: "Deal: "
+labels: ["deal"]
+body:
+  - type: markdown
+    attributes:
+      value: Every listing gets its own page on the website with a link to the product. Deals need a real 2026 offer (a discount, price cut or code) and a page where it can be checked.
+  - type: input
+    id: name
+    attributes: { label: Product name, placeholder: "Namecheap" }
+    validations: { required: true }
+  - type: input
+    id: url
+    attributes: { label: Offer or product URL, placeholder: "https://..." }
+    validations: { required: true }
+  - type: textarea
+    id: deal
+    attributes: { label: The offer, description: "Discount, key prices, who qualifies, end date.", placeholder: "50% off the first year of Pro ($96 to $48), new customers, until Dec 1, 2026" }
+    validations: { required: true }
+  - type: input
+    id: codes
+    attributes: { label: Promo code(s), description: "Leave empty if no code is needed." }
+  - type: input
+    id: ends
+    attributes: { label: Ends, placeholder: "2026-12-01" }
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - "AI Tools"
+        - "Developer Tools"
+        - "Design"
+        - "Photo, Video & Audio"
+        - "Productivity"
+        - "Mac & Desktop Utilities"
+        - "Security & Privacy"
+        - "Hosting & Cloud"
+        - "Websites & E-commerce"
+        - "Marketing & Sales"
+        - "Business & Finance"
+        - "Learning"
+        - "Entertainment"
+        - "Gaming"
+        - "Hardware & Electronics"
+        - "Health & Lifestyle"
+        - "Bundles & Deal Sites"
+        - "Adult (18+)"
+    validations: { required: true }
+  - type: input
+    id: description
+    attributes: { label: One line about the product, placeholder: "Native GUI for SQL and NoSQL databases." }
+  - type: input
+    id: source
+    attributes: { label: Where the offer is announced, description: "Your pricing page, blog post or X / Reddit post." }
+    validations: { required: true }
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Checks
+      options:
+        - label: This is a real, current 2026 offer, not a permanent price or a free tier.
+          required: true

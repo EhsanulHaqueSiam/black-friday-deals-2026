@@ -2,11 +2,12 @@
 // and writes data/deals.json, docs/data.json (website), data/enrich-queue.json and README.md.
 // Run: node scripts/build.ts   (TODAY=YYYY-MM-DD to pin the date)
 import { execFileSync } from "node:child_process";
-import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs";
 import {
   TAXONOMY, PLATFORMS, PRICING, ADULT, guessCategory, isCategory, isSubcategory,
   type Category, type Platform, type Pricing,
 } from "./taxonomy.ts";
+import { SITE, SUGGEST, categoryNav, renderSite, slug } from "./pages.ts";
 
 const TODAY = new Date(process.env.TODAY ?? new Date().toISOString().slice(0, 10));
 const YEAR = 2026;
@@ -405,8 +406,10 @@ const expired = deals.filter((d) => d.ends && new Date(d.ends) < TODAY);
 const notDeals = deals.filter(
   (d) => d.description?.startsWith("NOT A DEAL") || /^(tba|free|free to use|free, self-hosted)$|no storewide (sale|discount)/i.test(d.headline),
 );
+// Entries rejected by hand (low trust, wrong product): data/blocklist.json is a list of names.
+const blocked = new Set(existsSync("data/blocklist.json") ? (JSON.parse(readFileSync("data/blocklist.json", "utf8")) as string[]).map((n) => n.toLowerCase()) : []);
 const live = deals
-  .filter((d) => !expired.includes(d) && !notDeals.includes(d))
+  .filter((d) => !expired.includes(d) && !notDeals.includes(d) && !blocked.has(d.name.toLowerCase()))
   .sort((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }));
 
 // --- write data ----------------------------------------------------------------------
@@ -424,71 +427,88 @@ writeFileSync(
   JSON.stringify(live.filter((d) => !d.subcategory).map((d) => ({ id: d.id, name: d.name, url: d.url, section: d.path, about: d.about, deal: d.deal.slice(0, 240) })), null, 1) + "\n",
 );
 
-// --- README -------------------------------------------------------------------------
+// --- static directory pages ---------------------------------------------------------
+const pageCount = renderSite(live.map(publish), stats.builtAt);
+const index = readFileSync("docs/index.html", "utf8");
+writeFileSync("docs/index.html", index.replace(/<!--cats-->[\s\S]*?<!--\/cats-->/, `<!--cats-->${categoryNav(live)}<!--/cats-->`));
+
+// --- README (index) + directory/<category>.md -------------------------------------------
 const cell = (s: string) => s.replace(/\|/g, "\\|").replace(/\n/g, " ");
-const anchor = (s: string) => s.toLowerCase().replace(/[^a-z0-9 -]/g, "").replace(/ /g, "-");
 const shortDate = (d?: string) => (d ? new Date(d).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" }) : "");
-const srcTag = (s: string) => (s.startsWith("http") ? `[web](${s})` : `[${s.split("/")[0]}](https://github.com/${s})`);
+const page = (d: Deal) => `${SITE}deal/${d.id}/`;
 const row = (d: Deal) =>
-  `| [${cell(d.name)}](${d.url}) | ${cell(d.description ?? "")} | ${d.upcoming ? "**Coming soon.** " : ""}${cell(d.deal.length > 280 ? d.deal.slice(0, 277) + "..." : d.deal)} | ${d.codes.map((c) => `\`${c}\``).join(" ")} | ${shortDate(d.ends)} | ${d.sources.map(srcTag).join(" ")} |`;
-const HEAD = "| Product | What it is | Deal | Code | Ends | Source |\n|---|---|---|---|---|---|";
+  `| [${cell(d.name)}](${d.url}) | ${cell(d.description ?? "")} | ${d.upcoming ? "**Soon.** " : ""}${cell(d.headline)} | ${d.codes.map((c) => `\`${c}\``).join(" ")} | ${shortDate(d.ends)} | [details](${d.category === ADULT ? d.url : page(d)}) |`;
+const HEAD = "| Product | What it is | Offer | Code | Ends | |\n|---|---|---|---|---|---|";
+const byDiscount = (a: Deal, b: Deal) => (b.discount ?? -1) - (a.discount ?? -1) || a.name.localeCompare(b.name);
 
 const cats = (Object.keys(TAXONOMY) as Category[])
   .map((c) => {
     const ds = live.filter((d) => d.category === c);
     const subs = [...TAXONOMY[c], undefined]
-      .map((s) => [s ?? "More", ds.filter((d) => d.subcategory === s)] as const)
+      .map((s) => [s ?? "More", ds.filter((d) => d.subcategory === s).sort(byDiscount)] as const)
       .filter(([, x]) => x.length);
-    return { c, ds, subs };
+    return { c, ds, subs, file: `directory/${slug(c)}.md` };
   })
   .filter((x) => x.ds.length);
 
+rmSync("directory", { recursive: true, force: true });
+mkdirSync("directory", { recursive: true });
+for (const { c, ds, subs, file } of cats) {
+  const body = subs.map(([s, x]) => `## ${s}\n\n${HEAD}\n${x.map(row).join("\n")}\n`).join("\n");
+  writeFileSync(
+    file,
+    `# ${c} Black Friday & Cyber Monday 2026 deals\n\n[All categories](../README.md) · [Browse on the website](${SITE}c/${slug(c)}/) · [Suggest a deal](${SUGGEST})\n\n**${ds.length} live deals**, ${ds.filter((d) => d.codes.length).length} with promo codes. Biggest discounts first. Last built ${stats.builtAt}.\n\n${subs.map(([s, x]) => `- [${s}](#${s.toLowerCase().replace(/[^a-z0-9 -]/g, "").replace(/ /g, "-")}) (${x.length})`).join("\n")}\n\n${c === ADULT ? `<details><summary>18+ only. Click to show.</summary>\n\n${body}\n</details>\n` : body}`,
+  );
+}
+
 const soon = new Date(+TODAY + 3 * 864e5);
 const endingSoon = live.filter((d) => d.ends && new Date(d.ends) <= soon && d.category !== ADULT).sort((a, b) => a.ends!.localeCompare(b.ends!));
+const pickRows = picks.map((p) => live.find((d) => d.id === p.id)!).filter(Boolean);
 
-const readme = `# Black Friday & Cyber Monday 2026 Deals, All in One List
+const readme = `# Black Friday & Cyber Monday 2026 Deals Directory
 
-**${stats.live} live deals**, **${stats.withCodes} with promo codes**, in ${cats.length} categories. Merged from ${SOURCES.length} community deal lists on GitHub plus big-brand deals (VPNs, domains, hosting, password managers, courses, streaming, hardware) found by web research. Duplicates and expired deals are removed.
+**${stats.live} live deals**, **${stats.withCodes} with promo codes**, from ${SOURCES.length} community deal lists on GitHub plus web, X and Reddit research. Duplicates, expired offers and "coming soon" placeholders are removed, and every deal is tagged by category, platform and pricing.
 
-**Browse, search and filter on the website: https://ehsanulhaquesiam.github.io/black-friday-deals-2026/**
+**Website: ${SITE}** (search, filters, one-click codes, a page for every deal)
 
 Black Friday is **Nov 27, 2026**, Cyber Monday is **Nov 30, 2026**. Last built **${stats.builtAt}**.
 
-> Always check the price at checkout. "Ends" is the latest date mentioned in the deal, so treat it as a guide.
+**Add your product:** [suggest a deal](${SUGGEST}) (a short form) or open a PR, see [CONTRIBUTING.md](CONTRIBUTING.md). Every listing gets its own page with a link to your site, plus an optional "Listed on" badge.
 
-## Categories
+## Browse by category
 
-${cats.map(({ c, ds, subs }) => `- **[${c}](#${anchor(c)})** (${ds.length}): ${subs.map(([s, x]) => `${s} ${x.length}`).join(", ")}`).join("\n")}
+| Category | Deals | Subcategories |
+|---|---|---|
+${cats.map(({ c, ds, subs, file }) => `| [${c}](${file}) | ${ds.length} | ${subs.map(([s, x]) => `${s} ${x.length}`).join(", ")} |`).join("\n")}
+
+## Editors' picks
+
+${HEAD}
+${pickRows.map(row).join("\n")}
 
 ## Ending in the next 3 days
 
 ${HEAD}
 ${endingSoon.map(row).join("\n")}
 
-${cats
-  .map(({ c, subs }) => {
-    const body = subs.map(([s, x]) => `### ${s}\n\n${HEAD}\n${x.map(row).join("\n")}\n`).join("\n");
-    return c === ADULT ? `## ${c}\n\n<details><summary>18+ only. Click to show.</summary>\n\n${body}\n</details>\n` : `## ${c}\n\n${body}`;
-  })
-  .join("\n")}
 ## Sources
 
 Merged from these lists. Thank you to their maintainers and contributors.
 
 ${SOURCES.map(([s]) => `- [${s}](https://github.com/${s})`).join("\n")}
-- Web research: vendor Black Friday pages and dated 2026 roundups, linked per deal as "web".
+- Web, X and Reddit research: vendor pages, dated 2026 roundups and posts by the vendors themselves, linked on each deal's page.
 
-${raws.length} rows parsed, ${merged.length} unique deals after merging, ${expired.length} expired and ${notDeals.length} unconfirmed listings removed. Descriptions are written for this list.
+${raws.length} rows parsed, ${merged.length} unique deals after merging, ${expired.length} expired and ${notDeals.length} unconfirmed listings removed. Descriptions and headlines are written for this list.
 
 ## Rebuild
 
 \`\`\`sh
 node scripts/build.ts --fetch  # pull every list's latest README (needs gh), then rebuild
-node scripts/build.ts          # rebuild data/deals.json, docs/data.json and README.md (Node 23.6+)
+node scripts/build.ts          # rebuild data, README, directory/ and the website in docs/ (Node 23.6+)
 \`\`\`
 
-All data is in [data/deals.json](data/deals.json). To add a deal, add it to \`data/extra.json\` and open a PR.
+All data is in [data/deals.json](data/deals.json).
 `;
 writeFileSync("README.md", readme);
 console.table(perSource);
-console.log({ parsed: raws.length, unique: merged.length, expired: expired.length, ...stats, sourceRepos: undefined, tagged: live.filter((d) => d.subcategory).length, queue: live.filter((d) => !d.subcategory).length });
+console.log({ parsed: raws.length, unique: merged.length, expired: expired.length, ...stats, sourceRepos: undefined, tagged: live.filter((d) => d.subcategory).length, queue: live.filter((d) => !d.subcategory).length, pages: pageCount });
