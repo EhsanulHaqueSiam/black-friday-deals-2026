@@ -1,6 +1,7 @@
 // Merges every deal list in sources/ plus data/extra*.json, applies the tags in data/enrich/*.json,
 // and writes data/deals.json, docs/data.json (website), data/enrich-queue.json and README.md.
 // Run: node scripts/build.ts   (TODAY=YYYY-MM-DD to pin the date)
+import { execFileSync } from "node:child_process";
 import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
 import {
   TAXONOMY, PLATFORMS, PRICING, guessCategory, isCategory, isSubcategory,
@@ -31,7 +32,9 @@ type Deal = {
 };
 type Raw = Omit<Deal, "id" | "category" | "platforms">;
 
-// Freshest and most code-rich first: on duplicates the earlier one wins ties.
+// Every 2026 Black Friday deal list on GitHub with parseable deals (found with `gh search repos`).
+// Freshest and most code-rich first: on duplicates the earlier one wins ties. Append new lists at
+// the end so existing deal ids (and their tags in data/enrich/) stay stable.
 const SOURCES = [
   ["trungdq88/Awesome-Black-Friday-Cyber-Monday", "table"],
   ["mRs-/Black-Friday-Deals", "table"],
@@ -44,9 +47,26 @@ const SOURCES = [
   ["sprfrkr/awesome-black-friday-for-developers", "table"],
   ["Shashankt255/black-friday-deals-2026", "table"],
   ["KevinKaul/black-friday-deals-2026", "table"],
+  ["thuongtin/awesome-bfcm-2026", "table"],
+  ["labex-labs/black-friday-cyber-monday-deals", "table"],
+  ["thoughtcook/verified-black-friday", "table"],
+  ["longseespace/mac-black-friday", "table"],
+  ["MichaelCyger/Domains-Black-Friday-Cyber-Monday", "table"],
+  ["tushargugnani/awesome-black-friday-for-developers", "table"],
+  ["thephux/awesome-ios-black-friday", "table"],
+  ["carmentune/best-black-friday-saas-deals", "table"],
+  ["ps-lo/InfoSec-and-Tech-Black-Friday", "table"],
+  ["Somi-AI/black-friday-deals", "table"],
+  ["imrishit98/Black-Friday-and-Cyber-Monday-Deals", "table"],
+  ["tubeagentkit/awesome-black-friday-ai-deals", "table"],
+  ["Themefic-Team/black-friday-deals", "table"],
+  ["javabuddy/best-black-friday-cyber-monday-deals-for-developers", "table"],
+  ["fansize/awesome-black-friday", "table"],
+  ["kacperszurek/blackfriday", "list"],
+  ["refinism-B/Awesome-Black-Friday-2026-zh", "table"],
 ] as const;
 
-const SKIP_SECTION = /sponsor|featured|contents|previous|earlier|archive|watchlist|ending next|other places|how to|add your|submit|submission|about|why|license|legend|what'?s new|no bf deal|free stuff|categories|tips|disclaimer|credits|contribut|special request|affiliate/i;
+const SKIP_SECTION = /sponsor|featured|table of contents|previous|earlier|archive|watchlist|ending next|other places|how to|add your|submit|submission|about|why|license|legend|what'?s new|no bf deal|free stuff|categories|tips|disclaimer|credits|contribut|special request|affiliate|\b2025\b/i;
 
 // Markdown/HTML -> plain text that stays readable inside our own table.
 const clean = (s: string) =>
@@ -118,6 +138,8 @@ const finish = (name: string, url: string, path: string, rawDeal: string, source
   const deal = clean(rawDeal.replace(/[⏳❌ℹ️✅]/gu, ""));
   if (!name || !deal || deal.length < 3 || !/^https?:\/\//.test(url)) return; // the site puts url in href
   if (/\b2025\b/.test(rawDeal) && !/\b2026\b/.test(rawDeal)) return; // leftover from last year
+  // Watchlist rows that only say a sale hasn't started ("no BF", "NO PROMO YET", "Not announced").
+  if (/^(not announced|no offer|tbd|tba|n\/a|none)\b|not (announced|live) yet|no offer confirmed|\bno (bf|black friday)\b|no promo yet|\bno sale\b/i.test(deal)) return;
   return {
     name, url, path, deal, about: about && clean(about),
     codes: extractCodes(rawDeal + " " + url),
@@ -149,24 +171,99 @@ function* sections(md: string) {
   }
 }
 
+const LINK = /\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/;
+// Table header words -> column role. Lists name their columns differently; anything else is deal text.
+const NAME_COL = /^(product|name|app|apps|tool|service|vendor|platform|provider|company|brand|course|deal)$/;
+const DESC_COL = /desc|what it|what to|about|why|focus|overview|summary|說明/;
+const SKIP_COL = /^(#|link|links|source|sources|order|status|checked|verified|platforms?|category|categories|get deal|url|website)$/;
+const GENERIC_LINK = /^(link|visit|order|get( the)? deal|deal|website|buy|here|source|github|shop|claim|offer details|redeem)\b/i;
+const STATUS = /[⏳❌ℹ️✅]/u;
+
+// One table row -> deal, using the header row (when it names its columns) to tell the name,
+// description and deal columns apart; otherwise "name link, then description, then deal".
+function tableRow(cells: string[], header: string[], path: string, source: string): Raw | undefined {
+  const key = header.map((h) => h.toLowerCase().replace(/[^a-z說明 ]/g, "").trim());
+  const hasHeader = key.length === cells.length && key.some((h) => DESC_COL.test(h) || /deal|offer|discount|code|price|ends|expires|dates?/.test(h));
+  let ni = hasHeader ? key.findIndex((h) => NAME_COL.test(h) && (h !== "deal" || LINK.test(cells[key.indexOf(h)]))) : -1;
+  if (ni < 0 || !clean(cells[ni] ?? "")) ni = cells.findIndex((c) => LINK.test(c) && !GENERIC_LINK.test(clean(c.match(LINK)![1])));
+  if (ni < 0) return;
+  const own = cells[ni].match(LINK);
+  let name: string = clean(own ? own[1] : cells[ni].split(/<br\s*\/?>/i)[0]);
+  if (name.length > 40 && name.includes(", ")) name = name.split(", ")[0]; // "Tool, 50% off ..., Black Friday 2026"
+  const url = own?.[2] ?? cells.map((c) => c.match(LINK)?.[2]).find((u) => u && !u.includes("github.com"));
+  if (!name || !url || NAME_COL.test(name.toLowerCase())) return;
+
+  let about = /<br\s*\/?>/i.test(cells[ni]) ? cells[ni].split(/<br\s*\/?>/i).slice(1).join(" ") : "";
+  const parts: string[] = [];
+  if (hasHeader) {
+    cells.forEach((c, i) => {
+      if (i === ni || !clean(c) || /^[—–-]$/.test(clean(c))) return;
+      if (DESC_COL.test(key[i])) about ||= c;
+      else if (SKIP_COL.test(key[i])) parts.push(c.match(STATUS)?.[0] ?? "");
+      // short cells such as "$5.00" read better with their column name
+      else parts.push(clean(c).length < 25 && !/deal|offer|discount|promo/.test(key[i]) ? `${clean(header[i])}: ${c}` : c);
+    });
+  } else {
+    const rest = cells.slice(ni + 1);
+    if (!about && rest.length > 1) about = rest.shift()!;
+    parts.push(...rest);
+  }
+  const rawDeal = parts.filter(Boolean).join(" · ");
+  const status = rawDeal.match(STATUS)?.[0];
+  if (status === "❌" || status === "ℹ️") return;
+  const d = finish(name, url, path, rawDeal, source, about, status === "⏳");
+  // An "Ends"/"Expires" column is the end date; other dates in the row are often "checked on" notes.
+  const endCol = hasHeader ? key.findIndex((h) => /^(ends?|expires?|end date|valid until|until|validity)$/.test(h)) : -1;
+  if (d && endCol >= 0) d.ends = extractEnd(clean(cells[endCol]));
+  return d;
+}
+
 function parseTable(md: string, source: string): Raw[] {
   const out: Raw[] = [];
+  let prev: string[] = [];
+  let header: string[] = [];
   for (const { line, path } of sections(md)) {
-    if (!line.trim().startsWith("|") || /^\|\s*:?-{2,}/.test(line.trim())) continue;
+    const t = line.trim();
+    if (!t.startsWith("|")) {
+      if (t) [prev, header] = [[], []]; // a table ended
+      continue;
+    }
+    if (/^\|\s*:?-{2,}/.test(t)) {
+      header = prev.map(clean);
+      continue;
+    }
     const cells = splitRow(line);
-    const i = cells.findIndex((c) => /\[[^\]]+\]\(https?:\/\/[^)]+\)/.test(c));
-    if (i < 0) continue;
-    const link = cells[i].match(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/)!;
-    const name = clean(link[1]);
-    if (/^(product|name|tool)$/i.test(name)) continue;
-    const rest = cells.slice(i + 1);
-    const inlineDesc = /<br\s*\/?>/i.test(cells[i]); // "**[Name](url)**<br>description"
-    const about = inlineDesc ? cells[i].split(/<br\s*\/?>/i).slice(1).join(" ") : rest[0];
-    const dealCells = inlineDesc ? rest : rest.slice(1);
-    const rawDeal = (dealCells.length ? dealCells : rest).join(" · ");
-    const status = rawDeal.match(/[⏳❌ℹ️✅]/u)?.[0];
-    if (status === "❌" || status === "ℹ️") continue;
-    const d = finish(name, link[2], path, rawDeal, source, about, status === "⏳");
+    prev = cells;
+    // Card grids: several "[Name](url)<br>offer" cells in one row, one deal each.
+    const cards = cells.filter((c) => /^\**\[[^\]]+\]\(https?:[^)]+\)\**[^<]{0,40}<br/i.test(c));
+    if (cards.length >= 2) {
+      for (const c of cards) {
+        const [, n, u] = c.match(LINK)!;
+        const d = finish(clean(n), u, path, c.split(/<br\s*\/?>/i).slice(1).join(" · "), source);
+        if (d) out.push(d);
+      }
+      continue;
+    }
+    const d = tableRow(cells, header, path, source);
+    if (!d) continue;
+    // Same product on consecutive rows (domain lists have one row per TLD): one deal with every line.
+    const last = out.at(-1);
+    if (last && last.name === d.name && last.sources[0] === source) {
+      last.deal += ` / ${d.deal}`;
+      last.codes = [...new Set([...last.codes, ...d.codes])];
+      last.ends = [last.ends, d.ends].filter(Boolean).sort().pop();
+      last.discount = Math.max(last.discount ?? 0, d.discount ?? 0) || undefined;
+    } else out.push(d);
+  }
+  return out;
+}
+
+// "- [Name](url) - description - offer" bullet lists.
+function parseList(md: string, source: string): Raw[] {
+  const out: Raw[] = [];
+  for (const { line, path } of sections(md)) {
+    const m = line.match(/^\s*[-*] .*?\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)\s*[-–:]\s*(.*)/);
+    const d = m && finish(clean(m[1]), m[2], path, m[3], source);
     if (d) out.push(d);
   }
   return out;
@@ -197,11 +294,20 @@ function parseBergside(md: string, source: string): Raw[] {
 
 // --- load -------------------------------------------------------------------
 const fileFor = (repo: string) => `sources/${repo.replace("/", "_")}.md`;
+// --fetch refreshes sources/ with each list's current README (needs the gh CLI, logged in).
+if (process.argv.includes("--fetch"))
+  for (const [repo] of SOURCES) {
+    const b64 = execFileSync("gh", ["api", `repos/${repo}/readme`, "--jq", ".content"], { encoding: "utf8" });
+    writeFileSync(fileFor(repo), Buffer.from(b64, "base64").toString("utf8"));
+  }
 const raws: Raw[] = [];
+const perSource: Record<string, number> = {};
 for (const [repo, kind] of SOURCES) {
-  if (!existsSync(fileFor(repo))) throw new Error(`missing ${fileFor(repo)}: run scripts/fetch.sh`);
+  if (!existsSync(fileFor(repo))) throw new Error(`missing ${fileFor(repo)}: run with --fetch`);
   const md = readFileSync(fileFor(repo), "utf8");
-  raws.push(...(kind === "bergside" ? parseBergside(md, repo) : parseTable(md, repo)));
+  const rows = kind === "bergside" ? parseBergside(md, repo) : kind === "list" ? parseList(md, repo) : parseTable(md, repo);
+  perSource[repo] = rows.length;
+  raws.push(...rows);
 }
 
 // Deals found by web research. Shape: { name, url, category, deal, codes, ends?, upcoming?, source }.
@@ -241,7 +347,7 @@ for (const d of raws) {
   }
   const sources = [...new Set([...hit.sources, ...d.sources])];
   const about = hit.about ?? d.about;
-  if (score(d) > score(hit)) Object.assign(hit, d);
+  if (score(d) > score(hit)) Object.assign(hit, d, { name: hit.name }); // first name keeps the id (and its tags) stable
   Object.assign(hit, { sources, about });
   keys.forEach((k) => byKey.set(k, hit));
 }
@@ -285,7 +391,7 @@ const live = deals
 const publish = ({ path, about, ...d }: Deal) => d;
 mkdirSync("docs", { recursive: true });
 writeFileSync("data/deals.json", JSON.stringify(live.map(publish), null, 2) + "\n");
-const stats = { live: live.length, withCodes: live.filter((d) => d.codes.length).length, sources: SOURCES.length, builtAt: TODAY.toISOString().slice(0, 10) };
+const stats = { live: live.length, withCodes: live.filter((d) => d.codes.length).length, sources: SOURCES.length, sourceRepos: SOURCES.map(([r]) => r), builtAt: TODAY.toISOString().slice(0, 10) };
 writeFileSync("docs/data.json", JSON.stringify({ ...stats, taxonomy: TAXONOMY, deals: live.map(publish) }));
 writeFileSync(
   "data/enrich-queue.json",
@@ -348,11 +454,12 @@ ${raws.length} rows parsed, ${merged.length} unique deals after merging, ${expir
 ## Rebuild
 
 \`\`\`sh
-./scripts/fetch.sh     # refresh sources/ from GitHub (needs gh)
-node scripts/build.ts  # regenerate data/deals.json, docs/data.json and README.md (Node 23.6+)
+node scripts/build.ts --fetch  # pull every list's latest README (needs gh), then rebuild
+node scripts/build.ts          # rebuild data/deals.json, docs/data.json and README.md (Node 23.6+)
 \`\`\`
 
 All data is in [data/deals.json](data/deals.json). To add a deal, add it to \`data/extra.json\` and open a PR.
 `;
 writeFileSync("README.md", readme);
+console.table(perSource);
 console.log({ parsed: raws.length, unique: merged.length, expired: expired.length, ...stats, tagged: live.filter((d) => tags[d.id]).length, queue: live.filter((d) => !tags[d.id]).length });

@@ -1,0 +1,276 @@
+# Awesome Black Friday & Cyber Monday Deals for Developers and Designers 2026
+
+A curated list of **software, design tools, UI kits, and courses** on sale for Black Friday / Cyber Monday.
+
+Maintained by [blackfridaydeals.dev](https://blackfridaydeals.dev). Small on purpose. Every row is reviewed.
+
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-orange)](CONTRIBUTING.md)
+[![Deals](https://img.shields.io/badge/2025%20archive-105%20deals-black)](#2025-archive)
+
+## Why this list
+
+Most GitHub BFCM lists are first-come dumps. This one is not.
+
+- **Software and learning for people who build things.** Developers and designers. No Amazon gadgets.
+- **Reviewed.** One product per pull request. We reject AI wrappers, empty landing pages, and copy-paste “all-in-one” tools.
+- **Last year is the archive.** Codes below are what actually ran in 2025, so you can see who discounts and by how much. 2026 deals go in their own section when they drop.
+- **The website is the live catalog.** This repo is the public, star-able, PR-able index. Full listings stay on [blackfridaydeals.dev](https://blackfridaydeals.dev).
+
+Star the repo if you want a reminder when 2026 deals start landing.
+
+## Featured from 2025
+
+| **[Laracasts](https://laracasts.com/referral/5balloons)**<br>50% OFF on all subscriptions, Forever plan at $200 , Yearly at $75 | **[Tailkit](https://tailkit.com/?aff=1k6yr)**<br>50% off for a limited number of licenses using code BLACKFRIDAY2025 | **[Supercharge Design](https://learn.supercharge.design/a/aff_rcgt4kxq/external?affcode=1102338__uvxmve6)**<br>Use BF2025 for 50% OFF |
+| :---: | :---: | :---: |
+
+## 2026 deals
+
+| Name | What it is | Offer |
+| --- | --- | --- |
+| [Karma.Domains](https://karma.domains/en/black-friday/) | Expired domain search with Wayback Machine spam analysis, Karma Score, SEO metrics, a Public API and an MCP server. | Black Friday 2026: 50% OFF yearly Unlimited & Pro plans (Nov 27 - Nov 30, 2026 UTC) |
+| [JuxtaCode](https://juxtacode.app) | Compare Git branches and resolve merge conflicts with ease on macOS. | Black Friday 2026: 40% OFF with code BLACKFRIDAY26, direct purchase only (Nov 20 - Dec 1, 2026) |
+| [pwn.guide](https://pwn.guide) | Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training. | Black Friday 2026: 20% OFF all plans forever, including lifetime, with code BLKFRI20 (Nov 1 - Dec 5, 2026) |
+| [Wireless Operator](https://wirelessoperator.io) | Wi-Fi pentesting course from TheXero Training Academy covering 802.11, WPA3, enterprise Wi-Fi, rogue APs, pivots and fuzzing, with a simulated lab and live coaching. | Black Friday 2026: 67% OFF ($599 to $197), no code needed (Nov 10 - Dec 1, 2026) |
+| [SmoothCapture](https://www.smoothcapture.app/pricing) | Mac app that turns screen recordings into polished app demo videos, with auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | Black Friday 2026: 50% OFF Lifetime ($149 to $74.50) and Personal ($79 to $39.50) with code BLACKFRIDAY26 (Nov 3 - Dec 2, 2026) |
+| [Karve](https://karve.dev/pricing/?utm_source=blackfridaydeals-dev&utm_campaign=bf2026) | Native Windows HTTP client for the .http/.rest files in your repos, with cross-repo search, environments, and searchable history. | Black Friday 2026: 75% OFF, one-time $39.99 to $9.99 on the Microsoft Store, no code needed, 15-day free trial (until Dec 1, 2026) |
+| [anon.li](https://anon.li/pricing) | Open-source email aliases, end-to-end encrypted file sharing and encrypted forms, with a CLI, API and MCP server. | Black Friday 2026: 40% OFF all paid plans for 12 months with code BLKFRI40, card checkout (Nov 2 - Dec 6, 2026) |
+| [Presentify](https://presentifyapp.com) | Native Mac app to draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom, for presentations, calls, demos, and teaching. | Black Friday 2026: 30% OFF with code PRESENTIFY30 ($14 to $9.80, one-time purchase), direct purchase from the website only (Nov 18 - Dec 2, 2026) |
+| [FaceScreen](https://facescreen.app) | Floating camera overlay with a text overlay and ring light, for screen recordings, demos, and video calls on Mac, iPhone, and iPad. | Black Friday 2026: 30% OFF with code FACESCREEN30 ($5.99 to $4.19, one-time purchase), direct purchase from the website only (Nov 18 - Dec 2, 2026) |
+| [KeyScreen](https://keyscreen.app) | Native Mac app that shows the keys you press on screen, for tutorials, streams, and live demos. | Black Friday 2026: 30% OFF with code KEYSCREEN30 ($5.99 to $4.19, one-time purchase), direct purchase from the website only (Nov 18 - Dec 2, 2026) |
+| [JSON2Video](https://json2video.com/pricing/blackfriday-2026/?c=tg) | Video editing API that renders MP4 videos from JSON or templates, with AI voices, subtitles and AI images, usable from code, n8n, Make, Zapier and MCP. | Black Friday 2026: 25% OFF the first year of yearly plans with code BF2026TG, Professional $399.60 to $299.70 and Hobby $199.50 to $149.63 (Nov 24 - Dec 1, 2026) |
+| [SyncSignature](https://syncsignature.com/?utm_source=tushargugnani&utm_medium=bf-listicle&utm_campaign=bfcm26) | Email signature management for Google Workspace and Microsoft 365, with directory sync, banner campaigns, click analytics and an MCP server. | Black Friday 2026: 50% OFF Teams plan, 2 years for the price of 1 ($360 to $180 for 24 months, up to 5 users), no code needed (Nov 10 - Dec 4, 2026) |
+| [TypingMind](https://www.typingmind.com?utm_source=tushargugnani) | Advanced AI chat for ChatGPT, Claude, Gemini and more — all models in one place, with AI agents, MCP, plugins, knowledge base and private local storage. | Black Friday 2026: 60% OFF Lifetime Premium ($198 to $79) with code BLACKFRIDAY2026 (Nov 2 - Dec 15, 2026) |
+| [DevUtils](https://devutils.com/?utm_source=tushargugnani) | Offline all-in-one developer toolbox for macOS with 47+ native tools. | Black Friday 2026: 60% OFF all plans with code BLACKFRIDAY2026 (Nov 2 - Dec 30, 2026) |
+| [GutSlider Pro](https://gutslider.com/black-friday/?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026) | Slider and carousel blocks for the WordPress block editor, including a 3D carousel, WebGL shader slider and WooCommerce carousels, with no jQuery. | Black Friday 2026: up to 40% OFF all plans, lifetime from $69 (was $99), no code needed (Nov 5 - Dec 1, 2026) |
+| [CleanClip](https://pricing.cleanclip.cc/src?ref=tusharbf2026) | Native macOS clipboard manager with searchable history, smart lists and Paste Stack for development workflows. | Black Friday 2026: 30% OFF Standard ($19.99 to $13.99) and Pro ($29.99 to $20.99) with code BF2026 (Nov 4 - Dec 15, 2026) |
+| [Sip](https://sipapp.io/pricing/?ref=tushargugnani) | Modern color picker for Mac that brings ease to color organization and team collaboration. | Black Friday 2026: 50% OFF with code BLACKFRIDAY26 (Nov 27 - Dec 1, 2026) |
+| [LabEx Pro](https://labex.io/) | Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | Black Friday 2026: [30% OFF one year](https://labex.io/checkout?type=2&coupon=2026BF30) with code 2026BF30; [50% OFF two years](https://labex.io/checkout?type=4&coupon=2026BF50) with code 2026BF50 (ends Dec 7, 2026) |
+| [ScreenSage Pro](https://screensage.pro/bf2026?ref=tusharbf2026) | Native macOS screen recorder and editor for tutorials and app demos, with automatic zoom, cursor tracking, and flexible camera layouts. | Black Friday 2026: up to 53% OFF one-time licenses, Lifetime $449 to $209.90 with BFS2026L (53%) and Pro $149 to $79.90 with BFS2026P (46%) (Nov 4 - Dec 15, 2026) |
+| [Broadcast](https://sendbroadcast.net/black-friday) | Self-hosted email marketing for your own server, with newsletters, automations, transactional email, a REST API and an MCP server. | Black Friday 2026: $100 OFF the Regular License, one-time ($250 to $150), with code BLACKFRIDAY26 (Nov 9 - Dec 1, 2026) |
+| [POSH](https://poshtui.com/black-friday?utm_source=awesome-bf-devs&utm_campaign=bf2026) | Version-matched Ruby and Rails docs for your coding agent, via CLI and MCP. Free terminal browser. macOS & Linux. | Black Friday 2026: 30% OFF monthly (€7 to €4.90) and yearly (€60 to €42) plans for as long as you stay subscribed, with code BLACKFRIDAY2026, new subscriptions only (until Dec 2, 2026) |
+| [Nuelink](https://offer.nuelink.com/mcp/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2026&utm_content=tushargugnani_awesome_black_friday_for_developers) | Agentic social media scheduling for 12 platforms: tell Claude or ChatGPT what to post and Nuelink publishes it, with API and MCP access on every plan. | Black Friday 2026: 50% OFF your first year on yearly plans (6 months free, Standard $144 for the year) or 25% OFF your first 3 monthly payments ($24 to $18), with code BFCM26 (Nov 6 - Nov 30, 2026) |
+| [Safe Screen Share](https://www.safescreenshare.com) | Chrome and Firefox extension that auto-blurs emails, API keys and customer data before you screen share or record. Works with Zoom, Meet, Teams, Loom and OBS. | Black Friday 2026: 40% OFF the lifetime license with code BF2026 (Nov 13 - Dec 2, 2026) |
+| [VantagePoint](https://vantagepoint.enciphers.com) | Hands-on cybersecurity labs based on real-world vulnerabilities, with human feedback on every submission. | Black Friday 2026: 70% OFF all hacking labs & certifications, no code needed (Nov 2 - Dec 15, 2026) |
+| [LS Graphics](https://www.ls.graphics/) | Browser-based editor for static and animated mockups, plus 100+ branding and device mockup bundles with downloadable PSD, Figma and Sketch source files. | Black Friday 2026: 50% OFF all bundles and plans, no code needed (Nov 6 - Dec 1, 2026) |
+| [OffSeq Threat Radar](https://radar.offseq.com/pricing) | Live CVE, CISA KEV and exploit intelligence with a REST API, MCP server, SBOM scans with SARIF and a free tier. | Black Friday 2026: 50% OFF the first month or first year of any paid plan, no code needed (until Dec 1, 2026) |
+| [OffSeq Breach](https://breach.offseq.com/en#pricing) | Leaked-credential monitoring for your company domains across breach datasets, forums and Telegram, with API, Slack and webhook alerts. | Black Friday 2026: 50% OFF the first billing period of any paid plan with code BLACK (until Dec 2, 2026) |
+| [GetYouTubeTranscript](https://getyoutubetranscript.com/pricing) | YouTube transcript REST API and MCP server for AI agents, plus a Chrome extension and web tool, with timestamps and SRT/VTT/JSON export. | Black Friday 2026: lifetime access for $149 one-time with 3,000 credits/month, first 100 buyers, or 30% OFF the first year of the Annual plan ($54 to $37.80) with code BF26GYT (until Dec 10, 2026) |
+| [BetterStage](https://betterstage.app/pricing?utm_source=tushar-bf&utm_campaign=bf2026) | Native macOS window and workspace manager with named Stages across all monitors, automatic tiling with tabs, a Stage-aware ⌘Tab switcher and Saved Workspaces. | Black Friday 2026: 20% OFF lifetime Pro with code BLACKFRIDAY20, one-time purchase ($19.99 to $15.99 for 1 Mac, $39.99 to $31.99 for 3 Macs, $49.99 to $39.99 for 5 Macs) (Nov 23 - Nov 30, 2026) |
+| [SaaSykit](https://saasykit.com?aff=1k6yr) | Production-ready Laravel SaaS boilerplate with billing (Stripe, Paddle, Lemon Squeezy), auth, admin panel, multi-tenancy and SaaS metrics. | Black Friday 2026: 50% OFF all versions, applied automatically or with code BLACKFRIDAY26, one-time purchase (SaaSykit $239 to $119.50, Tenancy $269 to $134.50, Complete $299 to $149.50) (Nov 14 - Dec 6, 2026) |
+| [Forma](https://useforma.app) | Native macOS free-form canvas for daily tasks and project planning, with markdown cards, checklists, a marker, iCloud sync and PDF export. | Black Friday 2026: 47% OFF Lifetime Pro with code BLACKFRIDAY50, one-time purchase ($14.99 to $7.99, redeem in the Mac App Store app) (until Dec 1, 2026) |
+| [Recut](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | Black Friday 2026: $50 OFF, one-time purchase ($149 to $99), applied automatically (Nov 12 - Dec 4, 2026) |
+| [CyberWarFare Labs](https://cyberwarfare.live/) | Hands-on cybersecurity and red team courses, certifications, bundles and labs. | Black Friday 2026: up to 90% OFF course bundles, courses from $5, up to $800 off the All Access plan (Nov 12 - Dec 1, 2026) |
+| [Zipic](https://zipic.app/black-friday?utm_source=gh-tushargugnani&utm_medium=github&utm_campaign=bf2026) | Compresses, converts and resizes images locally on Mac and Windows, including AVIF, WebP and JPEG XL, with a CLI on Mac that prints one JSON line per file. | Black Friday 2026: 33% OFF one-time licenses with code BF2026, Solo $19.99 to $13.39, Personal $29.99 to $20.09, Team $129.99 to $87.09 (Nov 20 - Dec 6, 2026) |
+| [Orchard](https://orchard.5km.tech/black-friday?utm_source=gh-tushargugnani&utm_medium=github&utm_campaign=bf2026) | Native Mac app that lets AI assistants use Mail, Calendar, Notes, Reminders and 7 more Apple apps locally via MCP, Agent Skills or a CLI. | Black Friday 2026: 33% OFF with code BF2026, Lifetime $39.99 to $26.79 and the first year of Annual $24.99 to $16.74 (Nov 20 - Dec 6, 2026) |
+| [KeygenGo](https://keygengo.5km.tech/black-friday?utm_source=gh-tushargugnani&utm_medium=github&utm_campaign=bf2026) | Native Mac client for Keygen.sh to manage products, policies, licenses, users and machines in one window. | Black Friday 2026: 50% OFF on the Mac App Store, Lifetime $39.99 to $19.99 with no code, Annual $9.99 for the first year with offer code BF2026YEAR (Nov 20 - Dec 6, 2026) |
+| [Timesheet](https://timesheet.io/en/pricing) | Time tracking with a REST API, a CLI and an MCP server for Claude and ChatGPT, plus apps for iPhone, Android and the web. | Black Friday 2026: 50% OFF the first year of every annual plan on the web, App Store and Google Play, no code needed, new customers only, Pro $99.99 to $49.99 per user (Nov 23 - Nov 30, 2026) |
+| [Refine](https://refine.sh) | Offline AI writing assistant for Mac with grammar, autocomplete, rewrites and translation across your apps, plus Neovim and Sublime Text plugins. | 35% OFF one-time license, no code needed, applied at checkout (Nov 15 - Nov 30, 2026) |
+| [Social Fetch](https://www.socialfetch.dev/black-friday) | Public social data API and MCP server for TikTok, Instagram, YouTube, X, Reddit and LinkedIn, with 100 free credits and no card. | Black Friday 2026: double credits on every plan, applied automatically at checkout, no code. New monthly plans get double credits in month one, new annual plans for the first 3 months. The $59 Growth pack is 25,000 credits plus 25,000 free (Nov 19 - Dec 1, 2026) |
+| [data-peek](https://www.datapeek.dev/pricing?utm_source=awesome-black-friday-for-developers) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux, free for personal use. | 40% OFF Pro yearly ($29 to $17.40), no code needed, applied at checkout (Nov 26 - Dec 1, 2026) |
+| [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark. | Black Friday 2026: 50% OFF lifetime, $19.99 to $9.99, no code needed (Nov 18 - Dec 4, 2026) |
+| [Wins](https://wins.cool/pricing) | Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts for switching between windows. | Black Friday 2026: 40% OFF new licenses and eligible update renewals with code BF_26 (Nov 11 - Dec 1, 2026). Single $19.99 to $11.99, Pro $39.99 to $23.99, X $49.99 to $29.99. |
+| [Enconvo](https://enconvo.com/?utm_source=github-tushargugnani&utm_medium=deal-list&utm_campaign=black-friday-2026) | Native AI assistant and agent for Mac that automates tasks across your apps, dictates, searches your documents, and runs cloud AI or local models. | Black Friday 2026: 30% OFF every Lifetime license (Standard $59 to $41.30, Premium $119 to $83.30, Teams $159 to $111.30) and 30% OFF the first payment of an Enconvo Cloud plan, applied at checkout, no code needed (Nov 20 - Dec 7, 2026) |
+| [Layerbase](https://layerbase.com/) | Flat-priced managed databases: 19 engines including Postgres, MySQL, Redis and ClickHouse from one account, with no usage or egress meters. | Black Friday 2026: 50% OFF your first month. [Solo for $2.50](https://layerbase.com/pricing) with code BFSOLO26 (then $5/mo); [Pro for $7.50](https://layerbase.com/pricing) with code BFPRO26 (then $15/mo). First 50 redemptions per code. |
+| [BatchMark](https://batchmark.dispatchcat.com/holiday-sale/) | iPhone and iPad photo app that turns photo sets into finished stories: batch watermark up to 100 photos, art frames, Color Walk cards and Photo Stories, all on-device. | Black Friday 2026: 50% OFF Lifetime ($79.99 to $39.99), no code needed, auto-applied (Nov 15 - Dec 25, 2026) |
+| [Outlier](https://outlier.host/?ref=tushargugnani) | Mac app that runs open AI models on your own Mac, offline. Free to start; with Pro it can read your codebase, edit files, run your tests and search the web. | Black Friday sale: $16.99 once through December 2. Then $39. |
+| [Clipboard AI](https://clipboardai.app/black-friday) | Remembers everything you copy on iPhone, iPad and Mac. Search your clipboard history and paste from the iPhone keyboard or with Cmd+Shift+V on Mac. | Black Friday 2026: 30% OFF Lifetime Pro ($34.99 to $24.99, pay once) with code BLACKFRIDAY, applied automatically from the link (Nov 23 - Dec 1, 2026) |
+| [Voibe](https://www.getvoibe.com/pricing/) | Private AI dictation and bot-free meeting notes for Mac and Windows. | Black Friday 2026: 25% OFF every plan (Dictation and Work, monthly, annual and lifetime) with code BFCM26 until 30 Nov 2026. Monthly plans keep 25% off every month. Dictation lifetime $199 to $149.25, Work lifetime $399 to $299.25. |
+
+## Submit a deal
+
+1. Read [CONTRIBUTING.md](CONTRIBUTING.md).
+2. Add your product to [`deals/2026.yaml`](deals/2026.yaml) (one product per PR).
+3. Run `python3 scripts/validate.py && python3 scripts/build_readme.py`.
+4. Open the pull request. We merge quality. We close slop.
+
+If you would rather skip GitHub, [submit on blackfridaydeals.dev](https://blackfridaydeals.dev).
+
+## 2025 archive
+
+These offers ran last Black Friday. Codes are probably expired. Useful as a preview of who shows up and how hard they discount.
+
+- [Developer Tools](#developer-tools) (9)
+- [Laravel & PHP](#laravel-php) (18)
+- [Design Tools](#design) (7)
+- [UI Kits & Templates](#ui-kits) (8)
+- [Courses](#courses) (34)
+- [Books](#books) (18)
+- [Starter Kits](#starter-kits) (4)
+- [Mobile](#mobile) (6)
+- [Hosting & DevOps](#hosting) (1)
+
+### Developer Tools
+
+<a id="developer-tools"></a>
+
+| Name | What it is | Offer |
+| --- | --- | --- |
+| [TablePlus](https://tableplus.com?ref=blackfridaydealsdotdev) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% OFF with code BLACK_FRIDAY_2025 |
+| [Proton VPN](https://go.getproton.me/aff_c?offer_id=26&aff_id=6511) | no log VPN, privacy concerned, Swiss based | upto 75% OFF |
+| [BatFi](https://micropixels.gumroad.com/l/batfi?a=912288051) | Meet BatFi, a native and lightweight app that simplifies battery management | 30% OFF |
+| [JavaScript Certification](https://certificates.dev/javascript?friend=BFDEALS) | We certify devs from 350+ companies while our Examinations (3 levels) have been created in collaboration with some of the most well-known… | 60% off |
+| [Dev Utils](https://devutils.com?ref=blackfridaydeals.dev) | All-in-one Toolbox for Developers | 50% OFF with code BLACKFRIDAY2025 |
+| [Indexing Beyond the Basics](https://goodindexes.com/) | Indexes can be easy. | 50% discount automatically applied |
+| [MacWhisper](https://gumroad.com/a/533265683/ivpqk) | Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper. | 25% OFF using BFF2025 |
+| [Poedit](https://poedit.net) | Developer-friendly translation editor with JSON & front-end formats support, plus automatic pre-translation via DeepL | 30% off with coupon BLACKFRIDAY25 |
+| [Anything](https://www.createanything.com/?via=tushar) | Anything is your AI agent for turning ideas into apps. | - 50% all plans (monthly, yearly, credits) - Code: BFDEALSDEV50 - |
+
+### Laravel & PHP
+
+<a id="laravel-php"></a>
+
+| Name | What it is | Offer |
+| --- | --- | --- |
+| [Flux UI](https://fluxui.dev/pricing) | The official Livewire component library. | 40% OFF |
+| [Herd](https://herd.laravel.com/?ref=5balloons) | Laravel Development perfected. | 30% OFF on Pro and Team plan |
+| [LivewireDemos](https://livewiredemos.com?ref=thehomedev) | Library of Livewire Components. | 50% OFF using code BLACKFRIDAY25 |
+| [Tinkerwell](https://tinkerwell.app/?ref=5balloons) | Quickly iterate on PHP code within the context of your web application. | 25% on Tinkerwell |
+| [Ray](https://myray.app/?ref=thehomedev) | Ray is a desktop application that serves as the dedicated home for debugging output. | 30% OFF |
+| [Filament Examples](https://filamentexamples.com?ref=blackfridaydealsdotdev) | Build your app with Filament | 40% off all plans (enter coupon FRIDAY25) |
+| [Backpack for Laravel](https://backpackforlaravel.com?ref=blackfridaydeals.dev) | Administration panels on Laravel have never been so easy to build. | 50% Off using BLACKWEEK25 |
+| [LaraDevs](https://laradevs.com/?via=tushar) | The biggest and most diverse directory of Laravel and PHP developers | for Teams is on for $599/year. Price will go up to $1,499/year in the new year. |
+| [Observer](https://observer.dev?ref=thehome.dev) | All your favorite Laravel Horizon features (and a few new ones) are packed into a single desktop application. | 30% OFF |
+| [Certification for Laravel](https://certificationforlaravel.com/developers#developer_exams) | Certification for Laravel information for developer exams and practice exams. | Black Friday Deal: 33% discount on ALL Certification for Laravel Exams + FREE Practice Exam. Use voucher code LARAVELBF33 |
+| [Expose.dev](https://expose.dev/?ref=5balloons) | Create public URLs for local sites through any firewall and VPN. | 30% OFF |
+| [Spin Pro](https://getspin.pro/) | PAY ONCE infrastructure. | 50% OFF using MONSTERSALE |
+| [Wire Elements](https://wire-elements.dev?ref=thehomedev) | Supercharge your Livewire applications | Up to 30% OFF |
+| [Laravel Nova](https://nova.laravel.com/) | Craft complete backends in minutes. | 30% OFF |
+| [Media Library Pro](https://medialibrary.pro/?ref=blackfridaydealsdotdev) | UI components for laravel-medialibrary package | 30% OFF |
+| [Laravel Shift](https://laravelshift.com/) | Laravel Shift - the automated way to upgrade Laravel applications. | $500 off on everything plan |
+| [Spike Billing](https://spike.opcodes.io?ref=blackfridaydealsdev) | Best billing portal for your Laravel app, supports Stripe and Paddle, and includes a credit management system! | 33% off both Single and Unlimited licenses! |
+| [Laravel Comments](https://laravel-comments.com/?utm_source=blackfridaydeals.dev) | A package for Laravel. | 30% OFF |
+
+### Design Tools
+
+<a id="design"></a>
+
+| Name | What it is | Offer |
+| --- | --- | --- |
+| [Untitled UI](https://store.untitledui.com?aff=1k6yr) | Untitled UI is the largest and best-selling Figma UI kit and design system in the world. | 30% OFF using DESIGNERUP |
+| [Frameblox](https://frameblox.com?aff=1k6yr) | Frameblox is the ultimate Framer UI kit, design system, and component library. | 50% off using code BLACKFRIDAY25 |
+| [Codebit](https://codebit.xyz/) | Create animations from code snippets, and export them as videos to share with your community. | 50% off on the 1-year Professional Plan ($99 instead of $199) by entering code BLACKFRIDAY25 |
+| [Universal Design System](https://123done.lemonsqueezy.com/?aff=1k6yr) | Universal Design System (Web) is a powerful tool for creating landing pages, websites and dashboards in Figma. | SAVE 50% WITH CODE BF25 |
+| [Pentaclay](https://pentaclay.lemonsqueezy.com?aff=1k6yr) | High-quality Framer templates & components | 50% discount on All Access plans using FRIDAY50 |
+| [FramerCrafts](https://nomandoesui.lemonsqueezy.com?aff=1k6yr) | Your go-to library for supercharged Framer components and overrides, designed to elevate your Framer websites. | 40% off using FRAMERFRIDAY |
+| [Framerize](https://framerize.co?aff=1k6yr) | Get access to 300+ customizable Framer components. | 50% discount. Use code BF2025 |
+
+### UI Kits & Templates
+
+<a id="ui-kits"></a>
+
+| Name | What it is | Offer |
+| --- | --- | --- |
+| [Tailkit](https://tailkit.com/?aff=1k6yr) | Build amazing web apps and websites that your users will love using | 50% off for a limited number of licenses using code BLACKFRIDAY2025 |
+| [shadcn/studio](https://shadcn-studio.lemonsqueezy.com?aff=1k6yr) | Accelerate your project development with ready-to-use, & customizable 1000+ Shadcn UI Components, Blocks, UI Kit, Boilerplate, Templates &… | 30% OFF using coupon code: BFCM30SS |
+| [Tailkits UI](https://tailkits.com/ui/) | Build faster with 200+ Tailwind CSS components. | Up to 60% OFF one-time purchase - use code BLACKFRIDAY2025 at checkout. |
+| [daisyUI Store](https://daisyui.com/store/?aff=1k6yr) | Templates made with daisyUI and Tailwind CSS | Discount code BLACKFRIDAY Will apply 40% discount |
+| [Tailwind Plus + Refactoring UI](https://tailwindcss.com/plus/black-friday) | Tailwind Plus + Refactoring UI | save over 33% |
+| [RetroUI Pro](https://pro.retroui.dev/?linkId=lp_271605&sourceId=blackfridaydeals&tenantId=logging-studio) | Premium blocks and templates inspired by the Neo-Brutalism design system. | Use coupon \"BFRIDAY\" and get 50% off! |
+| [TailGrids](https://tailgrids.com/pricing) | 500+ Tailwind CSS UI Components for - Web App, Marketing, Dashboard, E-Commerce, and More | 30% Off using Coupon Code: BLFCM2025 |
+| [FlyonUI](https://flyonui.lemonsqueezy.com?aff=1k6yr) | Get access to 1000+ premium Tailwind CSS components, responsive pages, and themes crafted for professionals. | Discount: 30% Promo Code: BFCM30FY Limit: For the first 100 buyers only |
+
+### Courses
+
+<a id="courses"></a>
+
+| Name | What it is | Offer |
+| --- | --- | --- |
+| [Laracasts](https://laracasts.com/referral/5balloons) | Your Path to Laravel Mastery Starts Here... | 50% OFF on all subscriptions, Forever plan at $200 , Yearly at $75 |
+| [Codecourse](https://codecourse.com?ref=blackfridaydeals.dev) | Screencasts that focus on building real apps. | 50% off all plans using BLACKFRIDAY2025 |
+| [Laravel Daily](https://laraveldaily.com/) | Home of tutorials, videos and tips about our beloved framework | 40% off yearly/lifetime membership (no coupon needed) , FRIDAY2550 will give 50% off! (first 50 People) |
+| [Supercharge Design](https://learn.supercharge.design/a/aff_rcgt4kxq/external?affcode=1102338__uvxmve6) | Unlock all Supercharge Design courses and tools at our biggest discount ever. | Use BF2025 for 50% OFF |
+| [Web Development with Go](https://www.usegolang.com/) | Learn to build real, production-grade web applications from scratch. | 50% OFF |
+| [Epic React](https://epicreact.dev/?utm_source=blackfridaydeals&utm_medium=blackfridaydeals&utm_campaign=blackfridaydeals) | One of the best premium React courses out there according to many reviews | 50% OFF |
+| [Hacking with Swift](https://twostraws.gumroad.com/l/hws-everything/blackfriday24?a=912288051) | The Hacking with Swift: Everything Pack gives you every Hacking with Swift book currently published for one great price. | 50% OFF using blackfriday25 |
+| [Laravel Beyond CRUD](https://laravel-beyond-crud.com/?ref=blackfridaydeals.dev) | Learn how to build larger-than-average Laravel applications and maintain them for years to come | 30% OFF |
+| [Learn Go in one evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2024) | Learn Go programming in one evening with our hands-on, interactive online training. | 50% OFF with code BLACKFRIDAY |
+| [Vue School](https://vueschool.io/sales/blackfriday?ref=blackfridaydeals.dev&friend=BFDEALS) | Learn Vue.js and modern, cutting-edge front-end technologies from core-team members and industry experts with our premium tutorials and… | 60% off Yearly or Lifetime subscription |
+| [SwiftLee Courses](https://courses.avanderlee.com/l/products?sortKey=recommended&sortDirection=asc&page=1) | SwiftLee Swift Courses | 60% OFF |
+| [Event Sourcing in Laravel](https://event-sourcing-laravel.com/?ref=thehomedev) | A hands-on course to start using event sourcing in large apps | 30% OFF |
+| [Pluralsight](https://pluralsight.pxf.io/6yenK3) | Pluralsight helps organizations, teams, and individuals build better products with online courses and data-driven insights that fuel skill… | comeback60 60% off |
+| [Testing Laravel](https://testing-laravel.com/?utm_source=thehome.dev) | Learn how to write quality tests in Pest and PHPUnit | 30% OFF |
+| [GoRails](https://gorails.com/pricing?ref=thehomedev) | Ruby on Rails training for you and your team. | 36% off GoRails with the yearly plan |
+| [Node CLI Automation](https://nodecli.com?ref=thehomedev) | After building hundreds of developer automation tools used by millions of developers, I am teaching exactly how you can do it yourself… | 86% off (no code required) |
+| [Cloudcasts](https://cloudcasts.io/courses) | The AWS Courses | 40% OFF |
+| [Advanced Ruby: Behind the Magic](https://courses.gorails.com/advanced-ruby-for-rails-devs?coupon=4KBO4XN) | This course teaches everything I wish I knew about Ruby when I was starting my career as a Rails developer. | 17% off with coupon code 4KBO4XN |
+| [NeetCode](https://neetcode.io/) | A better way to prepare for coding interviews. | 25% off |
+| [Tilly The Coder](https://tillythecoder.com/pricing) | Unlimited access to 11+ courses & 10+ premium Laravel tutorials.1-month free trial on Monthly. | 40% off until Black Friday. On Friday it’ll be 70% discount. |
+| [Figma Fast-Track Course](https://maven.com/build-together/product-design-masterclass?promoCode=100OFF&ref=blackfridaydeals.dev) | Master Figma, learn app design from zero to 100. | $100 off using coupon 100OFF |
+| [Filament Bootcamp](https://jorgearturorojas.gumroad.com/l/filament-bootcamp?a=912288051) | In this Filament Bootcamp, I'll use a practical example to teach you the ropes of Filament v3. | 50% off |
+| [The Pragmatic Studio](https://pragmaticstudio.com/?ref=blackfridaydealsdotdev) | Premium video courses for software developers. | 40% off Use coupon code 2025THANKS |
+| [Course: Getting Started: macOS apps with SwiftUI](https://gracehuang.gumroad.com/l/course-macos-swiftui/BLACKFRIDAY24?a=912288051 ) | This course will teach you the key concepts in macOS development with SwiftUI (Apple's framework for building user interfaces) and show… | 40% Off using the coupon code BLACKFRIDAY25 |
+| [Securing Laravel](https://securinglaravel.com/black-friday-2024/?ref=blackfridaydealsdev) | The essential security resource for Laravel devs, covering everything you need to keep your apps secure through weekly security tips and… | No sale plans this year |
+| [FullStack Advanced React and GraphQL](https://advancedreact.com/?utm_source=blackfridaydeals.dev&utm_medium=link&utm_campaign=blackfridaydeals) | The course has been entirely updated and re-recorded for the latest in React.js, Hooks, Apollo 3 and the Keystone Headless CMS. | 50% OFF |
+| [Laravel Package Training](https://laravelpackage.training/?ref=blackfridaydeals.dev) | Learn how to create a Laravel package | 30% OFF |
+| [PointFree](https://www.pointfree.co/) | Point-Free: A video series exploring advanced programming topics in Swift. | 30% OFF |
+| [Vue Mastery](https://www.vuemastery.com/black-friday?ref=blackfridaydeals.dev) | Level up your skills with the highest quality Vue tutorials | Get 40% off a year of Vue Mastery using 40off_2025 |
+| [LeetCode](https://leetcode.com/) | Level up your coding skills and quickly land a job. | THANKS2024 - $30 off annual plan |
+| [Eloquent performance patterns](https://reinink.gumroad.com/l/tIewN?a=912288051) | You'll get:Access to a total of 28 lessons Includes 6 additional advanced lessons on natural sorting, full-text searching and geospatial… | 33% OFF using BLACKFRIDAY |
+| [Test with Go](https://testwithgo.com/) | Learn how to test real, complex software written in Go | 50% OFF |
+| [Learn Hotwire](https://learnhotwire.com) | Learn how to build modern apps with Rails, iOS and Android with the most comprehensive tutorial on Hotwire. | 16% off |
+| [Phlex on Rails](https://beautifulruby.com/phlex) | Video Course Build amazing user interfaces in Rails with Phlex 💪 | 20% Off Phlex on Rails video course & content at check-out |
+
+### Books
+
+<a id="books"></a>
+
+| Name | What it is | Offer |
+| --- | --- | --- |
+| [Domain Driven Design](https://domain-driven-design-laravel.com/) | Are You Tired Of Monster Controllers And Models?, With this guide, you can get rid of them forever. | 70% OFF (already discounted) |
+| [Rails 8 Everything Bundle](https://robrace.gumroad.com/l/r8eb/bfcm25?a=912288051) | Get both the Build a SaaS App in Rails 8 Complete Package and the Realtime Rails package to level up your knowledge.This is a collection… | use code bfcm25 for 60% off |
+| [DevOps with Laravel](https://devops-with-laravel.io/) | With this guide, you can learn everything about deployments, Docker, Kubernetes, and how to use them with Laravel. | 70% OFF (discount applied) |
+| [Pragmatic Bookshelf (Rails)](https://pragprog.com/categories/ruby-and-rails/?ref=blackfridaydeals.dev) | Book By Developers, For Developers | 50% OFF using code save50 |
+| [Best Practices for Laravel Enterprise Applications](https://wendelladriel.gumroad.com/l/best-practices-for-laravel-enterprise-applications?a=912288051) | Build Laravel Enterprise Applications the Right Way!Learn to build High-Performance, Maintainable,Scalable and Secure Solutions for… | 50% OFF using code BLACKFRIDAY |
+| [Beyond Code](https://twostraws.gumroad.com/l/beyondcode/blackfriday24?a=912288051) | Learn the meta-skills you need to be a better coder | 50% OFF using code blackfriday25 |
+| [Microservices with Laravel](https://microservices-laravel.io/) | The complete guide to mastering microservices with Laravel | 70% OFF (discount applied) |
+| [Consuming APIs in Laravel](https://consuming-apis-in-laravel.com/?ref=blackfridaydeals.dev) | Build Robust and Powerful API Integrations For Your Laravel Projects With Ease | 30% OFF using coupon code 30BLACKFRIDAY2025 |
+| [High Performance PostgreSQL for Rails](https://pragprog.com/titles/aapsql/high-performance-postgresql-for-rails/) | Build faster, more reliable Rails apps by taking the best advanced PostgreSQL and Active Record capabilities, and using them to solve your… | 50% off with code save50 |
+| [System Design with Laravel](https://martinjoo.gumroad.com/l/system-design-with-laravel-pro?a=912288051) | A practical 267-page guide that takes you from simple one-server setups to microservices with autoscaling. | 50% OFF ($29 instead of $49) |
+| [Laravel Concepts](https://laravel-concepts.io/) | With this guide, you can learn about ideas and concepts that recur on a daily basis in our job. | 70% OFF (discount applied) |
+| [Test-Driven APIs with Laravel and Pest](https://test-driven-api-laravel.io/) | After a 2-hour read, you'll be able to achieve 90%+ code coverage in an easy, maintainable way. | 70% OFF (already discounted) |
+| [Javascript for Rails Developers](https://javascriptforrails.com/) | JavaScript for Rails Developers: A focused book teaching Stimulus JS and modern JavaScript patterns. | 30% OFF |
+| [Build a SaaS App in Ruby on Rails 8](https://robrace.gumroad.com/l/basair8cp/bfcm25?a=912288051) | This book will guide you through your very first rails commands, through integrating Stripe, background jobs and finally deploying your… | Use link or code bfcm25 for 60% off |
+| [Modular Laravel](https://modularlaravel.com/?ref=thehome.dev) | Learn how to build modular Laravel Applications. | Get 50% off |
+| [Battle Ready Laravel](https://battle-ready-laravel.com/) | A guide to auditing, testing, fixing, and improving your Laravel applications. | 30% OFF using coupon code 30BLACKFRIDAY2025 |
+| [Test Driving Rails](https://strzibny.gumroad.com/l/testdrivingrails/prerelease?a=912288051) | IMPORTANT: The book is currently offered in beta in PDF. | 30% OFF using code prerelease |
+| [Laravel Queues in Action](https://learn-laravel-queues.com/#buy) | Learn how to use the queue system to make your applications faster and more reliable while reducing running costs. | 30% OFF for individuals, 20% OFF for team copy |
+
+### Starter Kits
+
+<a id="starter-kits"></a>
+
+| Name | What it is | Offer |
+| --- | --- | --- |
+| [Larafast](https://larafast.com?aff=1k6yr) | Larafast - Laravel SaaS Starter Kit with all the necessary features to transform your idea into reality in just a matter of hours. | 50% off on all starter kits with BLACKFRIDAY2025 |
+| [SaaSykit](https://saasykit.com?aff=1k6yr) | SaaSykit is a Laravel-based boilerplate with everything you need to build an awesome SaaS. | Get 25% OFF with code BLACKFRIDAY2025 |
+| [Nextless.js](https://nextlessjs.com?ref=blackfridaydeals.dev) | The fastest way to build scalable and production-ready SaaS products. | 66% off |
+| [FilamentFlow](https://filamentflow.io/) | FilamentFlow is a Laravel SaaS boilerplate to simplify development with ready-made tools for multi-tenancy, subscriptions, and more. | discounted to $99 |
+
+### Mobile
+
+<a id="mobile"></a>
+
+| Name | What it is | Offer |
+| --- | --- | --- |
+| [Compot](https://www.compotui.com/) | Design and develop SwiftUI apps faster with Compot – a growing library of crafted SwiftUI components and templates ready to copy and use… | 50% OFF Annual Subscription with code BF2025. |
+| [ShipThatApp](https://www.shipthat.app/?ia=tushar&utm_source=blackfridaydeals&utm_medium=list&utm_campaign=BlackFriday2024) | 🚀 ShipThat.App – Build & Launch iOS Apps Faster! Get boilerplate code, submission tools, and AI-powered features to simplify app… | 50% OFF using BF25 |
+| [Astro](https://tryastro.app?aff=1k6yr) | App Store Optimization Tool for iOS Developers | Use the code BLACKFRIDAY2025 to get 30% off |
+| [Bridge Components](https://bridgecomponents.dev) | A library of production-ready bridge components that you can drop into your app in minutes. | 20% off a PRO license with code FRIDAY25. |
+| [KeyBoard Kit Pro](https://kankoda.gumroad.com/l/keyboardkitpro?a=912288051) | KeyboardKit lets you create fully customizable keyboard extensions for iOS in minutes, using Swift & SwiftUI. | BLACK-FRIDAY-2025 gives 50% off on both yearly and monthly plans. |
+| [Rails Designer](https://railsdesigner.com/?ref=blackfridaydealsdev) | Rails Designer is the first professionally-designed UI components library for Ruby on Rails. | 30% discount. |
+
+### Hosting & DevOps
+
+<a id="hosting"></a>
+
+| Name | What it is | Offer |
+| --- | --- | --- |
+| [Scale to Zero AWS](https://scaletozeroaws.lemonsqueezy.com?aff=1k6yr) | Production-ready, highly-scalable, cost-efficient AWS serverless kit that scales to zero 💡🚀. | 50% OFF with code BLACKFRIDAY2025 |
+
+## Affiliate note
+
+Some links use our referral codes, including links that go through [blackfridaydeals.dev](https://blackfridaydeals.dev). It is how the site stays up. It does not change the discount.
+
+## License
+
+[CC0 1.0](LICENSE) (public domain dedication). Product names and trademarks belong to their owners.

@@ -1,7 +1,7 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2023%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-638-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-640-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -237,6 +237,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [NextjsTemplates](https://nextjstemplates.com/) | 20+ premium Next.js templates, starter kits & boilerplates for SaaS, landing pages, dashboards | ♾️ **40% OFF** Lifetime access | ✅ |
 | [TailTemplates](https://tailtemplates.com/) | Premium Tailwind CSS templates for startups, SaaS & landing pages | 💸 ♾️ **80% OFF** Lifetime access | ✅ |
 | [ShadcnSpace](https://shadcnspace.com/) | 1,400+ shadcn/ui components, blocks, templates, Figma kits for React & Next.js | **40% OFF** | ✅ |
+| [12happy](https://www.12hpy.com/deals/black-friday) | Uptime monitoring for websites, APIs & cron jobs, with alerts and status pages | **3 months of Pro FREE** (normally $15/mo) — code `BLACKFRIDAY`, no card, first 100 accounts (Nov 22 – Dec 1) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -761,6 +762,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [HextaUI Pro](https://hextaui.com/) | Modern React/Next.js UI components library | **Up to 40% OFF** — $49 early bird | ✅ |
 | [Durable](https://durable.com/) | AI website builder for small businesses | See offer | ✅ |
 | [Liite Lifetime Bundle](https://liite.co/lifetime) | Liite Pro (AI page builder, custom domain) plus lifetime licenses for SmartSpreadsheets, PicBolt Pro, UtilBolt, Picify and MacSuite (14 Mac apps) | 💸 ♾️ **83% OFF** — **$249 one-time** vs $1,444 separately, no code needed (first 500 bundles, until Nov 30) | ✅ |
+| [Checkout Page](https://checkoutpage.com/black-friday) | Checkout pages, events and forms for tickets, memberships and donations, paid to your own Stripe account | **30% OFF** every paid plan, first 6 months on monthly billing or first year on yearly billing, no code needed (Nov 23 - Nov 30) | ✅ |
 
 ## 🎮 Gaming
 

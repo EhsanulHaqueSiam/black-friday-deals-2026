@@ -227,6 +227,7 @@ async function main() {
     .join("");
   $("#stats").textContent = `${DATA.deals.length.toLocaleString()} live · ${DATA.deals.filter((d) => d.codes.length).length} codes`;
   $("#built").textContent = fmtDate(DATA.builtAt);
+  $("#nsrc").textContent = DATA.sources;
   readHash();
   bind();
   window.addEventListener("hashchange", () => {
