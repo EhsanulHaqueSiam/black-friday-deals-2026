@@ -1,0 +1,9 @@
+# Cloudflare Pages project (primary site). scripts/deploy-cf.sh fills in the D1 id at deploy time.
+name = "bf26-deals"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-11-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bf26-events"
+database_id = "__D1_ID__"

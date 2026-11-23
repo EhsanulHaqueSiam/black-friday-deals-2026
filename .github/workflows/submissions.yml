@@ -64,10 +64,7 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: 43b347fb07e1bd9afbb4d1bad49dae0a
-        run: |
-          node scripts/cf.ts
-          npx -y wrangler@4 pages project create bf26-deals --production-branch main 2>/dev/null || true  # first run only
-          npx -y wrangler@4 pages deploy dist --project-name bf26-deals --branch main --commit-dirty=true
+        run: scripts/deploy-cf.sh
       - name: Reply and close
         env:
           GH_TOKEN: ${{ github.token }}

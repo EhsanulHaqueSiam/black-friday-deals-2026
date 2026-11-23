@@ -48,7 +48,11 @@ const catPath = (c: string, s?: string) => `${BASE}c/${slug(c)}/${s ? `${slug(s)
 
 // Popularity GitHub Pages can show: how many independent community lists carry the deal.
 const lists = (d: PageDeal) => d.sources.filter((s) => !s.startsWith("http")).length;
-const popular = (a: PageDeal, b: PageDeal) => lists(b) - lists(a) || (b.discount ?? -1) - (a.discount ?? -1) || a.name.localeCompare(b.name);
+// Live engagement from the Cloudflare site (/api/stats), fetched by build.ts; same weights as app.js.
+let STATS: Record<string, Partial<Record<"view" | "click" | "share" | "search" | "like", number>>> = {};
+export const setStats = (s: typeof STATS) => void (STATS = s);
+const pop = (d: PageDeal) => { const s = STATS[d.id] ?? {}; return 8 * (s.like ?? 0) + 5 * (s.share ?? 0) + 3 * (s.click ?? 0) + 2 * (s.search ?? 0) + (s.view ?? 0) + 3 * lists(d); };
+const popular = (a: PageDeal, b: PageDeal) => pop(b) - pop(a) || (b.discount ?? -1) - (a.discount ?? -1) || a.name.localeCompare(b.name);
 const logo = (d: PageDeal, cls = "logo") =>
   `<img class="${cls}" src="https://icons.duckduckgo.com/ip3/${esc(host(d.url))}.ico" alt="" loading="lazy" width="28" height="28" data-initial="${esc(d.name[0] ?? "?")}">`;
 const codeBtn = (c: string, label = "Copy") => `<button class="btn code" data-code="${esc(c)}" title="Copy ${esc(c)}">${esc(c)}<i>${esc(label)}</i></button>`;

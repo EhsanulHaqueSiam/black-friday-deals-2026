@@ -32,6 +32,14 @@ const PRESETS = [
 const preset = () => PRESETS.find((p) => p.k === state.preset);
 // How many independent community lists carry the deal: the popularity signal GitHub Pages can offer.
 const lists = (d) => d.sources.filter((s) => !s.startsWith("http")).length;
+// Engagement from the Cloudflare site (/api/stats); empty on the GitHub mirror.
+let STATS = {};
+const LIKED = "bf26.liked";
+const liked = new Set((() => { try { return JSON.parse(localStorage.getItem(LIKED) ?? "[]"); } catch { return []; } })());
+const likes = (d) => (STATS[d.id]?.like ?? 0);
+// Popularity: likes 8, shares 5, Get deal clicks 3, opens from search 2, views 1, community lists 3.
+const pop = (d) => { const s = STATS[d.id] ?? {}; return 8 * (s.like ?? 0) + 5 * (s.share ?? 0) + 3 * (s.click ?? 0) + 2 * (s.search ?? 0) + (s.view ?? 0) + 3 * lists(d); };
+const beacon = (id, type) => { try { fetch("api/event", { method: "POST", keepalive: true, headers: { "content-type": "application/json" }, body: JSON.stringify({ id, type }) }); } catch {} };
 
 const daysLeft = (d) => (d.ends ? Math.round((Date.parse(d.ends) - TODAY) / 864e5) : Infinity);
 const fmtDate = (iso) => new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
@@ -155,7 +163,9 @@ const pct = (d) => (d.discount && !d.headline.includes(`${d.discount}%`) ? `<spa
 
 // One compact row: logo, name, headline, copy-code + get-deal. Full terms open on click (details()).
 function row(d) {
+  const on = liked.has(d.id);
   return `<article class="row" data-id="${esc(d.id)}">
+    <button class="vote${on ? " on" : ""}" data-like="${esc(d.id)}" aria-pressed="${on}" aria-label="Like ${esc(d.name)}">${likes(d) || ""}</button>
     ${logo(d)}
     <div class="n"><a href="${d.category === ADULT ? esc(d.url) : `deal/${esc(d.id)}/`}">${esc(d.name)}</a>${d.vendor ? `<span class="vtag sm" title="Listed by the company">✓</span>` : ""}${d.description ? `<small>${esc(d.description)}</small>` : ""}</div>
     <div class="act">${d.codes.length ? codeBtn(d.codes[0]) : `<span class="nocode">No code needed</span>`}${goBtn(d)}</div>
@@ -206,7 +216,7 @@ function renderList(shown) {
     return;
   }
   const by = {
-    popular: (a, b) => lists(b) - lists(a) || (b.discount ?? -1) - (a.discount ?? -1) || a.name.localeCompare(b.name),
+    popular: (a, b) => pop(b) - pop(a) || (b.discount ?? -1) - (a.discount ?? -1) || a.name.localeCompare(b.name),
     discount: (a, b) => (b.discount ?? -1) - (a.discount ?? -1) || a.name.localeCompare(b.name),
     ends: (a, b) => daysLeft(a) - daysLeft(b) || a.name.localeCompare(b.name),
     name: (a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }),
@@ -269,7 +279,7 @@ function readHash() {
 
 
 // --- discovery: quick finds, best per category, "For you" -------------------------------
-const popular = (a, b) => lists(b) - lists(a) || (b.discount ?? -1) - (a.discount ?? -1) || a.name.localeCompare(b.name);
+const popular = (a, b) => pop(b) - pop(a) || (b.discount ?? -1) - (a.discount ?? -1) || a.name.localeCompare(b.name);
 const dealHref = (d) => (d.category === ADULT ? esc(d.url) : `deal/${esc(d.id)}/`);
 
 function renderChips() {
@@ -551,7 +561,21 @@ function bind() {
     }
     const arrow = e.target.closest("[data-scroll]");
     if (arrow) return arrow.closest("section").querySelector(".pg").scrollBy({ left: Number(arrow.dataset.scroll) * 480, behavior: "smooth" });
+    const vote = e.target.closest("[data-like]");
+    if (vote) {
+      const id = vote.dataset.like, on = !liked.has(id);
+      on ? liked.add(id) : liked.delete(id);
+      try { localStorage.setItem(LIKED, JSON.stringify([...liked])); } catch {}
+      (STATS[id] ??= {}).like = Math.max(0, (STATS[id].like ?? 0) + (on ? 1 : -1));
+      beacon(id, on ? "like" : "unlike");
+      vote.classList.toggle("on", on);
+      vote.setAttribute("aria-pressed", String(on));
+      vote.textContent = STATS[id].like || "";
+      return;
+    }
+    if (holder && e.target.closest(".go")) beacon(holder.dataset.id, state.q ? "search" : "click");
     const share = e.target.closest("[data-share]");
+    if (share) beacon(share.dataset.share, "share");
     if (share) return shareDeal(DATA.deals.find((d) => d.id === share.dataset.share));
     const code = e.target.closest(".code");
     if (code) return copy(code);
@@ -561,7 +585,10 @@ function bind() {
     if (!r) return;
     const open = r.querySelector(".det");
     if (open) open.remove();
-    else r.insertAdjacentHTML("beforeend", details(DATA.deals.find((d) => d.id === r.dataset.id)));
+    else {
+      r.insertAdjacentHTML("beforeend", details(DATA.deals.find((d) => d.id === r.dataset.id)));
+      beacon(r.dataset.id, state.q ? "search" : "view");
+    }
     r.classList.toggle("open", !open);
     r.querySelector(".more").setAttribute("aria-expanded", String(!open));
   });
@@ -597,6 +624,8 @@ async function main() {
   $("#stats").textContent = `${DATA.deals.length.toLocaleString()} live · ${DATA.deals.filter((d) => d.codes.length).length} codes`;
   $("#built").textContent = fmtDate(DATA.builtAt);
   $("#nsrc").textContent = DATA.sources;
+  // Live engagement counts (Cloudflare only); ranking falls back to list counts without them.
+  try { const r = await fetch("api/stats"); if (r.ok) STATS = await r.json(); } catch {}
   readHash();
   bind();
   countdown();

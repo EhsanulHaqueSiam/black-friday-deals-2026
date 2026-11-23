@@ -393,3 +393,24 @@ body { letter-spacing: -0.005em; }
 .shares [data-share] { background: var(--fg); color: #000; border-color: var(--fg); }
 .dshare { display: flex; gap: 6px; }
 .dshare .btn { height: 30px; font-size: 12.5px; }
+
+/* Like (vote column, mock A) */
+.row { grid-template-columns: 40px 28px minmax(0, 1fr) auto; }
+.row .vote { grid-row: 1 / 3; width: 40px; height: 44px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1px; border: 1px solid var(--line); border-radius: 8px; background: none; color: var(--dim); font: 600 12px var(--mono); cursor: pointer; transition: border-color 140ms ease, color 140ms ease, transform 140ms var(--ease-out); }
+.row .vote::before { content: "▲"; font-size: 10px; }
+.row .vote.on { border-color: var(--acc); color: var(--acc); }
+.row .vote:active { transform: scale(0.94); }
+.row .logo { grid-row: 1 / 3; grid-column: 2; }
+.row .n, .row .h, .row .sub { grid-column: 3; }
+.row .act { grid-column: 4; }
+.det { grid-column: 3 / 5; }
+.row.static { grid-template-columns: 28px minmax(0, 1fr) auto; }
+.row.static .logo { grid-column: 1; } .row.static .n, .row.static .h, .row.static .sub { grid-column: 2; } .row.static .act { grid-column: 3; }
+@media (max-width: 760px) {
+  .row { grid-template-columns: 36px 28px minmax(0, 1fr); }
+  .row .vote { width: 36px; }
+  .row .act { grid-row: 4; grid-column: 1 / 4; }
+  .det { grid-column: 1 / 4; }
+  .row.static { grid-template-columns: 28px minmax(0, 1fr); }
+  .row.static .act { grid-column: 1 / 3; }
+}

@@ -68,6 +68,15 @@
   }, true);
   // Remember opened deals in this browser only, for the home page's "For you" suggestions.
   const opened = document.querySelector("[data-deal]")?.dataset.deal;
+  // Engagement beacon to the Cloudflare site's counter (ignored on the GitHub mirror).
+  const beacon = (id, type) => { try { fetch("/api/event", { method: "POST", keepalive: true, headers: { "content-type": "application/json" }, body: JSON.stringify({ id, type }) }); } catch {} };
+  if (opened) beacon(opened, "view");
+  document.addEventListener("click", (e) => {
+    const id = document.querySelector("[data-deal]")?.dataset.deal ?? e.target.closest("[data-id]")?.dataset.id;
+    if (!id) return;
+    if (e.target.closest(".go")) beacon(id, "click");
+    else if (e.target.closest("[data-share], [data-copylink], .shares .net")) beacon(id, "share");
+  });
   if (opened) {
     try {
       const seen = JSON.parse(localStorage.getItem("bf26.viewed") ?? "[]");

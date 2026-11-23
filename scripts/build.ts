@@ -8,7 +8,7 @@ import {
   TAXONOMY, PLATFORMS, PRICING, ADULT, guessCategory, isCategory, isSubcategory,
   type Category, type Platform, type Pricing,
 } from "./taxonomy.ts";
-import { SITE, SUGGEST, categoryNav, renderHome, renderSite, slug } from "./pages.ts";
+import { SITE, SUGGEST, categoryNav, renderHome, renderSite, setStats, slug } from "./pages.ts";
 
 const TODAY = new Date(process.env.TODAY ?? new Date().toISOString().slice(0, 10));
 const YEAR = 2026;
@@ -444,6 +444,11 @@ const hash = (f: string) => createHash("sha1").update(readFileSync(f)).digest("h
 const v = { app: hash("docs/app.js"), css: hash("docs/style.css"), page: hash("docs/page.js") };
 // Best brands: household names (data/brands.json, ids); gone ones drop out.
 const brandIds = existsSync("data/brands.json") ? (JSON.parse(readFileSync("data/brands.json", "utf8")) as string[]).filter((id) => live.some((d) => d.id === id)) : [];
+// Rank static pages by live engagement too (likes, shares, clicks); skipped when offline.
+try {
+  const r = await fetch(`${SITE}api/stats`, { signal: AbortSignal.timeout(8000) });
+  if (r.ok) setStats(await r.json());
+} catch {}
 const home = renderHome(live.map(publish), picks, stats.builtAt, brandIds);
 const index = readFileSync("docs/index.html", "utf8")
   .replace(/<!--cats-->[\s\S]*?<!--\/cats-->/, `<!--cats-->${categoryNav(live)}<!--/cats-->`)
@@ -493,11 +498,24 @@ const readme = `# Black Friday & Cyber Monday 2026 Deals Directory
 
 **${stats.live} live deals**, **${stats.withCodes} with promo codes**, from ${SOURCES.length} community deal lists on GitHub plus web, X and Reddit research. Duplicates, expired offers and "coming soon" placeholders are removed, and every deal is tagged by category, platform and pricing.
 
-**Website: ${SITE}** (search, filters, one-click codes, a page for every deal)
+## 👉 [Open the website: ${SITE.replace("https://", "").replace(/\/$/, "")}](${SITE})
+
+Search by product or company (typos are forgiven), filter by category, platform or "ending in 24 / 48 hours", copy codes in one tap, and share any deal: shared links open the deal's page on the site, and "Get deal" takes you to the vendor.
+
+**How "Popular" works:** deals are ranked by what people actually do on the site: likes (▲), shares, "Get deal" clicks, opens from search and page views, plus how many independent deal lists carry the deal. Counts update live.
 
 Black Friday is **Nov 27, 2026**, Cyber Monday is **Nov 30, 2026**. Last built **${stats.builtAt}**.
 
-**Add your product:** [suggest a deal](${SUGGEST}) (a short form) or open a PR, see [CONTRIBUTING.md](CONTRIBUTING.md). Every listing gets its own page with a link to your site, plus an optional "Listed on" badge.
+## For companies: list your deal for free
+
+[List your product](${SITE}submit/): fill a short form, a bot checks it within a minute, and once approved your deal gets its own page with a followed link to your site, a spot in its category, search and the sitemap, an optional "Listed by the company" tag and a "Listed on" badge. Details in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## For AI agents and tools
+
+- [llms.txt](${SITE}llms.txt): summary, best deal per category, editors' picks
+- [llms-full.txt](${SITE}llms-full.txt): every live deal, one line each
+- [data.json](${SITE}data.json): all deals as JSON (name, url, category, headline, codes, ends, discount)
+- [sitemap.xml](${SITE}sitemap.xml)
 
 ## Browse by category
 
