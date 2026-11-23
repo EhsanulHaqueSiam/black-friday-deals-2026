@@ -2,6 +2,7 @@
 // Types: view, click (Get deal), share, search (opened from search), like / unlike.
 const TYPES = new Set(["view", "click", "share", "search", "like", "unlike"]);
 export async function onRequestPost({ request, env }) {
+  if (!env.DB) return new Response(null, { status: 204 }); // database not bound yet
   let body;
   try {
     body = await request.json();
