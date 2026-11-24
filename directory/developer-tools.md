@@ -2,13 +2,13 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/developer-tools/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**158 live deals**, 97 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**157 live deals**, 96 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [Databases & API Clients](#databases--api-clients) (10)
 - [Git, CI & DevOps](#git-ci--devops) (14)
 - [Testing & Debugging](#testing--debugging) (22)
 - [Editors & Terminals](#editors--terminals) (13)
-- [Mac Dev Utilities](#mac-dev-utilities) (23)
+- [Mac Dev Utilities](#mac-dev-utilities) (22)
 - [Boilerplates & Starter Kits](#boilerplates--starter-kits) (28)
 - [Backend, APIs & Infra](#backend-apis--infra) (28)
 - [Monitoring & Analytics](#monitoring--analytics) (20)
@@ -102,7 +102,6 @@
 | [Foyer](https://foyer.pinweb.io/) | Menu bar app that keeps local dev servers and Ollama models running. | $6 → $3 for a lifetime license for up to 3 Macs | `BLACKFRIDAY` |  | [details](https://bf26-deals.pages.dev/deal/foyer/) |
 | [KeygenGo](https://keygengo.5km.tech/black-friday?utm_source=gh-mrs&utm_medium=github&utm_campaign=bf2026) | Native Mac client for managing Keygen.sh products, licenses and machines. | 50% off, lifetime $39.99 → $19.99 | `BF2026YEAR` | Dec 6 | [details](https://bf26-deals.pages.dev/deal/keygengo/) |
 | [MarsDawn](https://apps.apple.com/app/apple-store/id6812925073?pt=128976951&ct=bf-mrs&mt=12&platform=mac) | Mac viewer for your AI agent's Markdown, JSON and YAML with live preview. | 50% off one-time unlock, $4.99 → $2.49 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/marsdawn/) |
-| [Parallels Desktop for Mac](https://www.parallels.com/products/desktop/buy/) | Runs Windows and Linux virtual machines on a Mac. | 50% off new 1-year Standard and Pro plans | `PD50` | Nov 23 | [details](https://bf26-deals.pages.dev/deal/parallelsdesktopformac/) |
 | [Synclet](https://synclet.dev/) | Encrypted dotfile and app config sync across macOS and Linux. | 50% off, $14.99 → $7.49 one-time |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/synclet/) |
 | [BucketMate](https://www.bucketmate.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Finder-style S3 storage client for macOS, iOS and the web. | 40% off all lifetime licenses | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/bucketmate/) |
 | [DevWorkspace Pro](https://devworkspacepro.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Desktop workspace that groups each project's files, terminals, services and logs. | 40% off all plans | `BLACKFRIDAY40OFF` | Dec 10 | [details](https://bf26-deals.pages.dev/deal/devworkspacepro/) |

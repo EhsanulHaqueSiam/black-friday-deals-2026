@@ -2,14 +2,14 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/hardware-electronics/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**150 live deals**, 8 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**147 live deals**, 7 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
-- [Phones, Tablets & Computers](#phones-tablets--computers) (35)
+- [Phones, Tablets & Computers](#phones-tablets--computers) (34)
 - [Audio](#audio) (17)
 - [Smart Home](#smart-home) (15)
-- [Accessories & Peripherals](#accessories--peripherals) (61)
+- [Accessories & Peripherals](#accessories--peripherals) (60)
 - [Cameras & Drones](#cameras--drones) (7)
-- [Retailer Sales](#retailer-sales) (15)
+- [Retailer Sales](#retailer-sales) (14)
 
 ## Phones, Tablets & Computers
 
@@ -48,7 +48,6 @@
 | [Google Store (Pixel)](https://store.google.com/us/magazine/black-friday-deals) | Pixel phones and other Google devices. | Up to $400 off Pixel 11 Pro, $200 off Pixel 11 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/googlestore/) |
 | [Reddit](https://www.reddit.com/r/buildapcsales/comments/1y1iten/) | PC parts combo: Ryzen 7 9800X3D, X870E motherboard, 32GB DDR5, SSD and AIO cooler. | Ryzen 7 9800X3D, X870E board, 32GB RAM combo $899.99 |  |  | [details](https://bf26-deals.pages.dev/deal/reddit/) |
 | [reMarkable](https://remarkable.com/) | E-ink paper tablets for writing and reading. | $100 off Paper Pro bundles, $300 off Super Bundle |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/remarkable/) |
-| [System76](https://system76.com/) | Linux laptops and desktops. | Up to $200 off selected Linux laptops and desktops |  | Nov 23 | [details](https://bf26-deals.pages.dev/deal/system76/) |
 | [Zima](https://shop.zimaspace.com/) | x86 single-board servers and home NAS devices. | $15 to $60 off single-board servers |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/zima/) |
 
 ## Audio
@@ -149,7 +148,6 @@
 | [FlexiSpot](https://www.flexispot.com/) | Electric sit-stand desks and office chairs. | $499 → about $300 |  |  | [details](https://bf26-deals.pages.dev/deal/flexispot/) |
 | [Hak5](https://shop.hak5.org/collections/bfcm) | Penetration testing hardware such as the WiFi Pineapple and USB Rubber Ducky. | $10 off select products | `H4K3DNOV24` |  | [details](https://bf26-deals.pages.dev/deal/hak5/) |
 | [Klucze Yubikey](https://www.yubico.com/pl/store/2026/black-friday-sale/) | YubiKey hardware security keys for two-factor login. | Discounts on security keys |  |  | [details](https://bf26-deals.pages.dev/deal/kluczeyubikey/) |
-| [KSEC Labs](https://labs.ksec.co.uk/black-friday-sale/) | RFID tools, lock picking kits and penetration testing hardware from the UK. | Up to £300 off, 3-for-2 RFID cards |  | Nov 23 | [details](https://bf26-deals.pages.dev/deal/kseclabs/) |
 | [NuPhy Halo IO](https://bit.ly/black_friday_2026_x) | Mechanical keyboards. | Buy one, get one free |  |  | [details](https://bf26-deals.pages.dev/deal/nuphyhaloio/) |
 | [RFOXiA Developer Bundle](https://x.com/RFOXiA1) | Long-range BLE, GNSS and sensor developer hardware bundle. | Developer Bundle $199 → $139.30 | `RFOXIA` |  | [details](https://bf26-deals.pages.dev/deal/rfoxiadeveloperbundle/) |
 | [Secretlab Titan Evo](https://secretlab.co/) | Ergonomic gaming and office chair. | Up to $100 off, from $499 |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/secretlabtitanevo/) |
@@ -180,7 +178,6 @@
 | [Amazon](https://www.amazon.com/blackfriday) | Online retailer selling electronics, home goods, fashion and more. | Up to 60% off electronics, beauty, fashion and toys |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/amazon/) |
 | [Target](https://www.target.com/) | Retailer selling electronics, toys, home goods and more. | Up to 50% off gifts, up to $100 off Apple devices |  | Nov 29 | [details](https://bf26-deals.pages.dev/deal/target/) |
 | [Store Pickup Alert](https://storepickupalert.com/) | Phone alerts when sold-out iPhones, consoles or GPUs appear for store pickup. | 20% off your first month | `BLACKFRIDAY20` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/storepickupalert/) |
-| [SparkFun](https://www.sparkfun.com/) | Electronics store for dev boards, sensors, GNSS and IoT kits. | 15% off its Originals line | `BFCM2026` | Nov 23 | [details](https://bf26-deals.pages.dev/deal/sparkfun/) |
 | [Apple Black Friday 2026](https://www.apple.com/shop/gifts/black-friday-event) | Apple gift card with purchase of iPhone, iPad, Mac, Watch or AirPods. | **Soon.** Up to $300 gift card with eligible purchases |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/appleblackfriday2026/) |
 | [Best Buy](https://www.bestbuy.com/black-friday) | US electronics retailer with sales on laptops, TVs and appliances. | Doorbusters like MacBook Air M5 $1,049, save $250 |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/bestbuy/) |
 | [Costco](https://www.costco.com/o/-/black-friday) | Membership warehouse store selling electronics, home goods and more. | Member deals like an RTX 5060 gaming PC $300 off |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/costco/) |

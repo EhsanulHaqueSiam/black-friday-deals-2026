@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/websites-e-commerce/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**216 live deals**, 77 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**216 live deals**, 77 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [Website Builders & No-Code](#website-builders--no-code) (32)
 - [WordPress Themes & Plugins](#wordpress-themes--plugins) (137)

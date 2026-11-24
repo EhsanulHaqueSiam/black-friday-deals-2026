@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/photo-video-audio/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**231 live deals**, 73 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**231 live deals**, 73 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [Video Editing](#video-editing) (42)
 - [Screen Recording](#screen-recording) (34)

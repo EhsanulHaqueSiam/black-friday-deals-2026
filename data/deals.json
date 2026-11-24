@@ -6908,26 +6908,6 @@
     "headline": "30% off, $29 → $20.30"
   },
   {
-    "name": "BIM Template",
-    "url": "https://x.com/BIMTemplate",
-    "deal": "From Nov 23: 40% off the first three days, 30% off rest of the week, 20% off Cyber Week; codes by newsletter",
-    "codes": [],
-    "ends": "2026-11-23",
-    "discount": 40,
-    "sources": [
-      "https://x.com/BIMTemplate/status/2122374201172693483"
-    ],
-    "headline": "Up to 40% off, codes by newsletter",
-    "id": "bimtemplate",
-    "category": "Design",
-    "subcategory": "UI Kits & Templates",
-    "platforms": [
-      "windows"
-    ],
-    "pricing": "one-time",
-    "description": "Revit templates and BIM content."
-  },
-  {
     "name": "Bimg AI",
     "url": "https://bimg.ai/black-friday",
     "deal": "50% OFF the first month of monthly plans, or the first year and every yearly renewal of annual plans. Discount shown at checkout, no code needed · 2026-12-03",
@@ -7826,27 +7806,6 @@
     ],
     "pricing": "subscription",
     "description": "Bundle of WooCommerce add-ons for store features."
-  },
-  {
-    "name": "Boot.dev",
-    "url": "https://www.boot.dev/pricing",
-    "deal": "Black Friday sale announced by the founder Nov 4, 2026, not live on Nov 23; Boot.dev ads promise 45% off the first membership; free VIM list members get the best offer first",
-    "codes": [],
-    "ends": "2026-11-23",
-    "discount": 45,
-    "upcoming": true,
-    "sources": [
-      "https://x.com/wagslane/status/2118020725202420167"
-    ],
-    "headline": "45% off your first coding course membership",
-    "id": "boot",
-    "category": "Learning",
-    "subcategory": "Programming & Tech",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "subscription",
-    "description": "Gamified courses for learning backend development in Python, Go and TypeScript."
   },
   {
     "name": "BoringLaunch",
@@ -9034,32 +8993,6 @@
     ],
     "pricing": "one-time",
     "description": "Keyboard-first dual-pane file manager with built-in terminal and remote storage."
-  },
-  {
-    "name": "Capture - Quick Notes",
-    "url": "https://apps.apple.com/app/apple-store/id6458535284",
-    "deal": "50% OFF Lifetime (one-time purchase), November 23–30, 2026. US pricing: $19.99 → $9.99 USD; local prices vary. No code needed.",
-    "codes": [],
-    "ends": "2026-11-23",
-    "discount": 50,
-    "sources": [
-      "trungdq88/Awesome-Black-Friday-Cyber-Monday",
-      "mRs-/Black-Friday-Deals",
-      "danmindru/rare-big-deal",
-      "twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals",
-      "thuongtin/awesome-bfcm-2026",
-      "refinism-B/Awesome-Black-Friday-2026-zh"
-    ],
-    "id": "capture",
-    "category": "Productivity",
-    "subcategory": "Notes & Writing",
-    "platforms": [
-      "ios",
-      "mac"
-    ],
-    "pricing": "one-time",
-    "description": "One-tap quick notes for iPhone, iPad and Mac that send to other apps.",
-    "headline": "50% off lifetime, $19.99 → $9.99"
   },
   {
     "name": "Captureze",
@@ -13085,35 +13018,6 @@
     "description": "Reading app that delivers daily book passages."
   },
   {
-    "name": "Daily Time Tracking",
-    "url": "https://dailytimetracking.com/?utm_source=bf2026-github-tony",
-    "deal": "Up to 30% OFF: Annual US$39.99 → US$29.99 for one upcoming year with DAILYBF2026, then standard renewal; new, existing and expired subscribers subject to Apple's terms. Lifetime US$99.99 → US$69.99 once, no code, in-app purchase. Same numerical EUR prices. November 23–30, 2026. Local prices/savings vary; existing subscribers should compare their current rate.",
-    "codes": [
-      "DAILYBF2026"
-    ],
-    "ends": "2026-11-23",
-    "discount": 30,
-    "sources": [
-      "trungdq88/Awesome-Black-Friday-Cyber-Monday",
-      "mRs-/Black-Friday-Deals",
-      "danmindru/rare-big-deal",
-      "twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals",
-      "Pimjo/black-friday-deals",
-      "thuongtin/awesome-bfcm-2026",
-      "longseespace/mac-black-friday",
-      "refinism-B/Awesome-Black-Friday-2026-zh"
-    ],
-    "id": "dailytimetracking",
-    "category": "Productivity",
-    "subcategory": "Calendar & Time Tracking",
-    "platforms": [
-      "mac"
-    ],
-    "pricing": "subscription",
-    "description": "Mac time tracker that asks what you are doing at intervals instead of using timers.",
-    "headline": "Up to 30% off, lifetime $99.99 → $69.99"
-  },
-  {
     "name": "Daily Wander",
     "url": "https://www.dailywander.app/blog/black-friday-2026.html?utm_source=github&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=mariuslandwehr_black_friday_deals",
     "deal": "33% off a year of Premium (29.99 → 19.99 USD or EUR) · WANDER33 · Yearly Premium plan on iPhone for new and returning subscribers (not current subscribers); renews at the regular yearly price after the first year. Redeem on the App Store · Nov 9 – Dec 1",
@@ -15420,29 +15324,6 @@
     "pricing": "subscription",
     "description": "Electronic signature and agreement platform.",
     "headline": "20-30% off subscriptions"
-  },
-  {
-    "name": "Domain.com",
-    "url": "https://www.domain.com/",
-    "deal": "30% off domains and 50% off Google Workspace with GETONLINENOW, then 30% off sitewide with SITEWIDE30 from Nov 23, 2026",
-    "codes": [
-      "GETONLINENOW",
-      "SITEWIDE30"
-    ],
-    "ends": "2026-11-23",
-    "discount": 50,
-    "sources": [
-      "https://gauravtiwari.org/deal/early-black-friday-deals/"
-    ],
-    "headline": "30% off domains, 50% off Google Workspace",
-    "id": "domain",
-    "category": "Hosting & Cloud",
-    "subcategory": "Domains",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "subscription",
-    "description": "Domain registrar with hosting and Google Workspace."
   },
   {
     "name": "Donefy",
@@ -19471,27 +19352,6 @@
     "headline": "About 50% off, $449 → $224"
   },
   {
-    "name": "Flavio Copes AI Workshop and Masterclasses",
-    "url": "https://flaviocopes.com/black-friday/",
-    "deal": "AI Workshop $299 → $99; four masterclasses $49 together (usually $396 bought individually) · No code; join the email list and the purchase link is sent when the offers open · from Nov 23",
-    "codes": [],
-    "ends": "2026-11-23",
-    "sources": [
-      "mRs-/Black-Friday-Deals",
-      "Shashankt255/black-friday-deals-2026",
-      "KevinKaul/black-friday-deals-2026"
-    ],
-    "id": "flaviocopesaiworkshopandmasterclasses",
-    "category": "Learning",
-    "subcategory": "Programming & Tech",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "one-time",
-    "description": "Programming courses on AI, TypeScript, React and Git.",
-    "headline": "Workshop $299 → $99, 4 masterclasses for $49"
-  },
-  {
     "name": "FletchShot",
     "url": "https://fletchshot.app/?src=bf-list",
     "deal": "50% OFF Full Unlock ($9.99 → $4.99) · One-time in-app purchase on the Mac App Store. Free download with a 14-day trial. Price drops automatically, no code needed. · Nov 27 – Nov 30",
@@ -20010,26 +19870,6 @@
     "pricing": "one-time",
     "description": "WordPress server management on DigitalOcean, Vultr and AWS.",
     "headline": "Lifetime from $249"
-  },
-  {
-    "name": "Focus On Today",
-    "url": "https://focusonto.day",
-    "deal": "Mac license $39.99 to $9.99, no code, through Nov 23.",
-    "codes": [],
-    "ends": "2026-11-23",
-    "discount": 75,
-    "sources": [
-      "https://www.reddit.com/r/macapps/comments/1xyme2s/comment/19szs5la30ibo/"
-    ],
-    "headline": "75% off, now $9.99",
-    "id": "focusontoday",
-    "category": "Productivity",
-    "subcategory": "Tasks & Projects",
-    "platforms": [
-      "mac"
-    ],
-    "pricing": "one-time",
-    "description": "Flexible task manager and to-do list for Mac."
   },
   {
     "name": "Focus Train",
@@ -28661,26 +28501,6 @@
     "headline": "60% off first year, Starter $190 → $76"
   },
   {
-    "name": "KSEC Labs",
-    "url": "https://labs.ksec.co.uk/black-friday-sale/",
-    "deal": "Up to £300 off, 3-for-2 RFID cards (Nov 23–30)",
-    "codes": [],
-    "ends": "2026-11-23",
-    "sources": [
-      "Shashankt255/black-friday-deals-2026",
-      "ps-lo/InfoSec-and-Tech-Black-Friday"
-    ],
-    "id": "kseclabs",
-    "category": "Hardware & Electronics",
-    "subcategory": "Accessories & Peripherals",
-    "platforms": [
-      "physical"
-    ],
-    "pricing": "physical",
-    "description": "RFID tools, lock picking kits and penetration testing hardware from the UK.",
-    "headline": "Up to £300 off, 3-for-2 RFID cards"
-  },
-  {
     "name": "KTool",
     "url": "https://ktool.io/pricing?utm_source=mrsdeals&utm_medium=partner&utm_campaign=bf2026",
     "deal": "Lifetime $179 $149 · Automatically applied; one-time purchase; until 2026-12-01",
@@ -29555,27 +29375,6 @@
     "pricing": "one-time",
     "description": "Online DJ school with house and techno mixing courses and books.",
     "headline": "50% off all courses and books"
-  },
-  {
-    "name": "LearnWorlds",
-    "url": "https://get.learnworlds.com/coupon",
-    "deal": "Up to 39% off Learning Center plans (Early Bird ends Nov 23, 11:59 PM PST)",
-    "codes": [],
-    "ends": "2026-11-23",
-    "discount": 39,
-    "sources": [
-      "carmentune/best-black-friday-saas-deals",
-      "javabuddy/best-black-friday-cyber-monday-deals-for-developers"
-    ],
-    "id": "learnworlds",
-    "category": "Learning",
-    "subcategory": "Online Course Platforms",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "subscription",
-    "description": "Platform to create and sell online courses.",
-    "headline": "Up to 39% off Learning Center plans"
   },
   {
     "name": "LeaseRail",
@@ -31900,26 +31699,6 @@
     "pricing": "one-time",
     "description": "Self-hosted email marketing app that sends through SES, SendGrid or Mailgun.",
     "headline": "60% off lifetime, $149 → $59.60"
-  },
-  {
-    "name": "Mailmodo",
-    "url": "https://www.mailmodo.com/",
-    "deal": "20% off annual plans, claimed through a form on the deal page. Nov 9 to Nov 23",
-    "codes": [],
-    "ends": "2026-11-23",
-    "discount": 20,
-    "sources": [
-      "https://www.engagebay.com/blog/black-friday-saas-deals/"
-    ],
-    "headline": "20% off annual plans",
-    "id": "mailmodo",
-    "category": "Marketing & Sales",
-    "subcategory": "Email Marketing & Newsletters",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "subscription",
-    "description": "Email marketing with interactive AMP emails."
   },
   {
     "name": "MailOptin",
@@ -35289,29 +35068,6 @@
     "pricing": "one-time",
     "description": "macOS window manager with snap areas, workspaces, gestures and Dock window previews.",
     "headline": "30% off lifetime license, now $6.99"
-  },
-  {
-    "name": "Network Solutions",
-    "url": "https://www.networksolutions.com/",
-    "deal": "30% off domains and 50% off Google Workspace with GETONLINENOW, then 30% off sitewide with SITEWIDE30 from Nov 23, 2026",
-    "codes": [
-      "GETONLINENOW",
-      "SITEWIDE30"
-    ],
-    "ends": "2026-11-23",
-    "discount": 50,
-    "sources": [
-      "https://gauravtiwari.org/deal/early-black-friday-deals/"
-    ],
-    "headline": "30% off domains, 50% off Google Workspace",
-    "id": "networksolutions",
-    "category": "Hosting & Cloud",
-    "subcategory": "Domains",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "subscription",
-    "description": "Domain registration, hosting and Google Workspace."
   },
   {
     "name": "Networking: The Internet",
@@ -39148,29 +38904,6 @@
     "headline": "Up to 50% off first year, Standard and Pro"
   },
   {
-    "name": "Parallels Desktop for Mac",
-    "url": "https://www.parallels.com/products/desktop/buy/",
-    "deal": "50% off new 1-year Standard and Pro plans with code PD50 · Expires: 2026-11-23 · Parallels Desktop for Mac, Standard and Pro 1-year plans, new subscriptions only. Code PD50. Until Nov 23, 2026. Link from the reply in the same thread:…",
-    "codes": [
-      "PD50"
-    ],
-    "ends": "2026-11-23",
-    "discount": 50,
-    "sources": [
-      "thuongtin/awesome-bfcm-2026",
-      "labex-labs/black-friday-cyber-monday-deals"
-    ],
-    "id": "parallelsdesktopformac",
-    "category": "Developer Tools",
-    "subcategory": "Mac Dev Utilities",
-    "platforms": [
-      "mac"
-    ],
-    "pricing": "subscription",
-    "description": "Runs Windows and Linux virtual machines on a Mac.",
-    "headline": "50% off new 1-year Standard and Pro plans"
-  },
-  {
     "name": "Paramount+",
     "url": "https://www.paramountplus.com/",
     "deal": "Any monthly plan for $2.99/mo for the first 2 months, new and eligible former subscribers. Until Nov 30, 2026",
@@ -39989,30 +39722,6 @@
     "pricing": "one-time",
     "description": "Chrome extension that copies HTML and CSS from any element and extracts a site's design system.",
     "headline": "80% off lifetime license, $149 → $29"
-  },
-  {
-    "name": "Pickode",
-    "url": "https://pickode.com/?utm_source=github&utm_medium=community&utm_campaign=bf2026",
-    "deal": "35% off Pro and Team, yearly and lifetime, with code BF2026 (new customers). Nov 23-30",
-    "codes": [
-      "BF2026"
-    ],
-    "ends": "2026-11-23",
-    "discount": 35,
-    "newCustomersOnly": true,
-    "sources": [
-      "trungdq88/Awesome-Black-Friday-Cyber-Monday",
-      "thuongtin/awesome-bfcm-2026"
-    ],
-    "id": "pickode",
-    "category": "Mac & Desktop Utilities",
-    "subcategory": "Browser Extensions",
-    "platforms": [
-      "browser-extension"
-    ],
-    "pricing": "subscription",
-    "description": "Browser extension that copies any website section as HTML, CSS, React, Tailwind or Vue.",
-    "headline": "35% off Pro and Team, yearly and lifetime"
   },
   {
     "name": "Picky Photo",
@@ -51443,29 +51152,6 @@
     "headline": "25% off lifetime Pro, $7.99 → $5.99"
   },
   {
-    "name": "SparkFun",
-    "url": "https://www.sparkfun.com/",
-    "deal": "15% OFF SparkFun Originals, code BFCM2026 (Nov 23–30)",
-    "codes": [
-      "BFCM2026"
-    ],
-    "ends": "2026-11-23",
-    "discount": 15,
-    "sources": [
-      "Shashankt255/black-friday-deals-2026",
-      "ps-lo/InfoSec-and-Tech-Black-Friday"
-    ],
-    "id": "sparkfun",
-    "category": "Hardware & Electronics",
-    "subcategory": "Retailer Sales",
-    "platforms": [
-      "physical"
-    ],
-    "pricing": "physical",
-    "description": "Electronics store for dev boards, sensors, GNSS and IoT kits.",
-    "headline": "15% off its Originals line"
-  },
-  {
     "name": "SpatialTap",
     "url": "https://spatialtap.com",
     "deal": "30% off: $9.99 → $6.99, one-time purchase · BLACKFRIDAY26 · 3 Macs per license; 7-day free trial, no account; Apple silicon, macOS 14.2+ · Nov 27 – Nov 30",
@@ -53774,25 +53460,6 @@
     ],
     "pricing": "subscription",
     "description": "Game and VPS server hosting."
-  },
-  {
-    "name": "System76",
-    "url": "https://system76.com/",
-    "deal": "Up to $200 off selected models · Dates: Nov 23 · Linux laptops and desktops. US customers only.",
-    "codes": [],
-    "ends": "2026-11-23",
-    "sources": [
-      "ps-lo/InfoSec-and-Tech-Black-Friday"
-    ],
-    "id": "system76",
-    "category": "Hardware & Electronics",
-    "subcategory": "Phones, Tablets & Computers",
-    "platforms": [
-      "physical"
-    ],
-    "pricing": "physical",
-    "description": "Linux laptops and desktops.",
-    "headline": "Up to $200 off selected Linux laptops and desktops"
   },
   {
     "name": "Systeme.io",
@@ -58313,31 +57980,6 @@
     ],
     "pricing": "one-time",
     "description": "Ubisoft's own PC game store for Assassin's Creed, Far Cry and more."
-  },
-  {
-    "name": "Udacity",
-    "url": "https://www.udacity.com/experience",
-    "deal": "55% off all AI and tech programs, monthly plan $113 instead of $249 for the first 4 months. Until Nov 23, 2026 (may be extended)",
-    "codes": [
-      "BF55"
-    ],
-    "ends": "2026-11-23",
-    "discount": 55,
-    "sources": [
-      "Shashankt255/black-friday-deals-2026",
-      "KevinKaul/black-friday-deals-2026",
-      "javabuddy/best-black-friday-cyber-monday-deals-for-developers",
-      "https://thepivotwave.com/blog/black-friday-online-course-deals/"
-    ],
-    "headline": "55% off, monthly plan $249 → $113",
-    "id": "udacity",
-    "category": "Learning",
-    "subcategory": "Programming & Tech",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "subscription",
-    "description": "Nanodegree programs in AI, cloud and data engineering."
   },
   {
     "name": "Udemy",
@@ -63564,33 +63206,6 @@
     ],
     "pricing": "subscription",
     "description": ".xyz domain registry."
-  },
-  {
-    "name": "Y-Pod",
-    "url": "https://www.y-pod.app/#black-friday",
-    "deal": "Scheduled 50% OFF Pro Lifetime (one-time purchase), November 23–30, 2026. US pricing: $99.99 → $49.99 USD; local prices vary.",
-    "codes": [],
-    "ends": "2026-11-23",
-    "discount": 50,
-    "sources": [
-      "trungdq88/Awesome-Black-Friday-Cyber-Monday",
-      "danmindru/rare-big-deal",
-      "Shashankt255/black-friday-deals-2026",
-      "thuongtin/awesome-bfcm-2026",
-      "labex-labs/black-friday-cyber-monday-deals",
-      "thephux/awesome-ios-black-friday",
-      "tubeagentkit/awesome-black-friday-ai-deals",
-      "refinism-B/Awesome-Black-Friday-2026-zh"
-    ],
-    "id": "ypod",
-    "category": "Productivity",
-    "subcategory": "Focus & Habits",
-    "platforms": [
-      "ios"
-    ],
-    "pricing": "one-time",
-    "description": "Private life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad.",
-    "headline": "50% off Pro lifetime, $99.99 → $49.99"
   },
   {
     "name": "Yaptake",

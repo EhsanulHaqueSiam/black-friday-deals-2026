@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/gaming/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**59 live deals**, 7 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**59 live deals**, 7 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [Game Stores & Sales](#game-stores--sales) (15)
 - [Game Subscriptions](#game-subscriptions) (2)

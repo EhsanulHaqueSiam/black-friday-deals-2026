@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/entertainment/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**74 live deals**, 18 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**74 live deals**, 18 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [Streaming Video](#streaming-video) (33)
 - [Music](#music) (19)

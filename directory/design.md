@@ -2,9 +2,9 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/design/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**149 live deals**, 56 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**148 live deals**, 56 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
-- [UI Kits & Templates](#ui-kits--templates) (47)
+- [UI Kits & Templates](#ui-kits--templates) (46)
 - [Icons, Fonts & Illustrations](#icons-fonts--illustrations) (8)
 - [Design & Prototyping Tools](#design--prototyping-tools) (49)
 - [Mockups & Screenshots](#mockups--screenshots) (6)
@@ -28,7 +28,6 @@
 | [TailGrids](https://pimjo.com/black-friday-cyber-monday-deal) | 600+ Tailwind CSS components, blocks and templates for HTML, React, Vue and Figma. | 50% off All Access plans |  |  | [details](https://bf26-deals.pages.dev/deal/tailgrids/) |
 | [TemplateMonster](http://www.templatemonster.com/sale/) | Marketplace for website templates, themes and design assets. | Up to 50% off |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/templatemonster/) |
 | [Buildkit for Astro](https://astrobuildkit.com) | Astro design system with blocks and animated visuals for marketing sites. | Up to 47% off |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/buildkitforastro/) |
-| [BIM Template](https://x.com/BIMTemplate) | Revit templates and BIM content. | Up to 40% off, codes by newsletter |  | Nov 23 | [details](https://bf26-deals.pages.dev/deal/bimtemplate/) |
 | [CodedVisuals](https://codedvisuals.com) | Visual and illustration components for React and shadcn/ui, with AI agent skills. | Up to 40% off |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/codedvisuals/) |
 | [HextaUI Pro](https://hextaui.com/pricing?utm_source=bf-twf) | React blocks for AI product interfaces built on shadcn/ui. | Up to 40% off, $79 → $49 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/hextauipro/) |
 | [Intent UI Design](https://design.intentui.com/pricing) | UI kit with 17 templates, 610 blocks and 101 components. | 40% off, single payment | `UI2026` |  | [details](https://bf26-deals.pages.dev/deal/intentuidesign/) |

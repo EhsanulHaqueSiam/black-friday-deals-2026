@@ -168,6 +168,7 @@ const logo = (d) => `<img class="logo" src="https://icons.duckduckgo.com/ip3/${e
 // The label swaps Copy -> Copied (fx.js flips the button); the toast announces it to screen readers.
 const codeBtn = (c) => `<button class="btn code" data-code="${esc(c)}" title="Copy ${esc(c)}"><span class="cv" translate="no">${esc(c)}</span><span class="cl"><span class="c0">${FX.ICON.copy}Copy</span><span class="c1" aria-hidden="true">${FX.ICON.check}Copied</span></span></button>`;
 const goBtn = (d, label = "Get deal") => `<a class="btn go" href="${esc(d.url)}" target="_blank" rel="noopener">${label}${I.arrow}</a>`;
+const shareBtn = (d) => (d.category === ADULT ? "" : `<button class="btn ghost ic" data-share="${esc(d.id)}" aria-label="Share ${esc(d.name)}" title="Share">${I.share}</button>`);
 const dayWord = (n) => (n === 0 ? "last day" : n === 1 ? "1 day left" : `${n} days left`);
 const endsText = (d) => (d.ends ? `<span class="left${daysLeft(d) <= 3 ? " hot" : ""}">ends ${fmtDate(d.ends)} · ${dayWord(daysLeft(d))}</span>` : "");
 // The discount badge, unless the headline already says it.
@@ -182,7 +183,7 @@ function row(d) {
     <button class="vote${on ? " on" : ""}" data-like="${esc(d.id)}" aria-pressed="${on}" aria-label="Like ${esc(d.name)}">${I.up}<span class="roll">${likes(d) || ""}</span></button>
     ${logo(d)}
     <div class="n"><a href="${d.category === ADULT ? esc(d.url) : `deal/${esc(d.id)}/`}">${esc(d.name)}</a>${d.vendor ? `<span class="vtag sm" title="Listed by the company">✓</span>` : ""}${d.description ? `<small>${esc(d.description)}</small>` : ""}</div>
-    <div class="act">${d.codes.length ? codeBtn(d.codes[0]) : `<span class="nocode">No code needed</span>`}${goBtn(d)}</div>
+    <div class="act">${d.codes.length ? codeBtn(d.codes[0]) : `<span class="nocode">No code needed</span>`}${goBtn(d)}${shareBtn(d)}</div>
     <div class="h">${d.upcoming ? `<span class="soonTag">Soon</span>` : ""}${pct(d)}${esc(d.headline)}</div>
     <div class="sub">${endsText(d)}${lists(d) >= 2 ? `<span class="left">on ${lists(d)} lists</span>` : ""}<button class="more" aria-expanded="false">${d.codes.length > 1 ? `${d.codes.length} codes · ` : ""}details</button></div>
   </article>`;
@@ -214,7 +215,7 @@ function picks() {
   if (!ds.length) return "";
   return `<section class="picks"><div class="shead"><div><h2>Editors' picks</h2><p>Deals worth buying even if you weren't shopping.</p></div><span class="arws"><button class="arw" data-scroll="-1" aria-label="Previous picks">${I.left}</button><button class="arw" data-scroll="1" aria-label="More picks">${I.right}</button></span></div><div class="pg">${ds
     .map((d) => `<div class="pc" data-id="${esc(d.id)}"><span class="glare" aria-hidden="true"></span>
-      <div class="ptop">${logo(d)}<div><b>${esc(d.name)}</b><span>${esc(d.subcategory ?? d.category)}</span></div></div>
+      <div class="ptop">${logo(d)}<div><b>${esc(d.name)}</b><span>${esc(d.subcategory ?? d.category)}</span></div>${shareBtn(d)}</div>
       ${d.discount ? `<div class="big">${bigPct(d.discount)}</div>` : ""}
       <div class="ph">${esc(d.discount ? (d.headline.replace(new RegExp(`^(up to )?${d.discount}% off,?\\s*`, "i"), "") || d.headline).replace(/^./, (c) => c.toUpperCase()) : d.headline)}</div>
       <div class="why">${esc(d.why)}</div>
@@ -404,7 +405,7 @@ function lastChance(pool) {
   return `<section class="dm lastchance"><div class="shead"><div><h2>Last chance</h2><p>Deals that end soon, biggest discounts first.</p></div></div>
     <div class="tabs"><span class="ind" aria-hidden="true"></span>${windows.map((w) => `<button class="chip${w.k === tab.k ? " on" : ""}" aria-pressed="${w.k === tab.k}" data-lc="${w.k}">${w.label} <b>${w.ds.length.toLocaleString()}</b></button>`).join("")}</div>
     <div class="lc">${cards
-      .map((d) => `<div class="lcc" data-id="${esc(d.id)}"><div class="lt"><span class="when${daysLeft(d) === 0 ? " hot" : ""}">${whenText(d)}</span><a class="t" href="${dealHref(d)}">${logo(d)}<b>${esc(d.name)}</b></a>${d.discount ? `<span class="big">${bigPct(d.discount)}</span>` : ""}<p>${esc(d.headline)}</p></div><div class="btns">${d.codes.length ? codeBtn(d.codes[0]) : `<span class="nocode">No code needed</span>`}${goBtn(d, "Get")}</div></div>`)
+      .map((d) => `<div class="lcc" data-id="${esc(d.id)}"><div class="lt"><span class="when${daysLeft(d) === 0 ? " hot" : ""}">${whenText(d)}</span><a class="t" href="${dealHref(d)}">${logo(d)}<b>${esc(d.name)}</b></a>${d.discount ? `<span class="big">${bigPct(d.discount)}</span>` : ""}<p>${esc(d.headline)}</p></div><div class="btns">${d.codes.length ? codeBtn(d.codes[0]) : `<span class="nocode">No code needed</span>`}${goBtn(d, "Get")}${shareBtn(d)}</div></div>`)
       .join("")}</div></section>`;
 }
 function moveInd(tabs) {
@@ -711,6 +712,13 @@ function bind() {
     const code = e.target.closest(".code");
     if (code) return copy(code);
     if (e.target.closest("a")) return;
+    // A click anywhere else on a pick or last-chance card opens the deal, like its name does.
+    const card = e.target.closest(".pc, .lcc");
+    if (card && !e.target.closest("button")) {
+      remember(card.dataset.id);
+      const href = dealHref(DATA.deals.find((d) => d.id === card.dataset.id));
+      return e.metaKey || e.ctrlKey ? window.open(href, "_blank") : location.assign(href);
+    }
     // Anywhere else on a row toggles its details panel.
     const r = e.target.closest(".row");
     if (!r) return;

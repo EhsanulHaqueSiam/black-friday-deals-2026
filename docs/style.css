@@ -582,3 +582,12 @@ html { scrollbar-color: #333 #000; }
   .lc.swap .lcc, .sharepop.in { animation: none; }
   .go .i { transition: none; }
 }
+
+/* Share icon button on rows and cards; whole pick and last-chance cards open their deal. */
+.btn.ic, .row .act .btn.ic { flex: none; width: 32px; padding: 0; justify-content: center; color: var(--dim); }
+@media (hover: hover) and (pointer: fine) { .btn.ic:hover { color: var(--fg); } }
+.pc, .lcc { cursor: pointer; }
+.pc .ptop > div { flex: 1; min-width: 0; }
+.pc .ptop .ic { align-self: flex-start; height: 28px; width: 28px; }
+.lcc .btns { grid-template-columns: minmax(0, 1fr) auto auto; }
+.lcc .btns .ic { height: 30px; width: 30px; }

@@ -2,10 +2,10 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/learning/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**248 live deals**, 94 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**244 live deals**, 93 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
-- [Online Course Platforms](#online-course-platforms) (57)
-- [Programming & Tech](#programming--tech) (41)
+- [Online Course Platforms](#online-course-platforms) (56)
+- [Programming & Tech](#programming--tech) (38)
 - [Cybersecurity Certs & Training](#cybersecurity-certs--training) (74)
 - [Cloud & DevOps Certs](#cloud--devops-certs) (11)
 - [Languages](#languages) (25)
@@ -44,7 +44,6 @@
 | [TheoryScore](https://theoryscore.com/black-friday/) | UK driving theory test practice with DVSA topic questions and timed mock tests. | 40% off first billing period, yearly $24.99 → $15 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/theoryscore/) |
 | [Transcription Certification Institute](https://x.com/TranscriptionCI) | Transcription training courses. | 40% off all courses | `BLACK40` |  | [details](https://bf26-deals.pages.dev/deal/transcriptioncertificationinstitute/) |
 | [Udemy](https://www.udemy.com/) | Marketplace of self-paced video courses on programming, cloud, AI and more. | Courses from $9.99, Team Plan 40% off |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/udemy/) |
-| [LearnWorlds](https://get.learnworlds.com/coupon) | Platform to create and sell online courses. | Up to 39% off Learning Center plans |  | Nov 23 | [details](https://bf26-deals.pages.dev/deal/learnworlds/) |
 | [Frank Gambale Guitar School](https://www.frankgambaleguitarschool.com/) | Online guitar courses. | 35% off all courses | `FRIDAYBLACK35` `BFBUNDLE10` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/frankgambaleguitarschool/) |
 | [Human Givens College](https://x.com/humangivens) | Mental health and psychotherapy courses. | Up to 35% off online courses and live training |  |  | [details](https://bf26-deals.pages.dev/deal/humangivenscollege/) |
 | [StormwaterONE](https://x.com/StormwaterONE) | Stormwater inspector training and certification. | 35% off eligible courses |  |  | [details](https://bf26-deals.pages.dev/deal/stormwaterone/) |
@@ -92,7 +91,6 @@
 | [HyperionDev](https://x.com/HypDev) | Coding bootcamps and tech courses with mentor support. | Up to 60% off selected courses |  |  | [details](https://bf26-deals.pages.dev/deal/hyperiondev/) |
 | [LLM Master](https://apps.apple.com/app/id6769785318) | Study app that explains how large language models work. | About 60% off, now $8.99 |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/llmmaster/) |
 | [Unlearn](https://unlearn.dev/pricing) | Courses and agent skills teaching developers to build and ship with AI agents. | 56% off Plus lifetime, $899 → $399 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/unlearn/) |
-| [Udacity](https://www.udacity.com/experience) | Nanodegree programs in AI, cloud and data engineering. | 55% off, monthly plan $249 → $113 | `BF55` | Nov 23 | [details](https://bf26-deals.pages.dev/deal/udacity/) |
 | [Networking: The Internet](https://classes.pracnet.net/courses/networking?coupon=BF2026NET&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Vendor-neutral networking course built from first principles. | 51% off lifetime access, $59 → $29 | `BF2026NET` | Dec 6 | [details](https://bf26-deals.pages.dev/deal/networking/) |
 | [101 Blockchains](http://shrsl.com/349rm) | Online courses and certifications on blockchain and Web3 technology. | 50% off blockchain courses |  |  | [details](https://bf26-deals.pages.dev/deal/101blockchains/) |
 | [AlgoMonster](https://shareasale.com/r.cfm?b=1836542&u=880419&m=114505&urllink=https%3A%2F%2Falgo%2Emonster%2Fsubscribe&afftrack=) | Coding interview prep with algorithm patterns and practice problems. | 50% off lifetime plan |  |  | [details](https://bf26-deals.pages.dev/deal/algomonster/) |
@@ -101,7 +99,6 @@
 | [Pluralsight](https://www.pluralsight.com/) | Online courses on cloud, security and software development. | About 50% off |  |  | [details](https://bf26-deals.pages.dev/deal/pluralsight/) |
 | [Pragmatic Works](https://x.com/PragmaticWorks) | Power BI, Azure and data training. | 50% off bootcamps and annual on-demand learning |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/pragmaticworks/) |
 | [Three.js Journey](https://threejs-journey.com/join/bf2026) | Video course on building 3D websites with Three.js and WebGPU. | 50% off all courses, both web graphics courses for $60 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/threejsjourney/) |
-| [Boot.dev](https://www.boot.dev/pricing) | Gamified courses for learning backend development in Python, Go and TypeScript. | **Soon.** 45% off your first coding course membership |  | Nov 23 | [details](https://bf26-deals.pages.dev/deal/boot/) |
 | [CodeFast](https://codefa.st) | Short video course that teaches beginners to code and ship SaaS apps fast. | $299 → $169 for the course, $648 → $299 with a starter kit |  |  | [details](https://bf26-deals.pages.dev/deal/codefast/) |
 | [AzamSharp School](https://azamsharp.school) | SwiftUI, iOS, SwiftData and AI courses and books. | 40% off all courses and books | `BLACKFRIDAY2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/azamsharpschool/) |
 | [Master.dev (Frontend Masters)](https://master.dev/pricing) | In-depth frontend and full-stack courses from expert teachers, formerly Frontend Masters. | 40% off membership |  |  | [details](https://bf26-deals.pages.dev/deal/master/) |
@@ -115,7 +112,6 @@
 | [CodeWithChris CWC+](https://x.com/CodeWithChris) | iOS and Swift development courses. | Yearly $198 plus 5 bonus months |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/codewithchriscwc/) |
 | [DNS for developers](https://www.nslookup.io/dns-course/) | Course explaining how DNS works for developers. | Course $149 → $49 |  |  | [details](https://bf26-deals.pages.dev/deal/dnsfordevelopers/) |
 | [Execute Program](https://www.executeprogram.com/) | Interactive courses on TypeScript, Python, SQL and more. | Monthly plan $39 → $23.40 |  |  | [details](https://bf26-deals.pages.dev/deal/executeprogram/) |
-| [Flavio Copes AI Workshop and Masterclasses](https://flaviocopes.com/black-friday/) | Programming courses on AI, TypeScript, React and Git. | Workshop $299 → $99, 4 masterclasses for $49 |  | Nov 23 | [details](https://bf26-deals.pages.dev/deal/flaviocopesaiworkshopandmasterclasses/) |
 | [High Performance SQLite](https://highperformancesqlite.com/#pricing) | Video course on using SQLite in production. | SQLite course $179 → $99 | `BLACKFRIDAY` |  | [details](https://bf26-deals.pages.dev/deal/highperformancesqlite/) |
 | [Joy for JavaScript Developers](https://www.joyforjs.com/) | Interactive courses on CSS, JavaScript and React. | Course $998 → $249 with regional pricing |  |  | [details](https://bf26-deals.pages.dev/deal/joyforjavascriptdevelopers/) |
 | [Vue.js Certification (certificates.dev)](https://certificates.dev/vuejs#pricing) | Official-style Vue.js developer certifications. | Mid-level certification $499 → $199 |  |  | [details](https://bf26-deals.pages.dev/deal/vuejscertification/) |

@@ -2,12 +2,12 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/productivity/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**185 live deals**, 71 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**181 live deals**, 70 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
-- [Notes & Writing](#notes--writing) (42)
-- [Tasks & Projects](#tasks--projects) (37)
-- [Calendar & Time Tracking](#calendar--time-tracking) (25)
-- [Focus & Habits](#focus--habits) (17)
+- [Notes & Writing](#notes--writing) (41)
+- [Tasks & Projects](#tasks--projects) (36)
+- [Calendar & Time Tracking](#calendar--time-tracking) (24)
+- [Focus & Habits](#focus--habits) (16)
 - [Reading & Knowledge](#reading--knowledge) (21)
 - [Email & Communication](#email--communication) (19)
 - [Documents & PDFs](#documents--pdfs) (24)
@@ -18,7 +18,6 @@
 |---|---|---|---|---|---|
 | [xTiles](https://xtiles.app/en/pricing) | Visual workspace for notes, tasks and planning. | Up to 65% off, Plus $79/yr, Pro $149/yr |  |  | [details](https://bf26-deals.pages.dev/deal/xtiles/) |
 | [Atlas: Write and Collect](https://contagious.dev/atlas) | Creative workspace to write, collect inspiration and publish your work. | **Soon.** 50% off, now $29.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/atlas/) |
-| [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | One-tap quick notes for iPhone, iPad and Mac that send to other apps. | 50% off lifetime, $19.99 → $9.99 |  | Nov 23 | [details](https://bf26-deals.pages.dev/deal/capture/) |
 | [CheckCam](https://checkcam.zorrinapps.com/#black-friday) | Photo reminders kept out of the camera roll that delete themselves unless pinned. | 50% off lifetime, $14.99 → $7.49 | `BFCM26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/checkcam/) |
 | [Circleback](https://circleback.ai/pricing) | AI meeting notes with action items and follow-ups. | 50% off for students |  |  | [details](https://bf26-deals.pages.dev/deal/circleback/) |
 | [Cozy](https://cozyjournal.app) | Private journal for Mac, Windows and iPhone that stores entries as local files. | 50% off, $49 → $24.50 one-time | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/cozy/) |
@@ -63,7 +62,6 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
-| [Focus On Today](https://focusonto.day) | Flexible task manager and to-do list for Mac. | 75% off, now $9.99 |  | Nov 23 | [details](https://bf26-deals.pages.dev/deal/focusontoday/) |
 | [Monday.com](https://monday.com/) | Work management platform for projects, CRM and automations. | Up to 70% off CRM, automations and project tools |  |  | [details](https://bf26-deals.pages.dev/deal/monday/) |
 | [Taskip](https://taskip.net/) | Project management with client portal, invoicing and CRM for agencies. | 70% off annual, $39 → $11.70/mo |  |  | [details](https://bf26-deals.pages.dev/deal/taskip/) |
 | [ClingSpace](https://clingspace.com) | Local-first project organizer that groups files, folders, links and snippets without moving them. | 60% off lifetime, now $8 | `BLACKFRIDAY8` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/clingspace/) |
@@ -123,7 +121,6 @@
 | [WorkSnaply](https://worksnaply.com/pricing) | Time tracking and workforce monitoring. | 40% off first year on all plans | `BFCM40` `BFCM40Y` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/worksnaply/) |
 | [WhatPulse](https://whatpulse.org) | Tracks keystrokes, clicks, app usage and bandwidth with heatmaps and stats. | 35% off annual plan | `BFCM2026` | Dec 12 | [details](https://bf26-deals.pages.dev/deal/whatpulse/) |
 | [Timee](https://apps.apple.com/sk/app/timee-time-tracker/id6815184618) | Time tracker with workout-style activity cards, Live Activities and StandBy view. | 33% off, now €3.99 | `OFFNOW` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/timee/) |
-| [Daily Time Tracking](https://dailytimetracking.com/?utm_source=bf2026-github-tony) | Mac time tracker that asks what you are doing at intervals instead of using timers. | Up to 30% off, lifetime $99.99 → $69.99 | `DAILYBF2026` | Nov 23 | [details](https://bf26-deals.pages.dev/deal/dailytimetracking/) |
 | [TimeCamp](https://www.timecamp.com/) | Time tracking with timesheets, billing rates and productivity reports. | 30% off first 12 months of Ultimate annual | `TCBF26` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/timecamp/) |
 | [Timeless](https://timeless-app.github.io/#pricing) | Stage countdown timer for Windows with run-of-show schedules and a phone remote. | 30% off, $29 → $20.30 one-time | `BLACKFRIDAY26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/timeless/) |
 | [Cal.com](https://partners.dub.co/cal) | Open-source scheduling platform with booking links and workflows. | 20% off for 12 months |  |  | [details](https://bf26-deals.pages.dev/deal/cal/) |
@@ -145,7 +142,6 @@
 | [SelfOS: Self-Care Tracker](https://apps.apple.com/app/apple-store/id6756428834?pt=128364304&ct=mariuslandwehr_bf&mt=8) | Self-care tracker for tasks, habits, water and sleep with a growing bonsai. | 50% off first year, 30% off lifetime | `BLACKFRIDAY2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/selfos/) |
 | [SinceWhen: Days Since Tracker](https://devapt.com/sincewhen/?utm_source=mrsbf) | Tracks how long since you last did recurring things and nudges you before they're due. | 50% off lifetime, $59.99 → $29.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/sincewhen/) |
 | [terce: The Focus Clock](https://apps.apple.com/app/id6812355608) | Fullscreen focus timer for iPhone with work and break intervals and history. | 50% off first year, $19.99 → $9.99 | `TERCEBF26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/terce/) |
-| [Y-Pod](https://www.y-pod.app/#black-friday) | Private life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | 50% off Pro lifetime, $99.99 → $49.99 |  | Nov 23 | [details](https://bf26-deals.pages.dev/deal/ypod/) |
 | [BeginAnyway](https://apps.apple.com/us/app/beginanyway/id6811712330) | Morning alarm that pairs waking up with one tiny task to get started. | 37% off Plus lifetime, $39.99 → $24.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/beginanyway/) |
 | [Habit Pixel](https://habitpixel.com) | Offline habit tracker that colors a pixel for each check-in, with streaks and widgets. | 33% off lifetime, $29.99 → $19.99 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/habitpixel/) |
 | [Focus Train](https://elevenapril.com/focustrain) | Pomodoro timer for iPhone that turns focus sessions into train rides on a real map. | 30% off lifetime Premium, $49.99 → $34.99 | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/focustrain/) |

@@ -2,13 +2,13 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/mac-desktop-utilities/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**275 live deals**, 169 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**274 live deals**, 168 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [Menu Bar & Dock](#menu-bar--dock) (62)
 - [Windows & Screens](#windows--screens) (46)
 - [Clipboard, Launchers & Keyboard](#clipboard-launchers--keyboard) (57)
 - [Files, Storage & System](#files-storage--system) (96)
-- [Browser Extensions](#browser-extensions) (14)
+- [Browser Extensions](#browser-extensions) (13)
 
 ## Menu Bar & Dock
 
@@ -305,7 +305,6 @@
 | [Tabhive](https://www.tabhive.app/?utm_source=tonybf) | Organizes tabs and bookmarks with AI semantic search. | 40% off, $69 → $42 | `BF2026` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/tabhive/) |
 | [TabHold](https://studiobluegrove.com/tabhold/?utm_source=github_trungdq88&utm_medium=referral&utm_campaign=bf2026) | Chrome and Edge tab saver that backs up windows and tab groups to a local file. | 40% off Pro, $12.99 → $7.79 | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/tabhold/) |
 | [AntShot](https://antshot.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Browser extension for full-page screenshots, including inner scrolling areas, with markup. | 35% off Pro lifetime, $39 → $25.35 | `BLACKFRIDAY26` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/antshot/) |
-| [Pickode](https://pickode.com/?utm_source=github&utm_medium=community&utm_campaign=bf2026) | Browser extension that copies any website section as HTML, CSS, React, Tailwind or Vue. | 35% off Pro and Team, yearly and lifetime | `BF2026` | Nov 23 | [details](https://bf26-deals.pages.dev/deal/pickode/) |
 | [Bookmark Manager + Quick Search](https://devapt.com/bookmark-manager/) | Browser bookmark manager with spotlight-style search and organization tools. | 30% off lifetime license | `30BF2026` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/bookmarkmanagerquicksearch/) |
 | [SimpleFill](https://simplefill.app) | Browser extension for text expansion, AI actions and form filling. | 25% off, $29 → $21.75 one-time |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/simplefill/) |
 | [My Styles for Safari](https://apps.apple.com/us/app/my-styles-custom-website-look/id6766115872) | Safari extension to restyle websites with custom CSS and dark mode. | $2.49 instead of $3.99 |  | Nov 28 | [details](https://bf26-deals.pages.dev/deal/mystylesforsafari/) |

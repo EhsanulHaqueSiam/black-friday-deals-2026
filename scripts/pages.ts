@@ -144,7 +144,9 @@ export const FONTS = `<link rel="preload" as="style" href="https://fonts.googlea
 const ICON = `<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23000'/%3E%3Ctext x='16' y='22' font-family='Arial' font-weight='700' font-size='15' text-anchor='middle' fill='%23ff6a2b'%3E%25%3C/text%3E%3C/svg%3E">`;
 // Links to every "best X" guide; in the footer of every page and on the home page.
 export const hubNav = () => `<nav class="hubs">${HUBS.map((h) => `<a href="${hubPath(h)}">${esc(hubTitle(h))}</a>`).join("")}</nav>`;
-export function shell(o: { title: string; description: string; path: string; body: string; noindex?: boolean; ld?: object[] }) {
+// `image`: the page's share preview; deal pages pass their own from scripts/og.ts, others use og.png.
+export function shell(o: { title: string; description: string; path: string; body: string; noindex?: boolean; ld?: object[]; image?: string }) {
+  const image = o.image ?? `${SITE}og.png`;
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -158,10 +160,12 @@ ${o.noindex ? '<meta name="robots" content="noindex">' : ""}
 <meta property="og:description" content="${esc(o.description)}">
 <meta property="og:type" content="website">
 <meta property="og:url" content="${esc(SITE + o.path.slice(BASE.length))}">
-<meta property="og:image" content="${SITE}og.png">
+<meta property="og:image" content="${image}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <meta property="og:site_name" content="BF26 deals">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="${SITE}og.png">
+<meta name="twitter:image" content="${image}">
 ${ldScript(o.ld ?? [])}
 <meta name="theme-color" content="#000000">
 ${ICON}
@@ -197,7 +201,7 @@ function row(d: PageDeal) {
   return `<article class="row static">
     ${logo(d)}
     <div class="n"><a href="${dealPath(d)}">${esc(d.name)}</a>${d.description ? `<small>${esc(d.description)}</small>` : ""}</div>
-    <div class="act">${d.codes.length ? codeBtn(d.codes[0]) : `<span class="nocode">No code needed</span>`}${goBtn(d)}</div>
+    <div class="act">${d.codes.length ? codeBtn(d.codes[0]) : `<span class="nocode">No code needed</span>`}${goBtn(d)}${d.category === ADULT ? "" : `<button class="btn ghost ic" data-share data-url="${esc(SITE + dealPath(d).slice(BASE.length))}" data-text="${esc(`${d.name}: ${d.headline}`)}" aria-label="Share ${esc(d.name)}" title="Share">${GLYPH.share}</button>`}</div>
     <div class="h">${d.upcoming ? `<span class="soonTag">Soon</span>` : ""}${pct}${esc(d.headline)}</div>
     <div class="sub">${d.ends ? `<span class="left">ends ${fmt(d.ends)}</span>` : ""}${d.codes.length > 1 ? `<span class="left">${d.codes.length} codes</span>` : ""}</div>
   </article>`;
@@ -270,7 +274,7 @@ function dealPage(d: PageDeal, related: PageDeal[]) {
   // otherwise the page's main entity is a plain Offer on a Service, which no rich result validates.
   const main = price
     ? {
-        "@type": "Product", name: d.name, description: d.description ?? d.headline, url, image: `${SITE}og.png`,
+        "@type": "Product", name: d.name, description: d.description ?? d.headline, url, image: ogImage(d),
         brand: { "@type": "Brand", name: d.name }, category: [d.category, d.subcategory].filter(Boolean).join(" > "),
         offers: {
           "@type": "Offer", url: d.url, description: offerText, availability, seller,
@@ -285,10 +289,13 @@ function dealPage(d: PageDeal, related: PageDeal[]) {
       };
   const description = clip([`${d.name} Black Friday 2026: ${sentence(d.headline)}`, d.codes.length ? `Code ${d.codes[0]}.` : "No code needed.", d.ends ? `Ends ${fmtLong(d.ends)}.` : "", d.newCustomersOnly ? "New customers only." : "", d.description ? sentence(d.description) : ""].filter(Boolean).join(" "), 158);
   return shell({
-    title, description, path: dealPath(d), body, noindex: d.category === ADULT,
+    title, description, path: dealPath(d), body, noindex: d.category === ADULT, image: ogImage(d),
     ld: [webPage(dealPath(d), title, m, { mainEntity: main }), breadcrumb(crumbsLd), { "@type": "FAQPage", mainEntity: qa.map((x) => ({ "@type": "Question", name: x.q, acceptedAnswer: { "@type": "Answer", text: x.a } })) }],
   });
 }
+
+// Per-deal share image drawn by scripts/og.ts at deploy time (none for the adult section).
+const ogImage = (d: PageDeal) => (d.category === ADULT ? `${SITE}og.png` : `${SITE}og/${d.id}.png`);
 
 // Self-contained answers for one deal (code, end date, price, eligibility), shown on its page and
 // marked up as FAQPage so answer engines can quote a full sentence.

@@ -2,9 +2,9 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/hosting-cloud/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**126 live deals**, 44 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**124 live deals**, 42 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
-- [Domains](#domains) (20)
+- [Domains](#domains) (18)
 - [Web & WordPress Hosting](#web--wordpress-hosting) (45)
 - [PaaS & Serverless](#paas--serverless) (2)
 - [VPS & Cloud Servers](#vps--cloud-servers) (43)
@@ -20,9 +20,7 @@
 | [Namecheap](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Domain registrar with hosting and SSL certificates. | .com $8.98, hosting from $1.31/mo | `THEGAMESTLD26` `THEGAMESDTR26` `THEGAMESHOST26` `THEGAMESVPS26` `THEGAMESMAIL26` `THEGAMESCERT26` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/namecheap/) |
 | [ShortDot Domains](https://shortdot.bond/black-friday) | Domain registry for .icu, .bond, .sbs, .cfd and other extensions. | 75% off premium domains |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/shortdotdomains/) |
 | [Spaceship](https://www.spaceship.com/) | Domain registrar with low-cost .com registration. | 67% off .com | `COM67` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/spaceship/) |
-| [Domain.com](https://www.domain.com/) | Domain registrar with hosting and Google Workspace. | 30% off domains, 50% off Google Workspace | `GETONLINENOW` `SITEWIDE30` | Nov 23 | [details](https://bf26-deals.pages.dev/deal/domain/) |
 | [Dynadot](https://www.dynadot.com/black-friday-sale) | Domain registrar for registering, transferring and renewing domains. | .com $8.99 first year, TLDs from under €1 | `899COM` `BFCOM26` | Dec 6 | [details](https://bf26-deals.pages.dev/deal/dynadot/) |
-| [Network Solutions](https://www.networksolutions.com/) | Domain registration, hosting and Google Workspace. | 30% off domains, 50% off Google Workspace | `GETONLINENOW` `SITEWIDE30` | Nov 23 | [details](https://bf26-deals.pages.dev/deal/networksolutions/) |
 | [RenewRoster](https://renewroster.com/pricing?utm_source=tonybf) | Tracks domain and SSL expiry for agency clients, with team alerts before renewal. | 50% off annual plans, from $150 → $75/yr |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/renewroster/) |
 | [VentraIP](https://ventraip.com.au/blog/black-friday-sale-2026/) | Australian domain registrar and web host. | 30% off new .com registrations |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/ventraip/) |
 | [Atom](https://www.atom.com/black-friday-sale) | Domain marketplace and registrar for premium and standard names. | .com $16.20 → $5, 25% off premium domains | `BFCOM` | Dec 7 | [details](https://bf26-deals.pages.dev/deal/atom/) |

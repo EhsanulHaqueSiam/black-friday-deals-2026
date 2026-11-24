@@ -4,6 +4,8 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 node scripts/cf.ts
+npm ci --no-audit --no-fund --silent
+node scripts/og.ts
 W="npx -y wrangler@4"
 $W pages project create bf26-deals --production-branch main >/dev/null 2>&1 || true
 $W d1 create bf26-events >/dev/null 2>&1 || true

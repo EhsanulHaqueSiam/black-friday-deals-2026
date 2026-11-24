@@ -1,4 +1,4 @@
-# BF26 deals: every live Black Friday 2026 deal (2826), built 2026-11-23
+# BF26 deals: every live Black Friday 2026 deal (2809), built 2026-11-24
 # Format: Name | Category > Subcategory | Offer | Codes | Ends | Deal page | Vendor URL
 TypingMind | AI Tools > Chat & Assistants | 60% off lifetime Premium | BLACKFRIDAY2026 | 2026-12-15 | https://bf26-deals.pages.dev/deal/typingmind/ | https://www.typingmind.com/?utm_source=mrsbf
 ScreenSage Pro | Photo, Video & Audio > Screen Recording | Up to 53% off, lifetime $449 → $209.90 | BFS2026L BFS2026P | 2026-12-15 | https://bf26-deals.pages.dev/deal/screensagepro/ | https://screensage.pro/bf2026?ref=tonybf2026
@@ -174,6 +174,7 @@ Roost | Productivity > Email & Communication | Lifetime license $29 → $25 | - 
 3DRoomDesign.ai | Design > Design & Prototyping Tools | 50% bonus credits on packs, up to 300 bonus on plans | - | 2026-11-27 | https://bf26-deals.pages.dev/deal/3droomdesign/ | https://3droomdesign.ai/pricing
 Orwellix | AI Tools > Writing & Content | Lifetime plan $249 one-time (vs $468/yr) | - | 2026-12-31 | https://bf26-deals.pages.dev/deal/orwellix/ | https://orwellix.com/lifetime-deal?utm_source=awesome-bfcm&utm_medium=deal-directory&utm_campaign=lifetime-deal-2026
 Outlier | AI Tools > Chat & Assistants | One-time purchase $39 → $16.99 | - | 2026-12-02 | https://bf26-deals.pages.dev/deal/outlier/ | https://outlier.host/
+Higgsfield | AI Tools > Image & Video | Up to 70% off premium plans | - | 2026-11-24 | https://bf26-deals.pages.dev/deal/higgsfield/ | https://higgsfield.ai/pricing
 ZxClip | Photo, Video & Audio > Video Editing | 70% off lifetime license, $80 → $24 | - | 2026-12-01 | https://bf26-deals.pages.dev/deal/zxclip/ | https://zxclip.com/
 Tidix | Mac & Desktop Utilities > Files, Storage & System | 69% off one-time license | BLACKFRIDAY2026 | - | https://bf26-deals.pages.dev/deal/tidix/ | https://tidix.app/?ref=Awesome-Black-Friday-Cyber-Monday
 Radar Lab | Marketing & Sales > Ads, Leads & Outreach | 67% off Pro yearly, $299 → $99/yr | - | 2026-11-30 | https://bf26-deals.pages.dev/deal/radarlab/ | https://partnershipintel.com/?utm_source=awesome-bfcm#pricing
@@ -211,7 +212,6 @@ Timemator | Productivity > Calendar & Time Tracking | 50% off lifetime, $39 → 
 Transcrybe | AI Tools > Voice & Audio | 50% off, $29.99 → $14.99 one-time | - | 2026-12-02 | https://bf26-deals.pages.dev/deal/transcrybe/ | https://transcrybe.app/
 Wispim: Voice Teleprompter | Photo, Video & Audio > Video Editing | 50% off lifetime Pro, $199.99 → $99.99 | - | 2026-12-01 | https://bf26-deals.pages.dev/deal/wispim/ | https://wispim.com/black-friday
 Wordify | Hosting & Cloud > Web & WordPress Hosting | 50% off for 6 months, Starter $15 → $7.50/mo | BF50 | 2026-12-01 | https://bf26-deals.pages.dev/deal/wordify/ | https://wordify.com/black-friday/?utm_source=github-trungdq88&utm_medium=deals-list&utm_campaign=black-friday-2026
-Y-Pod | Productivity > Focus & Habits | 50% off Pro lifetime, $99.99 → $49.99 | - | 2026-11-23 | https://bf26-deals.pages.dev/deal/ypod/ | https://www.y-pod.app/#black-friday
 ZeroRank | Marketing & Sales > SEO | About 45% off first year, 28% off 3 months | - | 2026-11-30 | https://bf26-deals.pages.dev/deal/zerorank/ | https://zerorank.ai
 DeskMinder | Productivity > Tasks & Projects | 43% off lifetime, $6.99 → $3.99 | BLKFR2026 | 2026-12-01 | https://bf26-deals.pages.dev/deal/deskminder/ | https://deskminder.appps.od.ua/
 DevWorkspace Pro | Developer Tools > Mac Dev Utilities | 40% off all plans | BLACKFRIDAY40OFF | 2026-12-10 | https://bf26-deals.pages.dev/deal/devworkspacepro/ | https://devworkspacepro.com/?ref=Awesome-Black-Friday-Cyber-Monday
@@ -231,7 +231,6 @@ BirdFrame | Photo, Video & Audio > Photo Editing | 33% off one-time unlock, $29.
 Steps & Beasts | Health & Lifestyle > Fitness & Workouts | 33% off Pro lifetime, $39.99 → $26.99 | - | 2026-11-30 | https://bf26-deals.pages.dev/deal/stepsbeasts/ | https://stepsandbeasts.app/black-friday
 AppSecD | Developer Tools > Testing & Debugging | 30% off all paid plans, from $14/mo | - | 2026-12-31 | https://bf26-deals.pages.dev/deal/appsecd/ | https://dedsecops.com/pricing?src=bfcm2026
 Clipboard AI | Mac & Desktop Utilities > Clipboard, Launchers & Keyboard | 30% off lifetime Pro, $34.99 → $24.99 | BLACKFRIDAY | 2026-12-01 | https://bf26-deals.pages.dev/deal/clipboardai/ | https://clipboardai.app/black-friday
-Daily Time Tracking | Productivity > Calendar & Time Tracking | Up to 30% off, lifetime $99.99 → $69.99 | DAILYBF2026 | 2026-11-23 | https://bf26-deals.pages.dev/deal/dailytimetracking/ | https://dailytimetracking.com/?utm_source=bf2026-github-tony
 Helix | Mac & Desktop Utilities > Clipboard, Launchers & Keyboard | 30% off, $9 → $6.30 one-time for 2 Macs | BLACKFRIDAY30 | 2026-12-01 | https://bf26-deals.pages.dev/deal/helix/ | https://tryhelix.app/?utm_source=github&utm_campaign=awesome-bfcm
 InfiniDesk | Mac & Desktop Utilities > Windows & Screens | 30% off, $12.99 → $8.99 | INFINIBLACK | 2026-12-04 | https://bf26-deals.pages.dev/deal/infinidesk/ | https://infinidesk.app/?ref=Awesome-Black-Friday-Cyber-Monday
 Keystro | Mac & Desktop Utilities > Clipboard, Launchers & Keyboard | 30% off one-time licenses, from $4.89 | BFKEYSTRO26 | 2026-12-04 | https://bf26-deals.pages.dev/deal/keystro/ | https://keystro.app
@@ -367,7 +366,6 @@ Slashspace | AI Tools > Chat & Assistants | 51% off, lifetime $249 → $122.01 |
 Advanced AI Actions | AI Tools > Automation & Workflows | 50% off, $2.99 → $1.49 one-time | - | 2026-12-01 | https://bf26-deals.pages.dev/deal/advancedaiactions/ | https://apps.apple.com/us/app/advanced-ai-actions/id6743052292
 AppBrisk | Mac & Desktop Utilities > Clipboard, Launchers & Keyboard | 50% off Pro lifetime, $5.99 → $2.99 | - | 2026-11-30 | https://bf26-deals.pages.dev/deal/appbrisk/ | https://appbrisk.candyyue.com/en/pricing/
 BookletMaker | Productivity > Documents & PDFs | 50% off lifetime, $49.99 → $24.99 | - | 2026-12-01 | https://bf26-deals.pages.dev/deal/bookletmaker/ | https://bookletmaker.app/black-friday/
-Capture - Quick Notes | Productivity > Notes & Writing | 50% off lifetime, $19.99 → $9.99 | - | 2026-11-23 | https://bf26-deals.pages.dev/deal/capture/ | https://apps.apple.com/app/apple-store/id6458535284
 Chalk | AI Tools > Coding & Agents | 50% off, $24 → $12 one-time | - | 2026-12-01 | https://bf26-deals.pages.dev/deal/chalk/ | https://getchalk.dev/#pricing
 ChatImg | AI Tools > Image & Video | 50% off first Plus or Pro payment, 30% off credits | - | 2026-12-01 | https://bf26-deals.pages.dev/deal/chatimg/ | https://chatimg.ai/en/pricing
 Chute | Mac & Desktop Utilities > Files, Storage & System | 50% off, normally $14.99 | BLACKFRIDAY | 2026-12-01 | https://bf26-deals.pages.dev/deal/chute/ | https://appsbymo.app/chute/?ref=bf-deals
@@ -468,6 +466,7 @@ RapidForm | Websites & E-commerce > Forms & Surveys | Lifetime Business plan $12
 Sightline | Photo, Video & Audio > Screen Recording | Lifetime $29.99 → $22.99, or 3 months of Pro free | SIGHTLINEEARLY SIGHTLINELIFEDISCOUNT26 | 2027-01-07 | https://bf26-deals.pages.dev/deal/sightline/ | https://sightlinemac.com/black-friday/
 TanStarter | Developer Tools > Boilerplates & Starter Kits | $100 off lifetime, $199 → $99 | 2026-BLACKFRIDAY | 2026-11-30 | https://bf26-deals.pages.dev/deal/tanstarter/ | https://tanstarter.dev/#pricing
 Namecheap | Hosting & Cloud > Domains | .com $8.98, hosting from $1.31/mo | THEGAMESTLD26 THEGAMESDTR26 THEGAMESHOST26 THEGAMESVPS26 THEGAMESMAIL26 THEGAMESCERT26 | 2026-12-04 | https://bf26-deals.pages.dev/deal/namecheap/ | https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/
+Proton VPN | Security & Privacy > VPN | 70% off VPN Plus 1-year, $2.99/mo | - | - | https://bf26-deals.pages.dev/deal/protonvpn/ | https://protonvpn.com/black-friday
 HostPapa | Hosting & Cloud > Web & WordPress Hosting | Up to 90% off, hosting from $1.25/mo | - | 2026-12-07 | https://bf26-deals.pages.dev/deal/hostpapa/ | https://www.hostpapa.com/deals/
 Hosting.com | Hosting & Cloud > Web & WordPress Hosting | Up to 89% off first 12 months of hosting | - | 2026-12-14 | https://bf26-deals.pages.dev/deal/hosting/ | https://hosting.com/black-friday/
 SiteGround | Hosting & Cloud > Web & WordPress Hosting | Up to 88% off, from $1.99/mo | - | - | https://bf26-deals.pages.dev/deal/siteground/ | https://www.siteground.com/
@@ -480,7 +479,6 @@ TailTemplates | Design > UI Kits & Templates | 80% off all yearly plans | BLFCM2
 Skylum Luminar | Photo, Video & Audio > Photo Editing | Up to 77% off, desktop $99 | - | 2026-11-30 | https://bf26-deals.pages.dev/deal/skylumluminar/ | https://skylum.com/
 InMotion | Hosting & Cloud > Web & WordPress Hosting | Up to 75% off hosting, shared from $3.49/mo | SAVE50 | 2026-12-01 | https://bf26-deals.pages.dev/deal/inmotion/ | https://www.inmotionhosting.com/deals
 OrbySystems | Business & Finance > Personal Finance & Investing | 75% off, Plus $49.95 → $12.49 | BLACKFRIDAY26 | 2026-11-30 | https://bf26-deals.pages.dev/deal/orbysystems/ | https://orbysystems.ai/offers
-Proton VPN | Security & Privacy > VPN | 70% off VPN Plus 1-year, $2.99/mo | - | - | https://bf26-deals.pages.dev/deal/protonvpn/ | https://protonvpn.com/black-friday
 Rezi | AI Tools > Writing & Content | 70% off Pro for 3 months, $29 → $8.70/mo | Blackfriday2026 | 2026-12-11 | https://bf26-deals.pages.dev/deal/rezi/ | https://www.rezi.ai/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026
 Sintra AI | AI Tools > Chat & Assistants | 70% off 12-month plan | - | - | https://bf26-deals.pages.dev/deal/sintraai/ | https://sintra.ai/
 Founder Launch OS 2026 | Business & Finance > Startup & Indie Tools | 64% off, $39 → $14 one-time | - | 2026-12-01 | https://bf26-deals.pages.dev/deal/founderlaunchos2026/ | https://sprintcraft-studio.netlify.app/founder-os/
@@ -637,7 +635,6 @@ TradingView | Business & Finance > Personal Finance & Investing | Up to 80% off 
 Bitdefender | Security & Privacy > Antivirus & Security Suites | Up to 78% off, Premium from $12.99 | - | - | https://bf26-deals.pages.dev/deal/bitdefender/ | https://www.bitdefender.com/
 VibeShield | Developer Tools > Testing & Debugging | 78% off Fix Pass, $9 → $2 | - | 2026-12-02 | https://bf26-deals.pages.dev/deal/vibeshield/ | https://vibe-checker.appwrite.network/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026
 Uprankly Link Builder | Marketing & Sales > SEO | 72% off all 3-month plans | BFCM72 | - | https://bf26-deals.pages.dev/deal/upranklylinkbuilder/ | https://www.uprankly.com/link-builder
-Higgsfield | AI Tools > Image & Video | Up to 70% off premium plans | - | 2026-11-24 | https://bf26-deals.pages.dev/deal/higgsfield/ | https://higgsfield.ai/pricing
 Pixara | AI Tools > Image & Video | 70% off Pro and Ultimate annual | - | - | https://bf26-deals.pages.dev/deal/pixara/ | https://www.pixara.ai/
 TextSniper | Mac & Desktop Utilities > Clipboard, Launchers & Keyboard | 70% off | BFCM26 | - | https://bf26-deals.pages.dev/deal/textsniper/ | https://textsniper.app/
 AI Limits | AI Tools > Chat & Assistants | Up to 67% off lifetime, from $29.99 → $9.99 | BLACKFRIDAY BLACKFRIDAYMAC | 2026-12-01 | https://bf26-deals.pages.dev/deal/ailimits/ | https://apps.apple.com/app/id6819589802
@@ -850,7 +847,6 @@ Adobe Creative Cloud | Design > Design & Prototyping Tools | 57% off All Apps fi
 Klarity Disk | Mac & Desktop Utilities > Files, Storage & System | 57% off, $6.99 → $2.99 one-time | - | 2026-12-01 | https://bf26-deals.pages.dev/deal/klaritydisk/ | https://apps.apple.com/app/apple-store/id6758895498?pt=128521164&ct=bf26&mt=8
 OttoKit | AI Tools > Automation & Workflows | 57% off lifetime | - | - | https://bf26-deals.pages.dev/deal/ottokit/ | https://ottokit.com/
 Squarespace | Websites & E-commerce > Website Builders & No-Code | 55% off select annual plans | - | - | https://bf26-deals.pages.dev/deal/squarespace/ | https://www.squarespace.com/
-Udacity | Learning > Programming & Tech | 55% off, monthly plan $249 → $113 | BF55 | 2026-11-23 | https://bf26-deals.pages.dev/deal/udacity/ | https://www.udacity.com/experience
 Networking: The Internet | Learning > Programming & Tech | 51% off lifetime access, $59 → $29 | BF2026NET | 2026-12-06 | https://bf26-deals.pages.dev/deal/networking/ | https://classes.pracnet.net/courses/networking?coupon=BF2026NET&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026
 1AudioTool | AI Tools > Voice & Audio | 50% off Pro license, $29 → $14.50 one-time | BFDEALS50 | 2026-11-29 | https://bf26-deals.pages.dev/deal/1audiotool/ | https://1audiotool.com?utm_source=mrsbf&utm_campaign=bf2026
 1FileTool | Mac & Desktop Utilities > Files, Storage & System | 50% off Pro license, $29 → $14.50 | BFDEALS50 | 2026-11-29 | https://bf26-deals.pages.dev/deal/1filetool/ | https://1filetool.com?utm_source=mrsbf&utm_campaign=bf2026
@@ -1004,7 +1000,6 @@ Carry | AI Tools > Chat & Assistants | Lifetime license $79 → $59 | BLACKFRIDA
 Database Mart | Hosting & Cloud > VPS & Cloud Servers | Linux VPS from $1.25/mo | TCRD4911 TCXR2333 | 2026-11-28 | https://bf26-deals.pages.dev/deal/databasemart/ | https://www.databasemart.com/
 EquipRoute | Business & Finance > Team & Operations | 1 month free for up to 5 users | BLACKFRIDAY26 | 2026-12-01 | https://bf26-deals.pages.dev/deal/equiproute/ | https://equiproute.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026
 FixImage | Photo, Video & Audio > Photo Editing | Double credits on new plans and credit packs | - | 2026-12-01 | https://bf26-deals.pages.dev/deal/fiximage/ | https://fiximage.net/black-friday
-Flavio Copes AI Workshop and Masterclasses | Learning > Programming & Tech | Workshop $299 → $99, 4 masterclasses for $49 | - | 2026-11-23 | https://bf26-deals.pages.dev/deal/flaviocopesaiworkshopandmasterclasses/ | https://flaviocopes.com/black-friday/
 FlyWP | Hosting & Cloud > Web & WordPress Hosting | Lifetime from $249 | - | - | https://bf26-deals.pages.dev/deal/flywp/ | https://flywp.com/black-friday-deals/
 Fresh Notch | Mac & Desktop Utilities > Menu Bar & Dock | $3 off, 2 Macs $8.99 → $5.99 | BFRIDAY | 2026-11-30 | https://bf26-deals.pages.dev/deal/freshnotch/ | https://freshnotch.com/#pricing
 Image to 3D AI | AI Tools > Image & Video | 2× credits on new plans and packs | - | 2026-12-01 | https://bf26-deals.pages.dev/deal/imageto3dai/ | https://imageto3dai.org/black-friday
@@ -1092,7 +1087,6 @@ MasterClass | Learning > Online Course Platforms | 50% off annual, $120 → $60/
 natbox | Hosting & Cloud > VPS & Cloud Servers | 50% off yearly plans for life, from $4.50/yr | BLACKFRIDAY | 2026-11-27 | https://bf26-deals.pages.dev/deal/natbox/ | https://my.natbox.io/products/nat-vps?utm_source=blog&utm_campaign=bf2026
 NewsNinja | Productivity > Reading & Knowledge | 50% off the one-time purchase | - | 2026-12-05 | https://bf26-deals.pages.dev/deal/newsninja/ | https://apps.apple.com/us/app/ai-rss-reader-newsninja/id6504148117?platform=vision
 Packt Publishing | Learning > Books & Ebooks | 50% off eBooks | - | - | https://bf26-deals.pages.dev/deal/packtpublishing/ | https://www.packtpub.com/
-Parallels Desktop for Mac | Developer Tools > Mac Dev Utilities | 50% off new 1-year Standard and Pro plans | PD50 | 2026-11-23 | https://bf26-deals.pages.dev/deal/parallelsdesktopformac/ | https://www.parallels.com/products/desktop/buy/
 Popup Maker Pro | Websites & E-commerce > WordPress Themes & Plugins | 50% off first year of annual Pro and Pro+ | PMBFCM26 | 2026-11-30 | https://bf26-deals.pages.dev/deal/popupmakerpro/ | https://wppopupmaker.com/black-friday-sale-2026/
 Protego for Reddit | Mac & Desktop Utilities > Browser Extensions | 50% off, $3.99 → $1.99 | - | 2026-12-05 | https://bf26-deals.pages.dev/deal/protegoforreddit/ | https://apps.apple.com/us/app/protego-for-reddit/id6737959724
 ProWritingAid | AI Tools > Writing & Content | 50% off Premium yearly and lifetime plans | - | - | https://bf26-deals.pages.dev/deal/prowritingaid/ | https://prowritingaid.com/
@@ -1124,9 +1118,7 @@ Prusa | Hardware & Electronics > Accessories & Peripherals | Up to 40% off Prusa
 Reply.io | Marketing & Sales > Ads, Leads & Outreach | 40% off, plus 25% off AI SDR annual plans | BF26REPLY BF26JASON | - | https://bf26-deals.pages.dev/deal/reply/ | https://reply.io/
 Skillsaint | Design > UI Kits & Templates | 40% off all Pro plans | BLFCM2026 | 2026-12-01 | https://bf26-deals.pages.dev/deal/skillsaint/ | https://skillsaint.com/
 TheoryScore | Learning > Online Course Platforms | 40% off first billing period, yearly $24.99 → $15 | - | 2026-12-01 | https://bf26-deals.pages.dev/deal/theoryscore/ | https://theoryscore.com/black-friday/
-LearnWorlds | Learning > Online Course Platforms | Up to 39% off Learning Center plans | - | 2026-11-23 | https://bf26-deals.pages.dev/deal/learnworlds/ | https://get.learnworlds.com/coupon
 INE Security | Learning > Cybersecurity Certs & Training | 37% off Premium annual, $799 → $499 | - | 2026-12-01 | https://bf26-deals.pages.dev/deal/inesecurity/ | https://ine.com/
-Pickode | Mac & Desktop Utilities > Browser Extensions | 35% off Pro and Team, yearly and lifetime | BF2026 | 2026-11-23 | https://bf26-deals.pages.dev/deal/pickode/ | https://pickode.com/?utm_source=github&utm_medium=community&utm_campaign=bf2026
 Unspam | Marketing & Sales > Email Marketing & Newsletters | 35% off | BLACKFRIDAY35 | 2026-12-01 | https://bf26-deals.pages.dev/deal/unspam/ | https://unspam.email/
 XFlow | Websites & E-commerce > E-commerce & Payments | 35% off for 3 months | - | - | https://bf26-deals.pages.dev/deal/xflow/ | https://foxecom.com/pages/bfcm-2026
 Poxture App | Health & Lifestyle > Health & Mental Wellbeing | 34% off, $29 → $19 one-time | BLACKFRIDAY | 2026-11-30 | https://bf26-deals.pages.dev/deal/poxtureapp/ | https://poxture.com/
@@ -1192,7 +1184,6 @@ Dext | Business & Finance > Accounting & Invoicing | 15% off for 12 months | - |
 KrispCall | Business & Finance > Customer Support & Chat | 15% off all plans | KRISPBLK15OTD | 2026-12-03 | https://bf26-deals.pages.dev/deal/krispcall/ | https://try.krispcall.com/promo
 Liqoria | Entertainment > Music | 15% off | Y2NTAXNQ | 2026-11-30 | https://bf26-deals.pages.dev/deal/liqoria/ | https://www.liqoria.com
 Seobility | Marketing & Sales > SEO | 60 days free plus 15% off forever | - | 2026-12-06 | https://bf26-deals.pages.dev/deal/seobility/ | https://www.seobility.net/en/lp/blackfriday26/
-SparkFun | Hardware & Electronics > Retailer Sales | 15% off its Originals line | BFCM2026 | 2026-11-23 | https://bf26-deals.pages.dev/deal/sparkfun/ | https://www.sparkfun.com/
 AgencyAnalytics | Marketing & Sales > Web Analytics | $25/mo per client | - | - | https://bf26-deals.pages.dev/deal/agencyanalytics/ | https://try.agencyanalytics.com/free-trial
 Agentwright | Developer Tools > Boilerplates & Starter Kits | Lifetime license $149 → $99 | - | 2026-12-01 | https://bf26-deals.pages.dev/deal/agentwright/ | https://agentwright.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026
 Aircall | Business & Finance > Customer Support & Chat | Unlimited AI voice agent minutes | - | - | https://bf26-deals.pages.dev/deal/aircall/ | https://get.aircall.io/discount
@@ -1216,7 +1207,6 @@ Geekom | Hardware & Electronics > Phones, Tablets & Computers | Daily rotating d
 HelloFresh | Health & Lifestyle > Food & Nutrition | Free wok plus 10 free meals for new subscribers | - | - | https://bf26-deals.pages.dev/deal/hellofresh/ | https://www.hellofresh.com/
 Heyy | Business & Finance > Customer Support & Chat | 2 months free with yearly billing | - | - | https://bf26-deals.pages.dev/deal/heyy/ | https://www.heyy.io/pricing
 Hyperice | Health & Lifestyle > Fitness & Workouts | Up to $200 off at Best Buy | - | - | https://bf26-deals.pages.dev/deal/hyperice/ | https://www.hyperice.com/
-KSEC Labs | Hardware & Electronics > Accessories & Peripherals | Up to £300 off, 3-for-2 RFID cards | - | 2026-11-23 | https://bf26-deals.pages.dev/deal/kseclabs/ | https://labs.ksec.co.uk/black-friday-sale/
 Linode (Akamai) | Hosting & Cloud > VPS & Cloud Servers | $100 free credit for 60 days | - | - | https://bf26-deals.pages.dev/deal/linode/ | https://www.linode.com/
 Luckynote | Productivity > Reading & Knowledge | First year Plus $59.99 → $39.99, Pro $119.99 → $89.99 | - | - | https://bf26-deals.pages.dev/deal/luckynote/ | https://luckynote.io/pricing
 MailCheap | Marketing & Sales > Email Marketing & Newsletters | 2 months free with annual billing | - | - | https://bf26-deals.pages.dev/deal/mailcheap/ | https://mailcheap.ai/pricing
@@ -1657,7 +1647,6 @@ SnapTrellis | Design > Mockups & Screenshots | $10 off one-time unlock, $19.99 �
 Songwriting by Clay and Kelsy | Photo, Video & Audio > Music & Audio Production | Unlimited $79.99 → $49.99 one-time | - | 2026-12-01 | https://bf26-deals.pages.dev/deal/songwritingbyclayandkelsy/ | https://apps.apple.com/app/apple-store/id6817031276?pt=129169856&ct=landwehr&mt=8
 SoundBar for Mac | Mac & Desktop Utilities > Menu Bar & Dock | $6.99 lifetime | - | - | https://bf26-deals.pages.dev/deal/soundbarformac/ | https://soundbarmac.com/
 Stamps | Photo, Video & Audio > Music & Audio Production | $29 → $19 one-time | - | 2026-12-01 | https://bf26-deals.pages.dev/deal/stamps/ | https://plastic.audio/stamps/?src=bf-github
-System76 | Hardware & Electronics > Phones, Tablets & Computers | Up to $200 off selected Linux laptops and desktops | - | 2026-11-23 | https://bf26-deals.pages.dev/deal/system76/ | https://system76.com/
 Tasks | Productivity > Tasks & Projects | Lifetime for $29.99 | - | - | https://bf26-deals.pages.dev/deal/tasks/ | https://apps.apple.com/app/apple-store/id1502903102?mt=8
 ThriveCart | Websites & E-commerce > E-commerce & Payments | Lifetime license $495 one-time plus bonuses | - | 2026-12-02 | https://bf26-deals.pages.dev/deal/thrivecart/ | https://thrivecart.com/
 Trailback | Mac & Desktop Utilities > Files, Storage & System | Lifetime for $9 | - | - | https://bf26-deals.pages.dev/deal/trailback/ | https://trailback.app/
@@ -1749,7 +1738,6 @@ Battle.net | Gaming > Game Stores & Sales | Up to 75% off games, including 70% o
 Booky | Business & Finance > Personal Finance & Investing | 75% off the first year of Pro | BOOKY75 | 2026-12-01 | https://bf26-deals.pages.dev/deal/booky/ | https://escobar.sv/booky/
 CleverTap | Marketing & Sales > CRM & Sales | Up to 75% off | - | 2026-11-30 | https://bf26-deals.pages.dev/deal/clevertap/ | https://clevertap.com
 daisyUI | Design > UI Kits & Templates | Starts at 75% off MCP access, Figma library and templates | - | 2026-11-30 | https://bf26-deals.pages.dev/deal/daisyui/ | https://daisyui.com
-Focus On Today | Productivity > Tasks & Projects | 75% off, now $9.99 | - | 2026-11-23 | https://bf26-deals.pages.dev/deal/focusontoday/ | https://focusonto.day
 LiveDepartures | Health & Lifestyle > Travel & Navigation | Up to 75% off bus departure boards, mobile for £1.40 | - | 2026-11-30 | https://bf26-deals.pages.dev/deal/livedepartures/ | https://busdeparture.co.uk/plans
 Meli | Business & Finance > Personal Finance & Investing | 75% off the first year | MACAPPS75 | 2026-12-01 | https://bf26-deals.pages.dev/deal/meli/ | https://trymeli.app
 Pershaland games bundle | Gaming > Games & Apps | 75% off, 3-game bundle $3 | - | - | https://bf26-deals.pages.dev/deal/pershalandgamesbundle/ | https://x.com/pershaland
@@ -1922,7 +1910,6 @@ Daz 3D | Design > Stock Photos, Video & Music | Discounts on selected 3D charact
 DDMF | Photo, Video & Audio > Music & Audio Production | 50% off sitewide | - | 2026-12-07 | https://bf26-deals.pages.dev/deal/ddmf/ | https://ddmf.eu/
 DevOpsCube Courses | Learning > Cloud & DevOps Certs | Up to 50% off Kubernetes and DevOps courses | CYBER50 | - | https://bf26-deals.pages.dev/deal/devopscubecourses/ | https://courses.devopscube.com/
 DJ-Extensions | Websites & E-commerce > Website Builders & No-Code | 50% off | BFCM2026 | 2026-12-01 | https://bf26-deals.pages.dev/deal/djextensions/ | https://dj-extensions.com/products
-Domain.com | Hosting & Cloud > Domains | 30% off domains, 50% off Google Workspace | GETONLINENOW SITEWIDE30 | 2026-11-23 | https://bf26-deals.pages.dev/deal/domain/ | https://www.domain.com/
 DoxFlowy | Productivity > Documents & PDFs | 50% off for life on yearly Core and Team | - | - | https://bf26-deals.pages.dev/deal/doxflowy/ | https://x.com/DoxFlowy
 Dragon's Gambit: Chess | Gaming > Games & Apps | 50% off on iOS and Android | - | 2026-12-26 | https://bf26-deals.pages.dev/deal/dragonsgambit/ | https://apps.apple.com/app/id6768390263
 Dryads Pathfinder | Health & Lifestyle > Travel & Navigation | 50% off the subscription | - | - | https://bf26-deals.pages.dev/deal/dryadspathfinder/ | https://x.com/DryadsOutdoors
@@ -2023,7 +2010,6 @@ Muffle | Mac & Desktop Utilities > Windows & Screens | 50% off, now $3.99 | BLAC
 Nagbar | Productivity > Tasks & Projects | 50% off, now $10 | NAGBAR50 | 2026-11-30 | https://bf26-deals.pages.dev/deal/nagbar/ | https://nagbar.app
 Nameshot | Mac & Desktop Utilities > Files, Storage & System | 50% off, now $4.99 | - | - | https://bf26-deals.pages.dev/deal/nameshot/ | https://nameshot.app
 NatureManufacture assets | Design > Stock Photos, Video & Music | 50% off top assets on the Unity Asset Store | - | - | https://bf26-deals.pages.dev/deal/naturemanufactureassets/ | https://assetstore.unity.com/publishers/6887
-Network Solutions | Hosting & Cloud > Domains | 30% off domains, 50% off Google Workspace | GETONLINENOW SITEWIDE30 | 2026-11-23 | https://bf26-deals.pages.dev/deal/networksolutions/ | https://www.networksolutions.com/
 Neural DSP | Photo, Video & Audio > Music & Audio Production | 50% off all plugins | - | 2026-12-02 | https://bf26-deals.pages.dev/deal/neuraldsp/ | https://neuraldsp.com/
 Newoldstamp | Productivity > Email & Communication | 50% off annual, recurring, for new users | BF2026NOS | 2026-12-05 | https://bf26-deals.pages.dev/deal/newoldstamp/ | https://newoldstamp.com/
 Next Limit Maxwell | Design > Design & Prototyping Tools | 50% off all editions of rendering and simulation tools | - | 2026-12-03 | https://bf26-deals.pages.dev/deal/nextlimitmaxwell/ | https://nextlimit.com/
@@ -2147,7 +2133,6 @@ Nothing | Hardware & Electronics > Audio | Up to 49% off, Headphone (a) $199 →
 Ridge | Hardware & Electronics > Accessories & Peripherals | Up to 49% off | - | - | https://bf26-deals.pages.dev/deal/ridge/ | https://ridge.com
 HashPhotos | Photo, Video & Audio > Photo Editing | 48% off Pro Lifetime | - | 2026-12-09 | https://bf26-deals.pages.dev/deal/hashphotos/ | https://x.com/hashphotosapp
 forms.app | Websites & E-commerce > Forms & Surveys | Up to 46% off yearly plans | NOVEMBER2026 | 2026-11-30 | https://bf26-deals.pages.dev/deal/forms/ | https://forms.app/en/pricing
-Boot.dev | Learning > Programming & Tech | 45% off your first coding course membership | - | 2026-11-23 | https://bf26-deals.pages.dev/deal/boot/ | https://www.boot.dev/pricing
 bPlugins | Websites & E-commerce > WordPress Themes & Plugins | 45% off all WordPress plugins | BFCM45 | 2026-12-05 | https://bf26-deals.pages.dev/deal/bplugins/ | https://bplugins.com/coupons
 CarcassTag | Health & Lifestyle > Hobbies & Home | 45% off | - | 2026-11-30 | https://bf26-deals.pages.dev/deal/carcasstag/ | https://x.com/CarcassTag
 Cheddar Flow | Business & Finance > Personal Finance & Investing | 45% off all options flow plans | - | - | https://bf26-deals.pages.dev/deal/cheddarflow/ | https://cheddarflow.co/x
@@ -2168,7 +2153,6 @@ Artlist | Design > Stock Photos, Video & Music | 40% off yearly plans plus 2x cr
 Avid Pro Tools | Photo, Video & Audio > Music & Audio Production | Up to 40% off annual audio production subscriptions | - | - | https://bf26-deals.pages.dev/deal/avidprotools/ | https://www.avid.com/pro-tools
 AzamSharp School | Learning > Programming & Tech | 40% off all courses and books | BLACKFRIDAY2026 | 2026-11-30 | https://bf26-deals.pages.dev/deal/azamsharpschool/ | https://azamsharp.school
 Baseball America | Entertainment > News & Magazines | 40% off the first year of annual digital plans | - | - | https://bf26-deals.pages.dev/deal/baseballamerica/ | https://www.baseballamerica.com
-BIM Template | Design > UI Kits & Templates | Up to 40% off, codes by newsletter | - | 2026-11-23 | https://bf26-deals.pages.dev/deal/bimtemplate/ | https://x.com/BIMTemplate
 Blocksy | Websites & E-commerce > WordPress Themes & Plugins | 40% off annual plans, 30% off lifetime | BFCM2026 | 2026-12-06 | https://bf26-deals.pages.dev/deal/blocksy/ | https://creativethemes.com/blocksy/pricing/
 Booster Elite | Websites & E-commerce > WordPress Themes & Plugins | 40% off the first year of annual plans | - | 2026-12-02 | https://bf26-deals.pages.dev/deal/boosterelite/ | https://booster.io/buy-booster/
 ByteBlind | Learning > Cybersecurity Certs & Training | 40% off the course | - | 2026-11-30 | https://bf26-deals.pages.dev/deal/byteblind/ | https://training.byteblind.com/
@@ -2574,7 +2558,6 @@ JumboMax | Health & Lifestyle > Fitness & Workouts | 20% off every grip, free pu
 KVS Themes | Design > UI Kits & Templates | 20% off video site templates and customization | BF2026 | 2026-11-30 | https://bf26-deals.pages.dev/deal/kvsthemes/ | https://x.com/KvsThemes
 Litehost | Hosting & Cloud > Web & WordPress Hosting | Up to 20% off the first year of hosting | - | 2026-11-30 | https://bf26-deals.pages.dev/deal/litehost/ | https://x.com/LitehostNg
 Macro Butler Financial Academy | Business & Finance > Personal Finance & Investing | Annual plan $500 → $400 | BUTLER20 | 2026-12-01 | https://bf26-deals.pages.dev/deal/macrobutlerfinancialacademy/ | https://x.com/LLequeu
-Mailmodo | Marketing & Sales > Email Marketing & Newsletters | 20% off annual plans | - | 2026-11-23 | https://bf26-deals.pages.dev/deal/mailmodo/ | https://www.mailmodo.com/
 MapCheck | Health & Lifestyle > Travel & Navigation | 20% off lifetime | - | - | https://bf26-deals.pages.dev/deal/mapcheck/ | https://apps.apple.com/us/app/mapcheck-offline-geotif-pdf/id6761805550
 MaxiFi | Business & Finance > Personal Finance & Investing | 20% off financial planning for new subscribers | BFCM2026 | 2026-12-02 | https://bf26-deals.pages.dev/deal/maxifi/ | https://www.maxifi.com/pricing
 Motion+ | Design > UI Kits & Templates | 20% off | - | - | https://bf26-deals.pages.dev/deal/motion/ | https://motion.dev

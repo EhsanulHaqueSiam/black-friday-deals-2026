@@ -2,10 +2,10 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/marketing-sales/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**245 live deals**, 107 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**244 live deals**, 107 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [SEO](#seo) (63)
-- [Email Marketing & Newsletters](#email-marketing--newsletters) (36)
+- [Email Marketing & Newsletters](#email-marketing--newsletters) (35)
 - [Social Media](#social-media) (46)
 - [Ads, Leads & Outreach](#ads-leads--outreach) (62)
 - [CRM & Sales](#crm--sales) (15)
@@ -112,7 +112,6 @@
 | [Sequenzy](https://sequenzy.com/black-friday?utm_source=awesome-bfcm) | Email marketing for SaaS and stores: newsletters, sequences and transactional email. | 30% off annual plans | `BLACKFRIDAY` |  | [details](https://bf26-deals.pages.dev/deal/sequenzy/) |
 | [MailerLite](https://www.mailerlite.com/pricing) | Email marketing with newsletters, automations and landing pages. | 26% off annual plans, from $144 → $107/yr | `LITEFRIDAY26` | Dec 18 | [details](https://bf26-deals.pages.dev/deal/mailerlite/) |
 | [Beehiiv](https://www.beehiiv.com/) | Platform to write, grow and monetize email newsletters. | 20% off annual plans |  |  | [details](https://bf26-deals.pages.dev/deal/beehiiv/) |
-| [Mailmodo](https://www.mailmodo.com/) | Email marketing with interactive AMP emails. | 20% off annual plans |  | Nov 23 | [details](https://bf26-deals.pages.dev/deal/mailmodo/) |
 | [Acumbamail](https://appsumo.com/products/acumbamail/) | Email campaigns, newsletters and landing pages in one tool. | Lifetime deal $839 → $109 once |  |  | [details](https://bf26-deals.pages.dev/deal/acumbamail/) |
 | [Bouncer](https://www.usebouncer.com/) | Email list verification to remove invalid addresses. | **Soon.** 50% extra credits |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/bouncer/) |
 | [Broadcast](https://sendbroadcast.net/black-friday?utm_source=awesome-bfcm) | Self-hosted newsletters, automations and transactional email using your own SES or SMTP. | $100 off Regular License, $250 → $150 | `BLACKFRIDAY26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/broadcast/) |

@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/health-lifestyle/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**171 live deals**, 59 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**171 live deals**, 59 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [Fitness & Workouts](#fitness--workouts) (32)
 - [Health & Mental Wellbeing](#health--mental-wellbeing) (45)

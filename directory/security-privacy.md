@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/security-privacy/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**102 live deals**, 26 with promo codes. Biggest discounts first. Last built 2026-11-23.
+**102 live deals**, 26 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [VPN](#vpn) (26)
 - [Password Managers](#password-managers) (8)
