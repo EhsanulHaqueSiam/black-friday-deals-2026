@@ -1,10 +1,1193 @@
 [
  {
+  "id": "13cubed",
+  "name": "13Cubed",
+  "url": "https://training.13cubed.com/",
+  "section": "Courses & Training > ",
+  "about": "Blue",
+  "deal": "$100 off all courses · Code: BLACKFRIDAY2026 · Dates: Nov 30 · DFIR and memory forensics courses by Richard Davis."
+ },
+ {
+  "id": "abcontents",
+  "name": "ABContents",
+  "url": "https://abcontents.com/",
+  "section": "AI & Dev Tools > ",
+  "about": "Turns a PDF, slide deck or website into a narrated explainer or marketing video with AI voice, captions and music, in more than 100 styles",
+  "deal": "30% off · Price: $2.10 per video · Expires: 2026-12-01 · Code BLACKFRIDAY. Videos from $2.10 (was $3), 10-video API pack $14.70 (was $21). PDF, slides or website to narrated video with AI voice."
+ },
+ {
+  "id": "adblockplus",
+  "name": "Adblock Plus",
+  "url": "https://adblockplus.org/premium",
+  "section": "Best live deals right now > ",
+  "about": "",
+  "deal": "Official adblockplus.org/premium (Nov 24): NEW LIVE. “Black Friday 30% off your first year of Premium,” “Ends Mon, 30 Nov.” Yearly plan card still prints regular $40 (JSON-LD also price 40 USD). Sale dollars are not printed and are not esti"
+ },
+ {
+  "id": "adblockpremium",
+  "name": "AdBlock Premium",
+  "url": "https://getadblock.com/en/premium/",
+  "section": "Best live deals right now > ",
+  "about": "",
+  "deal": "Official getadblock.com/en/premium (Nov 24): NEW LIVE. Banner: “BLACK FRIDAY,” “30% off your first year of Premium,” “Ends Mon, 30 Nov” (i18n keys black-friday-2026-offer / black-friday-2026-ends). 2026-11-30 is a Monday. Yearly card prints"
+ },
+ {
+  "id": "adguarddns",
+  "name": "AdGuard DNS",
+  "url": "https://adguard-dns.io/en/license.html",
+  "section": "Software & SaaS > ",
+  "about": "",
+  "deal": "65% off Personal, 55% off Team, code BFDNS26 · Personal annual $10.46 (was $29.88); Team annual from $161.90 (was $359.77) · Expires: 2026-11-30 · Code BFDNS26; annual plans only. Separate from the AdGuard ad-blocker deal. Listed in thought"
+ },
+ {
+  "id": "aikui",
+  "name": "Aikui",
+  "url": "https://apps.apple.com/app/id6774103289?pt=283056&ct=bf-github&mt=8",
+  "section": "🕹 Games > ",
+  "about": "Sudoku with colors where the numbers used to be, on iPhone and iPad. Every color also has its own shape, so the board reads just as well if you're colorblind. Pro adds Medium and Hard puzzles, online rankings and more palettes.",
+  "deal": "Aikui Pro is half price until December 1: $2.49 in the US, then $4.99 again. · Applied automatically in the App Store. Aikui is free to download and Aikui Pro is an in-app purchase. · Nov 25 – Dec 1"
+ },
+ {
+  "id": "aitrovex",
+  "name": "AITroveX",
+  "url": "https://aitrovex.com/pricing?utm_source=mrsbf",
+  "section": "🔎 SEO > ",
+  "about": "Hand-checked AI tools directory with verified key facts, Schema.org JSON-LD, and llms.txt. Priority submissions need no backlink, get reviewed within 2 business days, and include a dofollow link.",
+  "deal": "71% off Bulk pack: $100 $29 for 20 Priority submission credits ($1.45/tool) · Automatically applied at checkout, no code needed. Credits never expire and are only spent when a tool is approved. 14-day refund on unused packs. · Nov 23 – Dec "
+ },
+ {
+  "id": "alcove",
+  "name": "Alcove: Tasks & Notes",
+  "url": "https://apps.apple.com/app/id6817797913",
+  "section": "📌 Productivity Software > ",
+  "about": "A calm to-do list and notes app that lives in the Mac menu bar, also on iPhone and iPad. Free to use; Alcove Unlock adds iCloud sync, boards, themes and more.",
+  "deal": "Alcove Unlock $14.99 until Dec 1 (then $29.99) · One-time purchase; one purchase covers Mac, iPhone and iPad. No code needed. US price. · until Dec 1"
+ },
+ {
+  "id": "alteredsecurity",
+  "name": "Altered Security",
+  "url": "https://www.alteredsecurity.com/",
+  "section": "Courses & Training > ",
+  "about": "Red",
+  "deal": "20% off all courses and bootcamps, plus an extra 5% when you buy 2 or more items · Dates: Nov 23 – Dec 6 · Red team, Active Directory and Azure labs and bootcamps. No code needed; use your purchase up to 6 months later."
+ },
+ {
+  "id": "apptoriumblackfriday2026",
+  "name": "Apptorium Black Friday 2026",
+  "url": "https://www.apptorium.com/black-friday-2026",
+  "section": "Software & SaaS > ",
+  "about": "",
+  "deal": "Up to 50% off · Mac apps: SideNotes, Workspaces, Cursor Teleporter and more. SideNotes already listed separately at 35% off."
+ },
+ {
+  "id": "asoatlas",
+  "name": "ASO Atlas",
+  "url": "https://asoatlas.com/?ref=Awesome-Black-Friday-Cyber-Monday",
+  "section": "👨‍💻 Developer Tools > 💻 Developer macOS Apps",
+  "about": "App Store keyword research and rank tracking for iOS, Mac and Google Play apps: popularity, difficulty, competitors and daily ranks. Web app, native Mac app and MCP for AI agents.",
+  "deal": "30% OFF the first year of the Yearly plan ($100 $70), applied automatically at checkout or with code BLACKWEEK30. Unlimited apps and keywords. Until Nov 30, 2026"
+ },
+ {
+  "id": "automailsender",
+  "name": "AutoMailSender",
+  "url": "https://automailsender.app/black-friday.html?utm_source=Awesome-Black-Friday-Cyber-Monday&utm_medium=deal-list&utm_campaign=bf26",
+  "section": "Productivity > Miscellaneous Productivity Apps",
+  "about": "Mac app that emails a file as soon as you drop it on it, to one recipient or several, without opening a mail app. First 25 emails free.",
+  "deal": "40% OFF Unlimited (€9.99 → €5.99, one-time purchase), no code needed: the price drops in the Mac App Store. Nov 27 - Nov 30"
+ },
+ {
+  "id": "awakelet",
+  "name": "Awakelet",
+  "url": "https://tidyware.app/awakelet/?utm_source=mrsbf",
+  "section": "🎛 Utility Software > ",
+  "about": "Menu bar app that keeps your Mac awake for a set time, until an app quits or downloads finish, then lets it sleep or shuts it down.",
+  "deal": "30% off: $9 → $6.30, one-time purchase · BF2026 · Already applied when you click Buy on tidyware.app; macOS 14+; 14-day refund · Nov 24 – Dec 1"
+ },
+ {
+  "id": "backdrop",
+  "name": "Backdrop",
+  "url": "https://cindori.com/backdrop",
+  "section": "🌅 Design Tools > ",
+  "about": "Interactive live wallpapers for your Mac's Lock Screen and desktop",
+  "deal": "30% OFF Lifetime $29.99 $20.99 one-time, no code needed, Nov 24 - Dec 1, 2026"
+ },
+ {
+  "id": "backlinkgenie",
+  "name": "BacklinkGenie",
+  "url": "https://backlinkgenie.com/pricing/?utm_source=tonybf&utm_medium=deal&utm_campaign=bfcm2026",
+  "section": "🔍 SEO Tools > ",
+  "about": "AI outreach agent for link building: finds posts where your product fits, pitches the editors from a managed mailbox, follows up, and re-checks that won links stay live. Also runs from Claude, ChatGPT or Cursor through its MCP server.",
+  "deal": "30% OFF monthly or 50% OFF yearly, kept for as long as you stay subscribed, applied automatically at checkout (codes BFCM30 / BFCM50): Starter $99 $69.30/mo or $990 $495/yr, Growth $249 $174.30/mo or $2,490 $1,245/yr, Agency $499 $349.30/mo"
+ },
+ {
+  "id": "bandje",
+  "name": "Band·je",
+  "url": "https://band.je/",
+  "section": "Productivity > Miscellaneous Productivity Apps",
+  "about": "Records calls in any app on your Mac (Zoom, Teams, Meet, FaceTime, phone calls) without a bot, and transcribes them on device in 25 languages with who said what. Fast dictation for prompting. Also on iPhone, iPad and Apple Watch. Open source (GPL), no account, no tokens.",
+  "deal": "50% OFF Band·je Unlimited, one-time purchase for Mac, iPhone and iPad: €19.99 €9.99. App Store price lowered, no code needed; band.je download with code BLACKFRIDAY. Nov 27 - Dec 1, 2026."
+ },
+ {
+  "id": "batchshift",
+  "name": "BatchShift",
+  "url": "https://tidyware.app/batchshift/?utm_source=mrsbf",
+  "section": "🎨 Graphic Software > ",
+  "about": "Drop a folder of iPhone photos and get JPG or PNG at the right size: batch convert HEIC and WebP, resize, compress and remove GPS on your Mac.",
+  "deal": "30% off: $9 → $6.30, one-time purchase · BF2026 · Already applied when you click Buy on tidyware.app; macOS 14+; 14-day refund · Nov 24 – Dec 1"
+ },
+ {
+  "id": "beaglesecurity",
+  "name": "Beagle Security",
+  "url": "https://beaglesecurity.com/black-friday-sale",
+  "section": "AI & Dev Tools > ",
+  "about": "",
+  "deal": "35% off annual or 20% off monthly, code BFCMM26 · Expires: 2026-12-04 · AI-driven web app and API pentest SaaS; new or free-plan users only, first year or first 6 months then normal renewal. Listed in ps-lo/InfoSec-and-Tech-Black-Friday."
+ },
+ {
+  "id": "beamly",
+  "name": "Beamly",
+  "url": "https://beamly.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026",
+  "section": "🎬 Video, Audio & Podcasting > ",
+  "about": "Podcast platform: hosting and analytics, podcast websites, private podcasts and memberships",
+  "deal": "30% OFF new annual plans · 🟢 Nov 23, 2026 - Dec 1, 2026"
+ },
+ {
+  "id": "beelink",
+  "name": "Beelink",
+  "url": "https://www.bee-link.com/pages/black-friday-cyber-monday",
+  "section": "Hardware > ",
+  "about": "",
+  "deal": "Up to 17% off selected mini PCs and bundles · Code: BF495 · Dates: Nov 30 · BF495 is $100 off the GTR9 Pro"
+ },
+ {
+  "id": "betterdisplay",
+  "name": "BetterDisplay",
+  "url": "https://betterdisplay.pro/",
+  "section": "Productivity > Window, Screen, Clipboard, Utilities",
+  "about": "Control scaling, brightness and virtual screens from the Mac menu bar.",
+  "deal": "33% OFF BetterDisplay Pro (US$21.99 → US$14.73 before tax) with code BFCM2026, Nov 26 - Dec 1, 2026. One-time purchase with at least 2 years of free updates."
+ },
+ {
+  "id": "bettertouchtool",
+  "name": "BetterTouchTool",
+  "url": "https://folivora.ai/black-friday/?utm_source=mrsbf",
+  "section": "🎛 Utility Software > ",
+  "about": "Customize your Mac's trackpad, mouse, keyboard and macro pads with gestures, shortcuts and actions, plus window snapping, a launcher and a clipboard manager.",
+  "deal": "Up to 40% off: Lifetime $25 → $15, Standard $15 → $10.50 · Automatically applied, no code needed. Lifetime license 40% off, Standard license (2 years of updates) 30% off. Ends at the end of Nov 30 (US Pacific time). · Nov 23 – Nov 30"
+ },
+ {
+  "id": "bithut",
+  "name": "BitHut",
+  "url": "https://bithut.app/pricing",
+  "section": "☁ Cloud, Hosting & Domains > Web Hosting",
+  "about": "Hosting for apps, bots and sites built with Claude, ChatGPT or Codex; your AI deploys over MCP",
+  "deal": "58% OFF Plus for 3 months, code SHASHANKT2-A8S89Y ($12 → $5/mo, new customers) (Nov 24 – Dec 7)"
+ },
+ {
+  "id": "bookable",
+  "name": "Bookable",
+  "url": "https://www.bookable.de/black-friday/",
+  "section": "Productivity > Other",
+  "about": "Online booking and course management for yoga studios, dog schools, midwives, swim and music schools: bookings, payments, reminders and waitlists in one place. Available in English and German.",
+  "deal": "30% OFF your first invoice (next invoice for existing subscribers) on Professional or Enterprise, 12- or 24-month plans, with code BLACKFRIDAY: 12 months Professional €348 → €243.60, Enterprise €948 → €663.60, plus VAT · 2026-11-30"
+ },
+ {
+  "id": "bookforgecli",
+  "name": "BookForge CLI",
+  "url": "https://kineticsprint-studio.vercel.app/bookforge.html",
+  "section": "🛠 Development Software > ",
+  "about": "Local-first Markdown-to-PDF commercial book typesetting CLI with 6 editorial styles, running heads, auto TOC, and layout QC gates.",
+  "deal": "50% off Lifetime License ($119 → $59) · One-time lifetime license for macOS and Linux, applied automatically at checkout. · Nov 24 – Nov 30"
+ },
+ {
+  "id": "bookworm",
+  "name": "BookWorm",
+  "url": "https://apps.apple.com/app/id6804252010",
+  "section": "Software & SaaS > ",
+  "about": "",
+  "deal": "31% off · Price: $8.99 · iOS library tracker for readers: 3D bookshelf, reading timer, widgets, Goodreads import."
+ },
+ {
+  "id": "boothly",
+  "name": "Boothly",
+  "url": "https://apps.apple.com/us/app/boothly-retro-photo-strips/id6804359059",
+  "section": "🏝 Lifestyle > ",
+  "about": "A retro photo booth on iPhone and iPad: three frames, one classic photo strip, with a tap-to-start Event Mode for parties.",
+  "deal": "Boothly Pro, one-time $2.99 $1.49 · Automatically applied: the sale price is set on the App Store, no code. US price; other countries see the local equivalent. All nine Yuzool deals: yuzool.com/apps/black-friday.html · Nov 25 – Dec 2"
+ },
+ {
+  "id": "boxaudit",
+  "name": "BoxAudit",
+  "url": "https://getboxaudit.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026",
+  "section": "💼 Business, Finance & Operations > ",
+  "about": "Shipping box optimizer for Shopify, Etsy, ShipStation and Pirate Ship sellers (USPS Cubic and UPS/FedEx dimensional pricing)",
+  "deal": "41% OFF one-time 90-day box audit ($49 → $29) · auto-applied · pay $0 if savings are under $29 · 🟢 Nov 23, 2026 - Nov 30, 2026"
+ },
+ {
+  "id": "bytebyson",
+  "name": "ByteByson",
+  "url": "https://bytebyson.acgao.com/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026",
+  "section": "🎛 Utility Software > ",
+  "about": "Move files on your Mac with queued transfers, saved connections, and Mac-to-Mac sharing. A 30-day trial, then a one-time unlock.",
+  "deal": "40% off, $8 → $4.80 · BF26-BYTEBYSON · one-time purchase · Nov 24 – Dec 1"
+ },
+ {
+  "id": "cadence",
+  "name": "Cadence",
+  "url": "https://apps.apple.com/us/app/cadence-weekly-planner/id6788758180",
+  "section": "📌 Productivity Software > ",
+  "about": "A calm weekly planner for Mac and iPhone: lay the week out day by day, roll over what did not get done, sync with iCloud.",
+  "deal": "Mac $19.99 $9.99, iPhone and iPad $9.99 $4.99 · Automatically applied: the sale price is set on the App Store, no code. US price; other countries see the local equivalent. All nine Yuzool deals: yuzool.com/apps/black-friday.html · Nov 25 – "
+ },
+ {
+  "id": "ciscoustorelearningdeals",
+  "name": "Cisco U. Store Learning Deals",
+  "url": "https://www.cisco.com/site/us/en/learn/training-certifications/learning-deals.html",
+  "section": "Courses & Training > ",
+  "about": "Network / Blue",
+  "deal": "40% off Cisco U. Essentials and CCNA / DCAI bundles; 50% off CCNA 1.1 path · Dates: Dec 1 · Extra 40% doorbusters on Cisco Modeling Labs and CCNA Automation/Cybersecurity paths run only Nov 30, 8am–12pm PT."
+ },
+ {
+  "id": "claudekit",
+  "name": "ClaudeKit",
+  "url": "https://claudekit.app/pricing?utm_source=awesome-bfcm&utm_medium=github&utm_campaign=bf-2026",
+  "section": "🤖 AI Tools > 📖 AI Productivity & Learning Tools",
+  "about": "Chrome extension for Claude.ai that shows your usage limits and reset times right in the chat and warns you at 90%, so Claude doesn't cut you off mid-task. Pro adds a forecast of when you'll run out at your pace, a notification the moment Claude is back, unlimited saved prompts, pins and notes, the full conversation map, and handoff briefs that move a chat to another AI. Free plan, plus a 7-day Pro trial with no card.",
+  "deal": "$8 OFF the first year of Pro annual: $28 $20/year, no code needed, applied at checkout in the extension. Ends Dec 1, 2026, 11:59 PM PT."
+ },
+ {
+  "id": "clino",
+  "name": "Clino",
+  "url": "https://clino.ch/en?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026",
+  "section": "💼 Business, Finance & Operations > ",
+  "about": "Employ your cleaner, nanny or carer legally in Switzerland: employment contract, monthly payslips and social-insurance paperwork for every canton",
+  "deal": "20% OFF the annual plan (CHF 238.80 → CHF 191) · no code needed · 🟢 Nov 23, 2026 - Nov 29, 2026"
+ },
+ {
+  "id": "convika",
+  "name": "Convika",
+  "url": "https://convika.com/black-friday/?utm_source=tonybf&utm_campaign=bf2026",
+  "section": "🤖 AI Tools > ✨ Other AI tools",
+  "about": "Turn the HTML your AI made (ChatGPT, Claude, Gemini) into a link anyone can open on a phone. Forms, visitor analytics and custom domains included, plus an MCP server so Claude Code and Codex publish pages for you. Free plan available.",
+  "deal": "50% OFF the first year of Pro yearly, no code needed: $108 $54/year. New customers, Nov 23 - Dec 31, 2026"
+ },
+ {
+  "id": "coreview",
+  "name": "CoreView",
+  "url": "https://coreview.acgao.com/personal?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026",
+  "section": "🏡 Home Automation > ",
+  "about": "See your home cameras on iPhone, iPad, Mac, Apple TV, or Vision Pro. Works with ONVIF, RTSP, UniFi Protect, and Rhombus. Try every feature for five minutes, then a one-time license per device.",
+  "deal": "40% off, $15 → $9 · BF26-COREVIEW · one-time purchase, one device · Nov 24 – Dec 1"
+ },
+ {
+  "id": "covertinstruments",
+  "name": "Covert Instruments",
+  "url": "https://covertinstruments.com/",
+  "section": "Hardware > ",
+  "about": "",
+  "deal": "20–30% off most tools plus free gifts · Dates: Dec 6 · Lockpicking and physical entry tools"
+ },
+ {
+  "id": "crawlraven",
+  "name": "CrawlRaven",
+  "url": "https://crawlraven.com/pricing?utm_source=tonybf",
+  "section": "🔍 SEO Tools > ",
+  "about": "Joins Google Search Console, GA4 and a crawl of your site into one prioritized SEO plan: keyword map with cannibalization flags, content gaps, runner-up keywords and decay tracking, technical audit and ranked fixes. An MCP server hands the same data to Claude or Cursor.",
+  "deal": "50% OFF every lifetime plan with code CRBFCM50: Starter $190 $95 (1 site), Pro $390 $195 (3 sites), Agency Lite $990 $495 (10 sites), Agency $1,990 $995 (20 sites). One-time payment, Nov 9 - Nov 30, 2026"
+ },
+ {
+  "id": "ctrlops",
+  "name": "CtrlOps",
+  "url": "https://ctrlops.io/pricing?utm_source=tonybf&utm_medium=referral&utm_campaign=bfcm2026",
+  "section": "👨‍💻 Developer Tools > 💻 Tools & Services",
+  "about": "Deploy, debug, manage and audit Linux servers with AI, from one local-first desktop app. Mac, Windows, Linux.",
+  "deal": "31% OFF all Yearly and Lifetime plans with code BFCM31, kept on every Yearly renewal: Personal Yearly $90 $62.10/yr, Lifetime $349 $240.81; Team (5 seats) Yearly $390 $269.10/yr, Lifetime $849 $585.81. Nov 21 - Dec 2, 2026"
+ },
+ {
+  "id": "dailymate",
+  "name": "DailyMate",
+  "url": "https://margaritasi.github.io/dailymate-legal/black-friday.html",
+  "section": "Productivity > 📱 Productivity Mobile Apps",
+  "about": "An iPhone daily planner where ticking off a task moves a goal forward, with habits, a focus timer and rewards. Data stays on your device.",
+  "deal": "60% OFF the first year of Yearly: $24.99 $9.99, then $24.99/year. Code DAILYMATEBF26 (redeem). New subscribers; the free trial week is kept. US pricing; local prices may vary. November 23 – December 1, 2026."
+ },
+ {
+  "id": "deface",
+  "name": "Deface: Blur Faces in Video",
+  "url": "https://apps.apple.com/us/app/deface-blur-faces-in-video/id6767766955",
+  "section": "🎛 Utility Tools > ",
+  "about": "Finds and blurs every face in your videos and photos automatically, 100% on your iPhone or iPad. No uploads, no account.",
+  "deal": "40% OFF Pro Lifetime: $24.99 $14.99 one-time in-app purchase, no code needed, the sale price shows on the upgrade screen in the app. Nov 20 – Dec 2, 2026. Local prices vary."
+ },
+ {
+  "id": "desktopgoods",
+  "name": "Desktop Goods",
+  "url": "https://desktopgoods.app/?utm_source=mrsbf&utm_campaign=bf2026",
+  "section": "🎛 Utility Software > ",
+  "about": "Seven small native Mac menu bar apps that each fix one thing: battery charge limit, copy text from anything, clipboard history, clean screen for calls, hide menu bar icons and more.",
+  "deal": "50% off every app ($4.99 $2.49) and the Toolbox with all 7 apps ($19 $9.50) · BLACKFRIDAY · Applied automatically at checkout, one-time purchase, each license works on 3 Macs · Nov 23 – Dec 1"
+ },
+ {
+  "id": "dripsend",
+  "name": "Drip Send",
+  "url": "https://apps.apple.com/us/app/drip-send-email-outreach/id6761376058",
+  "section": "🌈 Marketing Software > ",
+  "about": "Small, personal email outreach on the Mac: short follow-up sequences sent from your own mailbox, not a bulk sender.",
+  "deal": "Mac app $34.99 $16.99 · Automatically applied: the sale price is set on the App Store, no code. US price; other countries see the local equivalent. All nine Yuzool deals: yuzool.com/apps/black-friday.html · Nov 25 – Dec 2"
+ },
+ {
+  "id": "dubbingmate",
+  "name": "DubbingMate",
+  "url": "https://dubbingmate.com/pricing/?utm_source=awesome_bf&utm_campaign=bf2026",
+  "section": "🤖 AI Tools > ✨ Other AI tools",
+  "about": "Hear YouTube videos read aloud in your language from their subtitles. Chrome extension plus Windows and Mac apps. Free: 72 hours unlimited, then 30 minutes a day in the Chrome extension.",
+  "deal": "40% OFF Full version ($9.99 $5.99, one-time purchase) with code BF2026DM, applied automatically at checkout, Nov 24 - Dec 1, 2026"
+ },
+ {
+  "id": "earlylore",
+  "name": "EarlyLore",
+  "url": "https://earlylore.com/pricing",
+  "section": "🚀 Startup SaaS/Tools > ",
+  "about": "AI product discovery & competitive intelligence across 540K+ products, traffic, Design DNA & 14 MCP tools.",
+  "deal": "25% OFF Annual (Year 1): Pro $144 $108/yr ($9/mo), Max $384 $288/yr ($24/mo); 1-Year Pass eligible. Auto-applied or code BF2026; renews at $144/$384. Nov 24 – Nov 30, 2026 (11:59 PM PT)"
+ },
+ {
+  "id": "etkimagecompressorpro",
+  "name": "ETK Image Compressor Pro",
+  "url": "https://shakster24.gumroad.com/l/fcnkut",
+  "section": "🎛 Utility Tools > ",
+  "about": "Professional offline image compression and enhancement tool featuring ETK+ compression, AI upscaling up to 4×, image repair, noise reduction, batch processing, metadata removal, and secure image transfer.",
+  "deal": "Black Friday 2026: 66% OFF with code ETKBF66. Standard: $30 $10.20 USD, lifetime license."
+ },
+ {
+  "id": "expandi",
+  "name": "Expandi",
+  "url": "https://expandi.io/bfcm-promo/?utm_source=github-twf-nikhila&utm_medium=referral&utm_campaign=bfcm-2026",
+  "section": "📣 Marketing, Social & Lead Gen > ",
+  "about": "LinkedIn and email outreach in one campaign, with a dedicated IP for each LinkedIn account",
+  "deal": "33% OFF for 12 months ($79 → $53 per LinkedIn account/mo, billed yearly) · volume pricing down to $23 · auto-applied · 🟢 Nov 20, 2026 - Dec 4, 2026"
+ },
+ {
+  "id": "flashreader",
+  "name": "Flash Reader",
+  "url": "https://apps.apple.com/app/apple-store/id402491178?pt=283056&ct=bf-github&mt=8",
+  "section": "📌 Productivity Software > ",
+  "about": "Speed reading for iPhone and iPad, one word at a time. Text you paste or share reads free, and Pro opens PDF, EPUB and Word files.",
+  "deal": "Pro Lifetime is half price until December 1: $39.99 in the US, then $79.99 again. · Applied automatically in the App Store. Flash Reader is free to download and Pro Lifetime is an in-app purchase. · Nov 25 – Dec 1"
+ },
+ {
+  "id": "flowspeak",
+  "name": "FlowSpeak",
+  "url": "https://smolkapps.com/flowspeak/?utm_source=github-trungdq88&utm_medium=deal-list&utm_campaign=bf2026#pricing",
+  "section": "🤖 AI Tools > 📖 AI Productivity & Learning Tools",
+  "about": "Local Hold-Ctrl push-to-talk dictation for Mac (Apple Silicon Metal & Intel, macOS 12+) and Linux x86_64. Runs whisper.cpp in-process (~35 ms on M-series), strips um/uh stutters, preserves your clipboard, and lets Ctrl+C / Ctrl+Click cancel cleanly. 25 free dictations included, offline Ed25519 license.",
+  "deal": "34% OFF Lifetime Pro ($29 $19 one-time, up to 3 personal computers, no code needed). Nov 24 – Dec 1, 2026"
+ },
+ {
+  "id": "flurotron",
+  "name": "Flurotron",
+  "url": "https://apps.apple.com/us/app/flurotron/id6822368934",
+  "section": "🎛 Utility Software > ",
+  "about": "Turns your Mac into a glowing '90s hi-fi spectrum analyzer that reacts to anything your Mac plays.",
+  "deal": "60% off ($4.99 → $1.99), one-time purchase · Sale price applied automatically on the Mac App Store. Requires macOS 14.2 or later. · Nov 23 – Dec 2"
+ },
+ {
+  "id": "foliosort",
+  "name": "FolioSort",
+  "url": "https://www.foliosort.app/pricing?utm_source=mrs-bf&utm_medium=deal-list&utm_campaign=bf2026",
+  "section": "🎨 Graphic Software > ",
+  "about": "Photo organizer for Mac and Windows: sorts photos and videos by real EXIF date, camera and place, repairs Google Photos Takeout exports, cleans duplicates and searches your library with on-device AI. No import.",
+  "deal": "25% off the Elite one-time license, €39.99 €29.99 · BLACKFRIDAY · applied automatically on the pricing page; one-time purchase, the same license works on Mac and Windows; free version available · Nov 26 – Nov 30"
+ },
+ {
+  "id": "frameferret",
+  "name": "FrameFerret",
+  "url": "https://frameferret.acgao.com/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026",
+  "section": "🎨 Graphic Software > ",
+  "about": "Import photos and videos from compatible Sony cameras to Apple Photos or a folder on your Mac, over Wi-Fi. A 30-day trial, then a one-time unlock.",
+  "deal": "40% off, $12 → $7.20 · BF26-FRAMEFERRET · one-time purchase · Nov 24 – Dec 1"
+ },
+ {
+  "id": "gitcms",
+  "name": "GitCMS",
+  "url": "https://gitcms.dev/?utm_source=tonybf&utm_medium=deal-list&utm_campaign=bf26#pricing",
+  "section": "👨‍💻 Developer Tools > 💻 Tools & Services",
+  "about": "For agencies moving client sites off WordPress, Webflow or Framer to Astro or Next.js sites built with Claude Code or Cursor: change requests pinned on the live site, a content review board, search data beside every page, all committed to your repo.",
+  "deal": "25% OFF lifetime site licenses for agencies buying 5+ sites, with code BF26: $89 $66.75 per site, one payment, no subscription. First 20 agencies. Nov 24 - Nov 30, 2026"
+ },
+ {
+  "id": "gixolex",
+  "name": "Gixo Lex",
+  "url": "https://gixo.ai/products/legal#plans",
+  "section": "All Black Friday & Cyber Monday 2026 Deals > 🤖 AI Tools & Automation",
+  "about": "Draft and review legal documents from your source material with citations and review controls.",
+  "deal": "64% OFF Lite, $14 → $5/month in the US after a 14-day no-card trial for eligible new users. Local pricing varies. · Validity: Nov 23 – Dec 14, 2026"
+ },
+ {
+  "id": "gixolumen",
+  "name": "Gixo Lumen",
+  "url": "https://gixo.ai/products/presentations#plans",
+  "section": "All Black Friday & Cyber Monday 2026 Deals > 🤖 AI Tools & Automation",
+  "about": "Turn notes, briefs, and source documents into editable presentations with citations and PowerPoint export.",
+  "deal": "60% OFF Lite, $5 → $2/month in the US after a 14-day no-card trial for eligible new users. Local pricing varies. · Validity: Nov 23 – Dec 14, 2026"
+ },
+ {
+  "id": "gixoquill",
+  "name": "Gixo Quill",
+  "url": "https://gixo.ai/products/content#plans",
+  "section": "All Black Friday & Cyber Monday 2026 Deals > 🤖 AI Tools & Automation",
+  "about": "Draft and edit source-grounded articles, guides, and reports, then publish or export them from one workspace.",
+  "deal": "60% OFF Lite, $5 → $2/month in the US after a 14-day no-card trial for eligible new users. Local pricing varies. · Validity: Nov 23 – Dec 14, 2026"
+ },
+ {
+  "id": "glideprompt",
+  "name": "GlidePrompt",
+  "url": "https://apps.microsoft.com/detail/9P5QVX0SN0CL?cid=awesomebf",
+  "section": "Productivity > Miscellaneous Productivity Apps",
+  "about": "Teleprompter for Windows that floats over Zoom, Teams and OBS and stays hidden from screen sharing, so you can read your script while looking at the camera.",
+  "deal": "20% OFF one-time purchase on the Microsoft Store: $9.99 $7.99, no code needed. Until Dec 2, 2026."
+ },
+ {
+  "id": "glowlink",
+  "name": "GlowLink",
+  "url": "https://useglowlink.com/",
+  "section": "Productivity > Other",
+  "about": "10 small pay-once tools for small businesses and landlords (quotes, rental expenses for Schedule E, Google review replies, subscription reminders).",
+  "deal": "25% OFF: All 10 for $149 through Nov 30 (normally $199). No subscription, no code needed. · 2026-11-30"
+ },
+ {
+  "id": "glp1companion",
+  "name": "GLP-1 Companion",
+  "url": "https://apps.apple.com/us/app/glp-1-companion-shot-tracker/id6791031500",
+  "section": "🏃🏻‍♀ Health & Fitness Software > ",
+  "about": "A private iPhone log for weekly GLP-1 shots, injection sites, side effects, weight and protein. No account; records stay on the phone.",
+  "deal": "Pro, one-time $14.99 $7.49 · Automatically applied: the sale price is set on the App Store, no code. US price; other countries see the local equivalent. All nine Yuzool deals: yuzool.com/apps/black-friday.html · Nov 25 – Dec 2"
+ },
+ {
+  "id": "gojiberry",
+  "name": "Gojiberry.ai",
+  "url": "https://gojiberry.ai/?utm_source=github&utm_medium=nikhila&utm_campaign=bf2026",
+  "section": "📣 Marketing, Social & Lead Gen > ",
+  "about": "AI sales agent that finds high-intent prospects and contacts them for you, 24/7",
+  "deal": "40% OFF yearly plan · no code needed · 🟢 Nov 24, 2026 - Dec 2, 2026"
+ },
+ {
+  "id": "grai",
+  "name": "Grai",
+  "url": "https://grai.page",
+  "section": "🤖 AI Tools > ✨ Other AI tools",
+  "about": "Offline cadence gate that flags AI-writing tells before clients do. Runs 8 deterministic rules on drafts offline, scores cadence, and issues a live cryptographic verification link for client work.",
+  "deal": "30% OFF your first billing cycle with code BF2026: Solo Offline $79 $55.30/yr, Agency Protocol $99 $69.30/mo or $790 $553/yr. Nov 24 - Nov 30, 2026"
+ },
+ {
+  "id": "graygrids",
+  "name": "GrayGrids",
+  "url": "https://graygrids.com/",
+  "section": "💻 Developer Tools & SaaS > ",
+  "about": "Developer templates, UI kits, boilerplates for Bootstrap, Tailwind & React",
+  "deal": "Up to 80% OFF, code BLFCM2026 (Nov 16 – Dec 1)"
+ },
+ {
+  "id": "guidejar",
+  "name": "Guidejar",
+  "url": "https://www.guidejar.com?ref=tonybf",
+  "section": "🚀 Startup SaaS/Tools > ",
+  "about": "Hand off projects, onboard users and train your team with interactive guides that explain themselves. Record a process once and Nila, our AI agent, writes the whole guide, adds translations and narrates it. From there, share, embed, export or publish it anywhere.",
+  "deal": "40% OFF on all plans with code BFCM26, Nov 24 - Dec 2, 2026. Pro $11.40/mo (was $19), Plus $15/mo (was $25), Business $41.40/mo (was $69), billed yearly."
+ },
+ {
+  "id": "hbomaxbasicwithads",
+  "name": "HBO Max Basic with Ads",
+  "url": "https://hbomax.com/product",
+  "section": "Software & SaaS > ",
+  "about": "",
+  "deal": "50% off (reg. $10.99/mo) · Price: $5.49/mo for 12 months · US offer for new and returning subscribers; also via Prime Video for eligible Amazon Prime members."
+ },
+ {
+  "id": "headroomformac",
+  "name": "Headroom for Mac",
+  "url": "https://headroomapp.shop",
+  "section": "MacOS Apps > Menu Bar & More",
+  "about": "Shows what fills your disk, what slows your Mac and what starts without asking, and fixes only what you tick: cleaner, byte-exact duplicate finder, disk space map, speed and battery history, security check, startup items and app permissions. Free download and scan. Apple Silicon, macOS 14 or later.",
+  "deal": "30% OFF one-time purchase ($19 → $13.30), no code needed, up to 3 Macs, 30-day refund. · 2026-12-01"
+ },
+ {
+  "id": "heynews",
+  "name": "HeyNews",
+  "url": "https://heynews.co/pricing",
+  "section": "Marketing > Email Marketing",
+  "about": "AI that drafts your newsletter from the blogs, RSS feeds and news sites you follow, in your voice, ready to edit and send. 14-day free trial.",
+  "deal": "50% OFF any plan for 12 months with code BLACKFRIDAY50, monthly plans and add-ons included (Hobbyist $39 → $19.50/mo, Starter $99 → $49.50/mo, Pro $299 → $149.50/mo). New subscriptions. · 2026-11-30"
+ },
+ {
+  "id": "hooktide",
+  "name": "HookTide",
+  "url": "https://hooktide.io/pricing",
+  "section": "🌏 Social Media Tools > ",
+  "about": "AI that learns your LinkedIn writing voice and drafts posts, comments and DMs that sound like you.",
+  "deal": "50% OFF the first year of the Pipeline yearly plan with code BLACKFRIDAY50, applied automatically at yearly checkout ($588 $294, about $24.50/mo; renews at $588), Nov 23 - Dec 1, 2026"
+ },
+ {
+  "id": "hourbloom",
+  "name": "Hourbloom: Time Tracker",
+  "url": "https://apps.apple.com/app/apple-store/id6822326955?pt=129608947&ct=bf-mrs&mt=8",
+  "section": "📌 Productivity Software > ",
+  "about": "Menu bar time tracker for people who bill by the hour. Start a task in one click and watch today's earnings grow at your hourly rate.",
+  "deal": "33% off Pro Lifetime ($59.99 → $39.99, US price) · From Nov 23, automatically applied in the Mac App Store, no code; one-time in-app purchase, no subscription; also on sale in the UK, EU and Ukraine App Stores; regular price elsewhere · Nov"
+ },
+ {
+  "id": "iconjar3",
+  "name": "IconJar 3",
+  "url": "https://geticonjar.com",
+  "section": "🎨 Graphic Software > ",
+  "about": "The icon manager for Mac. Keep every icon you own in one searchable library, then recolor and export to any format or code.",
+  "deal": "One-time license €69 → €59, and €5 off the first year of the yearly plan · Applied automatically at checkout, no code needed. In USD and GBP: $74 → $64 and £69 → £59, $5 or £5 off the first year. Free 7-day trial; IconJar 2 owners get 30% o"
+ },
+ {
+  "id": "inboxshield",
+  "name": "InboxShield",
+  "url": "https://inbox-checker.appwrite.network/",
+  "section": "Deals > ",
+  "about": "Web email DNS deliverability auditor checking SPF 10-lookup limits, 24 DKIM selectors, DMARC and 5 DNSBLs.",
+  "deal": "78% OFF one-time ($2 instead of $9), no code needed (Nov 22 – Dec 2)"
+ },
+ {
+  "id": "inmotionhosting",
+  "name": "InMotion Hosting",
+  "url": "https://www.inmotionhosting.com/deals",
+  "section": "Best live deals right now > ",
+  "about": "",
+  "deal": "Official /deals plus product pages (Nov 12): LIVE BF 2026, November 9 through December 1, 2026 (product footnote: new customer accounts only, valid through Dec 1, 2026 12pm ET). Up to 75% Shared, 73% WordPress, 70% VPS, 50% dedicated; first"
+ },
+ {
+  "id": "jireh",
+  "name": "Jireh",
+  "url": "https://getjireh.com/?ref=bf26-mrs",
+  "section": "🎓 Reference & Education > ",
+  "about": "Bible app for iPhone and iPad: today's verse, passage and prayer, with the whole Bible offline in eleven translations.",
+  "deal": "First year of Jireh Plus Yearly for $14.99 USD, then $29.99 a year · JIREHBF26 · New subscribers; redeem the code on the App Store; free download, Jireh Plus is a subscription; iPhone and iPad, iOS 18+; local prices vary · until Nov 30"
+ },
+ {
+  "id": "kajai",
+  "name": "Kajai",
+  "url": "https://apps.apple.com/app/apple-store/id6778381175?pt=283056&ct=bf-github&mt=8",
+  "section": "🕹 Games > ",
+  "about": "A block puzzle with a temper. Fill a line in one color and it surges, taking the whole board with it.",
+  "deal": "Remove Ads is half price until December 1: $2.49 in the US, then $4.99 again. · Applied automatically in the App Store. Kajai is free to download and Remove Ads is an in-app purchase. · Nov 25 – Dec 1"
+ },
+ {
+  "id": "kiikari",
+  "name": "Kiikari",
+  "url": "https://apps.apple.com/app/id6793062737?pt=283056&ct=bf-github&mt=12",
+  "section": "🛠 Development Software > ",
+  "about": "App Store sales, downloads and reviews in your Mac's menu bar. Kiikari Pro adds Insights and replies to reviews in languages you don't speak.",
+  "deal": "Kiikari Pro is half price until December 1: $9.99 in the US, then $19.99 again. · Applied automatically in the Mac App Store. Kiikari is free to download and Kiikari Pro is an in-app purchase. · Nov 25 – Dec 1"
+ },
+ {
+  "id": "kineticsprintlaunchvideocodekit",
+  "name": "KineticSprint Launch Video Code Kit",
+  "url": "https://kineticsprint-studio.vercel.app/kit.html",
+  "section": "Deals > ",
+  "about": "5 editable HyperFrames + GSAP SaaS/DevTool/9:16 launch video templates + procedural -14 LUFS stereo SFX engine",
+  "deal": "50% OFF Lifetime ($149 → $79), auto-applied (Nov 24 – Nov 30, 2026)"
+ },
+ {
+  "id": "knowiivoiceai",
+  "name": "Knowii Voice AI",
+  "url": "https://www.store.dsebastien.net/product/knowii-voice-ai/",
+  "section": "🎯 Miscellaneous > ",
+  "about": "Press a key, speak, and your words appear in any app. The AI runs on your own computer: no cloud, no subscription. Windows, macOS and Linux.",
+  "deal": "20% OFF with code BLACKFRIDAY2026, Nov 23 - Nov 30, 2026 (23:59 CET). List price €49 (store price on Nov 18, 2026), €39.20 with the code, VAT added at checkout where applicable. One-time payment."
+ },
+ {
+  "id": "kollab",
+  "name": "Kollab",
+  "url": "https://kollab.im/black-friday",
+  "section": "🤖 AI Tools > ",
+  "about": "One shared AI workspace for your team, all major models, 1,000+ apps, unlimited seats, one credit pool. Agents research, create, publish and report on a schedule across 1,000+ connected apps.",
+  "deal": "Annual Pro $168/yr (reg. $216), Max $1,680/yr (reg. $2,160), plus 15% off all credit packs · Auto-applied at checkout, no code needed, no quantity limit. Credit packs never expire, e.g. 15,000 credits $42.50 (reg. $50). Paid workspaces can "
+ },
+ {
+  "id": "kompressor",
+  "name": "Kompressor",
+  "url": "https://apps.apple.com/app/apple-store/id6468196574?pt=123127751&ct=blackfriday.mariuslandwehr.com&mt=8",
+  "section": "🎨 Graphic Software > ",
+  "about": "Fast image converter for Mac: convert, compress and resize 50+ formats like HEIC, WebP, AVIF and RAW, fully offline.",
+  "deal": "47% off the Lifetime unlock ($14 → $7.49) · INDIEAPPSALES2026 · one-time in-app purchase on the Mac App Store; redeem the offer code in the App Store; US price, local prices vary · Nov 27 – Dec 1"
+ },
+ {
+  "id": "lappr",
+  "name": "Lappr",
+  "url": "https://lappr.app/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026",
+  "section": "🏃🏻‍♀ Health & Fitness Software > ",
+  "about": "Count swim laps with your iPhone or iPad on the pool deck. No watch needed. Try three free workouts, then unlock unlimited swimming.",
+  "deal": "40% off, $19 → $11.40 · BF26-LAPPR · one-time purchase · Nov 24 – Dec 1"
+ },
+ {
+  "id": "latwaitranslationplugins",
+  "name": "LATW AI Translation Plugins",
+  "url": "https://latw.ai/black-week/",
+  "section": "AI Tools > Other",
+  "about": "AI translation add-ons for WordPress (WPML, TranslatePress, Polylang and Loco Translate) using your own API key (OpenAI, Claude, Gemini, DeepL). No word quotas, background bulk translation, glossaries, custom prompts and a lifetime fallback version.",
+  "deal": "33% OFF your first year on all Pro plans with code BW33: Pro (1 site) $49 $32.83, Pro 2 $79 $52.93, Pro 5 $109 $73.03, Pro 25 $149 $99.83. Renews at regular price. Starts on 2026-11-24 · 2026-12-02"
+ },
+ {
+  "id": "leveleffect",
+  "name": "Level Effect",
+  "url": "https://www.leveleffect.com/pricing",
+  "section": "Courses & Training > ",
+  "about": "Blue",
+  "deal": "About 17% off the first year of Adventurer ($243.60) or Guardian ($663.60) · Dates: Dec 7 · Vendor advertises 30% off, but that's against monthly billing; against the normal yearly price it's about 17%. Renews at $295 or $805."
+ },
+ {
+  "id": "localvoice",
+  "name": "LocalVoice",
+  "url": "https://tidyware.app/localvoice/?utm_source=mrsbf",
+  "section": "🤖 AI Tools > ",
+  "about": "Transcribe recordings and videos on your Mac without uploading them, export TXT, SRT, VTT or Markdown, and read text or PDFs aloud into M4A files.",
+  "deal": "30% off: $19 → $13.30, one-time purchase · BF2026 · Already applied when you click Buy on tidyware.app; macOS 14+; 14-day refund · Nov 24 – Dec 1"
+ },
+ {
+  "id": "lockabulary",
+  "name": "Lockabulary",
+  "url": "https://arturwitkowski.com/lockabulary/",
+  "section": "🎓 Reference & Education > ",
+  "about": "Learn European Portuguese, Spanish or French vocabulary without opening an app: your Mac blurs the screen now and then for a short quiz, and on iPhone the apps you pick stay locked until you answer.",
+  "deal": "Lifetime unlock $19.99 $12.99 · Mac App Store and App Store, applied automatically, no code; local prices vary; yearly plan not included · Nov 26 – Dec 1"
+ },
+ {
+  "id": "mailbox",
+  "name": "Mailbox",
+  "url": "https://apps.apple.com/app/mailbox-local-smtp/id6760924337",
+  "section": "🛠 Development Software > ",
+  "about": "Catch every email your app sends, right on your Mac. Mailbox runs local SMTP servers, previews HTML on phone screens, flags broken links and Gmail clipping, copies verification codes in one click and mocks SendGrid and Mailgun. No Docker.",
+  "deal": "50% off ($49.99 → $24.99), one-time purchase · Mailbox Pro Lifetime, applied automatically; new subscribers get 50% off the first year ($29.99 → $14.99) or 40% off the first 3 months ($4.99 → $2.99) · Mac on macOS 26+ · Nov 20 – Dec 1"
+ },
+ {
+  "id": "mailmaven",
+  "name": "MailMaven",
+  "url": "https://smallcubed.com/pricing",
+  "section": "Deals > ",
+  "about": "Email app for macOS with tagging, automations, templates and signatures, plus AI through AppleScript and MCP.",
+  "deal": "50% OFF one-time ($75 → $37.50). No code needed (Nov 26 – Dec 1, 2026)"
+ },
+ {
+  "id": "mdbbootstrapprobundle",
+  "name": "MDB Bootstrap Pro/Bundle",
+  "url": "https://mdbootstrap.com/",
+  "section": "AI & Dev Tools > ",
+  "about": "",
+  "deal": "30% off other offers, code BF2026 · Price: MDB AI Bundle $149 · MDB, Material Design for Bootstrap v5. Listed in greatfrontend/black-friday-cyber-monday-deals."
+ },
+ {
+  "id": "memecub",
+  "name": "memecub",
+  "url": "https://memecub.com/pricing?utm_source=mrs-bf&utm_campaign=bf2026",
+  "section": "🤖 AI Tools > ",
+  "about": "Meme search engine your AI agent can use: find reaction memes and GIFs, let AI place memes into a post, or draw a new meme from a line of text. MCP, API and CLI.",
+  "deal": "50% off your first payment on any plan: Hobby $3 $1.50 first month, Pro yearly $90 $45 first year · automatically applied at checkout; once per account; credit packs excluded; renews at the regular price; ends 11:59 PM US Pacific · Nov 24 –"
+ },
+ {
+  "id": "meteormath",
+  "name": "MeteorMath",
+  "url": "https://meteormath.com/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026#meteormath",
+  "section": "🎓 Reference & Education > ",
+  "about": "Turn multiplication practice into space missions, with adaptive review, game coins, and a Star Map families can follow on iPhone, iPad, and Mac. One purchase unlocks the MeteorMath game collection.",
+  "deal": "40% off, $20 → $12 · BF26-METEORMATH · one-time purchase; unlocks the game collection · Nov 24 – Dec 1"
+ },
+ {
+  "id": "microsoftwindows11homeprolifetimelicense",
+  "name": "Microsoft Windows 11 Home / Pro Lifetime License",
+  "url": "https://www.stacksocial.com/sales/microsoft-windows-11-home-5",
+  "section": "Software & SaaS > ",
+  "about": "",
+  "deal": "$9.47 with code Get25 (lifetime license) · Price: $9.47 · Also Windows 11 Pro at the same $9.47 with code Get25: stacksocial.com/sales/microsoft-windows-11-pro-10. Digital delivery."
+ },
+ {
+  "id": "mixpost",
+  "name": "Mixpost",
+  "url": "https://mixpost.app/pricing",
+  "section": "Marketing > Social",
+  "about": "Social media scheduler for better reach with less effort. Creators save hours on scheduling, teams keep every channel in one calendar, and automation fans let Claude or any MCP-ready agent draft and post for them. Built-in analytics show you what works, so you understand your social media presence. Cloud or self-hosted.",
+  "deal": "25% OFF all Cloud plans for 12 months, and 25% OFF the self-hosted license. Automatically applied, Nov 23 - Dec 1, 2026 · 2026-12-01"
+ },
+ {
+  "id": "mobilehackinglab",
+  "name": "Mobile Hacking Lab",
+  "url": "https://ads.mobilehackinglab.com/bf/deals",
+  "section": "Courses & Training > ",
+  "about": "Red",
+  "deal": "Mobile security course bundles from €249, up to 61% off · DFA500 · WEBKIT60 · IOS999 · BF26KU · BF26FCA · Dates: Nov 30 (23:59 CET) · Android and iOS exploitation and forensics bundles; the iOS WebKit course is presale."
+ },
+ {
+  "id": "mockvid",
+  "name": "Mockvid",
+  "url": "https://mockvid.com/?utm_source=bf26-trungdq88",
+  "section": "🌅 Design Tools > ",
+  "about": "Paste a URL, get a 3D animated mockup video of your website on laptop and phone",
+  "deal": "20% OFF Studio, first year: $49 $39.20/yr, Nov 23 - Dec 1, 2026. No code needed."
+ },
+ {
+  "id": "moordeck",
+  "name": "Moordeck",
+  "url": "https://moordeck.com/pricing",
+  "section": "AI & Dev Tools > ",
+  "about": "",
+  "deal": "25% off Pro and Team Annual Year 1, code BF2026 (auto-applied) · Pro $108/yr to $81/yr; Team $348/yr to $261/yr; Founding Solo Lifetime $129 to $79 one-time (first 200 seats) · Expires: 2026-11-30 · Renews at $108/yr Pro and $348/yr Team. V"
+ },
+ {
+  "id": "mopup",
+  "name": "Mopup",
+  "url": "https://mopup.online/?ref=blackfriday-awesome",
+  "section": "👨‍💻 Developer Tools > 💻 Developer macOS Apps",
+  "about": "Mac cleaner that knows developer leftovers: build caches, old node_modules, merged git worktrees, Docker data and dev servers coding agents left running. Also caches, duplicates and old apps. Free to scan.",
+  "deal": "50% OFF lifetime: $19.99 $9.99 one-time for every Mac you own, code BF2026 applied automatically at checkout. Until Nov 30, 2026"
+ },
+ {
+  "id": "morse",
+  "name": "Morse",
+  "url": "https://trymorse.ai/",
+  "section": "AI Tools > Other",
+  "about": "Private AI chat with GPT, Claude, Gemini, DeepSeek and uncensored models in one app, encrypted so even Morse can't read your chats. Pick Anonymous, Private or end-to-end encrypted for each chat.",
+  "deal": "40% OFF your first payment on Pro or Max, monthly or yearly, with code BLACKFRIDAY · 2026-12-01"
+ },
+ {
+  "id": "mutebot",
+  "name": "Mutebot",
+  "url": "https://apps.apple.com/app/id1018611817?pt=283056&ct=bf-github&mt=8",
+  "section": "🎥 Video Software > ",
+  "about": "Mute just the part of a video you pick, or all of it, on iPhone and iPad. Pro takes the watermark off and keeps the picture exactly as you shot it, and most exports finish in seconds.",
+  "deal": "Mutebot Pro is half price until December 1: $0.99 in the US, then $1.99 again. · Applied automatically in the App Store. Mutebot is free to download and Mutebot Pro is an in-app purchase. · Nov 25 – Dec 1"
+ },
+ {
+  "id": "narva",
+  "name": "Narva",
+  "url": "https://narva.app/#pricing",
+  "section": "🎥 Video Software > ",
+  "about": "Turn a topic, a script or your own voiceover into a finished faceless YouTube video: narration in 32 languages, AI images or real stock footage, captions, music and direct upload. Long videos up to 60 minutes and Shorts.",
+  "deal": "30% off the first month of any plan: Starter $29 → $20.30, Creator $79 → $55.30, Pro $199 → $139.30 · NARVA30 · First month only, then the regular monthly price. New subscriptions. Code is applied automatically at checkout. · Nov 23 – Nov 3"
+ },
+ {
+  "id": "note",
+  "name": "Note",
+  "url": "https://apps.apple.com/app/note/id1602765272",
+  "section": "Productivity > 📱 Productivity Mobile Apps",
+  "about": "For iPhone & iPad. Keep what you really care about in focus with this mini notes app & widget. It’s like a pinned note in its own app.",
+  "deal": "40% OFF One-time purchase: $4.99 $2.99. November 19 – December 1, 2026."
+ },
+ {
+  "id": "noteporter",
+  "name": "NotePorter",
+  "url": "https://tidyware.app/noteporter/?utm_source=mrsbf",
+  "section": "🤖 AI Tools > ",
+  "about": "Local MCP server for Apple Notes: Claude, Cursor and Shortcuts can search, read, create and append to your notes, on your Mac. Never deletes notes.",
+  "deal": "30% off: $15 → $10.50, one-time purchase · BF2026 · Already applied when you click Buy on tidyware.app; macOS 14+; 14-day refund · Nov 24 – Dec 1"
+ },
+ {
+  "id": "omnibrain",
+  "name": "Omni Brain",
+  "url": "https://omnibraingames.com",
+  "section": "🏃🏻‍♀ Health & Fitness Software > ",
+  "about": "80+ short brain games for memory, focus and logic on iPhone and Android, each teaching a real technique and explaining your mistakes.",
+  "deal": "Lifetime Premium $39.99, paid once: the price of one year of Premium · Sale price applied automatically on the in-app paywall. One-time purchase on iPhone and Android, never renews. Local prices vary. · until Dec 1"
+ },
+ {
+  "id": "onbuzz",
+  "name": "OnBuzz",
+  "url": "https://onbuzz.loxia.ai/surprise/lULhJM9vUvF0MY9vIEcNAWj-?utm_source=mrsbf&utm_campaign=bf2026",
+  "section": "🤖 AI Tools > ",
+  "about": "A small team of AI agents with their own roles, tools and models that hand work to each other, in the browser or as a desktop app.",
+  "deal": "Black Friday gift box: every signed-in account opens one free surprise gift (800 in total), on top of the free plan with 100K credits and no card. · Sign in and open the gift box at the link. No code needed. One gift per account while they "
+ },
+ {
+  "id": "onemorechance",
+  "name": "One More Chance: Block Puzzle",
+  "url": "https://apps.apple.com/app/apple-store/id6820129103?pt=129573320&ct=bf-mrs&mt=8",
+  "section": "🕹 Games > ",
+  "about": "Block puzzle to play solo or together: pass one device around or play nearby offline. 2 players free, up to 6 with Premium.",
+  "deal": "40% off Premium, $4.99 → $2.99 · Sale price applied automatically to the one-time Premium in-app purchase on the App Store. US price; local prices vary. · Nov 23 – Nov 30"
+ },
+ {
+  "id": "pagethen",
+  "name": "PageThen",
+  "url": "https://pagethen.com/#pricing",
+  "section": "Deals > ",
+  "about": "Visual changelog for the web: capture any page or element on a schedule, keep every version and drag between two captures to see what changed (web, Chrome extension)",
+  "deal": "$79 lifetime deal, one-time payment with 5GB cloud storage, no code needed"
+ },
+ {
+  "id": "pagi",
+  "name": "Pagi",
+  "url": "https://apps.apple.com/app/apple-store/id1586446074?pt=123127751&ct=blackfriday.mariuslandwehr.com&mt=8",
+  "section": "📌 Productivity Software > ",
+  "about": "A calm writing app for morning pages on Mac, iPhone and iPad, with a focus mode that highlights your current sentence, a word counter and writing goals.",
+  "deal": "50% off the Lifetime unlock ($9.99 → $4.99) · INDIEAPPSALES2026 · one-time in-app purchase; redeem the offer code in the App Store; US price, local prices vary · Nov 27 – Dec 1"
+ },
+ {
+  "id": "papermac",
+  "name": "PaperMac",
+  "url": "https://getpaper.sh/mac/",
+  "section": "Productivity > Window, Screen, Clipboard, Utilities",
+  "about": "Scrolling window manager for macOS 27: windows sit side by side on a Strip you scroll through, so opening one never shrinks the rest. The free version has no time limit.",
+  "deal": "50% OFF with code BF2026: Pro $39 $19.50, Lifetime $99 $49.50. One-time purchase, no subscription, 1 person on up to 5 Macs. Until Dec 1, 2026, 11:59 PM PT"
+ },
+ {
+  "id": "peektheday",
+  "name": "PeekTheDay",
+  "url": "https://peektheday.com?ref=mrs",
+  "section": "📌 Productivity Software > ",
+  "about": "A thin line under your Mac's menu bar shows your whole day. Peek to see what's next, drag on it to block time.",
+  "deal": "67% off ($15 → $5) · one-time purchase, up to 5 Macs, no code needed · Nov 24 – Nov 30"
+ },
+ {
+  "id": "pizazoo",
+  "name": "Pizazoo",
+  "url": "https://pizazoo.com",
+  "section": "🎛 Utility Software > ",
+  "about": "Screenshot organizer for Mac, iPhone and iPad: sorts your screenshots into categories on your device and finds the text in them. No account, no ads, free to download.",
+  "deal": "Pizazoo Pro (one-time): Mac 30% off, 1 Mac $15 → $10.50; iPhone and iPad $14.99 → $9.99, no code · BLACKFRIDAY30 · Code for the Mac, any Pro plan on pizazoo.com. iPhone and iPad in the App Store, no code: 3 devices $24.99 → $16.99, 5 device"
+ },
+ {
+  "id": "plorp",
+  "name": "Plorp",
+  "url": "https://apps.apple.com/app/apple-store/id6758669786?pt=283056&ct=bf-github&mt=8",
+  "section": "🕹 Games > ",
+  "about": "A candy merge puzzle where the shapes aren't round: chocolate bars stack, donuts roll, lollipops hook.",
+  "deal": "Remove Ads is half price until December 1: $2.49 in the US, then $4.99 again. · No code needed. Plorp is free to download and Remove Ads is an in-app purchase. · Nov 25 – Dec 1"
+ },
+ {
+  "id": "pocketscreen",
+  "name": "Pocket Screen - Window PiP",
+  "url": "https://lp.toybird.com/en/pocket-screen/",
+  "section": "🎛 Utility Software > ",
+  "about": "Keep PDFs and tutorials in a floating view while you work on one Mac screen. Unlimited supports up to four views with no time limit. New in November: AI Monitor keeps a supported Codex or Claude Code conversation in view while working in another app.",
+  "deal": "20% off Unlimited one-time purchase ($9.99 to $7.99 in the U.S.) · MRSBF20 · One-time Unlimited IAP; U.S. price, local prices vary; first 500. Redeem on the App Store. Nov 27 00:00–Dec 1 23:59 PT. · Nov 27 – Dec 1"
+ },
+ {
+  "id": "pocketbar",
+  "name": "PocketBar",
+  "url": "https://pocketbar.site",
+  "section": "Software & SaaS > ",
+  "about": "",
+  "deal": "20% off Pro, code POCKETBAR20 · Pro $9.99, one-time payment · Expires: 2026-11-30 · Android apps in the Mac menu bar. Free to start with a 7-day Pro trial; direct download from the developer site, not the Mac App Store. Until Nov 30, 2026. "
+ },
+ {
+  "id": "porabar",
+  "name": "PoRaBar",
+  "url": "https://porabar.com/?utm_source=mRs-Black-Friday-Deals&utm_medium=deal-list&utm_campaign=bf26",
+  "section": "🏝 Lifestyle > ",
+  "about": "Radio, podcasts, audiobooks and your own Jellyfin music in the Mac menu bar, with an iPhone app. Free for 60 days.",
+  "deal": "40% off the one-time unlock ($2.99 → $1.79) · no code, the price drops in the App Store; one purchase covers Mac and iPhone · Nov 27 – Nov 30"
+ },
+ {
   "id": "porkbun",
   "name": "Porkbun",
   "url": "https://porkbun.com/",
   "section": "Hosting, Cloud & Domains",
   "about": "Domain registrar with rolling BF deals",
   "deal": "Black Friday Bun-anza: new .com registrations for $7 while supplies last, no per-person limit, no minimums; stock restocked in drops through November 2026"
+ },
+ {
+  "id": "postsaver",
+  "name": "Post Saver",
+  "url": "https://apps.apple.com/us/app/post-saver-save-social-posts/id6816399878",
+  "section": "iOS Apps > Productivity",
+  "about": "Save posts from 41 platforms, including X, Threads, Instagram, YouTube, TikTok, Reddit and Bilibili, as clean text, images and videos with the original link kept. No account needed.",
+  "deal": "40% OFF Lifetime Pro (regular $17.99), applied automatically on the App Store, no code needed. Starts on 2026-11-27 · 2026-11-30"
+ },
+ {
+  "id": "postsyncer",
+  "name": "PostSyncer",
+  "url": "https://postsyncer.com/pricing?utm_source=awesome-bfcm&utm_campaign=black-friday-2026",
+  "section": "🌏 Social Media Tools > ",
+  "about": "Social media scheduler for Instagram, TikTok, LinkedIn, X, YouTube, Threads, Facebook, Pinterest, Bluesky, Google Business Profile, Mastodon and Telegram. Plan posts on a calendar, or tell ChatGPT, Claude or Cursor what to post through its MCP server. Free plan: 2 accounts, 20 posts a month.",
+  "deal": "40% OFF the first year of any yearly plan, no code needed: Starter $288 $172.80, Pro $468 $280.80, Agency $948 $568.80. Nov 24 - Dec 1, 2026."
+ },
+ {
+  "id": "pound",
+  "name": "Pound",
+  "url": "https://trypound.app",
+  "section": "Software & SaaS > ",
+  "about": "",
+  "deal": "80% off · Price: $0.99 · iOS drink pacing app, no subscription."
+ },
+ {
+  "id": "rdpyon",
+  "name": "RDPyon",
+  "url": "https://rdpyon.com/?utm_source=awesome_bf&utm_campaign=bf2026",
+  "section": "🎛 Utility Tools > ",
+  "about": "Open your Mac from Windows' built-in Remote Desktop (mstsc). Install one app on the Mac: nothing to install on Windows, no relay server, no account. 14-day free trial.",
+  "deal": "30% OFF ($19 $13.30, one-time purchase) with code BF2026RDP, Nov 24 - Dec 1, 2026"
+ },
+ {
+  "id": "readysetsay",
+  "name": "ReadySetSay",
+  "url": "https://apps.apple.com/us/app/readysetsay/id6769089999",
+  "section": "🎓 Reference & Education > ",
+  "about": "Calm picture-phrase games for iPad and iPhone for young children who learn language in whole phrases (echolalia, gestalt language processors, late talkers), played together with a grown-up. A toy for shared play, not therapy.",
+  "deal": "Full Access, the other nine games, one-time purchase ($4.99 $1.99) · No code needed; redeem in the App Store. Free download with three free games; Full Access is one in-app purchase, no subscription. Other countries' stores have their own l"
+ },
+ {
+  "id": "revenuebear",
+  "name": "Revenue Bear",
+  "url": "https://apps.apple.com/us/app/revenue-bear/id6788975042",
+  "section": "📈 Business Software > ",
+  "about": "Your App Store Connect, Stripe, Paddle, Gumroad, Lemon Squeezy and Polar sales in one calm feed on iPhone, with widgets.",
+  "deal": "Revenue Bear Pro, one-time $5.99 $2.99 · Automatically applied: the sale price is set on the App Store, no code. US price; other countries see the local equivalent. All nine Yuzool deals: yuzool.com/apps/black-friday.html · Nov 25 – Dec 2"
+ },
+ {
+  "id": "reviso",
+  "name": "Reviso",
+  "url": "https://getreviso.io/pricing/",
+  "section": "Developer Tools > APIs, Tools & SaaS",
+  "about": "WordPress plugin for client feedback and sign-off: clients pin comments on the live page with no login, and you resolve them inside Bricks, Elementor or Gutenberg. The core plugin is free.",
+  "deal": "25% OFF the first year of Pro or Agency annual plans with code BLACKFRIDAY25: Pro $66.75 (was $89), Agency $209.25 (was $279) · 2026-11-30"
+ },
+ {
+  "id": "sensei",
+  "name": "Sensei",
+  "url": "https://cindori.com/sensei",
+  "section": "Productivity > Window, Screen, Clipboard, Utilities",
+  "about": "System performance monitoring for the Mac",
+  "deal": "50% OFF $59 $29.50 one-time (or $14.50 first year), free Sensei 3 upgrade (Apple silicon, macOS 26+), no code needed, Nov 24 - Dec 1, 2026"
+ },
+ {
+  "id": "settle",
+  "name": "Settle",
+  "url": "https://apps.apple.com/us/app/settle-invoice-quote-maker/id6798133676",
+  "section": "📈 Business Software > ",
+  "about": "Invoices, quotes and proposals for freelancers on iPhone, iPad and Mac, with client signatures and payment tracking.",
+  "deal": "Settle Pro Lifetime, one-time $59.99 $29.99 · Automatically applied: the sale price is set on the App Store, no code. US price; other countries see the local equivalent. All nine Yuzool deals: yuzool.com/apps/black-friday.html · Nov 25 – De"
+ },
+ {
+  "id": "shadowcoachboxing",
+  "name": "ShadowCoach Boxing",
+  "url": "https://apps.apple.com/us/app/shadowcoach-boxing/id6792245431",
+  "section": "🏃🏻‍♀ Health & Fitness Software > ",
+  "about": "A shadowboxing coach for iPhone that calls out combos and gives feedback on your form through the camera.",
+  "deal": "ShadowCoach Premium, one-time $59.99 $29.99 · Automatically applied: the sale price is set on the App Store, no code. US price; other countries see the local equivalent. All nine Yuzool deals: yuzool.com/apps/black-friday.html · Nov 25 – De"
+ },
+ {
+  "id": "shieldfive",
+  "name": "ShieldFive",
+  "url": "https://shieldfive.com/pricing?utm_source=github&utm_medium=listing&utm_campaign=mrs-bf-2026",
+  "section": "🎩 Security Software > ",
+  "about": "Encrypted cloud storage: every file and filename is encrypted on your device before upload, so the server only stores ciphertext. Web, Android, Windows and Mac.",
+  "deal": "Up to 50% off the first year of annual plans · New customers, applied automatically: 1 TB €30, 2 TB €48, 5 TB €115 for the first year, then the normal yearly price. Or 5 TB Lifetime €249 one-time until Nov 30. 30-day full refund. · until De"
+ },
+ {
+  "id": "shiftapp",
+  "name": "ShiftApp",
+  "url": "https://shiftapp.com/black-friday",
+  "section": "Productivity > 🛠 Productivity Tools & Services",
+  "about": "Employee scheduling on web, iOS and Android. Plan shifts, manage time off and share updates with staff.",
+  "deal": "88% OFF the first 8 months on new Essential monthly orders. Essential E10: $24 $2.88 USD/month for 8 months, then $24/month before tax. Code BLACKFRIDAY2026 auto-applied. Nov 23 – Dec 12, 2026."
+ },
+ {
+  "id": "shotscreen",
+  "name": "ShotScreen",
+  "url": "https://shotscreen.app/?utm_source=mRs-Black-Friday-Deals&utm_medium=deal-list&utm_campaign=bf26",
+  "section": "🎛 Utility Software > ",
+  "about": "Screenshot tool for Mac with scrolling capture, OCR, annotation and screen recording. Free: 5 captures a day, all tools included.",
+  "deal": "40% off Pro (€8.99 → €5.39) · BLACKFRIDAY · code works on Gumroad; the Mac App Store shows the sale price automatically (it varies by country); one-time purchase · Nov 27 – Nov 30"
+ },
+ {
+  "id": "showsharkhome",
+  "name": "ShowShark Home",
+  "url": "https://showshark.app/home/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026",
+  "section": "🎥 Video Software > ",
+  "about": "Stream the movies, shows, music, and photos you already own from a Mac to your Apple devices. Buy it once and keep that version; the Player is free.",
+  "deal": "40% off, $99 → $59.40 · BF26-SHOWSHARK · one-time purchase · Nov 24 – Dec 1"
+ },
+ {
+  "id": "skywall",
+  "name": "Skywall",
+  "url": "https://getskywall.app/?ref=bf26-mrs",
+  "section": "🎥 Video Software > ",
+  "about": "Live TV wall for iPhone, iPad, Mac and Apple Vision Pro: up to nine official live channels on one screen, with sound from the one you tap.",
+  "deal": "33% off Skywall Full ($5.99 → $3.99 USD) · Automatically applied on the App Store; no code needed; free download, Skywall Full is the one-time in-app purchase that unlocks everything; local prices vary · Nov 27 – Nov 30"
+ },
+ {
+  "id": "socialapis",
+  "name": "SocialAPIs",
+  "url": "https://socialapis.io/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026&utm_content=trungdq88",
+  "section": "👨‍💻 Developer Tools > 💻 Tools & Services",
+  "about": "REST API for public Facebook and Instagram data: pages, posts, Marketplace listings, Meta Ad Library ads and Instagram profiles. Free plan with 200 calls a month, no card.",
+  "deal": "30% OFF the first 3 months of monthly plans with code BLACKDATA30: Pro $4.99 $3.49/mo, Ultra $49 $34.30/mo, Mega $179 $125.30/mo. Or 17% OFF the first year of yearly plans with the same code: Pro $53.89 $44.73/yr, Ultra $529.20 $439.24/yr, "
+ },
+ {
+  "id": "spaceclear",
+  "name": "Spaceclear",
+  "url": "https://spaceclear.app/?ref=bf26-mrs",
+  "section": "🎛 Utility Software > ",
+  "about": "Phone cleaner for iPhone and iPad that works on the device: duplicates, lookalike photos, big videos and iCloud space.",
+  "deal": "25% off Spaceclear Pro ($7.99 → $5.99 USD) · Automatically applied on the App Store; no code needed; free download and scan, Spaceclear Pro is a one-time in-app purchase, no subscription; iPhone and iPad, iOS 18+; local prices vary · Nov 27"
+ },
+ {
+  "id": "spyalert",
+  "name": "SpyAlert",
+  "url": "https://spyalert.acgao.com/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026",
+  "section": "🎩 Security Software > ",
+  "about": "Check devices on your Wi-Fi for camera evidence, on iPhone, iPad, and Mac. Start with a free scan summary; a one-time unlock opens device details. It cannot detect every camera.",
+  "deal": "40% off, $10 → $6 · BF26-SPYALERT · one-time purchase · Nov 24 – Dec 1"
+ },
+ {
+  "id": "supaseo",
+  "name": "SupaSEO",
+  "url": "https://supaseo.dev",
+  "section": "🔎 SEO > ",
+  "about": "Bring-your-own-key local SEO and AI search tracker with 15×15 Google Maps grids, six-engine AI citation tracking, white-label reports and an MCP server.",
+  "deal": "$10 off the $99 Founding Lifetime Deal ($89 one-time) · BF10 · one-time payment · Nov 23 – Dec 1"
+ },
+ {
+  "id": "suzumemail",
+  "name": "Suzume Mail",
+  "url": "https://apps.apple.com/us/app/suzume-mail/id6771950111",
+  "section": "📌 Productivity Software > ",
+  "about": "Email for Mac, iPhone and iPad that reads like a chat, with on-device summaries and reply help. Works with your existing accounts over IMAP.",
+  "deal": "One unlock for all devices $19.99 $9.99 · Automatically applied: the sale price is set on the App Store, no code. US price; other countries see the local equivalent. All nine Yuzool deals: yuzool.com/apps/black-friday.html · Nov 25 – Dec 2"
+ },
+ {
+  "id": "swept",
+  "name": "Swept: Photo & Video Cleaner",
+  "url": "https://apps.apple.com/app/id6786665535",
+  "section": "🎛 Utility Software > ",
+  "about": "Clean your iPhone camera roll by swiping: left to Trash, right to keep. Nothing is deleted until you empty Swept's Trash. Free to download with ads.",
+  "deal": "40% off Swept Pro ($4.99 → $2.99) · One-time in-app purchase: unlimited Smart Triage, Shrink Videos, Storage Coach insights and no ads. Applied automatically in the App Store, no code needed. US price. · Nov 24 – Dec 1"
+ },
+ {
+  "id": "tanksalot",
+  "name": "Tanks-a-Lot",
+  "url": "https://tanks-a-lot.app/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026",
+  "section": "🕹 Games > ",
+  "about": "Short tank battles with up to 10 players on one local network, or fight offline bots, on iPhone, iPad, Mac, and Apple TV. Free to try; one purchase unlocks the full game.",
+  "deal": "40% off, $5 → $3 · BF26-TANKSALOT · one-time purchase · Nov 24 – Dec 1"
+ },
+ {
+  "id": "textlore",
+  "name": "Textlore",
+  "url": "https://textlore.app/?ref=mrs-bf",
+  "section": "📌 Productivity Software > ",
+  "about": "Mac app that searches years of iMessage and WhatsApp history in seconds and pulls every book, show, restaurant and app friends recommended over text into 1 list. Everything stays on your Mac.",
+  "deal": "30% off the one-time license · BF2026 · one-time purchase, no account · Nov 20 – Dec 1"
+ },
+ {
+  "id": "thecrossstitchpatternmaker",
+  "name": "The Cross Stitch Pattern Maker",
+  "url": "https://thecrossstitchpatternmaker.com/pricing",
+  "section": "🎨 Graphic Software > ",
+  "about": "Turn a photo into a cross stitch pattern in your browser, edit every stitch, add backstitch, get a DMC floss list and export a PDF.",
+  "deal": "32% off Lifetime Pro: $40.12 once (regular $59) · No coupon code; discount is applied automatically at checkout. Lifetime plan only. Monthly ($3.99/month) and yearly ($24/year) plans are not discounted. Ends 11:59 p.m. US Pacific time. · No"
+ },
+ {
+  "id": "transom",
+  "name": "Transom",
+  "url": "https://transommac.com/pricing?ref=mrsbf",
+  "section": "🎛 Utility Software > ",
+  "about": "Window manager for Mac. Snap windows with shortcuts or by dragging, or scroll them as columns. It saves your layout and puts it back when you plug in or unplug a monitor. 14-day free trial.",
+  "deal": "One-time licence $19 → $9 (1 Mac), $29 → $14 (3 Macs) · No code needed. Apple silicon, macOS 14 or later. · Nov 24 – Dec 1"
+ },
+ {
+  "id": "troupe",
+  "name": "Troupe",
+  "url": "https://apps.apple.com/us/app/troupe-plan-split-trips/id6791836108",
+  "section": "🏝 Lifestyle > ",
+  "about": "Plan a group trip together on iPhone: the itinerary, who is coming, bookings and the shared costs in one place.",
+  "deal": "Troupe Pro Lifetime $29.99 $14.99 · Automatically applied: the sale price is set on the App Store, no code. US price; other countries see the local equivalent. All nine Yuzool deals: yuzool.com/apps/black-friday.html · Nov 25 – Dec 2"
+ },
+ {
+  "id": "twinsweep",
+  "name": "TwinSweep",
+  "url": "https://tidyware.app/twinsweep/?utm_source=mrsbf",
+  "section": "🎛 Utility Software > ",
+  "about": "Find and clean duplicate files and photos, even in your Photos library, built to avoid deleting the wrong thing. Every clean-up can be undone.",
+  "deal": "30% off: $19 → $13.30, one-time purchase · BF2026 · Already applied when you click Buy on tidyware.app; macOS 14+; 14-day refund · Nov 24 – Dec 1"
+ },
+ {
+  "id": "twofold",
+  "name": "Twofold",
+  "url": "https://twofolddiagrams.com/#pricing",
+  "section": "Deals > Launch Deals",
+  "about": "Native Mac editor for Mermaid ER diagrams: type the text or draw on the canvas and both stay in sync, in Mermaid files or Markdown docs.",
+  "deal": "Launch price $19.50 · code LAUNCHWEEK · One-time license, 3 Macs $19.50 (regular $39) · Enter the code in the in-app checkout after the 14-day free trial. Direct download only, not the Mac App Store version · until Nov 30"
+ },
+ {
+  "id": "udemie",
+  "name": "Udemie",
+  "url": "https://www.udemie.study/pricing?utm_source=twf-nikhila&utm_medium=referral&utm_campaign=blackfriday2026",
+  "section": "📚 Courses & Books > ",
+  "about": "Offline study app for Windows and Linux: download the Udemy, Coursera and LinkedIn Learning courses you already have access to and study with a player, notes and AI tools",
+  "deal": "20% OFF lifetime ($175 → $140) · code BLACKFRIDAY20 · 30% OFF annual ($80 → $56) · code BLACKFRIDAY30 · 🟢 Nov 24, 2026 - Dec 1, 2026"
+ },
+ {
+  "id": "untilnxt",
+  "name": "Until Nxt",
+  "url": "https://margaritasi.github.io/until-nxt-legal/black-friday.html",
+  "section": "Productivity > 📱 Productivity Mobile Apps",
+  "about": "An iPhone app for countdowns to the events that matter, with Home Screen widgets, your own photos and a daily quote.",
+  "deal": "60% OFF the first year of Yearly: $14.99 $5.99, then $14.99/year. Code UNTILNXTBF26 (redeem). New subscribers. US pricing; local prices may vary. November 23 – December 1, 2026."
+ },
+ {
+  "id": "usefulstudiopro",
+  "name": "Useful Studio Pro",
+  "url": "https://theusefulmedia.com/studio?ref=mrs-bf",
+  "section": "🎥 Video Software > ",
+  "about": "Claude Code plugin that turns plain prompts into motion-graphic videos on your Mac: app launch videos, reels and App Store previews, with voiceover and music.",
+  "deal": "30% off, $349 $244 · STUDIOBF · Nov 25 – Dec 1"
+ },
+ {
+  "id": "vaneform",
+  "name": "Vaneform",
+  "url": "https://vaneform.com/pricing",
+  "section": "🔍 SEO Tools > ",
+  "about": "Website traffic checker for any domain: estimated monthly visits, traffic sources, top countries, ranking keywords, backlinks and Core Web Vitals, each with its provider and date. Plus rankings across 105 countries and 118 categories, a REST API and an MCP server.",
+  "deal": "20% OFF Pro Annual Year 1: $99 $79/yr ($6.58/mo) with code VFBF2026 (auto-applied for new Pro Annual buyers). Renews at $99/yr; Monthly $12/mo unchanged. Nov 24 - Nov 30, 2026 (11:59 PM PT)"
+ },
+ {
+  "id": "ventraipcomau",
+  "name": "VentraIP.com.au",
+  "url": "https://ventraip.com.au/blog/black-friday-sale-2026/",
+  "section": "📝 Domain Registration > Classic TLDs",
+  "about": "",
+  "deal": "TLD: .com · Sale Price: 30% off · Nov 12, 2026 09:00 - Dec 3, 2026 23:59 · New registrations only, up to 5 years"
+ },
+ {
+  "id": "vibefather",
+  "name": "VibeFather",
+  "url": "https://vibefather.ai/pricing",
+  "section": "AI Tools > Developer Tools",
+  "about": "Original website templates for vibe coding: every template has a live demo, the exact prompt and a DESIGN.md, so your AI coding agent can build the same site.",
+  "deal": "35% OFF Lifetime Pro ($199 → $129) and the first year of Pro Yearly for $49 (was $69), no code needed. Starts on 2026-11-25 · 2026-11-30"
+ },
+ {
+  "id": "videopoint",
+  "name": "Videopoint",
+  "url": "https://videopoint.pl/promocja/24963",
+  "section": "Promocje security 2026 > ",
+  "deal": "kursy video - z kodem BLACK każdy kurs 38,90 PLN"
+ },
+ {
+  "id": "wpimportexport",
+  "name": "WP Import Export",
+  "url": "https://wpimportexport.com/",
+  "section": "Software & SaaS > ",
+  "about": "WordPress plugin that syncs content and media between sites, imports and exports CSV, Excel, XML and JSON (including WooCommerce), and runs jobs from AI agents through MCP",
+  "deal": "100% off first payment · Expires: 2026-11-30 · Code FSBFCM2026, once per customer, then regular price. WordPress plugin syncing content and media between sites, MCP support."
+ },
+ {
+  "id": "wristkeeper",
+  "name": "Wristkeeper",
+  "url": "https://apps.apple.com/app/id6819904928",
+  "section": "🏝 Lifestyle > ",
+  "about": "iPhone app for analog watch collectors. Picks which watch to wear each morning from the weather and how long each one has sat in the box, logs wears and shows cost per wear.",
+  "deal": "Pro Lifetime $59.99 $39.99 · no code needed, App Store price · Nov 25 – Dec 1"
+ },
+ {
+  "id": "zorga",
+  "name": "Zorga",
+  "url": "https://www.organize.io/black-friday/?utm_source=awesome-bf",
+  "section": "Productivity > Tasks, Organize, Planning",
+  "about": "A personal effectiveness app that turns your vision and goals into a 2-minute daily plan: vision board and goals (Compass), Daily Action Plan, habits, focus sessions, Weekly Review and an AI Coach that knows your goals, with built-in training. Web app that installs on iPhone and Android.",
+  "deal": "50% OFF: Lifetime $99 (was $199) or $49 your first year on Annual, with a 7-day free trial. Applied automatically, no code needed. Ends Dec 2."
  }
 ]

@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/business-finance/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**179 live deals**, 80 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**185 live deals**, 82 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [Personal Finance & Investing](#personal-finance--investing) (54)
 - [Accounting & Invoicing](#accounting--invoicing) (18)
@@ -10,6 +10,7 @@
 - [Team & Operations](#team--operations) (40)
 - [Startup & Indie Tools](#startup--indie-tools) (24)
 - [Legal & Documents](#legal--documents) (15)
+- [More](#more) (6)
 
 ## Personal Finance & Investing
 
@@ -81,7 +82,7 @@
 | [BooksRail](https://apps.microsoft.com/detail/9PL6X2RTW7T9?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Windows double-entry accounting for rental property, stored in an encrypted file. | 50% off one-time unlock |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/booksrail/) |
 | [EasyPay Gibraltar](https://x.com/EasyPay_News) | Payroll and HR software for Gibraltar businesses. | 50% off new subscriptions and upgrades |  |  | [details](https://bf26-deals.pages.dev/deal/easypaygibraltar/) |
 | [Invoice Factory](https://apps.apple.com/us/app/id6744819252?utm_source=awesome-bf-2026&utm_medium=github&utm_campaign=bfcm2026) | Invoice maker and bookkeeping app for freelancers and small businesses. | 50% off first year of Premium, $179.99 → $89.99 |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/invoicefactory/) |
-| [InvoiceMama](https://invoicemama.com/) | Quick invoicing for small businesses. | 50% off every paid plan |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/invoicemama/) |
+| [Invoice Mama](https://invoicemama.com/pricing) | Quick invoicing for small businesses. | 50% off every paid plan |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/invoicemama/) |
 | [Invoiceur](https://invoiceur.app) | Simple invoicing app for independent professionals on Apple devices. | 50% off lifetime, now $89 | `BLACKFRIYAY26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/invoiceur/) |
 | [Evinco business software](https://www.evinco-software.com/eng/) | Billing, cheque printing and receipt software for small businesses. | 30% off lifetime business software licenses |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/evincobusinesssoftware/) |
 | [Odie](https://apps.apple.com/app/id6804490803) | Automatic iPhone mileage log that keeps trips on the device. | 30% off first year of Pro | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/odie/) |
@@ -97,7 +98,7 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
-| [Tidio](https://tidio.pxf.io/ai) | Live chat with the Lyro AI support agent. | AI agent for $1, 99% off AI costs for 2 months |  |  | [details](https://bf26-deals.pages.dev/deal/tidio/) |
+| [Tidio](https://affiliate.tidio.com/black-friday) | Live chat with the Lyro AI support agent. | AI agent for $1, 99% off AI costs for 2 months |  |  | [details](https://bf26-deals.pages.dev/deal/tidio/) |
 | [NiroHelp](https://nirohelp.com/pricing/) | AI order support plugin for WooCommerce stores. | Up to 70% off |  |  | [details](https://bf26-deals.pages.dev/deal/nirohelp/) |
 | [NoForm AI](https://noform.ai/) | AI website assistant that qualifies leads and answers visitors. | 70% off first month, now $29 | `BF2026NOFORM` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/noformai/) |
 | [HeroThemes](https://herothemes.com/) | WordPress help desk inbox and knowledge base plugins. | Up to 60% off inbox and knowledge base plugins |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/herothemes/) |
@@ -219,3 +220,14 @@
 | [PermWatch](https://permwatch.com/alerts/) | Tracks employment-based green card cases and estimates PERM decision dates. | 10% off first year of Pro, $49 → $44.10 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/permwatch/) |
 | [airSlate](https://partnerstack.signnow.com/coupons) | Document workflow and e-signature platform including SignNow. | Save $144 to $240 on yearly plans |  |  | [details](https://bf26-deals.pages.dev/deal/airslate/) |
 | [doPodpisu](https://dopodpisu.pl/kwalifikowany-podpis-jednorazowy/) | Qualified electronic signatures sold in signature packs. | 100 qualified e-signatures 260 → 100 PLN |  |  | [details](https://bf26-deals.pages.dev/deal/dopodpisu/) |
+
+## More
+
+| Product | What it is | Offer | Code | Ends | |
+|---|---|---|---|---|---|
+| [BoxAudit](https://getboxaudit.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 41% OFF one-time 90-day box audit ($49 → $29) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/boxaudit/) |
+| [Guidejar](https://www.guidejar.com?ref=tonybf) |  | 40% OFF on all plans with code BFCM26, Nov 24 - Dec 2, 2026 | `BFCM26` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/guidejar/) |
+| [EarlyLore](https://earlylore.com/pricing) |  | 25% OFF Annual (Year 1): Pro $144 $108/yr ($9/mo), Max $384 $288/yr ($24/mo) | `BF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/earlylore/) |
+| [Clino](https://clino.ch/en?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 20% OFF the annual plan (CHF 238.80 → CHF 191) |  | Nov 29 | [details](https://bf26-deals.pages.dev/deal/clino/) |
+| [Revenue Bear](https://apps.apple.com/us/app/revenue-bear/id6788975042) |  | Revenue Bear Pro, one-time $5.99 $2.99 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/revenuebear/) |
+| [Settle](https://apps.apple.com/us/app/settle-invoice-quote-maker/id6798133676) |  | Settle Pro Lifetime, one-time $59.99 $29.99 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/settle/) |

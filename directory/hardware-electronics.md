@@ -2,14 +2,15 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/hardware-electronics/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**147 live deals**, 7 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**91 live deals**, 8 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
-- [Phones, Tablets & Computers](#phones-tablets--computers) (34)
-- [Audio](#audio) (17)
-- [Smart Home](#smart-home) (15)
-- [Accessories & Peripherals](#accessories--peripherals) (60)
+- [Phones, Tablets & Computers](#phones-tablets--computers) (8)
+- [Audio](#audio) (11)
+- [Smart Home](#smart-home) (9)
+- [Accessories & Peripherals](#accessories--peripherals) (41)
 - [Cameras & Drones](#cameras--drones) (7)
-- [Retailer Sales](#retailer-sales) (14)
+- [Retailer Sales](#retailer-sales) (13)
+- [More](#more) (2)
 
 ## Phones, Tablets & Computers
 
@@ -17,36 +18,10 @@
 |---|---|---|---|---|---|
 | [Lenovo ThinkPad / Yoga / Legion](https://www.lenovo.com/us/en/deals/black-friday-sale/) | Lenovo laptops and desktops, including ThinkPad, Yoga and Legion. | 27% to 68% off, X1 Carbon about $1,524 |  |  | [details](https://bf26-deals.pages.dev/deal/lenovothinkpadyogalegion/) |
 | [RadioShack](https://x.com/radioshack) | Electronics retailer. | Up to 40% off gaming, smart home, audio and more |  |  | [details](https://bf26-deals.pages.dev/deal/radioshack/) |
-| [ASUS Vivobook Flip](https://www.amazon.com/ASUS-Vivobook-Flip-Laptop-Copilot/dp/B0GYMK8HVT) | Convertible OLED touchscreen Copilot+ laptop. | 21% off, $1,499.99 → $1,179.99 |  |  | [details](https://bf26-deals.pages.dev/deal/asusvivobookflip/) |
-| [ASUS Vivobook S16 Copilot+ PC](https://www.amazon.com/dp/B0GWFX7BY3) | 16-inch OLED Copilot+ laptop with Ryzen AI 7. | $1,599.99 → $1,169.99 |  |  | [details](https://bf26-deals.pages.dev/deal/asusvivobooks16copilotpc/) |
-| [ASUS Vivobook S16](https://www.amazon.com/dp/B0GYMR7XKV) | Slim 16-inch Windows laptop. | 20% off, $1,299.99 → $1,044.99 |  |  | [details](https://bf26-deals.pages.dev/deal/asusvivobooks16/) |
-| [Apple iPad mini](https://www.amazon.com/dp/B0DK3XM94S) | Apple 8.3-inch tablet with the A17 Pro chip. | 17% off, $599 → $499 |  |  | [details](https://bf26-deals.pages.dev/deal/appleipadmini/) |
-| [ASUS Vivobook 16](https://www.amazon.com/dp/B0HCPYBK67) | 16-inch everyday Windows laptop. | 15% off, $499.99 → $424.99 |  |  | [details](https://bf26-deals.pages.dev/deal/asusvivobook16/) |
-| [ASUS Vivobook Go](https://www.amazon.com/ASUS-Vivobook-Laptop-Processor-E1504FA-AS31/dp/B0GYML9ZDB) | 15.6-inch budget ASUS laptop with Windows 11. | 15% off, $499.99 → $424.99 |  |  | [details](https://bf26-deals.pages.dev/deal/asusvivobookgo/) |
-| [Alienware Aurora Gaming Desktop](https://www.amazon.com/dp/B0F9MPVT38) | Alienware gaming desktop PC. | 12% off, $3,185 → $2,799.99 |  |  | [details](https://bf26-deals.pages.dev/deal/alienwareauroragamingdesktop/) |
-| [15-inch M5 MacBook Air 16GB/512GB](https://www.amazon.com/dp/B0GR114BV7) | 15-inch Apple laptop with M5 chip, 16GB memory and 512GB SSD. | $250 off, $1,499 → $1,249 |  |  | [details](https://bf26-deals.pages.dev/deal/15inchm5macbookair16gb512gb/) |
-| [ABS Cyclone M Aqua Gaming PC](https://www.walmart.com/ip/ABS-Cyclone-M-Aqua-Gaming-PC-Windows-11-Intel-Core-i5-14400F-GeForce-RTX-5060-16GB-DDR4-1TB-ABSWMT14400F5060/20940963207) | Prebuilt gaming PC with an Intel Core i5-14400F and RTX 5060. | Prebuilt gaming PC for $749 |  |  | [details](https://bf26-deals.pages.dev/deal/abscyclonemaquagamingpc/) |
-| [Acer Aspire 16 AI laptop](https://www.amazon.com/Acer-Copilot-Display-Processor-A16-52M-58A1/dp/B0GZ8KCPJL) | 16-inch Copilot+ Windows laptop. | $150 off, $799.99 → $649.99 |  |  | [details](https://bf26-deals.pages.dev/deal/aceraspire16ailaptop/) |
-| [Alienware Aurora ACT1250 Gaming PC](https://www.microcenter.com/product/698045/alienware-aurora-act1250-gaming-pc) | Gaming PC with Core Ultra 9 285, RTX 5070 Ti and 32GB DDR5. | $2,299.99 in store, RTX 5070 Ti and 32GB DDR5 |  |  | [details](https://bf26-deals.pages.dev/deal/alienwareauroraact1250gamingpc/) |
-| [Amazon Kindle 16GB (2024](https://www.amazon.com/dp/B0CNVCQZG1) | Basic Kindle e-reader with 16GB storage. | $149.99 → $119.99 |  |  | [details](https://bf26-deals.pages.dev/deal/amazonkindle16gb/) |
-| [Amazon Kindle Colorsoft 16GB](https://www.amazon.com/dp/B0CGVSKR1G) | Kindle e-reader with a color display and 16GB storage. | $289.99 → $169.99 |  |  | [details](https://bf26-deals.pages.dev/deal/amazonkindlecolorsoft16gb/) |
-| [Amazon Kindle Scribe 32GB](https://www.amazon.com/dp/B0DVQQGMCZ) | Kindle e-reader with a large screen you can write on. | $499.99 → $349.99 |  |  | [details](https://bf26-deals.pages.dev/deal/amazonkindlescribe32gb/) |
-| [Apple 2026 Mac mini](https://9to5toys.com/2026/11/02/apple-2026-mac-mini-deals-black-friday-month/) | Apple Mac mini desktop with M6 or M5 Pro chip. | Up to $150 off, from $780 |  |  | [details](https://bf26-deals.pages.dev/deal/apple2026macmini/) |
-| [Apple iPad mini A17 Pro 512GB](https://www.amazon.com/dp/B0DK3XL18V) | Compact Apple tablet with A17 Pro chip and 512GB storage. | $899 → $799 |  |  | [details](https://bf26-deals.pages.dev/deal/appleipadminia17pro512gb/) |
-| [Apple M5 MacBook Air](https://appleinsider.com/articles/26/11/03/amazon-slashes-15-inch-macbook-air-to-1299-with-early-black-friday-deal) | Apple MacBook Air laptop with M5 chip. | $250 off 15-inch, now $1,249; 13-inch $1,099.99 |  |  | [details](https://bf26-deals.pages.dev/deal/applem5macbookair/) |
-| [Apple MacBook Air 13.6-inch Laptop (2026)](https://www.amazon.com/dp/B0GR1JTFP8) | Apple 13.6-inch MacBook Air laptop, 2026 model. | $989 with free shipping |  |  | [details](https://bf26-deals.pages.dev/deal/applemacbookair136inchlaptop/) |
-| [Apple MacBook Air 13.6-inch M5 16GB/512GB](https://www.bestbuy.com/product/apple-macbook-air-13-inch-laptop-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-memory-512gb-ssd-midnight/JJGCQLKXL7/sku/6397846) | 13.6-inch Apple laptop with M5 chip, 16GB memory and 512GB SSD. | M5 16GB/512GB for $1,049 |  |  | [details](https://bf26-deals.pages.dev/deal/applemacbookair136inchm516gb512gb/) |
-| [Apple MacBook Pro 16.3-inch](https://www.microcenter.com/product/718510/apple-macbook-pro-with-proled-xdr-display-16-mj334ll-a-(late-2026) | Apple 16-inch MacBook Pro laptop. | $4,499.99 in store only |  |  | [details](https://bf26-deals.pages.dev/deal/applemacbookpro163inch/) |
-| [Apple Refurbished Excellent 10.2-inch iPad (7th Generation) Wi-Fi 32GB Space Gray](https://www.bestbuy.com/product/apple-10-2-inch-ipad-7th-generation-with-wi-fi-32gb-space-gray/JJ8XJYFCJP) | Refurbished 10.2-inch iPad, 7th generation, Wi-Fi, 32GB. | $106 refurbished, excellent condition |  |  | [details](https://bf26-deals.pages.dev/deal/applerefurbishedexcellent102inchipad/) |
-| [ASUS Chromebook CM15](https://www.amazon.com/dp/B0GWKJYZWH) | 15-inch ASUS Chromebook laptop. | $409.99 → $339.99 |  |  | [details](https://bf26-deals.pages.dev/deal/asuschromebookcm15/) |
-| [ASUS ROG NUC 16 Gaming Mini PC](https://www.amazon.com/dp/B0HB1WMGCF) | Compact ASUS ROG gaming mini PC. | $2,399 → $2,099 plus 3 months PC Game Pass |  |  | [details](https://bf26-deals.pages.dev/deal/asusrognuc16gamingminipc/) |
-| [ASUS TUF Gaming A16 Laptop](https://www.walmart.com/ip/High-Performance-Laptop-Computer-for-Everyday-Use/20135016910) | 16-inch ASUS gaming laptop with Ryzen 7 and RTX 5060. | $1,099 with RTX 5060, Ryzen 7, 16GB |  |  | [details](https://bf26-deals.pages.dev/deal/asustufgaminga16laptop/) |
-| [ASUS Zenbook S14 14-inch OLED Laptop](https://www.bestbuy.com/product/asus-zenbook-s14-14-oled-3k-touchscreen-intel-core-ultra-9-processor-2026-32gb-memory-1tb-storage-copilot-pc-scandinavian-white/JJGHGS78FR/sku/6671015) | Light 14-inch ASUS laptop with a 3K OLED touchscreen and Core Ultra 9. | $1,299 with Core Ultra 9, 32GB RAM, 1TB SSD |  |  | [details](https://bf26-deals.pages.dev/deal/asuszenbooks1414incholedlaptop/) |
-| [Azure 3 Gaming DT prebuilt](https://www.costco.com/p/-/4201003783) | Prebuilt gaming desktop PC sold at Costco. | $999 prebuilt gaming PC with 2 free games |  |  | [details](https://bf26-deals.pages.dev/deal/azure3gamingdtprebuilt/) |
+| [Apple](https://www.apple.com/shop/gifts/black-friday-event) | Apple devices like iPhone, iPad, Mac, Apple Watch and AirPods. | **Soon.** Apple Gift Card up to $300 with an eligible iPhone, iPad, Mac, Apple Watch, AirPods or… |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/apple/) |
 | [Dell](https://www.dell.com/en-us/shop/deals) | Laptops, desktops, monitors and accessories from Dell. | Up to $749 off laptops, Dell 14 Plus $1,299.99 |  |  | [details](https://bf26-deals.pages.dev/deal/dell/) |
 | [Geekom](https://www.geekompc.com/) | Mini PCs for compact desktops and home labs. | Daily rotating discounts |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/geekom/) |
 | [Google Store (Pixel)](https://store.google.com/us/magazine/black-friday-deals) | Pixel phones and other Google devices. | Up to $400 off Pixel 11 Pro, $200 off Pixel 11 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/googlestore/) |
-| [Reddit](https://www.reddit.com/r/buildapcsales/comments/1y1iten/) | PC parts combo: Ryzen 7 9800X3D, X870E motherboard, 32GB DDR5, SSD and AIO cooler. | Ryzen 7 9800X3D, X870E board, 32GB RAM combo $899.99 |  |  | [details](https://bf26-deals.pages.dev/deal/reddit/) |
 | [reMarkable](https://remarkable.com/) | E-ink paper tablets for writing and reading. | $100 off Paper Pro bundles, $300 off Super Bundle |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/remarkable/) |
 | [Zima](https://shop.zimaspace.com/) | x86 single-board servers and home NAS devices. | $15 to $60 off single-board servers |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/zima/) |
 
@@ -60,15 +35,9 @@
 | [strandberg guitars](https://x.com/strandbergGuit) | Ergonomic headless guitars. | Up to 30% off select models |  |  | [details](https://bf26-deals.pages.dev/deal/strandbergguitars/) |
 | [Thonk](https://www.thonk.co.uk/) | DIY synth kits and Eurorack parts. | Up to 30% off synth kits |  |  | [details](https://bf26-deals.pages.dev/deal/thonk/) |
 | [Walrus Audio](https://www.walrusaudio.com/) | Guitar effects pedals. | 20% to 30% off pedals |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/walrusaudio/) |
-| [Beats Powerbeats Pro 2 Earbuds with HR Monitor](https://www.amazon.com/Beats-Powerbeats-Wireless-Bluetooth-Earbuds/dp/B0DT2344N3) | Wireless workout earbuds with heart rate tracking. | 28% off, $250 → $180 |  |  | [details](https://bf26-deals.pages.dev/deal/beatspowerbeatspro2earbudswithhrmonitor/) |
 | [Sonos](https://www.sonos.com/en-us/shop/promotional-offers) | Wireless speakers, soundbars and headphones. | Up to 25% off speakers, soundbars and headphones |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/sonos/) |
 | [Roon](https://roon.app) | Music server hardware and software. | 10% off Nucleus One, up to 20% off Nucleus Titan |  |  | [details](https://bf26-deals.pages.dev/deal/roon/) |
 | [Louder Than Liftoff](https://louderthanliftoff.com/collections/black-friday-2026) | Boutique studio audio hardware and modules. | Up to $500 off studio hardware |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/louderthanliftoff/) |
-| [AirPods Pro 3](https://www.amazon.com/dp/B0FQFB8FMG) | Apple wireless earbuds with active noise cancellation. | $70 off, now $169.99 |  |  | [details](https://bf26-deals.pages.dev/deal/airpodspro3/) |
-| [AirPods Max 2](https://www.amazon.com/dp/B0GSS4SGZR) | Apple over-ear noise-cancelling headphones. | $130 off |  |  | [details](https://bf26-deals.pages.dev/deal/airpodsmax2/) |
-| [Apple AirPods Max USB-C Over-Ear Bluetooth Headphones](https://flashdealfeed.com/walmart-black-friday-deals/) | Apple over-ear Bluetooth headphones with USB-C and noise cancellation. | $449 → $419.99 |  |  | [details](https://bf26-deals.pages.dev/deal/appleairpodsmaxusbcoverearbluetoothheadphones/) |
-| [Apple AirPods Pro 3](https://www.walmart.com/ip/AirPods-Pro-3/17835006350) | Apple wireless earbuds with active noise cancellation. | $169.99 → $149 |  |  | [details](https://bf26-deals.pages.dev/deal/appleairpodspro3/) |
-| [Beats 360 Wireless Over-Ear Headphones](https://www.amazon.com/dp/B0HBZPBVQJ) | Wireless over-ear headphones with noise cancellation. | $349.99 → $249 |  |  | [details](https://bf26-deals.pages.dev/deal/beats360wirelessoverearheadphones/) |
 | [FreqInOut FO1](https://x.com/FreqportMusic) | Hardware insert that lets you use outboard gear like a DAW plugin. | $599 → $499 for the hardware audio insert in the US |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/freqinoutfo1/) |
 | [Zenteek](https://zenteek.app) | Native macOS music player for local, NAS and cloud libraries. | $20 off |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/zenteek/) |
 
@@ -78,14 +47,8 @@
 |---|---|---|---|---|---|
 | [Eufy](https://www.eufy.com/eufy-sales) | Security cameras, robot vacuums and baby monitors. | Up to 63% off cameras, robot vacuums and baby gear |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/eufy/) |
 | [Video Wall Live](https://www.videowalllive.com/blackfriday) | Shows all your Ring cameras live at once on TVs, computers and the web. | 60% off, $4.99 → $1.99 per camera/mo |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/videowalllive/) |
-| [Amazon Echo Time smart clock](https://www.amazon.com/Introducing-Echo-Time-the-smart-clock-with-Alexa-that-keeps-your-day-on-track/dp/B0GFY8SZTK) | Smart clock with Alexa built in. | 50% off, now $100 |  |  | [details](https://bf26-deals.pages.dev/deal/amazonechotimesmartclock/) |
 | [SONOFF](https://x.com/sonoff_global) | Smart home switches, sensors and hubs. | Up to 40% off plus up to $50 spend and save |  | Dec 20 | [details](https://bf26-deals.pages.dev/deal/sonoff/) |
 | [Amazon Devices](https://www.amazon.com/) | Amazon's own devices: Kindle e-readers, Echo speakers, Fire tablets and Fire TV. | Up to 35% off Kindle, Echo, Fire TV and more |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/amazondevices/) |
-| [Amazon eero Pro 7 Tri-band mesh Wi-Fi 7 router 2-pack](https://www.amazon.com/dp/B0HPD3RRVT) | Tri-band Wi-Fi 7 mesh router, two-pack. | $200 off 2-pack, $599.98 → $399.99 |  |  | [details](https://bf26-deals.pages.dev/deal/amazoneeropro7tribandmeshwifi7router2pack/) |
-| [Amazon Ember Fire TV 50-inch](https://www.usatoday.com/story/shopping/deals/black-friday/2026/11/18/amazon-ember-fire-tv-deal/92842120007/) | 50-inch Amazon smart TV with Fire TV built in. | Record low, $240 |  |  | [details](https://bf26-deals.pages.dev/deal/amazonemberfiretv50inch/) |
-| [Amazon Fire TV Stick 4K Plus](https://www.amazon.com/dp/B0F7Z4QZTT) | 4K streaming stick for TVs with Alexa voice remote. | $29.99 |  |  | [details](https://bf26-deals.pages.dev/deal/amazonfiretvstick4kplus/) |
-| [Anker SOLIX E10 Power Dock and Extra Battery Home Backup System](https://www.amazon.com/dp/B0GFKD7DD7) | Whole-home battery backup system with expandable capacity. | $500 off, $7,799 → $7,299 |  |  | [details](https://bf26-deals.pages.dev/deal/ankersolixe10powerdockandextrabatteryhomebackupsystem/) |
-| [Anker SOLIX S5000 Portable Power Station](https://www.amazon.com/dp/B0HCZZ39DX) | 5kWh portable power station for home backup. | $3,599.99 → $2,499.99 |  |  | [details](https://bf26-deals.pages.dev/deal/ankersolixs5000portablepowerstation/) |
 | [Deeper Connect Air](https://shop.deeper.network/pages/black-friday-air) | Hardware router with a built-in decentralized VPN and no subscription. | $100 off, $374 → $274 | `QMDXY` |  | [details](https://bf26-deals.pages.dev/deal/deeperconnectair/) |
 | [Noviscan](https://secufor.net/black-week/) | Face recognition for your IP cameras that alerts you to unknown faces. | 30-day free trial of Premium, then €9.90/mo | `BLACKFRIDAY26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/noviscan/) |
 | [Ring](https://ring.com/black-friday-cyber-monday-deals) | Video doorbells and security cameras. | Doorbells from $39.99, cameras from $49.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/ring/) |
@@ -115,8 +78,6 @@
 | [Singularity Computers](https://singularitycomputers.com/black-friday-25-off-storewide-with-coupon-bfcm2026/) | Custom water-cooled PC builds and parts. | 25% off all PC cases and cooling parts | `BFCM2026` |  | [details](https://bf26-deals.pages.dev/deal/singularitycomputers/) |
 | [The Worker Ant](https://x.com/TheWorkerAnt) | Titanium EDC gear. | 25% off everything |  |  | [details](https://bf26-deals.pages.dev/deal/theworkerant/) |
 | [Alphacool](https://x.com/alphacool) | PC water cooling parts. | 10% off storewide, 20% off water cooling bundles |  |  | [details](https://bf26-deals.pages.dev/deal/alphacool/) |
-| [Amazon eero 7 Dual-band Mesh Wi-Fi 7 Router](https://www.amazon.com/dp/B0D955ZMSR) | Dual-band Wi-Fi 7 mesh router system. | 20% off, $399.99 → $319.99 |  |  | [details](https://bf26-deals.pages.dev/deal/amazoneero7dualbandmeshwifi7router/) |
-| [Apple Watch SE 3](https://9to5toys.com/2026/11/16/apple-watch-amazon-black-friday-deal/) | Apple's entry-level smartwatch. | 20% off, $249 → $199 (40mm) |  |  | [details](https://bf26-deals.pages.dev/deal/applewatchse3/) |
 | [Garmin](https://www.garmin.com/en-US/) | GPS sport watches and cycling gear. | Up to $360 off watches, 20% off bike gear |  |  | [details](https://bf26-deals.pages.dev/deal/garmin/) |
 | [GL.iNet](https://www.gl-inet.com/) | OpenWrt travel routers and VPN gateways. | Up to 20% off |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/glinet/) |
 | [Ham Radio DX shop](https://x.com/HamRadioDX) | Ham radio digital interfaces and accessories. | 20% off everything |  |  | [details](https://bf26-deals.pages.dev/deal/hamradiodxshop/) |
@@ -124,24 +85,7 @@
 | [Oura Ring Gen 4](https://ouraring.com/) | Smart ring that tracks sleep, recovery and activity. | 10 to 20% off plus a free month of membership |  |  | [details](https://bf26-deals.pages.dev/deal/ouraringgen4/) |
 | [Whoop 5.0](https://www.whoop.com/) | Wearable that tracks strain, sleep and recovery, sold as a membership. | Up to $60 off annual, 20% off apparel |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/whoop50/) |
 | [Yubico](https://www.yubico.com/store/2026/black-friday-sale/) | YubiKey hardware security keys for two-factor login. | 15% off security keys, up to 4 keys |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/yubico/) |
-| [Apple Watch Series](https://www.amazon.com/dp/B0HJ9SNKPN) | Apple smartwatch, 46mm GPS model. | 14% off, $499 → $429 |  |  | [details](https://bf26-deals.pages.dev/deal/applewatchseries/) |
-| [Apple Watch Series 12](https://consequence.net/2026/11/apple-watch-series-12-black-friday-amazon-deal/) | Apple Watch Series 12 smartwatch. | $70 off, $399 → $329 |  |  | [details](https://bf26-deals.pages.dev/deal/applewatchseries12/) |
-| [Apple Watch Ultra GPS + Cellular 49mm Natural Titanium Milanese Loop](https://www.amazon.co.uk/dp/B0FQFNNLBH) | Rugged 49mm titanium Apple smartwatch with GPS and cellular. | 12% off, £749 → £659 |  |  | [details](https://bf26-deals.pages.dev/deal/applewatchultragpscellular49mmnaturaltitaniummilaneseloop/) |
-| [Acer Nitro 31.5-inch QHD Curved Gaming Monitor](https://www.amazon.com/dp/B0DC4XJ59F) | 31.5-inch QHD curved gaming monitor from Acer. | $229.99 → $179.99 |  |  | [details](https://bf26-deals.pages.dev/deal/acernitro315inchqhdcurvedgamingmonitor/) |
-| [Alienware 27 inch 4K QD-OLED 240Hz Gaming Monitor AW2725Q](https://www.dell.com/en-us/shop/monitors/apd/alienware-27-4k-qd-oled-gaming-monitor-aw2725q/aw2725q_monitor/-) | 27-inch 4K QD-OLED 240Hz gaming monitor. | $599, $569 with member discount |  |  | [details](https://bf26-deals.pages.dev/deal/alienware27inch4kqdoled240hzgamingmonitoraw2725q/) |
-| [Alienware 32 inch 4K 240Hz QD-OLED Gaming Monitor](https://www.dell.com/en-us/shop/computer-monitors/apd/alienware-32-4k-qd-oled-gaming-monitor/aw3225qf_monitor/-) | 32-inch 4K 240Hz QD-OLED gaming monitor from Alienware. | $699, $665 with member discount, plus 9% back |  |  | [details](https://bf26-deals.pages.dev/deal/alienware32inch4k240hzqdoledgamingmonitor/) |
-| [Alienware AW2725DF 27-inch 1440p 360Hz QD-OLED Gaming Monitor](https://www.amazon.com/dp/B0CZSGWLD5) | 27-inch 1440p 360Hz QD-OLED gaming monitor from Alienware. | All-time low, $379 |  |  | [details](https://bf26-deals.pages.dev/deal/alienwareaw2725df27inch1440p360hzqdoledgamingmonitor/) |
-| [Alienware AW2726DM 27-inch 1440p 240Hz QD-OLED Gaming Monitor](https://www.bestbuy.com/product/alienware-aw2726dm-27-qd-oled-qhd-240hz-0-03ms-freesync-premium-pro-gaming-monitor-with-hdr-hdmi-displayport-black/J3K4L6WZQ6) | 27-inch 1440p 240Hz QD-OLED gaming monitor. | $279.99 |  |  | [details](https://bf26-deals.pages.dev/deal/alienwareaw2726dm27inch1440p240hzqdoledgamingmonitor/) |
-| [Alienware AW3926QW 39 inch 5k2k 165Hz OLED Monitor](https://www.dell.com/en-us/shop/monitors/apd/alienware-39-5k-oled-gaming-monitor-aw3926qw/aw3926qw/-) | 39-inch ultrawide 5K2K 165Hz OLED gaming monitor. | $1,000, $900 with member discount |  |  | [details](https://bf26-deals.pages.dev/deal/alienwareaw3926qw39inch5k2k165hzoledmonitor/) |
-| [Amazon Basics 27-inch Gaming Monitor 165Hz 1080p](https://computers.woot.com/offers/amazon-basics-27-gaming-monitor-6) | 27-inch 1080p 165Hz gaming monitor. | Now $67.99 |  |  | [details](https://bf26-deals.pages.dev/deal/amazonbasics27inchgamingmonitor165hz1080p/) |
-| [AMD Ryzen 7 5800X3D 10th Anniversary Edition](https://www.newegg.com/amd-ryzen-7-5800x3d-10th-anniversary-edition-ryzen-7-5000-series-vermeer-zen-3-socket-am4-desktop-cpu-processor/p/19-113-940) | AMD desktop CPU with 3D V-Cache for gaming. | Doorbuster price $269 |  |  | [details](https://bf26-deals.pages.dev/deal/amdryzen75800x3d10thanniversaryedition/) |
-| [AOC G27MC36N 27 inch Gaming Monitor](https://www.walmart.com/ip/20268761082?selectedSellerId=0) | 27-inch 1080p 180Hz gaming monitor. | 27-inch 180Hz monitor for $69.98 |  |  | [details](https://bf26-deals.pages.dev/deal/aocg27mc36n27inchgamingmonitor/) |
-| [Apple Studio Display 27-inch 5K](https://www.amazon.com/dp/B0GR1PJYT8) | Apple 27-inch 5K external display. | $1,599 → $1,399 |  |  | [details](https://bf26-deals.pages.dev/deal/applestudiodisplay27inch5k/) |
-| [Apple Watch Series 11](https://www.walmart.com/ip/Apple-Watch-Series-11-GPS-46mm-Jet-Black-Aluminum-Case-with-Black-Sport-Band-M-L/17819857674) | Apple smartwatch with health and fitness tracking. | $100 off, 42mm GPS $399 → $299 |  |  | [details](https://bf26-deals.pages.dev/deal/applewatchseries11/) |
-| [Apple Watch Series 11 GPS + Cellular 42mm](https://www.amazon.co.uk/dp/B0FQFW63SJ) | Apple Watch Series 11 with GPS and cellular, titanium case. | £60 off, £599 → £539 |  |  | [details](https://bf26-deals.pages.dev/deal/applewatchseries11gpscellular42mm/) |
 | [Arduino](https://store-usa.arduino.cc/) | Microcontroller boards and IoT kits for electronics projects. | Daily rotating discounts |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/arduino/) |
-| [ASUS ROG PG32UCDM3 32-inch 4K 240Hz QD-OLED Monitor](https://www.amazon.com/dp/B0G31KVQ1H) | 32-inch 4K 240Hz QD-OLED gaming monitor. | $1,299 → $999.99 |  |  | [details](https://bf26-deals.pages.dev/deal/asusrogpg32ucdm332inch4k240hzqdoledmonitor/) |
-| [ASUS ROG XG27AQWMG 27-inch 1440p 280Hz Tandem OLED Monitor](https://www.amazon.com/dp/B0FP152SJW) | 27-inch 1440p 280Hz tandem OLED gaming monitor. | All-time low, $399.99 |  |  | [details](https://bf26-deals.pages.dev/deal/asusrogxg27aqwmg27inch1440p280hztandemoledmonitor/) |
 | [Bambu Lab](https://us.store.bambulab.com/) | Consumer and prosumer 3D printers and filament. | Discounts on all printers |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/bambulab/) |
 | [Corsair](https://www.corsair.com/) | PC components, gaming peripherals and prebuilt PCs. | Discounts on components, peripherals and prebuilt PCs |  | Nov 26 | [details](https://bf26-deals.pages.dev/deal/corsair/) |
 | [Creality](https://store.creality.com/pages/sale) | 3D printers, filament and accessories. | Daily discounts on 3D printers and accessories |  | Nov 29 | [details](https://bf26-deals.pages.dev/deal/creality/) |
@@ -178,7 +122,6 @@
 | [Amazon](https://www.amazon.com/blackfriday) | Online retailer selling electronics, home goods, fashion and more. | Up to 60% off electronics, beauty, fashion and toys |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/amazon/) |
 | [Target](https://www.target.com/) | Retailer selling electronics, toys, home goods and more. | Up to 50% off gifts, up to $100 off Apple devices |  | Nov 29 | [details](https://bf26-deals.pages.dev/deal/target/) |
 | [Store Pickup Alert](https://storepickupalert.com/) | Phone alerts when sold-out iPhones, consoles or GPUs appear for store pickup. | 20% off your first month | `BLACKFRIDAY20` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/storepickupalert/) |
-| [Apple Black Friday 2026](https://www.apple.com/shop/gifts/black-friday-event) | Apple gift card with purchase of iPhone, iPad, Mac, Watch or AirPods. | **Soon.** Up to $300 gift card with eligible purchases |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/appleblackfriday2026/) |
 | [Best Buy](https://www.bestbuy.com/black-friday) | US electronics retailer with sales on laptops, TVs and appliances. | Doorbusters like MacBook Air M5 $1,049, save $250 |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/bestbuy/) |
 | [Costco](https://www.costco.com/o/-/black-friday) | Membership warehouse store selling electronics, home goods and more. | Member deals like an RTX 5060 gaming PC $300 off |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/costco/) |
 | [Micro Center](https://www.microcenter.com/) | US computer retailer selling PC parts, laptops and Macs. | Deals on gaming laptops, GPUs, CPUs and Macs |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/microcenter/) |
@@ -187,3 +130,10 @@
 | [Samsung](https://www.samsung.com/us/offer/black-friday/) | Samsung's US store for TVs, monitors, phones and appliances. | Up to $1,500 off OLED TVs, $720 off monitor |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/samsung/) |
 | [SAPSAN](https://sapsan-sklep.pl/) | Polish shop for physical security products. | Free shipping on orders from 350 PLN |  |  | [details](https://bf26-deals.pages.dev/deal/sapsan/) |
 | [Walmart](https://www.walmart.com/shop/deals) | Walmart's online and in-store Black Friday sale. | Storewide discounts, Walmart+ early access |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/walmart/) |
+
+## More
+
+| Product | What it is | Offer | Code | Ends | |
+|---|---|---|---|---|---|
+| [Covert Instruments](https://covertinstruments.com/) |  | 20–30% off most tools plus free gifts |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/covertinstruments/) |
+| [Beelink](https://www.bee-link.com/pages/black-friday-cyber-monday) |  | Up to 17% off selected mini PCs and bundles | `BF495` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/beelink/) |

@@ -2,13 +2,14 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/design/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**148 live deals**, 56 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**150 live deals**, 56 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [UI Kits & Templates](#ui-kits--templates) (46)
 - [Icons, Fonts & Illustrations](#icons-fonts--illustrations) (8)
 - [Design & Prototyping Tools](#design--prototyping-tools) (49)
 - [Mockups & Screenshots](#mockups--screenshots) (6)
 - [Stock Photos, Video & Music](#stock-photos-video--music) (39)
+- [More](#more) (2)
 
 ## UI Kits & Templates
 
@@ -182,3 +183,10 @@
 | [Lens Distortions](https://lensdistortions.com/) | Library of light leaks, lens flares and VFX overlays. | 25% off the first year of all-access effects |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/lensdistortions/) |
 | [123RF](https://www.123rf.com) | Stock photos, vectors, video and audio. | 20% off all plans |  |  | [details](https://bf26-deals.pages.dev/deal/123rf/) |
 | [FlippedNormals](https://flippednormals.com/) | Marketplace for 3D assets, Blender add-ons and art tutorials. | Discounted Blender add-ons and bundles rotate every 48h |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/flippednormals/) |
+
+## More
+
+| Product | What it is | Offer | Code | Ends | |
+|---|---|---|---|---|---|
+| [Backdrop](https://cindori.com/backdrop) |  | 30% OFF Lifetime $29.99 $20.99 one-time, no code needed, Nov 24 - Dec 1, 2026 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/backdrop/) |
+| [Mockvid](https://mockvid.com/?utm_source=bf26-trungdq88) |  | 20% OFF Studio, first year: $49 $39.20/yr, Nov 23 - Dec 1, 2026 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/mockvid/) |

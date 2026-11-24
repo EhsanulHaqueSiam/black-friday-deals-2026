@@ -2,11 +2,12 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/gaming/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**59 live deals**, 7 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**64 live deals**, 8 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [Game Stores & Sales](#game-stores--sales) (15)
 - [Game Subscriptions](#game-subscriptions) (2)
 - [Games & Apps](#games--apps) (42)
+- [More](#more) (5)
 
 ## Game Stores & Sales
 
@@ -81,3 +82,13 @@
 | [Artsvit apps (Lumiere, Open Pi, TeaGo, Paletteo)](https://artsvit.com/black-friday/) | Indie Apple apps for photos, tea brewing, colors and more. | About 20% off lifetime unlocks for four App Store apps |  |  | [details](https://bf26-deals.pages.dev/deal/artsvitapps/) |
 | [Studio WyldFurr](https://x.com/WyldFurr) | Virtual tabletop roleplaying packs for Foundry VTT. | **Soon.** 20% off in the Foundry Marketplace |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/studiowyldfurr/) |
 | [Merchant of the Skies](https://apps.apple.com/us/app/merchant-of-the-skies/id6754459969) | Premium pixel-art trading sim with no ads or in-app purchases. | Lowest price ever, now $4.95 |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/merchantoftheskies/) |
+
+## More
+
+| Product | What it is | Offer | Code | Ends | |
+|---|---|---|---|---|---|
+| [One More Chance: Block Puzzle](https://apps.apple.com/app/apple-store/id6820129103?pt=129573320&ct=bf-mrs&mt=8) |  | 40% off Premium, $4.99 → $2.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/onemorechance/) |
+| [Tanks-a-Lot](https://tanks-a-lot.app/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $5 → $3 | `BF26-TANKSALOT` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/tanksalot/) |
+| [Aikui](https://apps.apple.com/app/id6774103289?pt=283056&ct=bf-github&mt=8) |  | Aikui Pro is half price until December 1: $2.49 in the US, then $4.99 again. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/aikui/) |
+| [Kajai](https://apps.apple.com/app/apple-store/id6778381175?pt=283056&ct=bf-github&mt=8) |  | Remove Ads is half price until December 1: $2.49 in the US, then $4.99 again. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/kajai/) |
+| [Plorp](https://apps.apple.com/app/apple-store/id6758669786?pt=283056&ct=bf-github&mt=8) |  | Remove Ads is half price until December 1: $2.49 in the US, then $4.99 again. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/plorp/) |

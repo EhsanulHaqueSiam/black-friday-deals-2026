@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/developer-tools/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**157 live deals**, 96 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**166 live deals**, 103 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [Databases & API Clients](#databases--api-clients) (10)
 - [Git, CI & DevOps](#git-ci--devops) (14)
@@ -10,8 +10,9 @@
 - [Editors & Terminals](#editors--terminals) (13)
 - [Mac Dev Utilities](#mac-dev-utilities) (22)
 - [Boilerplates & Starter Kits](#boilerplates--starter-kits) (28)
-- [Backend, APIs & Infra](#backend-apis--infra) (28)
+- [Backend, APIs & Infra](#backend-apis--infra) (27)
 - [Monitoring & Analytics](#monitoring--analytics) (20)
+- [More](#more) (10)
 
 ## Databases & API Clients
 
@@ -42,7 +43,7 @@
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | Manage and monitor Docker servers from iPhone, iPad and Mac. | 40% off lifetime, $57 → $35 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/whaledeck/) |
 | [Zero-Trace Ship Kit](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/?utm_source=mrsdeals) | Git hooks that block commits containing keys, home paths, emails or photo metadata. | 40% off Solo license, $39 → $23.40 | `FOUNDER10` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/zerotraceshipkit/) |
 | [Gitfox](https://www.gitfox.app/) | Native Git client for Mac. | 20% off, $71.20 one-time or $47.20 first year |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/gitfox/) |
-| [Lockit](https://lockitbot.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Reserve, lock and release shared environments and servers inside Slack. | 20% off all paid plans | `BF20` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/lockit/) |
+| [Lockit](https://lockitbot.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Reserve, lock and release shared environments and servers inside Slack. | 20% off all paid plans | `LOCKITBF50` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/lockit/) |
 | [TeaGo - Gitea Mobile Client](https://teago.artsvit.com/) | Mobile client for self-hosted Gitea and Forgejo: repos, pull requests and issues. | 20% off lifetime, $4.99 → $3.99 | `ARTSVITBF20` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/teago/) |
 | [TeaGo for Gitea](https://apps.apple.com/us/app/teago-for-gitea/id6805488091?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Gitea client for browsing repos, pull requests and issues. | 20% off lifetime, $4.99 → $3.99 | `ARTSVITBF20` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/teagoforgitea/) |
 | [ServerDog](https://serverdog.app) | Mac app that provisions VPS servers, deploys PHP and Node sites, and monitors them. | Lifetime $199 → $149, Standard $99 → $69 |  |  | [details](https://bf26-deals.pages.dev/deal/serverdog/) |
@@ -69,7 +70,7 @@
 | [SwiftFairy](https://tools.nilcoalescing.com/swiftfairy/) | Local static analysis for Swift and SwiftUI that helps coding agents catch bugs. | 30% off all plans, lifetime $470 → $329 | `BF2026` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/swiftfairy/) |
 | [TCP Viewer](https://tcpviewer.proxyman.com/pricing) | Native macOS packet analyzer for capturing and inspecting TCP and UDP traffic. | 30% off all plans, lifetime $79 → $55.30 | `BF2026` | Dec 3 | [details](https://bf26-deals.pages.dev/deal/tcpviewer/) |
 | [VibeView](https://vibeview.io/) | Runs iPhone, Android and TV apps live in the browser. | 30% off first month or 25% off first year |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/vibeview/) |
-| [Polypane](https://polypane.app/) | Browser for testing responsive layouts and accessibility. | 25% off all plans |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/polypane/) |
+| [Polypane](https://polypane.app) | Browser for testing responsive layouts and accessibility. | 25% off all plans |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/polypane/) |
 | [Mailtrap](https://mailtrap.io/) | Email testing sandbox and sending platform for developers. | 15% off annual plans | `BFCM26` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/mailtrap/) |
 | [MailScope](https://mailscope.app/blackfriday) | Native Mac tool to catch and preview development emails locally. | $19 instead of $29 | `BF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/mailscope/) |
 | [Pingers network tools](https://apps.apple.com/us/app/pingers-network-tools/id1583513038) | Network tools such as ping and port scan for iPhone and Mac. | $3.99 one-time |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/pingersnetworktools/) |
@@ -165,15 +166,14 @@
 | [React PDF](https://react-pdf.org/) | React component library for generating PDF documents. | 50% off dev and org licenses | `BFCM2026` |  | [details](https://bf26-deals.pages.dev/deal/reactpdf/) |
 | [ZoomCharts JS](https://x.com/ZoomChartsJS) | Interactive JavaScript charting library. | 50% off your first billing period |  |  | [details](https://bf26-deals.pages.dev/deal/zoomchartsjs/) |
 | [SerpWrap](https://serpwrap.com) | SERP API returning live search results as structured JSON. | 40% off every credit pack | `BLACKF40` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/serpwrap/) |
-| [Storewire](https://plugins.hackerman.ge?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Laravel package that lets an online store answer shoppers inside AI assistants. | 40% off, single store $149 → $89 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/storewire/) |
+| [Storewire](https://plugins.hackerman.ge) | Laravel package that lets an online store answer shoppers inside AI assistants. | 40% off, single store $149 → $89 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/storewire/) |
 | [GetYouTubeTranscript](https://getyoutubetranscript.com/pricing?utm_source=tonybf) | API, MCP server and Chrome extension for YouTube transcripts and channel data. | Lifetime $149, or 30% off first year ($54 → $37.80) | `BF26GYT` | Dec 10 | [details](https://bf26-deals.pages.dev/deal/getyoutubetranscript/) |
 | [LurkAPI](https://lurkapi.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | API and MCP server returning public posts, ads and profiles from 16 social platforms. | 30% off credit packs, Pro $39 → $27.30 | `BLACKFRIDAY30` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/lurkapi/) |
-| [pline.ai](https://www.pline.ai/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Web scraping API that returns page content for LLMs and AI agents. | 30% off first 3 months or first year |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/pline/) |
+| [pline.ai](https://www.pline.ai/) | Web scraping API that returns page content for LLMs and AI agents. | 30% off first 3 months or first year |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/pline/) |
 | [Renderly](https://renderly.video/pricing?code=BLACKFRIDAY2026&utm_source=awesome-bfcm) | API that renders MP4 videos from a JSON template and your data. | 30% off first payment, from $20.30 | `BLACKFRIDAY2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/renderly/) |
 | [Ant Media Server](https://antmedia.io/pricing/) | Self-hosted server software for low-latency live video streaming. | 25% off first month or first year |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/antmediaserver/) |
 | [Context.dev](https://partners.dub.co/context-dev) | Web search and crawling APIs for AI applications. | 25% off for 6 months | `BERGSIDE25OFF` |  | [details](https://bf26-deals.pages.dev/deal/context/) |
 | [JSON2Video](https://json2video.com/pricing/blackfriday-2026/?c=github) | API that turns JSON or templates into MP4 videos with AI voices, subtitles and images. | 25% off first year, Professional $399.60 → $299.70 | `BF2026GH` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/json2video/) |
-| [ZAN Node Service](https://zan.top/3rd-anniversary-bfcm-2026?chInfo=ch_twi) | Blockchain node RPC and API service. | Up to 25% off plus free AI credits |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/zannodeservice/) |
 | [Abstract API](https://www.abstractapi.com/) | Developer APIs for IP geolocation, email validation, VAT lookup and more. | 20% off any plan | `BLACK20` | Dec 10 | [details](https://bf26-deals.pages.dev/deal/abstractapi/) |
 | [GetMCP](https://getmcp.com/black-friday-2026/) | WordPress plugin that connects a site to AI agents through MCP. | Lifetime license from $79, plus 20% off | `BFCM26LIFETIME` |  | [details](https://bf26-deals.pages.dev/deal/getmcp/) |
 | [MojoAuth](https://mojoauth.com/blog/black-friday-deals) | Passwordless login API with passkeys, magic links, OTP and social login. | 20% off paid plans | `BF2026` | Dec 15 | [details](https://bf26-deals.pages.dev/deal/mojoauth/) |
@@ -205,7 +205,22 @@
 | [Plomer](https://plomer.app) | Website uptime and domain monitoring for Mac, iPhone, iPad and Apple Watch. | 33% off yearly, $59.99 → $41.99 | `BLACKFRIDAY2026` | Dec 7 | [details](https://bf26-deals.pages.dev/deal/plomer/) |
 | [TelemetryDeck](https://telemetrydeck.com/?utm_source=mrsbf&utm_medium=deal-list&utm_campaign=black-week-2026) | Privacy-first analytics for iOS, Android, cross-platform and web apps, hosted in Europe. | 30% off all plans for 1 year | `WEEK26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/telemetrydeck/) |
 | [Open Pi - Raspberry Pi Manager](https://openpi.uk/) | Monitors Raspberry Pi health and manages Docker, files, GPIO and SSH from Apple devices. | 20% off lifetime, $5.99 → $4.79 | `ARTSVITBF20` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/openpi/) |
-| [Pagerly](https://pagerly.io?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | On-call schedules, alerting and incident response in Slack and Teams. | 20% off all paid plans | `BF20` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/pagerly/) |
-| [12happy](https://www.12hpy.com/deals/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black-friday-2026) | Uptime monitoring and status pages for websites, APIs and cron jobs. | 3 months of Pro free, normally $15/mo | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/12happy/) |
+| [Pagerly](https://pagerly.io?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | On-call schedules, alerting and incident response in Slack and Teams. | 20% off all paid plans | `PAGERLYBF30` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/pagerly/) |
+| [12happy](https://www.12hpy.com/deals/black-friday?utm_source=mrs-bfdeals&utm_medium=deal-list&utm_campaign=black-friday-2026) | Uptime monitoring and status pages for websites, APIs and cron jobs. | 3 months of Pro free, normally $15/mo | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/12happy/) |
 | [Superpose Analytics](https://getsuperpose.app) | Local-first Mac app for App Store revenue, installs and ad costs. | $79 a year instead of $149 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/superposeanalytics/) |
 | [Toplify](https://toplify.app) | Tracks your app's App Store chart positions in 175 countries. | Lifetime $89.99 → $49.99 | `BLKFR2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/toplify/) |
+
+## More
+
+| Product | What it is | Offer | Code | Ends | |
+|---|---|---|---|---|---|
+| [GrayGrids](https://graygrids.com/) |  | Up to 80% OFF, code BLFCM2026 (Nov 16 – Dec 1) | `BLFCM2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/graygrids/) |
+| [BookForge CLI](https://kineticsprint-studio.vercel.app/bookforge.html) |  | 50% off Lifetime License ($119 → $59) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/bookforgecli/) |
+| [Mailbox](https://apps.apple.com/app/mailbox-local-smtp/id6760924337) |  | 50% off ($49.99 → $24.99), one-time purchase |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/mailbox/) |
+| [Mopup](https://mopup.online/?ref=blackfriday-awesome) |  | 50% OFF lifetime: $19.99 $9.99 one-time for every Mac you own, code BF2026 applied… | `BF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/mopup/) |
+| [CtrlOps](https://ctrlops.io/pricing?utm_source=tonybf&utm_medium=referral&utm_campaign=bfcm2026) |  | 31% OFF all Yearly and Lifetime plans with code BFCM31, kept on every Yearly renewal:… | `BFCM31` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/ctrlops/) |
+| [ASO Atlas](https://asoatlas.com/?ref=Awesome-Black-Friday-Cyber-Monday) |  | 30% OFF the first year of the Yearly plan ($100 $70), applied automatically at checkout… | `BLACKWEEK30` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/asoatlas/) |
+| [SocialAPIs](https://socialapis.io/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026&utm_content=trungdq88) |  | 30% OFF the first 3 months of monthly plans with code BLACKDATA30: Pro $4.99 $3.49/mo,… | `BLACKDATA30` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/socialapis/) |
+| [GitCMS](https://gitcms.dev/?utm_source=tonybf&utm_medium=deal-list&utm_campaign=bf26#pricing) |  | 25% OFF lifetime site licenses for agencies buying 5+ sites, with code BF26: $89 $66.75… | `BF26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/gitcms/) |
+| [Reviso](https://getreviso.io/pricing/) |  | 25% OFF the first year of Pro or Agency annual plans with code BLACKFRIDAY25: Pro… | `BLACKFRIDAY25` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/reviso/) |
+| [Kiikari](https://apps.apple.com/app/id6793062737?pt=283056&ct=bf-github&mt=12) |  | Kiikari Pro is half price until December 1: $9.99 in the US, then $19.99 again. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/kiikari/) |

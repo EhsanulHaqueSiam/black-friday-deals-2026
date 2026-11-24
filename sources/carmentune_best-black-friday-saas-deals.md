@@ -87,6 +87,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Appfigures** | ASO and App Intelligence for App Store and Google Play with keyword, download, and revenue tracking. | [50% off monthly or annual plans for 12 months with code `BF2650` (up to $200/mo off), Nov 23 – Nov 30](https://appfigures.com/platform/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=carmentune) |
 | **RightBlogger** | AI blog writer with WordPress/CMS publishing and Search Console optimization alerts. | [50% off every annual plan for life, no code needed, through Dec 1](https://rightblogger.com/pricing?offer=bf2026&utm_source=carmentune) |
 | **Toplify** | App Store chart monitoring for developers across 175 countries (iOS and macOS). | [$49.99 for Pro Lifetime (reg. $89.99), App Store code `BLKFR2026`, Nov 15 – Dec 1](https://toplify.app/) |
+| **Check Engine SEO** | Desktop SEO site audit for Mac and Windows: 99 checks ranked into one fix plan, with a free version. | [Black Friday sale: $19.99 once through December 2. Then $39.](https://checkengineseo.com/?ref=carmentune) |
 
 ## 🎨 Design & Video Creators
 
@@ -116,7 +117,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Manychat** | Automated chat marketing for WhatsApp, Instagram, and SMS. | [50% off first 2 months of Pro](https://manychat.partnerlinks.io/50) |
 | **Typeform** | Conversational forms, surveys, and quizzes. | [20% off annual plans](https://typeform.partnerlinks.io/free-trial) |
 | **Landbot** | No-code chatbot platform for websites and messaging apps. | [*Deal TBA*](https://get.landbotlab.com/06nxjsewp38c) |
-| **Tidio** | Live chat solution powered by integrated AI support agents. | [Get Lyro AI Agent for $1 (99% off AI costs for 2 months)](https://tidio.pxf.io/ai) |
+| **Tidio** | Live chat solution powered by integrated AI support agents. | [Get Lyro AI Agent for $1 (99% off AI costs for 2 months)](https://affiliate.tidio.com/black-friday) |
 | **Ollama** | Run large language models locally on macOS, Linux, and Windows. | [100% Free](https://ollama.com) |
 | **Dify** | Visual agent orchestration and LLM application development. | [Free / Self-hosted](https://dify.ai) |
 | **airSlate** | End-to-end document workflow and business automation. | [Save $144 – $240 on annual SignNow Starter and Business plans](https://partnerstack.signnow.com/coupons) |

@@ -2,13 +2,14 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/mac-desktop-utilities/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**274 live deals**, 168 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**290 live deals**, 177 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [Menu Bar & Dock](#menu-bar--dock) (62)
 - [Windows & Screens](#windows--screens) (46)
 - [Clipboard, Launchers & Keyboard](#clipboard-launchers--keyboard) (57)
 - [Files, Storage & System](#files-storage--system) (96)
 - [Browser Extensions](#browser-extensions) (13)
+- [More](#more) (16)
 
 ## Menu Bar & Dock
 
@@ -217,7 +218,7 @@
 | [Chute](https://appsbymo.app/chute/?ref=bf-deals) | Mac drop tray for zipping, resizing, converting, renaming or AirDropping dragged files. | 50% off, normally $14.99 | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/chute/) |
 | [Defaultify](https://defaultify.app/) | Sets default apps for file types and links and warns when an installer changes them. | 50% off Pro, $6.99 → $3.49 | `INDIE50` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/defaultify/) |
 | [Deletti](https://deletti.app/#black-friday) | Swipe through your largest iPhone photos and videos to keep or delete them. | 50% off lifetime, $17.99 → $8.99 | `BFCM26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/deletti/) |
-| [DiskMate](https://diskmate.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac disk space analyzer and cleaner with treemaps and a duplicate finder. | 50% off lifetime, $10 → $5 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/diskmate/) |
+| [DiskMate](https://diskmate.app) | Mac disk space analyzer and cleaner with treemaps and a duplicate finder. | 50% off lifetime, $10 → $5 |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/diskmate/) |
 | [DiskNinja](https://diskninja.app/blackfriday/?ref=tonybf) | Disk space analyzer that maps your drive visually and lists large files to remove. | 50% off first year of Pro, $14.99 → $7.49 | `NINJABF26` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/diskninja/) |
 | [FileOctopus](https://www.fileoctopus.com/black-friday.html?ref=Awesome-Black-Friday-Cyber-Monday) | Mac file manager with split panes, workspaces and folder compare. | 50% off Pro, $29.99 → $14.99 | `BLACKFRIDAY2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/fileoctopus/) |
 | [Fileside](https://www.fileside.app/?ref=mRsbfd) | File manager with unlimited panes and saved workspace layouts. | 50% off, $33 → $16.50 | `BLKFRD26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/fileside/) |
@@ -308,3 +309,24 @@
 | [Bookmark Manager + Quick Search](https://devapt.com/bookmark-manager/) | Browser bookmark manager with spotlight-style search and organization tools. | 30% off lifetime license | `30BF2026` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/bookmarkmanagerquicksearch/) |
 | [SimpleFill](https://simplefill.app) | Browser extension for text expansion, AI actions and form filling. | 25% off, $29 → $21.75 one-time |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/simplefill/) |
 | [My Styles for Safari](https://apps.apple.com/us/app/my-styles-custom-website-look/id6766115872) | Safari extension to restyle websites with custom CSS and dark mode. | $2.49 instead of $3.99 |  | Nov 28 | [details](https://bf26-deals.pages.dev/deal/mystylesforsafari/) |
+
+## More
+
+| Product | What it is | Offer | Code | Ends | |
+|---|---|---|---|---|---|
+| [ETK Image Compressor Pro](https://shakster24.gumroad.com/l/fcnkut) |  | Black Friday 2026: 66% OFF with code ETKBF66 | `ETKBF66` |  | [details](https://bf26-deals.pages.dev/deal/etkimagecompressorpro/) |
+| [Flurotron](https://apps.apple.com/us/app/flurotron/id6822368934) |  | 60% off ($4.99 → $1.99), one-time purchase |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/flurotron/) |
+| [Desktop Goods](https://desktopgoods.app/?utm_source=mrsbf&utm_campaign=bf2026) |  | 50% off every app ($4.99 $2.49) and the Toolbox with all 7 apps ($19 $9.50) | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/desktopgoods/) |
+| [BetterTouchTool](https://folivora.ai/black-friday/?utm_source=mrsbf) |  | Up to 40% off: Lifetime $25 → $15, Standard $15 → $10.50 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/bettertouchtool/) |
+| [ByteByson](https://bytebyson.acgao.com/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $8 → $4.80 | `BF26-BYTEBYSON` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/bytebyson/) |
+| [Deface: Blur Faces in Video](https://apps.apple.com/us/app/deface-blur-faces-in-video/id6767766955) |  | 40% OFF Pro Lifetime: $24.99 $14.99 one-time in-app purchase, no code needed, the sale… |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/deface/) |
+| [ShotScreen](https://shotscreen.app/?utm_source=mRs-Black-Friday-Deals&utm_medium=deal-list&utm_campaign=bf26) |  | 40% off Pro (€8.99 → €5.39) | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/shotscreen/) |
+| [Swept: Photo & Video Cleaner](https://apps.apple.com/app/id6786665535) |  | 40% off Swept Pro ($4.99 → $2.99) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/swept/) |
+| [Awakelet](https://tidyware.app/awakelet/?utm_source=mrsbf) |  | 30% off: $9 → $6.30, one-time purchase | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/awakelet/) |
+| [Headroom for Mac](https://headroomapp.shop) |  | 30% OFF one-time purchase ($19 → $13.30), no code needed, up to 3 Macs, 30-day refund. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/headroomformac/) |
+| [Pizazoo](https://pizazoo.com) |  | Pizazoo Pro (one-time): Mac 30% off, 1 Mac $15 → $10.50 | `BLACKFRIDAY30` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/pizazoo/) |
+| [RDPyon](https://rdpyon.com/?utm_source=awesome_bf&utm_campaign=bf2026) |  | 30% OFF ($19 $13.30, one-time purchase) with code BF2026RDP, Nov 24 - Dec 1, 2026 | `BF2026RDP` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/rdpyon/) |
+| [TwinSweep](https://tidyware.app/twinsweep/?utm_source=mrsbf) |  | 30% off: $19 → $13.30, one-time purchase | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/twinsweep/) |
+| [Spaceclear](https://spaceclear.app/?ref=bf26-mrs) |  | 25% off Spaceclear Pro ($7.99 → $5.99 USD) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/spaceclear/) |
+| [Pocket Screen - Window PiP](https://lp.toybird.com/en/pocket-screen/) |  | 20% off Unlimited one-time purchase ($9.99 to $7.99 in the U.S.) | `MRSBF20` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/pocketscreen/) |
+| [Transom](https://transommac.com/pricing?ref=mrsbf) |  | One-time licence $19 → $9 (1 Mac), $29 → $14 (3 Macs) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/transom/) |

@@ -2,13 +2,14 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/photo-video-audio/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**231 live deals**, 73 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**237 live deals**, 76 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [Video Editing](#video-editing) (42)
 - [Screen Recording](#screen-recording) (34)
 - [Photo Editing](#photo-editing) (40)
 - [Music & Audio Production](#music--audio-production) (93)
 - [Podcasts & Transcription](#podcasts--transcription) (22)
+- [More](#more) (6)
 
 ## Video Editing
 
@@ -86,6 +87,7 @@
 | [KeyScreen](https://keyscreen.app) | Shows keystrokes on screen for Mac tutorials, streams and demos. | 30% off, $5.99 → $4.19 one-time | `KEYSCREEN30` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/keyscreen/) |
 | [Prequel](https://prequel.sh) | Cinematic Mac screen recorder with auto zoom, camera frame and 4K export. | 30% off lifetime, now $27.30 | `PREQUEL30` | Dec 31 | [details](https://bf26-deals.pages.dev/deal/prequel/) |
 | [Rapidemo](https://getrapidemo.com/pricing?utm_source=tonybf) | Windows screen recorder with auto zoom, smooth cursor and voice enhancement. | 30% off first year, $108 → $75.60 | `BLACKFRIDAY26` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/rapidemo/) |
+| [Sightline](https://sightlinemac.com/black-friday/) | Mac screenshot and screen recorder with an editor, design diff and MCP server. | Lifetime $29.99 → $22.99, or 3 months of Pro free | `SIGHTLINELIFEDISCOUNT26` | Dec 31 | [details](https://bf26-deals.pages.dev/deal/sightline/) |
 | [Cap](https://partners.dub.co/cap) | Open-source screen recorder with editing and shareable links. | 20% off for 12 months for new users |  |  | [details](https://bf26-deals.pages.dev/deal/cap/) |
 | [Oil Studio](https://studio.oiloil.org/en/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac screen recorder and transcript-based editor with auto zoom and captions. | 20% off, $39 → $31.20 for 2 Macs | `BFCM2026` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/oilstudio/) |
 | [Shotcourier](https://shotcourier.com) | Mac menu bar app that sends screenshots to Photos, folders, cloud storage or a link. | 20% off, $29 → $23.20 | `SHOTCOURIER20` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/shotcourier/) |
@@ -93,7 +95,6 @@
 | [palmscreen](https://www.palmscreen.app/black-friday/?ref=Awesome-Black-Friday-Cyber-Monday) | Mac app for screenshots and screen recordings with editing and sharing. | $29 → $19 | `BLACKWEEK` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/palmscreen/) |
 | [ScreenPost](https://screenpost.app/buy?promo=LAUNCH19&ref=marius-landwehr) | Mac app to capture, annotate, redact and post screenshots to X. | $29 → $19 one-time | `LAUNCH19` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/screenpost/) |
 | [ShotJar](https://shotjar.app/) | Mac screenshot tool, one-time license for 3 Macs. | $9 instead of $24 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/shotjar/) |
-| [Sightline](https://sightlinemac.com/black-friday/) | Mac screenshot and screen recorder with an editor, design diff and MCP server. | Lifetime $29.99 → $22.99, or 3 months of Pro free | `SIGHTLINEEARLY` `SIGHTLINELIFEDISCOUNT26` | Jan 7 | [details](https://bf26-deals.pages.dev/deal/sightline/) |
 | [Smooth Recorder](https://www.smoothrecorder.com/) | Mac screen recorder with smooth cursor motion. | Lifetime $19 one-time |  |  | [details](https://bf26-deals.pages.dev/deal/smoothrecorder/) |
 
 ## Photo Editing
@@ -265,3 +266,14 @@
 | [Proof Take](https://prooftake.app/#pricing) | Checks English and Chinese voiceovers against the script on Mac and flags misreads. | One-time license $29 → $19 |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/prooftake/) |
 | [PureScribe](https://appsthere.com/apps/purescribe) | On-device speech to text for Mac and iPhone. | Pro one-time $9.99 → $4.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/purescribe/) |
 | [RSS.com](https://RSS.com) | Podcast hosting platform. | 3 free months of podcast hosting on any paid plan | `BLKFR` |  | [details](https://bf26-deals.pages.dev/deal/rss/) |
+
+## More
+
+| Product | What it is | Offer | Code | Ends | |
+|---|---|---|---|---|---|
+| [ShowShark Home](https://showshark.app/home/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $99 → $59.40 | `BF26-SHOWSHARK` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/showsharkhome/) |
+| [Skywall](https://getskywall.app/?ref=bf26-mrs) |  | 33% off Skywall Full ($5.99 → $3.99 USD) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/skywall/) |
+| [Beamly](https://beamly.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 30% OFF new annual plans |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/beamly/) |
+| [Narva](https://narva.app/#pricing) |  | 30% off the first month of any plan: Starter $29 → $20.30, Creator $79 → $55.30, Pro… | `NARVA30` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/narva/) |
+| [Useful Studio Pro](https://theusefulmedia.com/studio?ref=mrs-bf) |  | 30% off, $349 $244 | `STUDIOBF` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/usefulstudiopro/) |
+| [Mutebot](https://apps.apple.com/app/id1018611817?pt=283056&ct=bf-github&mt=8) |  | Mutebot Pro is half price until December 1: $0.99 in the US, then $1.99 again. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/mutebot/) |

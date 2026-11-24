@@ -55,7 +55,7 @@
 | [DiviGear](https://divigear.com/) | Plugins and layouts for the Divi WordPress theme. | Up to 85% off everything |  |  | [details](https://bf26-deals.pages.dev/deal/divigear/) |
 | [ThemeDev](https://themedev.net/coupon/) | WordPress plugins including media offload and CRM tools. | Up to 85% off plugins and bundles |  | Dec 15 | [details](https://bf26-deals.pages.dev/deal/themedev/) |
 | [ThemeWinter](https://themewinter.com/deals/) | WordPress plugins for events, restaurants and product options. | Up to 85% off plugins |  | Dec 27 | [details](https://bf26-deals.pages.dev/deal/themewinter/) |
-| [Elegant Themes / Divi](https://www.elegantthemes.com/) | Divi WordPress theme and visual page builder. | Up to 81% off lifetime bundles |  |  | [details](https://bf26-deals.pages.dev/deal/elegantthemesdivi/) |
+| [Elegant Themes / Divi](https://www.elegantthemes.com/) | Divi WordPress theme and visual page builder. | Up to 81% off lifetime bundles |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/elegantthemesdivi/) |
 | [BookingPress](https://www.bookingpressplugin.com/pricing) | WordPress plugin for appointment booking and scheduling. | Up to 80% off all plans, including lifetime |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/bookingpress/) |
 | [ARMember](https://www.armemberplugin.com/pricing/) | WordPress plugin for memberships and content restriction. | Up to 75% off, plans from $99 → $69/yr |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/armember/) |
 | [WPDeveloper](https://wpdeveloper.com/black-friday/) | WordPress plugins such as Essential Addons and Essential Blocks. | Up to 75% off 10+ WordPress plugins |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/wpdeveloper/) |

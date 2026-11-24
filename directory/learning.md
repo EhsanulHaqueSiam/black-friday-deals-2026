@@ -2,15 +2,16 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/learning/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**244 live deals**, 93 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**253 live deals**, 98 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [Online Course Platforms](#online-course-platforms) (56)
 - [Programming & Tech](#programming--tech) (38)
-- [Cybersecurity Certs & Training](#cybersecurity-certs--training) (74)
+- [Cybersecurity Certs & Training](#cybersecurity-certs--training) (73)
 - [Cloud & DevOps Certs](#cloud--devops-certs) (11)
 - [Languages](#languages) (25)
 - [Books & Ebooks](#books--ebooks) (32)
 - [Communities & Newsletters](#communities--newsletters) (8)
+- [More](#more) (10)
 
 ## Online Course Platforms
 
@@ -56,7 +57,7 @@
 | [ECG Weekly](https://ecgweekly.com) | ECG interpretation training memberships for clinicians. | 25% off ECG memberships, extra month for first 100 signups |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/ecgweekly/) |
 | [Graphixly](https://Graphixly.com) | Clip Studio Paint courses for digital art. | Extra 25% off all courses | `BLACKFRIDAY` |  | [details](https://bf26-deals.pages.dev/deal/graphixly/) |
 | [Houdini School](https://x.com/HoudiniSchool) | Online courses for SideFX Houdini. | 25% off any course or 3 months of subscription | `BLACKFRIDAY25` |  | [details](https://bf26-deals.pages.dev/deal/houdinischool/) |
-| [ISA training](https://programs.isa.org/blackfriday26) | Industrial automation training and standards. | 25% off automation training | `BFCM26` |  | [details](https://bf26-deals.pages.dev/deal/isatraining/) |
+| [ISA](https://programs.isa.org/blackfriday26) | Industrial automation training and standards. | 25% off automation training with code BFCM26 | `BFCM26` |  | [details](https://bf26-deals.pages.dev/deal/isa/) |
 | [Mike Reinold courses](https://mikereinold.com/black-friday/) | Online courses for physical therapists and strength coaches. | 25% off all online courses | `BF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/mikereinoldcourses/) |
 | [Outliers Writing University](https://www.outlierswritinguniversity.com) | Writing education membership and community. | 25% off an annual membership |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/outlierswritinguniversity/) |
 | [Roadmap Writers](https://x.com/roadmapwriters) | Screenwriting classes and mentorship. | 25% off all screenwriting services | `BF25` |  | [details](https://bf26-deals.pages.dev/deal/roadmapwriters/) |
@@ -130,29 +131,28 @@
 | [LetsDefend](https://letsdefend.io/) | Blue team training platform with SOC analyst labs. | 55% off annual VIP, 444.99 PLN → 200.25 PLN | `BLCKFRDY55` |  | [details](https://bf26-deals.pages.dev/deal/letsdefend/) |
 | [7ASecurity](https://7asecurity.com/) | Self-paced mobile, web and cloud application security courses. | 50% off self-paced courses | `BFCM50` | Dec 10 | [details](https://bf26-deals.pages.dev/deal/7asecurity/) |
 | [AppSec.training](https://appsec.training) | Online training in application security, DevSecOps and secure development. | 50% off |  | Dec 31 | [details](https://bf26-deals.pages.dev/deal/appsectraining/) |
-| [Cloud Security Alliance](https://cloudsecurityalliance.org/p/cyber-monday-2026) | Cloud security training and certificates including CCSK, CCZT and TAISE. | **Soon.** 50% off all training and exams |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/cloudsecurityalliance/) |
+| [Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/p/cyber-monday-2026) | Cloud security training and certificates including CCSK, CCZT and TAISE. | **Soon.** 50% off all training and exams |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/cloudsecurityalliance/) |
 | [RedTeamLeaders](https://courses.redteamleaders.com/catalog) | Hacking labs and offensive security certifications. | 50% off hacking labs and certifications | `BLACKFRIDAY50` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/redteamleaders/) |
-| [TCM Security](https://tcm-sec.com/) | Practical ethical hacking courses and certifications. | 50% off first Academy payment, 20% off certs |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/tcmsecurity/) |
+| [TCM Security](https://tcm-sec.com/black-friday-deals/) | Practical ethical hacking courses and certifications. | 50% off first Academy payment, 20% off certs |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/tcmsecurity/) |
 | [TrueCyber Red Team training](https://truecyber.world/training/red-synopsis.me) | Red team training course with lifetime access. | 50% off lifetime red team training with the next update |  |  | [details](https://bf26-deals.pages.dev/deal/truecyberredteamtraining/) |
 | [White Knight Labs](https://whiteknightlabs.com/) | Offensive security certification courses and academy passes. | 50% off certification courses and Academy passes | `WKLBLACKFRIDAY26` | Dec 18 | [details](https://bf26-deals.pages.dev/deal/whiteknightlabs/) |
 | [Wireshark Labs](https://wiresharklabs.org?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on Wireshark labs with real packet captures for exam prep. | 50% off WCA Labs, $199.99 → $99.99 | `PACKETFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/wiresharklabs/) |
-| [Android App Hacking Mastery](https://training.byteblind.com/products/courses/android-app-hacking?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on Android app pentesting course with vulnerable APKs for bug bounty hunters. | 40% off, $149 → $89.40 | `BYTENOV40` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/androidapphackingmastery/) |
+| [Android App Hacking Mastery](https://training.byteblind.com/) | Hands-on Android app pentesting course with vulnerable APKs for bug bounty hunters. | 40% off the course |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/androidapphackingmastery/) |
 | [AppSecEngineer](https://www.appsecengineer.com/individuals/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on labs for application, cloud and AI security training. | 40% off Pro Plus annual plans and bootcamps | `LEVELUP40` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/appsecengineer/) |
 | [Blu Raven](https://academy.bluraven.io/courses) | Courses on detection engineering and threat hunting with KQL. | Up to 40% off courses |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/bluraven/) |
 | [Blu Raven Academy](https://academy.bluraven.io/black-friday-2026) | Courses on KQL, threat hunting and detection engineering. | Up to 40% off security courses | `BFCM25` |  | [details](https://bf26-deals.pages.dev/deal/bluravenacademy/) |
-| [ByteBlind](https://training.byteblind.com/) | Hands-on Android app hacking course. | 40% off the course |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/byteblind/) |
 | [Centri (formerly Security Blue Team)](https://centri.org/black-friday) | Blue team security certifications such as BTL1 and BTL2. | Up to 40% off certifications, bundle £699 |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/centri/) |
 | [CQURE Academy](https://cqureacademy.com) | Cybersecurity training courses and live classes. | Up to 40% off security courses, 25% off live classes |  |  | [details](https://bf26-deals.pages.dev/deal/cqureacademy/) |
 | [GenAI Security Lab](https://genaisecuritylab.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on labs attacking vulnerable LLM, RAG, agent and MCP apps, mapped to OWASP. | 40% off 4-month pass and first year | `BLACKFRIDAY40` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/genaisecuritylab/) |
 | [HackTheBox](https://www.hackthebox.com/) | Hands-on hacking labs and cybersecurity training academy. | 25-40% off annual plans |  |  | [details](https://bf26-deals.pages.dev/deal/hackthebox/) |
 | [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) | Courses on malware analysis, EDR and Windows internals, and detection engineering. | 40% off most individual courses | `BF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/trainsec/) |
-| [TryHackMe](https://tryhackme.com/) | Hands-on cybersecurity training with guided labs for beginners and up. | About 40% off annual |  |  | [details](https://bf26-deals.pages.dev/deal/tryhackme/) |
+| [TryHackMe](https://tryhackme.com/black-friday) | Hands-on cybersecurity training with guided labs for beginners and up. | About 40% off annual |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/tryhackme/) |
 | [Zero-Point Security](https://www.zeropointsecurity.co.uk/courses) | Red team training courses, including CRTO. | 40% off courses |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/zeropointsecurity/) |
 | [INE Security](https://ine.com/) | Online training in penetration testing, blue team and cloud security. | 37% off Premium annual, $799 → $499 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/inesecurity/) |
 | [Hacktricks](https://training.hacktricks.xyz/courses) | Cloud security hacking courses. | 35% off cloud security courses |  |  | [details](https://bf26-deals.pages.dev/deal/hacktricks/) |
 | [Hexordia](https://learn.hexordia.com/s/store) | Digital forensics classes, on demand and live, with class vouchers. | 35% off classes and vouchers | `26BF35` | Dec 7 | [details](https://bf26-deals.pages.dev/deal/hexordia/) |
 | [CloudBreach](https://cloudbreach.io/blackfriday) | Offensive cloud security courses for Azure and AWS. | 30% off all courses and plans, from $349 | `BlackFriday26` | Dec 7 | [details](https://bf26-deals.pages.dev/deal/cloudbreach/) |
-| [GIAC](https://www.giac.org/) | Cybersecurity certification exams. | 30% off select certification products |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/giac/) |
+| [GIAC](https://www.giac.org/#specials) | Cybersecurity certification exams. | 30% off select certification products | `30Cyber26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/giac/) |
 | [Hunting Zero-Days in Embedded Devices](https://hzed.flashback.sh/) | Course on finding vulnerabilities in embedded devices. | 25% off, access extended to 60 and 120 days | `flash25` |  | [details](https://bf26-deals.pages.dev/deal/huntingzerodaysinembeddeddevices/) |
 | [Just Hacking Training](https://www.justhacking.com/deals/) | Ethical hacking courses, learning paths and CTFs. | 25% off all courses, paths and CTFs | `BFF25` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/justhackingtraining/) |
 | [MalDev Academy](https://maldevacademy.com/) | Malware development courses for offensive security professionals. | 25% off malware development courses | `BLKFRIDAY25` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/maldevacademy/) |
@@ -168,7 +168,7 @@
 | [pwn.guide](https://pwn.guide/pricing) | Ethical hacking tutorials plus Security+ and PenTest+ certification training. | 20% off all plans forever | `BLKFRI20` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/pwnguide/) |
 | [SECPlayground](https://x.com/secplayground) | Cybersecurity training courses. | **Soon.** 20% off Personal Pass course packages | `spg-bf2026` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/secplayground/) |
 | [SEKTOR7](https://institute.sektor7.net/) | Red team and malware development courses. | 20% off red team courses | `BF24` |  | [details](https://bf26-deals.pages.dev/deal/sektor7/) |
-| [8kSec Academy](https://academy.8ksec.io/) | On-demand mobile and AI security courses with certification tracks and hands-on labs. | 15% off all on-demand courses | `8KSECBLACKFRIDAY` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/8ksecacademy/) |
+| [8kSec Academy](https://academy.8ksec.io/) | On-demand mobile and AI security courses with certification tracks and hands-on labs. | 15% off all on-demand courses | `BLACKFRIDAY15` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/8ksecacademy/) |
 | [OnlySecurity](https://onlysecurity.com/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on security courses on web and AD attacks, RFID, lock picking and OSINT. | 15% off courses and memberships |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/onlysecurity/) |
 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI security, DevSecOps, API and cloud-native security certifications with hands-on labs. | 15% off certifications, up to $600 off bundles |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/practicaldevsecops/) |
 | [ISC2](https://www.isc2.org/training/black-friday-cyber-week-sale) | Cybersecurity certification body offering courses and certificates. | 10% off courses and certificates, 20% for members |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/isc2/) |
@@ -185,7 +185,7 @@
 | [Oh My Hack 2025](https://eventory.cc/event/oh-my-hack-2025/tickets) | Tickets to the Oh My Hack security conference. | Early bird tickets 798 PLN |  |  | [details](https://bf26-deals.pages.dev/deal/ohmyhack2025/) |
 | [PentesterLab](https://pentesterlab.com/pro) | Hands-on web security and pentesting exercises. | Pro yearly $199 → $146 |  |  | [details](https://bf26-deals.pages.dev/deal/pentesterlab/) |
 | [Practical Android App Security Testing](https://www.coldedgetrainings.com/practical-android-app-security-testing) | Self-paced course on security testing Android apps and their APIs. | Launch price $1,499 → $999 |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/practicalandroidappsecuritytesting/) |
-| [Red Team LLC](https://redteam.vip/) | Courses on physical entry, RFID, social engineering and recon. | Courses $99 each, all 10 for $799 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/redteamllc/) |
+| [Red Team LLC (redteam.vip)](https://redteam.vip/) | Courses on physical entry, RFID, social engineering and recon. | Courses $99 each, all 10 for $799 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/redteamllc/) |
 | [Security Blue Team](https://www.securityblue.team/black-friday-2024) | Blue team certifications and training including BTL1. | BTL1 course £414 → £359 |  |  | [details](https://bf26-deals.pages.dev/deal/securityblueteam/) |
 | [Sekurak Cyberstarter 2024](https://sklep.securitum.pl/sekurak-cyberstarter) | Tickets to an online cybersecurity starter conference. | Online conference tickets 306.27 → 91.88 PLN | `BLACKCS` |  | [details](https://bf26-deals.pages.dev/deal/sekurakcyberstarter2024/) |
 | [TryHackMe Advent of Cyber 2026](https://tryhackme.com/adventofcyber26) | Free daily beginner security challenges through December. | Free daily beginner security challenges |  | Dec 24 | [details](https://bf26-deals.pages.dev/deal/tryhackmeadventofcyber2026/) |
@@ -290,3 +290,18 @@
 | [Pragmatic Engineer](https://newsletter.pragmaticengineer.com/9a6064c5) | Paid newsletter on software engineering and tech industry. | Annual plan 605 PLN → 484 PLN |  |  | [details](https://bf26-deals.pages.dev/deal/pragmaticengineer/) |
 | [SPI Lifetime Pass](https://community.smartpassiveincome.com/checkout/lifetime-membership-pass) | Pat Flynn's SPI courses and community. | Lifetime Pass $800 with $2,300 in bonuses |  |  | [details](https://bf26-deals.pages.dev/deal/spilifetimepass/) |
 | [World Radio League](https://x.com/WorldRadioLeag) | Ham radio logging app and community. | Lifetime VIP $895 → $695 |  |  | [details](https://bf26-deals.pages.dev/deal/worldradioleague/) |
+
+## More
+
+| Product | What it is | Offer | Code | Ends | |
+|---|---|---|---|---|---|
+| [Mobile Hacking Lab](https://ads.mobilehackinglab.com/bf/deals) |  | Mobile security course bundles from €249, up to 61% off | `DFA500` `WEBKIT60` `IOS999` `BF26KU` `BF26FCA` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/mobilehackinglab/) |
+| [Cisco U. Store Learning Deals](https://www.cisco.com/site/us/en/learn/training-certifications/learning-deals.html) |  | 40% off Cisco U |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/ciscoustorelearningdeals/) |
+| [MeteorMath](https://meteormath.com/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026#meteormath) |  | 40% off, $20 → $12 | `BF26-METEORMATH` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/meteormath/) |
+| [Level Effect](https://www.leveleffect.com/pricing) |  | About 17% off the first year of Adventurer ($243.60) or Guardian ($663.60) |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/leveleffect/) |
+| [Udemie](https://www.udemie.study/pricing?utm_source=twf-nikhila&utm_medium=referral&utm_campaign=blackfriday2026) |  | 20% OFF lifetime ($175 → $140) | `BLACKFRIDAY20` `BLACKFRIDAY30` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/udemie/) |
+| [Altered Security](https://www.alteredsecurity.com/) |  | 20% off all courses and bootcamps, plus an extra 5% when you buy 2 or more items |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/alteredsecurity/) |
+| [13Cubed](https://training.13cubed.com/) |  | $100 off all courses | `BLACKFRIDAY2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/13cubed/) |
+| [Jireh](https://getjireh.com/?ref=bf26-mrs) |  | First year of Jireh Plus Yearly for $14.99 USD, then $29.99 a year | `JIREHBF26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/jireh/) |
+| [Lockabulary](https://arturwitkowski.com/lockabulary/) |  | Lifetime unlock $19.99 $12.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/lockabulary/) |
+| [ReadySetSay](https://apps.apple.com/us/app/readysetsay/id6769089999) |  | Full Access, the other nine games, one-time purchase ($4.99 $1.99) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/readysetsay/) |

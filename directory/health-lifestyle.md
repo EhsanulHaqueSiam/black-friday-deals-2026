@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/health-lifestyle/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**171 live deals**, 59 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**179 live deals**, 60 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [Fitness & Workouts](#fitness--workouts) (32)
 - [Health & Mental Wellbeing](#health--mental-wellbeing) (45)
@@ -11,6 +11,7 @@
 - [Family, Kids & Relationships](#family-kids--relationships) (16)
 - [Hobbies & Home](#hobbies--home) (36)
 - [Weather & Misc](#weather--misc) (10)
+- [More](#more) (8)
 
 ## Fitness & Workouts
 
@@ -217,3 +218,16 @@
 | [EverythingWeather Pro](https://www.everythingwx.com) | Weather app with radar and forecasts. | $19.99 for the first year |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/everythingweatherpro/) |
 | [Jubs](https://www.tryjubs.com/black-friday) | Animated holiday widgets for the iPhone and iPad Home Screen and StandBy. | Premium $2.99 → $1.99 one-time |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/jubs/) |
 | [PassCollect](https://lucadevelops.com) | Lightweight wallet for loyalty cards. | Lifetime half price, first year $0.99 |  |  | [details](https://bf26-deals.pages.dev/deal/passcollect/) |
+
+## More
+
+| Product | What it is | Offer | Code | Ends | |
+|---|---|---|---|---|---|
+| [Lappr](https://lappr.app/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $19 → $11.40 | `BF26-LAPPR` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/lappr/) |
+| [PoRaBar](https://porabar.com/?utm_source=mRs-Black-Friday-Deals&utm_medium=deal-list&utm_campaign=bf26) |  | 40% off the one-time unlock ($2.99 → $1.79) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/porabar/) |
+| [Boothly](https://apps.apple.com/us/app/boothly-retro-photo-strips/id6804359059) |  | Boothly Pro, one-time $2.99 $1.49 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/boothly/) |
+| [GLP-1 Companion](https://apps.apple.com/us/app/glp-1-companion-shot-tracker/id6791031500) |  | Pro, one-time $14.99 $7.49 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/glp1companion/) |
+| [Omni Brain](https://omnibraingames.com) |  | Lifetime Premium $39.99, paid once: the price of one year of Premium |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/omnibrain/) |
+| [ShadowCoach Boxing](https://apps.apple.com/us/app/shadowcoach-boxing/id6792245431) |  | ShadowCoach Premium, one-time $59.99 $29.99 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/shadowcoachboxing/) |
+| [Troupe](https://apps.apple.com/us/app/troupe-plan-split-trips/id6791836108) |  | Troupe Pro Lifetime $29.99 $14.99 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/troupe/) |
+| [Wristkeeper](https://apps.apple.com/app/id6819904928) |  | Pro Lifetime $59.99 $39.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/wristkeeper/) |

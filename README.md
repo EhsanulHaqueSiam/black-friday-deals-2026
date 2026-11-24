@@ -1,6 +1,6 @@
 # Black Friday & Cyber Monday 2026 Deals Directory
 
-**2839 live deals**, **1077 with promo codes**, from 28 community deal lists on GitHub plus web, X and Reddit research. Duplicates, expired offers and "coming soon" placeholders are removed, and every deal is tagged by category, platform and pricing.
+**2909 live deals**, **1140 with promo codes**, from 28 community deal lists on GitHub plus web, X and Reddit research. Duplicates, expired offers and "coming soon" placeholders are removed, and every deal is tagged by category, platform and pricing.
 
 ## 👉 [Open the website: bf26-deals.pages.dev](https://bf26-deals.pages.dev/)
 
@@ -25,22 +25,22 @@ Black Friday is **Nov 27, 2026**, Cyber Monday is **Nov 30, 2026**. Last built *
 
 | Category | Deals | Subcategories |
 |---|---|---|
-| [AI Tools](directory/ai-tools.md) | 250 | Chat & Assistants 31, Writing & Content 42, Image & Video 88, Voice & Audio 29, Coding & Agents 23, Automation & Workflows 20, Research & Learning 14, AI APIs & Credits 3 |
-| [Developer Tools](directory/developer-tools.md) | 157 | Databases & API Clients 10, Git, CI & DevOps 14, Testing & Debugging 22, Editors & Terminals 13, Mac Dev Utilities 22, Boilerplates & Starter Kits 28, Backend, APIs & Infra 28, Monitoring & Analytics 20 |
-| [Design](directory/design.md) | 148 | UI Kits & Templates 46, Icons, Fonts & Illustrations 8, Design & Prototyping Tools 49, Mockups & Screenshots 6, Stock Photos, Video & Music 39 |
-| [Photo, Video & Audio](directory/photo-video-audio.md) | 231 | Video Editing 42, Screen Recording 34, Photo Editing 40, Music & Audio Production 93, Podcasts & Transcription 22 |
-| [Productivity](directory/productivity.md) | 181 | Notes & Writing 41, Tasks & Projects 36, Calendar & Time Tracking 24, Focus & Habits 16, Reading & Knowledge 21, Email & Communication 19, Documents & PDFs 24 |
-| [Mac & Desktop Utilities](directory/mac-desktop-utilities.md) | 274 | Menu Bar & Dock 62, Windows & Screens 46, Clipboard, Launchers & Keyboard 57, Files, Storage & System 96, Browser Extensions 13 |
-| [Security & Privacy](directory/security-privacy.md) | 102 | VPN 26, Password Managers 8, Antivirus & Security Suites 32, Privacy & Data Removal 22, Secure Email & Storage 14 |
-| [Hosting & Cloud](directory/hosting-cloud.md) | 124 | Domains 18, Web & WordPress Hosting 45, PaaS & Serverless 2, VPS & Cloud Servers 43, Databases 1, Cloud Storage & Backup 10, Email Hosting 4, More 1 |
+| [AI Tools](directory/ai-tools.md) | 271 | Chat & Assistants 31, Writing & Content 42, Image & Video 88, Voice & Audio 29, Coding & Agents 23, Automation & Workflows 20, Research & Learning 14, AI APIs & Credits 4, More 20 |
+| [Developer Tools](directory/developer-tools.md) | 166 | Databases & API Clients 10, Git, CI & DevOps 14, Testing & Debugging 22, Editors & Terminals 13, Mac Dev Utilities 22, Boilerplates & Starter Kits 28, Backend, APIs & Infra 27, Monitoring & Analytics 20, More 10 |
+| [Design](directory/design.md) | 150 | UI Kits & Templates 46, Icons, Fonts & Illustrations 8, Design & Prototyping Tools 49, Mockups & Screenshots 6, Stock Photos, Video & Music 39, More 2 |
+| [Photo, Video & Audio](directory/photo-video-audio.md) | 237 | Video Editing 42, Screen Recording 34, Photo Editing 40, Music & Audio Production 93, Podcasts & Transcription 22, More 6 |
+| [Productivity](directory/productivity.md) | 227 | Notes & Writing 41, Tasks & Projects 36, Calendar & Time Tracking 24, Focus & Habits 16, Reading & Knowledge 21, Email & Communication 19, Documents & PDFs 24, More 46 |
+| [Mac & Desktop Utilities](directory/mac-desktop-utilities.md) | 290 | Menu Bar & Dock 62, Windows & Screens 46, Clipboard, Launchers & Keyboard 57, Files, Storage & System 96, Browser Extensions 13, More 16 |
+| [Security & Privacy](directory/security-privacy.md) | 105 | VPN 26, Password Managers 8, Antivirus & Security Suites 32, Privacy & Data Removal 22, Secure Email & Storage 14, More 3 |
+| [Hosting & Cloud](directory/hosting-cloud.md) | 107 | Domains 12, Web & WordPress Hosting 42, PaaS & Serverless 2, VPS & Cloud Servers 34, Databases 1, Cloud Storage & Backup 10, Email Hosting 3, More 3 |
 | [Websites & E-commerce](directory/websites-e-commerce.md) | 216 | Website Builders & No-Code 32, WordPress Themes & Plugins 137, Forms & Surveys 18, E-commerce & Payments 29 |
-| [Marketing & Sales](directory/marketing-sales.md) | 244 | SEO 63, Email Marketing & Newsletters 35, Social Media 46, Ads, Leads & Outreach 62, CRM & Sales 15, Web Analytics 23 |
-| [Business & Finance](directory/business-finance.md) | 179 | Personal Finance & Investing 54, Accounting & Invoicing 18, Customer Support & Chat 28, Team & Operations 40, Startup & Indie Tools 24, Legal & Documents 15 |
-| [Learning](directory/learning.md) | 244 | Online Course Platforms 56, Programming & Tech 38, Cybersecurity Certs & Training 74, Cloud & DevOps Certs 11, Languages 25, Books & Ebooks 32, Communities & Newsletters 8 |
+| [Marketing & Sales](directory/marketing-sales.md) | 256 | SEO 63, Email Marketing & Newsletters 35, Social Media 46, Ads, Leads & Outreach 62, CRM & Sales 15, Web Analytics 23, More 12 |
+| [Business & Finance](directory/business-finance.md) | 185 | Personal Finance & Investing 54, Accounting & Invoicing 18, Customer Support & Chat 28, Team & Operations 40, Startup & Indie Tools 24, Legal & Documents 15, More 6 |
+| [Learning](directory/learning.md) | 253 | Online Course Platforms 56, Programming & Tech 38, Cybersecurity Certs & Training 73, Cloud & DevOps Certs 11, Languages 25, Books & Ebooks 32, Communities & Newsletters 8, More 10 |
 | [Entertainment](directory/entertainment.md) | 74 | Streaming Video 33, Music 19, Audiobooks & Reading 6, News & Magazines 16 |
-| [Gaming](directory/gaming.md) | 59 | Game Stores & Sales 15, Game Subscriptions 2, Games & Apps 42 |
-| [Hardware & Electronics](directory/hardware-electronics.md) | 147 | Phones, Tablets & Computers 34, Audio 17, Smart Home 15, Accessories & Peripherals 60, Cameras & Drones 7, Retailer Sales 14 |
-| [Health & Lifestyle](directory/health-lifestyle.md) | 171 | Fitness & Workouts 32, Health & Mental Wellbeing 45, Food & Nutrition 14, Travel & Navigation 18, Family, Kids & Relationships 16, Hobbies & Home 36, Weather & Misc 10 |
+| [Gaming](directory/gaming.md) | 64 | Game Stores & Sales 15, Game Subscriptions 2, Games & Apps 42, More 5 |
+| [Hardware & Electronics](directory/hardware-electronics.md) | 91 | Phones, Tablets & Computers 8, Audio 11, Smart Home 9, Accessories & Peripherals 41, Cameras & Drones 7, Retailer Sales 13, More 2 |
+| [Health & Lifestyle](directory/health-lifestyle.md) | 179 | Fitness & Workouts 32, Health & Mental Wellbeing 45, Food & Nutrition 14, Travel & Navigation 18, Family, Kids & Relationships 16, Hobbies & Home 36, Weather & Misc 10, More 8 |
 | [Bundles & Deal Sites](directory/bundles-deal-sites.md) | 8 | Bundles 8 |
 | [Adult (18+)](directory/adult-18.md) | 30 | Adult Sites & Subscriptions 9, Adult Games 3, Adult Toys & Wellness 18 |
 
@@ -124,6 +124,7 @@ Black Friday is **Nov 27, 2026**, Cyber Monday is **Nov 30, 2026**. Last built *
 | [Stockoscope](https://stockoscope.com/go/FIVEFORFIVE) | Stock research and screening tool. | $5/mo for the first 5 months of Pro, then $15/mo |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/stockoscope/) |
 | [Store Manager (eMagicOne)](https://emagicone.com/plugins/) | Desktop store manager for PrestaShop, WooCommerce and Magento shops. | 50% off the lifetime store management license | `50friday2026` | Nov 27 | [details](https://bf26-deals.pages.dev/deal/storemanager/) |
 | [The Room Layout Fix](https://x.com/JSInteriorDes) | 7-day interior layout course and workbook. | 30% off | `BLACKFRIDAY30` | Nov 27 | [details](https://bf26-deals.pages.dev/deal/theroomlayoutfix/) |
+| [TryHackMe](https://tryhackme.com/black-friday) | Hands-on cybersecurity training with guided labs for beginners and up. | About 40% off annual |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/tryhackme/) |
 | [Umami Manager](https://apple.co/40MP50F) | Mobile app for monitoring and managing Umami Analytics. | 25% off lifetime |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/umamimanager/) |
 | [Xerxes The Dark](https://www.xerxesthedark.bandcamp.com/music) | Dark ambient music on Bandcamp. | 50% off all Bandcamp releases |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/xerxesthedark/) |
 
@@ -161,7 +162,7 @@ Merged from these lists. Thank you to their maintainers and contributors.
 - [refinism-B/Awesome-Black-Friday-2026-zh](https://github.com/refinism-B/Awesome-Black-Friday-2026-zh)
 - Web, X and Reddit research: vendor pages, dated 2026 roundups and posts by the vendors themselves, linked on each deal's page.
 
-8709 rows parsed, 2939 unique deals after merging, 57 expired and 29 unconfirmed listings removed. Descriptions and headlines are written for this list.
+9187 rows parsed, 3009 unique deals after merging, 57 expired and 30 unconfirmed listings removed. Descriptions and headlines are written for this list.
 
 ## Rebuild
 

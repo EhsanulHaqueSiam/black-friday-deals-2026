@@ -2,13 +2,14 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/security-privacy/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**102 live deals**, 26 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**105 live deals**, 28 with promo codes. Biggest discounts first. Last built 2026-11-24.
 
 - [VPN](#vpn) (26)
 - [Password Managers](#password-managers) (8)
 - [Antivirus & Security Suites](#antivirus--security-suites) (32)
 - [Privacy & Data Removal](#privacy--data-removal) (22)
 - [Secure Email & Storage](#secure-email--storage) (14)
+- [More](#more) (3)
 
 ## VPN
 
@@ -82,7 +83,7 @@
 | [Vulnsy](https://www.vulnsy.com/) | Vulnerability scanning and security testing platform. | 50% off Pro for 6 months | `BLACKFRIDAY` | Dec 31 | [details](https://bf26-deals.pages.dev/deal/vulnsy/) |
 | [Burp Bounty Pro](https://bountysecurity.ai/products/burp-bounty) | Burp Suite extension that automates vulnerability scanning. | 40% off first year of yearly plan | `BLACKFRIDAY26` | Dec 3 | [details](https://bf26-deals.pages.dev/deal/burpbountypro/) |
 | [Burp Bounty Server](https://bountysecurity.ai/pages/burp-bounty-server) | Standalone vulnerability scanner with a REST API and MCP integration. | 40% off first year | `BLACKFRIDAY26` | Dec 3 | [details](https://bf26-deals.pages.dev/deal/burpbountyserver/) |
-| [Imunify360](https://www.imunify360.com/) | Security suite for Linux web servers, with malware scanning and a firewall. | Up to 40% off for new customers |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/imunify360/) |
+| [Imunify360](https://www.imunify360.com/) | Security suite for Linux web servers, with malware scanning and a firewall. | Up to 40% off for new customers |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/imunify360/) |
 | [OkayTab](https://okaytab.app/) | Browser extension that blocks fake shops, phishing and scam sites before you type. | 30% off your first period, yearly $16.09 | `BLACKFRIDAY2026` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/okaytab/) |
 | [TinyShield](https://tinyshield.proxyman.com/pricing) | App firewall and network monitor for macOS. | 30% off all plans, lifetime $69 → $48.30 | `BF2026` | Dec 3 | [details](https://bf26-deals.pages.dev/deal/tinyshield/) |
 | [Control Pack](https://www.exploitpack.com/products/control-pack) | Cross-platform command-and-control framework for red-team post-exploitation work. | 20% off plus Lifetime upgrade, €1,200 → €960 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/controlpack/) |
@@ -136,3 +137,11 @@
 | [SimpleumSafe](https://simpleum.com/en/safe/buy/?utm_source=bf26-trung) | Encrypted vault for private photos and documents on Mac, iPhone and iPad. | 30% off, Mac $99.99 → $69.99 |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/simpleumsafe/) |
 | [Hushmail](https://www.hushmail.com) | HIPAA-compliant encrypted email and forms for healthcare. | 25% off the first year for new customers |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/hushmail/) |
 | [Tuta](https://tuta.com/black-friday) | End-to-end encrypted email and calendar based in Germany. | 12 months free on Revolutionary and Legend plans |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/tuta/) |
+
+## More
+
+| Product | What it is | Offer | Code | Ends | |
+|---|---|---|---|---|---|
+| [ShieldFive](https://shieldfive.com/pricing?utm_source=github&utm_medium=listing&utm_campaign=mrs-bf-2026) |  | Up to 50% off the first year of annual plans |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/shieldfive/) |
+| [SpyAlert](https://spyalert.acgao.com/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $10 → $6 | `BF26-SPYALERT` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/spyalert/) |
+| [Videopoint](https://videopoint.pl/promocja/24963) |  | kursy video - z kodem BLACK każdy kurs 38,90 PLN | `BLACK` |  | [details](https://bf26-deals.pages.dev/deal/videopoint/) |
