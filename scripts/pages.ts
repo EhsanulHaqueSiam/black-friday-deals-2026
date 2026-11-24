@@ -168,6 +168,7 @@ ${o.noindex ? '<meta name="robots" content="noindex">' : ""}
 <meta name="twitter:image" content="${image}">
 ${ldScript(o.ld ?? [])}
 <meta name="theme-color" content="#000000">
+<meta name="google-site-verification" content="gELPJAiAWXfrbXCUCzGQh10eRaISig4fEC8Dwu6I0lc">
 ${ICON}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
