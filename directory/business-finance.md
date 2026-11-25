@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/business-finance/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**185 live deals**, 82 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**185 live deals**, 82 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
 - [Personal Finance & Investing](#personal-finance--investing) (54)
 - [Accounting & Invoicing](#accounting--invoicing) (18)

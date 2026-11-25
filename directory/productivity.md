@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/productivity/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**227 live deals**, 91 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**227 live deals**, 91 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
 - [Notes & Writing](#notes--writing) (41)
 - [Tasks & Projects](#tasks--projects) (36)

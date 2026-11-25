@@ -2,12 +2,12 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/developer-tools/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**166 live deals**, 103 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**165 live deals**, 103 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
 - [Databases & API Clients](#databases--api-clients) (10)
 - [Git, CI & DevOps](#git-ci--devops) (14)
 - [Testing & Debugging](#testing--debugging) (22)
-- [Editors & Terminals](#editors--terminals) (13)
+- [Editors & Terminals](#editors--terminals) (12)
 - [Mac Dev Utilities](#mac-dev-utilities) (22)
 - [Boilerplates & Starter Kits](#boilerplates--starter-kits) (28)
 - [Backend, APIs & Infra](#backend-apis--infra) (27)
@@ -84,7 +84,6 @@
 | [Aba Search and Replace](https://www.abareplace.com) | Regex search and replace across files, plus Base64, URL and JWT encoding tools. | 50% off lifetime license, $30 → $15 | `Sale2026` | Dec 31 | [details](https://bf26-deals.pages.dev/deal/abasearchandreplace/) |
 | [Code Viewer](https://apps.apple.com/app/apple-store/id756979450?pt=122485603&ct=githab_bl&mt=8) | Code reader and editor for iPhone and iPad with syntax highlighting and Go to Definition. | 50% off lifetime, $19.99 → $9.99 |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/codeviewer/) |
 | [Doubles](https://doubles.dev/pricing) | Remote pair programming app for Mac with sharp screen share, remote control, voice and drawing. | 50% off, $169 → $84.50 | `DOUBLES50` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/doubles/) |
-| [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | Plain text editor with syntax highlighting for iPhone, iPad and Vision Pro. | 50% off Premium, now $4.99 |  | Nov 24 | [details](https://bf26-deals.pages.dev/deal/runestone/) |
 | [SSH Workbench](https://sshworkbench.com/?utm_source=bfcm-twf&utm_medium=referral&utm_campaign=bfcm2026) | Visual app for managing servers over SSH. | 50% off lifetime, $199 → $99 | `FCBF26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/sshworkbench/) |
 | [Poedit](https://poedit.com/purchase/?utm_source=trungdq88) | Translation editor for apps and websites supporting PO, XLIFF, JSON and more. | 30% off, Pro $29.99 → $20.99 | `BF26` | Dec 3 | [details](https://bf26-deals.pages.dev/deal/poedit/) |
 | [RunJS](https://runjs.app) | JavaScript and TypeScript playground with instant results. | 30% off, $30 → $21 | `BLACKFRIDAY2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/runjs/) |

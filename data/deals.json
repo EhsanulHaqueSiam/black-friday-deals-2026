@@ -14564,28 +14564,6 @@
     "headline": "80% off, $4.99 → $0.99"
   },
   {
-    "name": "Disney+ & Hulu",
-    "url": "https://www.hulu.com/",
-    "deal": "Disney+ and Hulu Basic (with ads) bundle for $4.99/mo for 12 months, expected from Nov 24, 2026; not yet shown on Disney's own pages",
-    "codes": [],
-    "ends": "2026-11-24",
-    "upcoming": true,
-    "sources": [
-      "https://blackfriday.com/hulu-black-friday"
-    ],
-    "headline": "Bundle with ads $4.99/mo for 12 months",
-    "id": "disneyhulu",
-    "category": "Entertainment",
-    "subcategory": "Streaming Video",
-    "platforms": [
-      "web",
-      "ios",
-      "android"
-    ],
-    "pricing": "subscription",
-    "description": "Disney+ and Hulu streaming bundle."
-  },
-  {
     "name": "DisplayBuddy",
     "url": "https://displaybuddy.app/pricing",
     "deal": "33% off · Expires: 2026-12-15 · macOS app to control brightness, contrast, volume, inputs and presets for external monitors. Code BLACKFRIDAY26. Found in longseespace mac-black-friday README, Nov 11, 2026.",
@@ -23803,16 +23781,18 @@
   {
     "name": "Higgsfield",
     "url": "https://higgsfield.ai/pricing",
-    "deal": "Black Friday up to 70% off premium plans · Expires: 2026-11-24 · AI video generation platform. New official 70% window Nov 23 to Nov 24, 2026 (phase black_friday, max 70% off premium plans); prior 63%/65% windows ended Nov 23. Plan dollars for…",
+    "deal": "Black Friday: up to 70% off annual plans, no code. Plus $30/mo billed yearly (list $59), Ultra 3,000 credits $45/mo (list $129), Ultra 9,000 credits $115/mo (list $387); Team 43% off, Scale 63% off annual. Plan sale ends Nov 26, 2026 00:00 UTC. Separate Black Friday Market: up to 75% off credit packs, bonus seconds and add-ons through Nov 30.",
     "codes": [],
-    "ends": "2026-11-24",
+    "ends": "2026-11-25",
     "discount": 70,
     "sources": [
       "Shashankt255/black-friday-deals-2026",
       "KevinKaul/black-friday-deals-2026",
       "thuongtin/awesome-bfcm-2026",
-      "thoughtcook/verified-black-friday"
+      "thoughtcook/verified-black-friday",
+      "https://higgsfield.ai/pricing.md"
     ],
+    "headline": "Up to 70% off annual plans",
     "id": "higgsfield",
     "category": "AI Tools",
     "subcategory": "Image & Video",
@@ -23820,27 +23800,7 @@
       "web"
     ],
     "pricing": "subscription",
-    "description": "AI video and image generation platform.",
-    "headline": "Up to 70% off premium plans"
-  },
-  {
-    "name": "Higgsfield AI",
-    "url": "https://goto.higgsfield.ai/raPQRv",
-    "deal": "63% off in the Black Friday sale · Validity: Not published",
-    "codes": [],
-    "discount": 63,
-    "sources": [
-      "Somi-AI/black-friday-deals"
-    ],
-    "id": "higgsfieldai",
-    "category": "AI Tools",
-    "subcategory": "Image & Video",
-    "platforms": [
-      "web"
-    ],
-    "pricing": "subscription",
-    "description": "AI video generator with cinematic camera controls.",
-    "headline": "63% off"
+    "description": "AI video and image generation platform."
   },
   {
     "name": "High Performance Bundle",
@@ -36893,26 +36853,6 @@
     "headline": "50% off yearly plans, $288 → $144"
   },
   {
-    "name": "Nuntius Games",
-    "url": "https://store.steampowered.com/publisher/nuntiusgames/",
-    "deal": "Games up to 50% off on Steam until Nov 24",
-    "codes": [],
-    "ends": "2026-11-24",
-    "discount": 50,
-    "sources": [
-      "https://x.com/NuntiusGamesInt/status/2122782168611267008"
-    ],
-    "headline": "Up to 50% off on Steam",
-    "id": "nuntiusgames",
-    "category": "Gaming",
-    "subcategory": "Games & Apps",
-    "platforms": [
-      "windows"
-    ],
-    "pricing": "one-time",
-    "description": "Indie game publisher on Steam."
-  },
-  {
     "name": "NuPhy Halo IO",
     "url": "https://bit.ly/black_friday_2026_x",
     "deal": "Halo IO buy one get one free, limited time",
@@ -46627,30 +46567,6 @@
     "pricing": "subscription",
     "description": "AI agent that builds websites and content and handles everyday tasks.",
     "headline": "Up to $300 in ad credits"
-  },
-  {
-    "name": "Runestone",
-    "url": "https://apps.apple.com/us/app/runestone-text-editor/id1548193893",
-    "deal": "50% off Premium ($4.99 USD) · Automatically applied to the one-time in-app purchase. No code needed. November 24–30, 2026.",
-    "codes": [],
-    "ends": "2026-11-24",
-    "discount": 50,
-    "sources": [
-      "mRs-/Black-Friday-Deals",
-      "Shashankt255/black-friday-deals-2026",
-      "thuongtin/awesome-bfcm-2026",
-      "labex-labs/black-friday-cyber-monday-deals",
-      "longseespace/mac-black-friday"
-    ],
-    "id": "runestone",
-    "category": "Developer Tools",
-    "subcategory": "Editors & Terminals",
-    "platforms": [
-      "ios"
-    ],
-    "pricing": "one-time",
-    "description": "Plain text editor with syntax highlighting for iPhone, iPad and Vision Pro.",
-    "headline": "50% off Premium, now $4.99"
   },
   {
     "name": "Runheed",
@@ -61931,28 +61847,6 @@
     "pricing": "one-time",
     "description": "Audio plugins for mixing, mastering and music production.",
     "headline": "3 plugins for $49.99, 6 for $99.98"
-  },
-  {
-    "name": "Wavy Road",
-    "url": "https://apps.apple.com/dk/app/wavy-road-endless-driving/id6804942333",
-    "deal": "Up to 50% off Unlimited Play and vehicles · Automatically applied to in-app purchases. No code needed. November 24–30, 2026.",
-    "codes": [],
-    "ends": "2026-11-24",
-    "discount": 50,
-    "sources": [
-      "mRs-/Black-Friday-Deals",
-      "longseespace/mac-black-friday",
-      "thephux/awesome-ios-black-friday"
-    ],
-    "id": "wavyroad",
-    "category": "Gaming",
-    "subcategory": "Games & Apps",
-    "platforms": [
-      "ios"
-    ],
-    "pricing": "one-time",
-    "description": "Endless driving game for iPhone where you steer the road to dodge obstacles.",
-    "headline": "Up to 50% off Unlimited Play and vehicles"
   },
   {
     "name": "Wbcom Designs",

@@ -2,11 +2,11 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/ai-tools/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**271 live deals**, 105 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**270 live deals**, 105 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
 - [Chat & Assistants](#chat--assistants) (31)
 - [Writing & Content](#writing--content) (42)
-- [Image & Video](#image--video) (88)
+- [Image & Video](#image--video) (87)
 - [Voice & Audio](#voice--audio) (29)
 - [Coding & Agents](#coding--agents) (23)
 - [Automation & Workflows](#automation--workflows) (20)
@@ -103,11 +103,10 @@
 |---|---|---|---|---|---|
 | [JoggAI](https://x.com/Jogg_ai) | AI video and presentation generator. | Up to 2x credits at the same price |  |  | [details](https://bf26-deals.pages.dev/deal/joggai/) |
 | [Dreamina (CapCut AI)](https://dreamina.capcut.com/) | AI image and video generator from the makers of a popular video editor. | First month of Basic for $0.29 |  |  | [details](https://bf26-deals.pages.dev/deal/dreamina/) |
-| [Higgsfield](https://higgsfield.ai/pricing) | AI video and image generation platform. | Up to 70% off premium plans |  | Nov 24 | [details](https://bf26-deals.pages.dev/deal/higgsfield/) |
+| [Higgsfield](https://higgsfield.ai/pricing) | AI video and image generation platform. | Up to 70% off annual plans |  | Nov 25 | [details](https://bf26-deals.pages.dev/deal/higgsfield/) |
 | [Krea](https://www.krea.ai/pricing) | AI image and video generation suite with real-time editing and upscaling. | Up to 70% off yearly plans, 25% off monthly |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/krea/) |
 | [Pixara](https://www.pixara.ai/) | Multi-model AI workspace for images, video and voiceovers. | 70% off Pro and Ultimate annual |  |  | [details](https://bf26-deals.pages.dev/deal/pixara/) |
 | [Seedeo](https://seedeo.ai/black-friday) | Generates video, images, music and voice across many AI models on one balance. | 64% off Pro annual, 62% off credits | `bf26_pack99` |  | [details](https://bf26-deals.pages.dev/deal/seedeo/) |
-| [Higgsfield AI](https://goto.higgsfield.ai/raPQRv) | AI video generator with cinematic camera controls. | 63% off |  |  | [details](https://bf26-deals.pages.dev/deal/higgsfieldai/) |
 | [ClipTalk](https://www.cliptalk.pro) | Generates short-form AI videos for TikTok, Reels and Shorts from a prompt. | 61% off Pro for life, $99 → $39/mo |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/cliptalk/) |
 | [Adobe Firefly](https://www.adobe.com/products/firefly.html) | Adobe's generative AI for images, video and design assets. | 60% off, $49.99 → $19.99/mo for 6 months |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/adobefirefly/) |
 | [HitPaw](https://www.hitpaw.com/) | Uses AI to enhance photo and video quality. | 60% off AI video and photo tools |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/hitpaw/) |

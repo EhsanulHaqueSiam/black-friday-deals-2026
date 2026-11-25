@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/mac-desktop-utilities/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**290 live deals**, 177 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**290 live deals**, 177 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
 - [Menu Bar & Dock](#menu-bar--dock) (62)
 - [Windows & Screens](#windows--screens) (46)

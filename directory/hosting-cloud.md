@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/hosting-cloud/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**107 live deals**, 35 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**107 live deals**, 35 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
 - [Domains](#domains) (12)
 - [Web & WordPress Hosting](#web--wordpress-hosting) (42)

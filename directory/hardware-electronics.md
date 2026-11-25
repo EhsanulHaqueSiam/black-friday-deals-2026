@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/hardware-electronics/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**91 live deals**, 8 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**91 live deals**, 8 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
 - [Phones, Tablets & Computers](#phones-tablets--computers) (8)
 - [Audio](#audio) (11)

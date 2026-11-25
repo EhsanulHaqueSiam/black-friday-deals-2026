@@ -2,11 +2,11 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/gaming/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**64 live deals**, 8 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**62 live deals**, 8 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
 - [Game Stores & Sales](#game-stores--sales) (15)
 - [Game Subscriptions](#game-subscriptions) (2)
-- [Games & Apps](#games--apps) (42)
+- [Games & Apps](#games--apps) (40)
 - [More](#more) (5)
 
 ## Game Stores & Sales
@@ -57,12 +57,10 @@
 | [Dragon's Gambit: Chess](https://apps.apple.com/app/id6768390263) | Offline chess with story mode, historical scenarios and 2,500 puzzles. | 50% off on iOS and Android |  | Dec 26 | [details](https://bf26-deals.pages.dev/deal/dragonsgambit/) |
 | [ESLUTECH games](https://x.com/eslutech) | Indie games on itch.io like The Journey of Hope and Capybara Garden. | **Soon.** 50% off the whole itch.io catalog |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/eslutechgames/) |
 | [Nioh 3](https://x.com/TeamNINJAStudio) | Samurai action RPG from Team NINJA. | 50% off Standard Edition, 25% off Season Pass |  |  | [details](https://bf26-deals.pages.dev/deal/nioh3/) |
-| [Nuntius Games](https://store.steampowered.com/publisher/nuntiusgames/) | Indie game publisher on Steam. | Up to 50% off on Steam |  | Nov 24 | [details](https://bf26-deals.pages.dev/deal/nuntiusgames/) |
 | [Puzelo](https://apps.apple.com/app/id6807589117) | Seven types of logic puzzles for iPhone and iPad with no ads. | 50% off full unlock, $17.99 → $8.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/puzelo/) |
 | [SportSphere](https://sportspherehq.com) | Fantasy basketball analytics and tools. | 50% off fantasy basketball tools with a 30-day free trial | `BF2026` |  | [details](https://bf26-deals.pages.dev/deal/sportsphere/) |
 | [Twilight Monk](https://x.com/start_gravityEN) | Action platformer. | 50% off on Steam |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/twilightmonk/) |
 | [Vitral](https://x.com/VitralPuzzleApp) | Stained glass puzzle game. | 50% off Unlimited, one payment |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/vitral/) |
-| [Wavy Road](https://apps.apple.com/dk/app/wavy-road-endless-driving/id6804942333) | Endless driving game for iPhone where you steer the road to dodge obstacles. | Up to 50% off Unlimited Play and vehicles |  | Nov 24 | [details](https://bf26-deals.pages.dev/deal/wavyroad/) |
 | [Jackbox Games](https://x.com/jackboxgames) | Party game packs. | 45% off Party Packs 8 and 9 on Steam |  |  | [details](https://bf26-deals.pages.dev/deal/jackboxgames/) |
 | [Beat Chess! Coach](https://apps.apple.com/us/app/beat-chess-coach/id6828699930) | Chess app with coaches that explain moves and review your online games. | 40% off Full, $4.99 → $2.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/beatchesscoach/) |
 | [Gravity Whipped](https://store.steampowered.com/app/4038840/Gravity_Whipped/) | Indie physics game on Steam. | 40% off the game on Steam |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/gravitywhipped/) |

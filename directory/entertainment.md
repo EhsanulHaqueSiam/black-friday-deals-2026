@@ -2,9 +2,9 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/entertainment/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**74 live deals**, 18 with promo codes. Biggest discounts first. Last built 2026-11-24.
+**73 live deals**, 18 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
-- [Streaming Video](#streaming-video) (33)
+- [Streaming Video](#streaming-video) (32)
 - [Music](#music) (19)
 - [Audiobooks & Reading](#audiobooks--reading) (6)
 - [News & Magazines](#news--magazines) (16)
@@ -32,7 +32,6 @@
 | [BlazeTV](https://www.blazetv.com) | Conservative news and entertainment streaming service. | $50 off a subscription |  |  | [details](https://bf26-deals.pages.dev/deal/blazetv/) |
 | [BritBox](https://www.britbox.com/) | Streaming service for British TV dramas, mysteries and comedies. | $2.75/mo for 2 months via Prime, annual plans from $79.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/britbox/) |
 | [Curiosity Stream](https://curiositystream.com/) | Streaming service for science, nature and history documentaries. | $2.99/mo for 2 months via Roku |  |  | [details](https://bf26-deals.pages.dev/deal/curiositystream/) |
-| [Disney+ & Hulu](https://www.hulu.com/) | Disney+ and Hulu streaming bundle. | **Soon.** Bundle with ads $4.99/mo for 12 months |  | Nov 24 | [details](https://bf26-deals.pages.dev/deal/disneyhulu/) |
 | [Fox One](https://www.foxone.com/) | Fox streaming service with live sports, news and entertainment. | $19.99 → $4.99 for the first month via Roku |  |  | [details](https://bf26-deals.pages.dev/deal/foxone/) |
 | [Frndly TV](https://try.frndlytv.com/) | Low-cost live TV streaming with Hallmark, A&E, History and more. | $0.99/mo for 3 months or $99/yr for Premium via Roku |  |  | [details](https://bf26-deals.pages.dev/deal/frndlytv/) |
 | [Hallmark+](https://www.hallmarkplus.com/) | Streaming service for Hallmark holiday movies and series. | $2.25/mo for 3 months or $79.99 → $39.99/yr via Prime |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/hallmark/) |
