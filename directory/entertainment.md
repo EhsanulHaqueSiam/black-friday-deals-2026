@@ -2,12 +2,12 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/entertainment/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**73 live deals**, 18 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**72 live deals**, 17 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
 - [Streaming Video](#streaming-video) (32)
 - [Music](#music) (19)
 - [Audiobooks & Reading](#audiobooks--reading) (6)
-- [News & Magazines](#news--magazines) (16)
+- [News & Magazines](#news--magazines) (15)
 
 ## Streaming Video
 
@@ -79,7 +79,7 @@
 | [Storytel](https://www.storytel.com/) | Audiobook and ebook streaming subscription popular in Europe. | 50% off for 3 to 6 months, varies by country |  |  | [details](https://bf26-deals.pages.dev/deal/storytel/) |
 | [CocoReader](https://www.cocoreader.cc/black-friday) | Reads your own EPUB books aloud so you can listen to them like audiobooks. | 33% off first year of Pro, $29.99 → $19.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/cocoreader/) |
 | [Audible](https://www.audible.com/) | Audiobook and podcast subscription service. | $0.99/mo for 3 months plus $20 credit |  | Dec 28 | [details](https://bf26-deals.pages.dev/deal/audible/) |
-| [Kindle+ (formerly Kindle Unlimited)](https://www.amazon.com/kindle-dbs/hz/subscribe/ku) | Amazon ebook and audiobook reading subscription. | 3 months of Kindle+ free |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/kindle/) |
+| [Kindle](https://www.amazon.com/kindle-dbs/hz/subscribe/ku) | Amazon ebook and audiobook reading subscription. | 3 months of Kindle+ free |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/kindle/) |
 
 ## News & Magazines
 
@@ -87,7 +87,6 @@
 |---|---|---|---|---|---|
 | [Newshosting](https://controlpanel.newshosting.com/signup/index.php?promo=cr4l1) | Provides long-retention Usenet access, a searchable newsreader and VPN service. | 92% off Usenet and VPN, $1.67/mo for 15 months | `cr4l1` |  | [details](https://bf26-deals.pages.dev/deal/newshosting/) |
 | [Easynews](https://signup.easynews.com/checkout/exclusive-deal-for-you-z) | Searches Usenet in a browser and supports downloads through NNTP clients. | 91% off browser-based Usenet, $1.65/mo for 15 months |  |  | [details](https://bf26-deals.pages.dev/deal/easynews/) |
-| [UsenetServer](https://accounts.usenetserver.com/register/?promo=o3vdw&step=p) | Provides Usenet access with up to 100 connections and a bundled VPN. | 91% off Usenet and VPN, $1.89/mo for 15 months | `o3vdw` |  | [details](https://bf26-deals.pages.dev/deal/usenetserver/) |
 | [Autism Parenting Magazine](https://x.com/AutismParentMag) | Magazine for parents of autistic children. | 85% off, $39.99 annual with starter pack |  |  | [details](https://bf26-deals.pages.dev/deal/autismparentingmagazine/) |
 | [Eweka](https://www.eweka.nl/en/landing/your-exclusive-dealz) | Provides long-retention Usenet access with a newsreader, VPN and browser access. | 83% off Usenet and VPN, €2.50/mo for 15 months |  |  | [details](https://bf26-deals.pages.dev/deal/eweka/) |
 | [National Mortgage News](https://sbrew.link/ggLc2AAc) | Mortgage industry news. | 60% off a subscription |  | Nov 29 | [details](https://bf26-deals.pages.dev/deal/nationalmortgagenews/) |

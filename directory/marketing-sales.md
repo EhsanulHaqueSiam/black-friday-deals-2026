@@ -2,15 +2,15 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/marketing-sales/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**256 live deals**, 114 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**268 live deals**, 122 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
 - [SEO](#seo) (63)
 - [Email Marketing & Newsletters](#email-marketing--newsletters) (35)
 - [Social Media](#social-media) (46)
 - [Ads, Leads & Outreach](#ads-leads--outreach) (62)
-- [CRM & Sales](#crm--sales) (15)
+- [CRM & Sales](#crm--sales) (14)
 - [Web Analytics](#web-analytics) (23)
-- [More](#more) (12)
+- [More](#more) (25)
 
 ## SEO
 
@@ -61,7 +61,7 @@
 | [GrackerAI](https://gracker.ai/blog/black-friday-deals) | Tracks and improves how AI search engines cite B2B and security brands. | 20% off | `BF2026` | Dec 15 | [details](https://bf26-deals.pages.dev/deal/grackerai/) |
 | [Ranked AI](https://www.ranked.ai/pricing) | SEO software with content and AI workflows. | 20% off with yearly billing |  |  | [details](https://bf26-deals.pages.dev/deal/rankedai/) |
 | [SE Ranking](https://seranking.com/) | SEO platform for rank tracking, keyword research, site audits and backlinks. | Extra 20% off annual plans and add-ons |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/seranking/) |
-| [SEO Utils](https://seoutils.app/) | Desktop SEO toolkit for keyword research and Search Console data. | Lifetime license, or 20% off regular license | `BF26` | Dec 7 | [details](https://bf26-deals.pages.dev/deal/seoutils/) |
+| [SEO Utils](https://seoutils.app/?utm_source=tonybf&utm_medium=github&utm_campaign=bf2026) | Desktop SEO toolkit for keyword research and Search Console data. | Lifetime license, or 20% off regular license | `BF26` | Dec 7 | [details](https://bf26-deals.pages.dev/deal/seoutils/) |
 | [BacklinkBuilding.Agency](https://backlinkbuilding.agency/) | Link building service for SEO. | 10% off monthly plans, 15% off 6-month plans |  | Dec 11 | [details](https://bf26-deals.pages.dev/deal/backlinkbuildingagency/) |
 | [Seobility](https://www.seobility.net/en/lp/blackfriday26/) | SEO site audits, rank tracking and backlink checks. | 60 days free plus 15% off forever |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/seobility/) |
 | [Loganix](https://loganix.com/black-friday-sale/) | Link building, citations and SEO services for agencies and site owners. | 10% off sitewide SEO services | `BF2026` | Dec 7 | [details](https://bf26-deals.pages.dev/deal/loganix/) |
@@ -253,7 +253,6 @@
 | [LeadCRM](https://www.leadcrm.io/blog/black-friday-saas-deals/) | Syncs LinkedIn leads and conversations to your CRM. | **Soon.** 40% off annual plans | `LCBF26` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/leadcrm/) |
 | [SalesStack](https://www.salesstack.com/) | Sales prospecting and outreach platform. | **Soon.** Up to 40% off annual plans |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/salesstack/) |
 | [Pipedrive](https://www.pipedrive.com/) | Sales CRM built around a visual deal pipeline. | 35% off annual |  |  | [details](https://bf26-deals.pages.dev/deal/pipedrive/) |
-| [Wallsy](https://wallsy.live/) | Collects and approves customer testimonials for publication on a website. | 30% off Pro for collecting and publishing testimonials |  |  | [details](https://bf26-deals.pages.dev/deal/wallsy/) |
 | [Zoho CRM](https://www.zoho.com/) | CRM for small and mid-size businesses. | Up to 25% off annual |  |  | [details](https://bf26-deals.pages.dev/deal/zohocrm/) |
 | [GHLExpertly](https://ghlexpertly.com/) | Done-for-you GoHighLevel CRM setup projects. | 20% off fixed-price setup projects |  | Dec 10 | [details](https://bf26-deals.pages.dev/deal/ghlexpertly/) |
 | [MEDDPICC Mastery](https://www.socoselling.com/deal-management-qualifying-course-black-friday/) | Online course on deal qualification for B2B sales teams. | $299 → $199 for the sales training course | `BF100MP` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/meddpiccmastery/) |
@@ -291,14 +290,27 @@
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
 | [AITroveX](https://aitrovex.com/pricing?utm_source=mrsbf) |  | 71% off Bulk pack: $100 $29 for 20 Priority submission credits ($1.45/tool) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/aitrovex/) |
+| [surl.li](https://surl.li/en/) |  | 60% OFF all plans |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/surlli/) |
+| [Expandi](https://expandi.io/bfcm-promo/?utm_source=github-trungdq88&utm_medium=referral&utm_campaign=bfcm-2026) |  | Up to 58% OFF for the first 12 months, no code needed (applied at checkout) |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/expandi/) |
+| [AI Tool Trek](https://aitooltrek.com/submit) |  | 50% off Fast Track listing ($24.90 → $12.45) | `BLACKFRIDAY50` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/aitooltrek/) |
 | [BacklinkGenie](https://backlinkgenie.com/pricing/?utm_source=tonybf&utm_medium=deal&utm_campaign=bfcm2026) |  | 30% OFF monthly or 50% OFF yearly, kept for as long as you stay subscribed, applied… | `BFCM30` `BFCM50` | Dec 31 | [details](https://bf26-deals.pages.dev/deal/backlinkgenie/) |
 | [CrawlRaven](https://crawlraven.com/pricing?utm_source=tonybf) |  | 50% OFF every lifetime plan with code CRBFCM50: Starter $190 $95 (1 site), Pro $390… | `CRBFCM50` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/crawlraven/) |
+| [GEO Grader](https://geo.nxtg.ai/pricing?src=bfcm-awesome) |  | 50% OFF your first 3 months ($44.50/mo instead of $89/mo | `GEOCYBER50` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/geograder/) |
 | [HeyNews](https://heynews.co/pricing) |  | 50% OFF any plan for 12 months with code BLACKFRIDAY50, monthly plans and add-ons… | `BLACKFRIDAY50` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/heynews/) |
 | [HookTide](https://hooktide.io/pricing) |  | 50% OFF the first year of the Pipeline yearly plan with code BLACKFRIDAY50, applied… | `BLACKFRIDAY50` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/hooktide/) |
-| [Gojiberry.ai](https://gojiberry.ai/?utm_source=github&utm_medium=nikhila&utm_campaign=bf2026) |  | 40% OFF yearly plan |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/gojiberry/) |
+| [Quiet Winners](https://quietwinners.com/) |  | 50% off your first month or year of Pro |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/quietwinners/) |
+| [SiteData](https://sitedata.dev/black-friday) |  | 50% off annual plans, 30% off monthly plans |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/sitedata/) |
+| [SurfacedBy](https://surfacedby.com/pricing?promotion=holiday_2026&billing=monthly&utm_source=awesome_bfcm&utm_medium=directory&utm_campaign=holiday_2026#plans) |  | 50% OFF your first 3 months on any monthly plan, or 25% off the first year |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/surfacedby/) |
+| [Two Minute Reports](https://twominutereports.com/promotions?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=black_friday_2026) |  | 50% OFF the first year of any annual plan with code BF502026: 3 accounts per connector… | `BF502026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/twominutereports/) |
 | [PostSyncer](https://postsyncer.com/pricing?utm_source=awesome-bfcm&utm_campaign=black-friday-2026) |  | 40% OFF the first year of any yearly plan, no code needed: Starter $288 $172.80, Pro… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/postsyncer/) |
-| [Expandi](https://expandi.io/bfcm-promo/?utm_source=github-twf-nikhila&utm_medium=referral&utm_campaign=bfcm-2026) |  | 33% OFF for 12 months ($79 → $53 per LinkedIn account/mo, billed yearly) |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/expandi/) |
+| [WhatsTeam](https://whats.team/?utm_source=tonybf&utm_medium=deal-listing&utm_campaign=blackfriday2026) |  | 40% OFF the first 6 months of any monthly plan with code BLACKFRIDAY40: Starter $29… | `BLACKFRIDAY40` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/whatsteam/) |
+| [Glocavo](https://gbpseotools.com/pricing?utm_source=tonybf&utm_medium=bf_list&utm_campaign=bf2026) |  | 30% OFF your first 3 months on any monthly plan with code BF26MONTH (applied at… | `BF26MONTH` `BF26YEAR` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/glocavo/) |
+| [Narrareach](https://www.narrareach.com/pricing?utm_source=shortlisted&utm_medium=directory&utm_campaign=bfcm_2026) |  | 30% OFF the first year of annual plans (Audience Builder $199 → $139.30, Revenue Writer… |  | Nov 25 | [details](https://bf26-deals.pages.dev/deal/narrareach/) |
 | [Mixpost](https://mixpost.app/pricing) |  | 25% OFF all Cloud plans for 12 months, and 25% OFF the self-hosted license |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/mixpost/) |
+| [Social0](https://social0.app/pricing?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bf2026) |  | 20% OFF for as long as you stay subscribed with code BLACKFRIDAY: Creator (15 accounts)… | `BLACKFRIDAY` | Dec 7 | [details](https://bf26-deals.pages.dev/deal/social0/) |
 | [Vaneform](https://vaneform.com/pricing) |  | 20% OFF Pro Annual Year 1: $99 $79/yr ($6.58/mo) with code VFBF2026 (auto-applied for… | `VFBF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/vaneform/) |
+| [Code Maestro](https://www.code-maestro.com/pricing) |  | 2x credits in the first month on any paid plan, no code needed: Creator +16,000, Studio… |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/codemaestro/) |
 | [Drip Send](https://apps.apple.com/us/app/drip-send-email-outreach/id6761376058) |  | Mac app $34.99 $16.99 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/dripsend/) |
+| [Hermoso](https://hermoso.ai/black-friday/) |  | Starter free for your first month with code BLACKFRIDAY: 300 credits in the trial… | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/hermoso/) |
+| [List My Site](https://listmy.site/) |  | $10 off the 100+ directories plan ($169 → $159) | `GETCITED10` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/listmysite/) |
 | [SupaSEO](https://supaseo.dev) |  | $10 off the $99 Founding Lifetime Deal ($89 one-time) | `BF10` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/supaseo/) |

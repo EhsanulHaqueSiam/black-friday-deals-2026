@@ -2,12 +2,12 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/gaming/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**62 live deals**, 8 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**64 live deals**, 8 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
 - [Game Stores & Sales](#game-stores--sales) (15)
 - [Game Subscriptions](#game-subscriptions) (2)
 - [Games & Apps](#games--apps) (40)
-- [More](#more) (5)
+- [More](#more) (7)
 
 ## Game Stores & Sales
 
@@ -90,3 +90,5 @@
 | [Aikui](https://apps.apple.com/app/id6774103289?pt=283056&ct=bf-github&mt=8) |  | Aikui Pro is half price until December 1: $2.49 in the US, then $4.99 again. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/aikui/) |
 | [Kajai](https://apps.apple.com/app/apple-store/id6778381175?pt=283056&ct=bf-github&mt=8) |  | Remove Ads is half price until December 1: $2.49 in the US, then $4.99 again. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/kajai/) |
 | [Plorp](https://apps.apple.com/app/apple-store/id6758669786?pt=283056&ct=bf-github&mt=8) |  | Remove Ads is half price until December 1: $2.49 in the US, then $4.99 again. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/plorp/) |
+| [Simply Spider](https://apps.apple.com/app/apple-store/id6825126894?pt=1709347&mt=8&ct=bf26-mariuslist) |  | $0.99 instead of $2.99, applied automatically on the App Store |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/simplyspider/) |
+| [Simply Sudoku](https://apps.apple.com/app/apple-store/id6826326321?pt=1709347&mt=8&ct=bf26-mariuslist-sudoku) |  | $0.99 instead of $2.99, applied automatically on the App Store |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/simplysudoku/) |

@@ -128,7 +128,7 @@
 | [Newegg](https://www.newegg.com/Black-Friday-Sale/EventSaleStore/ID-42) | Online retailer of PC parts, laptops and gaming gear. | Daily doorbusters on PC parts, laptops and gaming |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/newegg/) |
 | [RobotShop](https://www.robotshop.com/collections/on-sale) | Store for robotics, electronics parts, kits and tools. | Daily changing discounts on robotics parts |  | Nov 29 | [details](https://bf26-deals.pages.dev/deal/robotshop/) |
 | [Samsung](https://www.samsung.com/us/offer/black-friday/) | Samsung's US store for TVs, monitors, phones and appliances. | Up to $1,500 off OLED TVs, $720 off monitor |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/samsung/) |
-| [SAPSAN](https://sapsan-sklep.pl/) | Polish shop for physical security products. | Free shipping on orders from 350 PLN |  |  | [details](https://bf26-deals.pages.dev/deal/sapsan/) |
+| [Sapsan](https://sapsan-sklep.pl/collections/black-week) | Polish shop for physical security products. | Free shipping on orders from 350 PLN |  |  | [details](https://bf26-deals.pages.dev/deal/sapsan/) |
 | [Walmart](https://www.walmart.com/shop/deals) | Walmart's online and in-store Black Friday sale. | Storewide discounts, Walmart+ early access |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/walmart/) |
 
 ## More

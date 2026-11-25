@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/business-finance/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**185 live deals**, 82 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**192 live deals**, 86 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
 - [Personal Finance & Investing](#personal-finance--investing) (54)
 - [Accounting & Invoicing](#accounting--invoicing) (18)
@@ -10,7 +10,7 @@
 - [Team & Operations](#team--operations) (40)
 - [Startup & Indie Tools](#startup--indie-tools) (24)
 - [Legal & Documents](#legal--documents) (15)
-- [More](#more) (6)
+- [More](#more) (13)
 
 ## Personal Finance & Investing
 
@@ -118,7 +118,7 @@
 | [Fidiora](https://fidiora.com/) | AI support agent that answers customer questions, captures leads and hands off to staff. | 25% off per-resolution pricing | `FID25OFF` | Dec 31 | [details](https://bf26-deals.pages.dev/deal/fidiora/) |
 | [CallHippo](https://callhippo.com/blog/general/black-friday-saas-deals) | Cloud phone system with virtual numbers for teams. | 20% off annual, 15% off monthly billing |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/callhippo/) |
 | [Chatbase](https://www.chatbase.co/pricing) | AI support agents trained on your own docs and product data. | 20% off with yearly billing |  |  | [details](https://bf26-deals.pages.dev/deal/chatbase/) |
-| [Tidio Lyro AI](https://www.tidio.com/black-friday/) | AI chatbot that answers customer support questions. | 4 months free on annual plans | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/tidiolyroai/) |
+| [Tidio Lyro AI](https://www.tidio.com/black-friday/) | AI chatbot that answers customer support questions. | 4 months free on annual plans | `BF2026` | Dec 8 | [details](https://bf26-deals.pages.dev/deal/tidiolyroai/) |
 | [TweakTick](https://tweaktick.com/founding?ref=awesome-bf&code=BFCM26) | Client feedback and sign-off on live websites, images, PDFs and video, with versioned rounds. | 20% off lifetime, Tier 1 $59 → $47.20 | `BFCM26` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/tweaktick/) |
 | [KrispCall](https://try.krispcall.com/promo) | Cloud phone system with virtual numbers. | 15% off all plans | `KRISPBLK15OTD` | Dec 3 | [details](https://bf26-deals.pages.dev/deal/krispcall/) |
 | [Aircall](https://get.aircall.io/discount) | Cloud business phone system and call center software with AI voice agents. | Unlimited AI voice agent minutes |  |  | [details](https://bf26-deals.pages.dev/deal/aircall/) |
@@ -147,7 +147,7 @@
 | [RepairDesk](https://www.repairdesk.co) | Point of sale and management software for repair shops. | 50% off all plans |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/repairdesk/) |
 | [Tagnivo](https://apps.apple.com/app/id6804351905?utm_source=mrsbf) | Mac app for asset tracking, employee assignments and inventory audits. | 50% off lifetime unlock |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/tagnivo/) |
 | [Tenacity](https://app.gettenacity.com/create-account?promocode=GOODBYE) | All-in-one business platform for solo founders. | 50% off your first year | `GOODBYE` |  | [details](https://bf26-deals.pages.dev/deal/tenacity/) |
-| [QSPro](https://qspro.neocities.org/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Quantity surveying for construction: bills of quantities, take-off, rebar and payment claims. | 48% off founding price, from $199 one-time |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/qspro/) |
+| [QSPro](https://qspro.neocities.org/) | Quantity surveying for construction: bills of quantities, take-off, rebar and payment claims. | 48% off founding price, from $199 one-time |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/qspro/) |
 | [InterviewFlowAI](https://interviewflowai.com/black-friday?utm_source=trungdq88&utm_medium=deal_listing&utm_campaign=bfcm2026) | AI phone and video interviews that screen and rank job candidates. | 40% off first year of yearly, from $3,600 → $2,160 | `BFCM40` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/interviewflowai/) |
 | [Recooty AI ATS](https://recooty.com/black-friday-offer) | Applicant tracking system with AI screening. | 40% off the first year of annual plans | `BLACKFRIDAY26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/recootyaiats/) |
 | [DailyRemote](https://dailyremote.com/get-started) | Remote job board with salary filters and daily job alerts. | 39% off Premium | `BFBNRTZSY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/dailyremote/) |
@@ -225,9 +225,16 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
+| [Two Minute Billing](https://twominutebilling.com/pricing?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bf2026) |  | 60% OFF the first year of any yearly plan (compared with paying monthly), no code… |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/twominutebilling/) |
+| [Client Tracker Spreadsheet](https://bigshadex.itch.io/client-tracker) |  | 50% off: US$12.99 → $6.49, one-time purchase |  | Dec 13 | [details](https://bf26-deals.pages.dev/deal/clienttrackerspreadsheet/) |
 | [BoxAudit](https://getboxaudit.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 41% OFF one-time 90-day box audit ($49 → $29) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/boxaudit/) |
+| [Gojiberry.ai](https://gojiberry.ai/?utm_source=github&utm_medium=trungdq88&utm_campaign=bf2026) |  | 40% OFF the first year no code needed |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/gojiberry/) |
 | [Guidejar](https://www.guidejar.com?ref=tonybf) |  | 40% OFF on all plans with code BFCM26, Nov 24 - Dec 2, 2026 | `BFCM26` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/guidejar/) |
+| [LiveAgent](https://www.liveagent.com/pricing/) |  | 40% OFF the first year of annual billing with code BLACKFRIDAY40Y (Team $29… | `BLACKFRIDAY40Y` `BLACKFRIDAY33M` | Dec 15 | [details](https://bf26-deals.pages.dev/deal/liveagent/) |
+| [Wassenger](https://wassenger.com/black-friday?utm_source=tonybf&utm_medium=deal-list&utm_campaign=blackfriday2026) |  | 40% OFF the first 6 months of any monthly plan with code BLACKFRIDAY40: Professional… | `BLACKFRIDAY40` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/wassenger/) |
+| [Produktly](https://produktly.com) |  | 35% OFF all plans with code BF2026 | `BF2026` | Nov 29 | [details](https://bf26-deals.pages.dev/deal/produktly/) |
+| [Autentique](https://www.autentique.com.br/en) |  | 30% OFF the annual Professional plan ($179 → $119/year), no code needed | `BFF61H8` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/autentique/) |
 | [EarlyLore](https://earlylore.com/pricing) |  | 25% OFF Annual (Year 1): Pro $144 $108/yr ($9/mo), Max $384 $288/yr ($24/mo) | `BF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/earlylore/) |
-| [Clino](https://clino.ch/en?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 20% OFF the annual plan (CHF 238.80 → CHF 191) |  | Nov 29 | [details](https://bf26-deals.pages.dev/deal/clino/) |
+| [Rouliva](https://appsumo.com/products/rouliva/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 10% OFF lifetime for one user ($46 → $41.40) on AppSumo |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/rouliva/) |
 | [Revenue Bear](https://apps.apple.com/us/app/revenue-bear/id6788975042) |  | Revenue Bear Pro, one-time $5.99 $2.99 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/revenuebear/) |
 | [Settle](https://apps.apple.com/us/app/settle-invoice-quote-maker/id6798133676) |  | Settle Pro Lifetime, one-time $59.99 $29.99 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/settle/) |

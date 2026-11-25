@@ -1,6 +1,6 @@
 # Black Friday & Cyber Monday 2026 Deals Directory
 
-**2904 live deals**, **1140 with promo codes**, from 28 community deal lists on GitHub plus web, X and Reddit research. Duplicates, expired offers and "coming soon" placeholders are removed, and every deal is tagged by category, platform and pricing.
+**2992 live deals**, **1179 with promo codes**, from 28 community deal lists on GitHub plus web, X and Reddit research. Duplicates, expired offers and "coming soon" placeholders are removed, and every deal is tagged by category, platform and pricing.
 
 ## 👉 [Open the website: bf26-deals.pages.dev](https://bf26-deals.pages.dev/)
 
@@ -25,22 +25,22 @@ Black Friday is **Nov 27, 2026**, Cyber Monday is **Nov 30, 2026**. Last built *
 
 | Category | Deals | Subcategories |
 |---|---|---|
-| [AI Tools](directory/ai-tools.md) | 270 | Chat & Assistants 31, Writing & Content 42, Image & Video 87, Voice & Audio 29, Coding & Agents 23, Automation & Workflows 20, Research & Learning 14, AI APIs & Credits 4, More 20 |
-| [Developer Tools](directory/developer-tools.md) | 165 | Databases & API Clients 10, Git, CI & DevOps 14, Testing & Debugging 22, Editors & Terminals 12, Mac Dev Utilities 22, Boilerplates & Starter Kits 28, Backend, APIs & Infra 27, Monitoring & Analytics 20, More 10 |
-| [Design](directory/design.md) | 150 | UI Kits & Templates 46, Icons, Fonts & Illustrations 8, Design & Prototyping Tools 49, Mockups & Screenshots 6, Stock Photos, Video & Music 39, More 2 |
-| [Photo, Video & Audio](directory/photo-video-audio.md) | 237 | Video Editing 42, Screen Recording 34, Photo Editing 40, Music & Audio Production 93, Podcasts & Transcription 22, More 6 |
-| [Productivity](directory/productivity.md) | 227 | Notes & Writing 41, Tasks & Projects 36, Calendar & Time Tracking 24, Focus & Habits 16, Reading & Knowledge 21, Email & Communication 19, Documents & PDFs 24, More 46 |
-| [Mac & Desktop Utilities](directory/mac-desktop-utilities.md) | 290 | Menu Bar & Dock 62, Windows & Screens 46, Clipboard, Launchers & Keyboard 57, Files, Storage & System 96, Browser Extensions 13, More 16 |
-| [Security & Privacy](directory/security-privacy.md) | 105 | VPN 26, Password Managers 8, Antivirus & Security Suites 32, Privacy & Data Removal 22, Secure Email & Storage 14, More 3 |
-| [Hosting & Cloud](directory/hosting-cloud.md) | 107 | Domains 12, Web & WordPress Hosting 42, PaaS & Serverless 2, VPS & Cloud Servers 34, Databases 1, Cloud Storage & Backup 10, Email Hosting 3, More 3 |
-| [Websites & E-commerce](directory/websites-e-commerce.md) | 216 | Website Builders & No-Code 32, WordPress Themes & Plugins 137, Forms & Surveys 18, E-commerce & Payments 29 |
-| [Marketing & Sales](directory/marketing-sales.md) | 256 | SEO 63, Email Marketing & Newsletters 35, Social Media 46, Ads, Leads & Outreach 62, CRM & Sales 15, Web Analytics 23, More 12 |
-| [Business & Finance](directory/business-finance.md) | 185 | Personal Finance & Investing 54, Accounting & Invoicing 18, Customer Support & Chat 28, Team & Operations 40, Startup & Indie Tools 24, Legal & Documents 15, More 6 |
-| [Learning](directory/learning.md) | 253 | Online Course Platforms 56, Programming & Tech 38, Cybersecurity Certs & Training 73, Cloud & DevOps Certs 11, Languages 25, Books & Ebooks 32, Communities & Newsletters 8, More 10 |
-| [Entertainment](directory/entertainment.md) | 73 | Streaming Video 32, Music 19, Audiobooks & Reading 6, News & Magazines 16 |
-| [Gaming](directory/gaming.md) | 62 | Game Stores & Sales 15, Game Subscriptions 2, Games & Apps 40, More 5 |
+| [AI Tools](directory/ai-tools.md) | 285 | Chat & Assistants 31, Writing & Content 42, Image & Video 87, Voice & Audio 29, Coding & Agents 23, Automation & Workflows 20, Research & Learning 14, AI APIs & Credits 4, More 35 |
+| [Developer Tools](directory/developer-tools.md) | 176 | Databases & API Clients 10, Git, CI & DevOps 14, Testing & Debugging 22, Editors & Terminals 12, Mac Dev Utilities 22, Boilerplates & Starter Kits 28, Backend, APIs & Infra 26, Monitoring & Analytics 20, More 22 |
+| [Design](directory/design.md) | 152 | UI Kits & Templates 46, Icons, Fonts & Illustrations 8, Design & Prototyping Tools 49, Mockups & Screenshots 6, Stock Photos, Video & Music 39, More 4 |
+| [Photo, Video & Audio](directory/photo-video-audio.md) | 240 | Video Editing 42, Screen Recording 34, Photo Editing 39, Music & Audio Production 93, Podcasts & Transcription 22, More 10 |
+| [Productivity](directory/productivity.md) | 263 | Notes & Writing 41, Tasks & Projects 36, Calendar & Time Tracking 24, Focus & Habits 16, Reading & Knowledge 21, Email & Communication 19, Documents & PDFs 24, More 82 |
+| [Mac & Desktop Utilities](directory/mac-desktop-utilities.md) | 292 | Menu Bar & Dock 61, Windows & Screens 46, Clipboard, Launchers & Keyboard 57, Files, Storage & System 95, Browser Extensions 13, More 20 |
+| [Security & Privacy](directory/security-privacy.md) | 105 | VPN 24, Password Managers 8, Antivirus & Security Suites 32, Privacy & Data Removal 22, Secure Email & Storage 14, More 5 |
+| [Hosting & Cloud](directory/hosting-cloud.md) | 95 | Domains 9, Web & WordPress Hosting 40, PaaS & Serverless 2, VPS & Cloud Servers 27, Databases 1, Cloud Storage & Backup 9, Email Hosting 3, More 4 |
+| [Websites & E-commerce](directory/websites-e-commerce.md) | 214 | Website Builders & No-Code 31, WordPress Themes & Plugins 134, Forms & Surveys 18, E-commerce & Payments 30, More 1 |
+| [Marketing & Sales](directory/marketing-sales.md) | 268 | SEO 63, Email Marketing & Newsletters 35, Social Media 46, Ads, Leads & Outreach 62, CRM & Sales 14, Web Analytics 23, More 25 |
+| [Business & Finance](directory/business-finance.md) | 192 | Personal Finance & Investing 54, Accounting & Invoicing 18, Customer Support & Chat 28, Team & Operations 40, Startup & Indie Tools 24, Legal & Documents 15, More 13 |
+| [Learning](directory/learning.md) | 263 | Online Course Platforms 56, Programming & Tech 38, Cybersecurity Certs & Training 73, Cloud & DevOps Certs 11, Languages 25, Books & Ebooks 32, Communities & Newsletters 8, More 20 |
+| [Entertainment](directory/entertainment.md) | 72 | Streaming Video 32, Music 19, Audiobooks & Reading 6, News & Magazines 15 |
+| [Gaming](directory/gaming.md) | 64 | Game Stores & Sales 15, Game Subscriptions 2, Games & Apps 40, More 7 |
 | [Hardware & Electronics](directory/hardware-electronics.md) | 91 | Phones, Tablets & Computers 8, Audio 11, Smart Home 9, Accessories & Peripherals 41, Cameras & Drones 7, Retailer Sales 13, More 2 |
-| [Health & Lifestyle](directory/health-lifestyle.md) | 179 | Fitness & Workouts 32, Health & Mental Wellbeing 45, Food & Nutrition 14, Travel & Navigation 18, Family, Kids & Relationships 16, Hobbies & Home 36, Weather & Misc 10, More 8 |
+| [Health & Lifestyle](directory/health-lifestyle.md) | 182 | Fitness & Workouts 32, Health & Mental Wellbeing 45, Food & Nutrition 14, Travel & Navigation 18, Family, Kids & Relationships 16, Hobbies & Home 35, Weather & Misc 10, More 12 |
 | [Bundles & Deal Sites](directory/bundles-deal-sites.md) | 8 | Bundles 8 |
 | [Adult (18+)](directory/adult-18.md) | 30 | Adult Sites & Subscriptions 9, Adult Games 3, Adult Toys & Wellness 18 |
 
@@ -68,8 +68,9 @@ Black Friday is **Nov 27, 2026**, Cyber Monday is **Nov 30, 2026**. Last built *
 |---|---|---|---|---|---|
 | [Higgsfield](https://higgsfield.ai/pricing) | AI video and image generation platform. | Up to 70% off annual plans |  | Nov 25 | [details](https://bf26-deals.pages.dev/deal/higgsfield/) |
 | [MasterClass](https://www.masterclass.com/plans) | Video classes taught by well-known experts. | 50% off annual, $120 → $60/yr |  | Nov 25 | [details](https://bf26-deals.pages.dev/deal/masterclass/) |
+| [Narrareach](https://www.narrareach.com/pricing?utm_source=shortlisted&utm_medium=directory&utm_campaign=bfcm_2026) |  | 30% OFF the first year of annual plans (Audience Builder $199 → $139.30, Revenue Writer… |  | Nov 25 | [details](https://bf26-deals.pages.dev/deal/narrareach/) |
 | [Pimsleur](https://www.pimsleur.com/) | Audio-first language courses focused on speaking. | 35% off single-language courses |  | Nov 25 | [details](https://bf26-deals.pages.dev/deal/pimsleur/) |
-| [Zenfolio](https://zenfolio.com/homepage/) | Portfolio websites and client galleries for photographers. | 60% off first year of annual plans |  | Nov 25 | [details](https://bf26-deals.pages.dev/deal/zenfolio/) |
+| [Zenfolio](https://zenfolio.com/homepage/?ref=aitoolsfyi) | Portfolio websites and client galleries for photographers. | 60% off first year of annual plans |  | Nov 25 | [details](https://bf26-deals.pages.dev/deal/zenfolio/) |
 | [Clip Studio Paint](https://www.clipstudio.net/en/) | Drawing and painting app for comics, manga and illustration. | 53% off Pro and 30% off EX licenses and subscriptions |  | Nov 26 | [details](https://bf26-deals.pages.dev/deal/clipstudiopaint/) |
 | [Corsair](https://www.corsair.com/) | PC components, gaming peripherals and prebuilt PCs. | Discounts on components, peripherals and prebuilt PCs |  | Nov 26 | [details](https://bf26-deals.pages.dev/deal/corsair/) |
 | [edX](https://www.edx.org/) | Online university courses, certificates and degree programs. | Up to 15% off courses and certificates | `CYBERMONTH2026` | Nov 26 | [details](https://bf26-deals.pages.dev/deal/edx/) |
@@ -104,6 +105,7 @@ Black Friday is **Nov 27, 2026**, Cyber Monday is **Nov 30, 2026**. Last built *
 | [Insurance Training Center](https://insurancetrainingcenter.com/lp/black-friday/) | Insurance courses and certifications. | 40% off every course and certification | `BLACKFRIDAY40` | Nov 27 | [details](https://bf26-deals.pages.dev/deal/insurancetrainingcenter/) |
 | [Jubs](https://www.tryjubs.com/black-friday) | Animated holiday widgets for the iPhone and iPad Home Screen and StandBy. | Premium $2.99 → $1.99 one-time |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/jubs/) |
 | [LaraCopilot](http://laracopilot.com) | AI app builder for Laravel apps. | Up to 70% off Laravel AI app builder plans |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/laracopilot/) |
+| [Leapdeck](https://leapdeck.app/?utm_source=dir-bfcm) |  | 45% OFF Leapdeck Pro, one-time purchase ($19.99 $10.99), no code needed, applied… |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/leapdeck/) |
 | [MacAudio](https://macaudio.app) | Native per-app volume mixer in the Mac menu bar. | About half off, now $13.30 | `REDDIT40` | Nov 27 | [details](https://bf26-deals.pages.dev/deal/macaudio/) |
 | [natbox](https://my.natbox.io/products/nat-vps?utm_source=blog&utm_campaign=bf2026) | Small EU NAT VPS with root SSH, forwarded IPv4 ports and an IPv6 block. | 50% off yearly plans for life, from $4.50/yr | `BLACKFRIDAY` | Nov 27 | [details](https://bf26-deals.pages.dev/deal/natbox/) |
 | [ON1 Photo RAW](https://www.on1.com/landing/black-friday/) | RAW photo editor and organizer. | $99.99 → $59.99, MAX $169.99 → $129.99 |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/on1photoraw/) |
@@ -130,6 +132,7 @@ Black Friday is **Nov 27, 2026**, Cyber Monday is **Nov 30, 2026**. Last built *
 | [Database Mart](https://www.databasemart.com/) | VPS, GPU servers and dedicated servers. | Linux VPS from $1.25/mo | `TCRD4911` `TCXR2333` | Nov 28 | [details](https://bf26-deals.pages.dev/deal/databasemart/) |
 | [FinderPeek](https://apps.apple.com/us/app/finderpeek-quick-code-viewer/id6761670824?mt=12) | Quick Look syntax highlighter and JSON/XML inspector for Finder. | 40% off, now $2.99 |  | Nov 28 | [details](https://bf26-deals.pages.dev/deal/finderpeek/) |
 | [GIS Quick Viewer](https://apps.apple.com/us/app/gis-quick-viewer/id6762661962?mt=12) | Quick Look viewer for GIS files with map, attributes and features. | $3.99 instead of $5.99 |  | Nov 28 | [details](https://bf26-deals.pages.dev/deal/gisquickviewer/) |
+| [Hello Interview](https://www.hellointerview.com/) |  | 35% OFF yearly Premium ($119 → $77), lifetime $299 (reg $399), no code (ends ~Nov 28) |  | Nov 28 | [details](https://bf26-deals.pages.dev/deal/hellointerview/) |
 | [LingoDeer](https://www.lingodeer.com/) | Language app with structured lessons for Asian and European languages. | 3 years of Premium, $189.99 → $119.99 |  | Nov 28 | [details](https://bf26-deals.pages.dev/deal/lingodeer/) |
 | [MVLAND](https://x.com/MVLAND_AI) | AI music video generator. | Up to 55% off annual plus 1 month bonus credits |  | Nov 28 | [details](https://bf26-deals.pages.dev/deal/mvland/) |
 | [My Styles for Safari](https://apps.apple.com/us/app/my-styles-custom-website-look/id6766115872) | Safari extension to restyle websites with custom CSS and dark mode. | $2.49 instead of $3.99 |  | Nov 28 | [details](https://bf26-deals.pages.dev/deal/mystylesforsafari/) |
@@ -174,7 +177,7 @@ Merged from these lists. Thank you to their maintainers and contributors.
 - [refinism-B/Awesome-Black-Friday-2026-zh](https://github.com/refinism-B/Awesome-Black-Friday-2026-zh)
 - Web, X and Reddit research: vendor pages, dated 2026 roundups and posts by the vendors themselves, linked on each deal's page.
 
-9188 rows parsed, 3009 unique deals after merging, 61 expired and 30 unconfirmed listings removed. Descriptions and headlines are written for this list.
+9608 rows parsed, 3098 unique deals after merging, 61 expired and 31 unconfirmed listings removed. Descriptions and headlines are written for this list.
 
 ## Rebuild
 

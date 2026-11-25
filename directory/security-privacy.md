@@ -2,14 +2,14 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/security-privacy/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**105 live deals**, 28 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**105 live deals**, 30 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
-- [VPN](#vpn) (26)
+- [VPN](#vpn) (24)
 - [Password Managers](#password-managers) (8)
 - [Antivirus & Security Suites](#antivirus--security-suites) (32)
 - [Privacy & Data Removal](#privacy--data-removal) (22)
 - [Secure Email & Storage](#secure-email--storage) (14)
-- [More](#more) (3)
+- [More](#more) (5)
 
 ## VPN
 
@@ -31,9 +31,7 @@
 | [Norton VPN](https://us.norton.com/products/norton-vpn) | VPN service from Norton for private browsing, including on public Wi-Fi. | Up to 72% off plus 3 months free, from $2.59/mo |  |  | [details](https://bf26-deals.pages.dev/deal/nortonvpn/) |
 | [Proton VPN](https://protonvpn.com/black-friday) | Open-source Swiss VPN service. | 70% off VPN Plus 1-year, $2.99/mo |  |  | [details](https://bf26-deals.pages.dev/deal/protonvpn/) |
 | [TunnelBear](https://www.tunnelbear.com/) | Simple VPN service for desktop, mobile and browsers. | 70% off all plans |  |  | [details](https://bf26-deals.pages.dev/deal/tunnelbear/) |
-| [VPN Super](https://vpnsuper.com/black-friday) | VPN app for phones and computers. | Up to 70% off Premium, 2 years $3.49/mo |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/vpnsuper/) |
 | [Windscribe](https://windscribe.com/) | VPN with built-in ad and tracker blocking. | 58% off Pro, $69 → $29/yr |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/windscribe/) |
-| [Windscribe Pro](https://www.techradar.com/vpn/vpn-services/windscribe-black-friday-vpn-deal-makes-it-less-than-half-price-get-this-price-hike-free-lifetime-rate-of-usd29-for-safe-streaming-on-your-iphone-and-unlimited-other-devices) | VPN with unlimited devices and a built-in ad and tracker blocker. | 58% off Pro, $69 → $29/year locked for life |  |  | [details](https://bf26-deals.pages.dev/deal/windscribepro/) |
 | [CometVPN](https://x.com/CometVPN_) | VPN with real residential home IP addresses. | 50% off residential VPN, 20% off standard VPN and IPs | `COMETBF` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/cometvpn/) |
 | [NordLayer](https://nordlayer.com/pricing/) | Business VPN and network access security for teams. | Extra 20% off annual business plans | `BF-20OFF` `BF-SPECIAL` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/nordlayer/) |
 | [OpenVPN CloudConnexa and Access Server](https://openvpn.net) | Business VPN and zero trust network access. | 20% off the first year for new customers | `BLACKFRIDAY20` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/openvpncloudconnexaandaccessserver/) |
@@ -142,6 +140,8 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
+| [Scarlet Shark](https://scarletshark.com/promo/cybermonday2026.html?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 100% OFF the Basic plan for 5 months | `cybermonday2026` | Jan 30 | [details](https://bf26-deals.pages.dev/deal/scarletshark/) |
 | [ShieldFive](https://shieldfive.com/pricing?utm_source=github&utm_medium=listing&utm_campaign=mrs-bf-2026) |  | Up to 50% off the first year of annual plans |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/shieldfive/) |
 | [SpyAlert](https://spyalert.acgao.com/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $10 → $6 | `BF26-SPYALERT` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/spyalert/) |
+| [Mastering Binary Files](https://hackarcana.com/workshop-session/2026-mbf/join) |  | kurs o analizie plików binarnych - z kodem MBF-BLACK-FRIDAY 15% taniej | `MBF-BLACK-FRIDAY` |  | [details](https://bf26-deals.pages.dev/deal/masteringbinaryfiles/) |
 | [Videopoint](https://videopoint.pl/promocja/24963) |  | kursy video - z kodem BLACK każdy kurs 38,90 PLN | `BLACK` |  | [details](https://bf26-deals.pages.dev/deal/videopoint/) |

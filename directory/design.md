@@ -2,14 +2,14 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/design/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**150 live deals**, 56 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**152 live deals**, 57 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
 - [UI Kits & Templates](#ui-kits--templates) (46)
 - [Icons, Fonts & Illustrations](#icons-fonts--illustrations) (8)
 - [Design & Prototyping Tools](#design--prototyping-tools) (49)
 - [Mockups & Screenshots](#mockups--screenshots) (6)
 - [Stock Photos, Video & Music](#stock-photos-video--music) (39)
-- [More](#more) (2)
+- [More](#more) (4)
 
 ## UI Kits & Templates
 
@@ -49,7 +49,7 @@
 | [Miguel Recio Framer Templates](https://www.framer.com/@miguel-recio/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Framer website templates and CMS components for SaaS, hotels, real estate and more. | 30% off templates, 5-template bundle $99 → $69 | `BF26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/miguelrecioframertemplates/) |
 | [MingCute UI](https://ui.mingcute.com/?utm_source=mrsbf) | Design system and UI kit for Figma. | 30% off, $59 → $41 | `BF2026` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/mingcuteui/) |
 | [NateUI](https://nateui.com/pricing?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bf30&utm_content=ui-kits-table) | React and Tailwind CSS UI kit with free components, Pro blocks and Next.js templates. | 30% off, Basic from $55.30 one-time | `BF30` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/nateui/) |
-| [ReUI](https://reui.io/pricing) | Provides reusable React components for building web interfaces. | 30% off the React UI component library |  |  | [details](https://bf26-deals.pages.dev/deal/reui/) |
+| [ReUI](https://reui.io/pricing?utm_source=twf-bfcm&utm_medium=directory&utm_campaign=reui-nov26) | Provides reusable React components for building web interfaces. | 30% off the React UI component library |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/reui/) |
 | [Shadcn Studio](https://shadcnstudio.com/pricing) | Components, blocks and templates for shadcn/ui. | 30% off | `SHADBF30` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/shadcnstudio/) |
 | [Shashank Thigale Framer Templates](https://shashankthigale.com/templates/?utm_source=pimjo&utm_medium=referral&utm_campaign=bfcm2026) | Framer website templates for med spas, retreats and therapy practices. | 30% off all templates, All-Access $199 → $139 | `BFCM30` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/shashankthigaleframertemplates/) |
 | [TailAdmin](https://tailadmin.com/pricing) | Tailwind CSS admin dashboard template with 500+ components. | 30% off all plans | `BLFCM2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/tailadmin/) |
@@ -188,5 +188,7 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
+| [Liniqo](https://liniqo.com/) |  | Up to 70% OFF: Lifetime $79 $39.50, Pro from $11.70, Personal from $5.70 (Auto-applied,… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/liniqo/) |
 | [Backdrop](https://cindori.com/backdrop) |  | 30% OFF Lifetime $29.99 $20.99 one-time, no code needed, Nov 24 - Dec 1, 2026 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/backdrop/) |
+| [ThreeDee](https://www.threedee.design/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 30% OFF single 3D models, packs, both lifetime libraries and Nova credits | `BLACK30` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/threedee/) |
 | [Mockvid](https://mockvid.com/?utm_source=bf26-trungdq88) |  | 20% OFF Studio, first year: $49 $39.20/yr, Nov 23 - Dec 1, 2026 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/mockvid/) |

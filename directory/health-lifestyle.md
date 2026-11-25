@@ -2,16 +2,16 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/health-lifestyle/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**179 live deals**, 60 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**182 live deals**, 60 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
 - [Fitness & Workouts](#fitness--workouts) (32)
 - [Health & Mental Wellbeing](#health--mental-wellbeing) (45)
 - [Food & Nutrition](#food--nutrition) (14)
 - [Travel & Navigation](#travel--navigation) (18)
 - [Family, Kids & Relationships](#family-kids--relationships) (16)
-- [Hobbies & Home](#hobbies--home) (36)
+- [Hobbies & Home](#hobbies--home) (35)
 - [Weather & Misc](#weather--misc) (10)
-- [More](#more) (8)
+- [More](#more) (12)
 
 ## Fitness & Workouts
 
@@ -195,7 +195,6 @@
 | [Allow Some Deny All](https://shop.allowsomedenyall.com) | Stickers and merch about hacker culture, privacy and cybersecurity. | Up to 20% off orders over $25 |  | Dec 31 | [details](https://bf26-deals.pages.dev/deal/allowsomedenyall/) |
 | [AQUENA](https://aquena.net/?ref=bf) | Real-time 3D aquarium that runs on a spare screen. | 20% off every tank, Complete €29 → €23.20 | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/aquena/) |
 | [Skip Barber Racing School](https://x.com/SkipBarberRS) | Racing school driving programs. | 20% off programs | `SAVE20` |  | [details](https://bf26-deals.pages.dev/deal/skipbarberracingschool/) |
-| [VegPlotter](https://vegplotter.com/) | Vegetable garden planner. | 20% off annual Essential and Advanced plans | `20BF26` |  | [details](https://bf26-deals.pages.dev/deal/vegplotter/) |
 | [DATRON tools](https://x.com/DatronCNC) | CNC milling tools. | **Soon.** 15% off tools | `CYBER15` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/datrontools/) |
 | [The Aluminum Carpenter](https://thealuminumcarpenter.com/) | Precision woodworking drilling jigs and fixtures. | 15% off jigs, tools, fixtures and designs |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/thealuminumcarpenter/) |
 | [Vallejo](https://x.com/vallejocolors) | Hobby and model paints. | 10% off sitewide, free gift over 100 EUR | `BF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/vallejo/) |
@@ -223,11 +222,15 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
+| [Nocala](https://apps.apple.com/app/apple-store/id6804729183?pt=118835098&ct=Nocala:%20Black%20Friday%202026&mt=8) |  | 100% off the one-time purchase: $39.99 to free |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/nocala/) |
+| [DayDare](https://daydare.app/) |  | 57% OFF $6.99 → $2.99 one-time purchase, no code needed |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/daydare/) |
+| [ShadowCoach Boxing](https://www.yuzool.com/apps/shadowcoach/) |  | 50% OFF ShadowCoach Premium (one-time): $59.99 $29.99 US, no code (App Store price) |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/shadowcoachboxing/) |
+| [Undersleep](https://apps.apple.com/app/apple-store/id6803688584?pt=129192922&ct=mrs&mt=8) |  | 50% off the one-time unlock: $24.99 → $12.49 |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/undersleep/) |
 | [Lappr](https://lappr.app/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $19 → $11.40 | `BF26-LAPPR` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/lappr/) |
 | [PoRaBar](https://porabar.com/?utm_source=mRs-Black-Friday-Deals&utm_medium=deal-list&utm_campaign=bf26) |  | 40% off the one-time unlock ($2.99 → $1.79) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/porabar/) |
 | [Boothly](https://apps.apple.com/us/app/boothly-retro-photo-strips/id6804359059) |  | Boothly Pro, one-time $2.99 $1.49 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/boothly/) |
 | [GLP-1 Companion](https://apps.apple.com/us/app/glp-1-companion-shot-tracker/id6791031500) |  | Pro, one-time $14.99 $7.49 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/glp1companion/) |
+| [Home Pet Monitor](https://apps.apple.com/redeem?ctx=offercodes&id=6781214388&code=BW2026) |  | SomaVibe+ Lifetime $19.99 with App Store code BW2026 | `BW2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/homepetmonitor/) |
 | [Omni Brain](https://omnibraingames.com) |  | Lifetime Premium $39.99, paid once: the price of one year of Premium |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/omnibrain/) |
-| [ShadowCoach Boxing](https://apps.apple.com/us/app/shadowcoach-boxing/id6792245431) |  | ShadowCoach Premium, one-time $59.99 $29.99 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/shadowcoachboxing/) |
 | [Troupe](https://apps.apple.com/us/app/troupe-plan-split-trips/id6791836108) |  | Troupe Pro Lifetime $29.99 $14.99 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/troupe/) |
 | [Wristkeeper](https://apps.apple.com/app/id6819904928) |  | Pro Lifetime $59.99 $39.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/wristkeeper/) |

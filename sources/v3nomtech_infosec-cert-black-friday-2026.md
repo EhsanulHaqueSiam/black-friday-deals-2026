@@ -20,7 +20,15 @@
 > Prices, codes and dates change without notice. **Always confirm on the vendor's checkout page before you pay.** Spot something wrong or a new deal? [Open an issue](../../issues/new/choose) or send a PR.
 
 <!-- DEALS:START -->
-**32 live** · **1 upcoming** · **15 not announced yet** · 0 expired — _statuses auto-refreshed Nov 24, 2026_
+**33 live** · **1 upcoming** · **14 not announced yet** · 0 expired — _statuses auto-refreshed Nov 25, 2026_
+
+## ⭐ Featured deals
+
+> Hand-picked by the maintainer: the best value right now.
+
+| Vendor | Deal | Code | Ends | Status |
+|---|---|---|---|---|
+| <a href="https://genaisecuritylab.com/pricing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/genai-security-lab-dark.png"><img src="assets/logos/genai-security-lab.png" alt="GenAI Security Lab" width="140"></picture></a><br>**[GenAI Security Lab](https://genaisecuritylab.com/pricing)** | 40% off the 4-Month Pass and the first year of the yearly plan<br><sub>⭐ Annual members get an extra 25% off certs (GSCP $149.25, GSCE $299.25).</sub> | _auto_ | Nov 30, 2026 | ✅ Live |
 
 ### ⏰ Ending next
 
@@ -46,6 +54,7 @@
 | ✅ Live | **[TCM Security](https://tcm-sec.com/black-friday-deals/)** | All 13 certifications, learning paths (3 stacking certs + extra courses), instructor-led live training and Academy memberships<br><sub>PJPT, PNPT, PORP, PWPA, PWPP, PWPE, PAPA, PHDA, PSAA, PSAP, PMPA, PIPA, PMRP</sub><br><sub>ℹ️ Auto-applied. Ends Nov 30, 11:59 PM ET. Academy discount is first payment only; renewals bill at regular price. Learning paths include a monthly mentorship group. Can't be combined with other offers. Submitted by the vendor.</sub> | 20% off certs, learning paths & live training · 50% off first Academy payment | _auto_ | Nov 30, 2026 | ✔️ vendor |
 | ✅ Live | **[The SecOps Group (PentestingExams)](https://pentestingexams.com/offer)** | All pentesting certification exams<br><sub>CAPen, CNPen, C-APIPen, CAPenX, CRTeamerX, C-ADPenX, CCPenX-AWS</sub><br><sub>ℹ️ End date not published.</sub> | 90% off — $330 exams → $33, $528 exams → $53 | `BF-90` | — | ✔️ vendor |
 | ✅ Live | **[VantagePoint](https://vantagepoint.enciphers.com/)** | All hacking labs and certifications<br><sub>ℹ️ No code needed. Vendor doesn't publish an end date (blogs report Nov 30 or Dec 15).</sub> | 70% off | _auto_ | — | ✔️ vendor |
+| ✅ Live | **[Zero-Point Security](https://www.zeropointsecurity.co.uk/courses)** | Get up to 40% off.<br><sub>CRTO, CRTL</sub> | 30% - 40% off | `auto` | Dec 07, 2026 | ✔️ vendor |
 | ⏳ Starts Nov 27 | **[White Knight Labs](https://training.whiteknightlabs.com/)** | Certification courses, individual Academy classes, 6- and 12-month Academy passes<br><sub>ARTOC, ODPC, OAOTC, ELPT</sub><br><sub>ℹ️ Month-to-month Academy not included. Vendor banner also promises deeper discounts on course bundles and live-training upgrades.</sub> | 50% off | `WKLBLACKFRIDAY26` | Dec 18, 2026 | ✔️ vendor |
 
 ## 📚 Training & Courses
@@ -75,7 +84,7 @@
 | Status | Vendor | Offer | Discount | Code | Ends | Verified |
 |---|---|---|---|---|---|---|
 | ✅ Live | **[CyberWarFare Labs](https://cyberwarfare.live/cwl-cyber-infinity)** | CWL Cyber Infinity — yearly access (incl. CRTA & AI-RTA) or monthly access<br><sub>CRTA, AI-RTA</sub><br><sub>ℹ️ INFINITY49 = yearly, INFINITY5 = monthly. End date not published.</sub> | Yearly $99 → $49 · Monthly $9 → $5 | `INFINITY49 / INFINITY5` | — | ✔️ vendor |
-| ✅ Live | **[GenAI Security Lab](https://genaisecuritylab.com/pricing)** | Hands-on AI security labs (prompt injection, RAG, agents, MCP) — yearly plan and 4-Month Pass<br><sub>ℹ️ Applied automatically at checkout. Regional prices get the same 40%. Monthly plan and certification exams excluded.</sub> | 40% off · yearly $228 → $136.80 · 4-Month Pass $99 → $59.40 | _auto_ | Nov 30, 2026 | ✔️ vendor |
+| ✅ Live | **[GenAI Security Lab](https://genaisecuritylab.com/pricing)** | 200+ hands-on AI security labs against deliberately vulnerable LLM, RAG, agent and MCP apps<br><sub>ℹ️ Auto-applied, ends Nov 30. Discounts don't stack: you get the larger one. 7-day money-back guarantee.</sub> | 40% off the 4-Month Pass and the first year of the yearly plan | _auto_ | Nov 30, 2026 | ✔️ vendor |
 | ✅ Live | **[LabEx](https://labex.io/pricing)** | LabEx Pro (Linux, cybersecurity, DevOps hands-on labs)<br><sub>ℹ️ 2026BF30 = 1-year plan, 2026BF50 = 2-year plan. End date not published (community lists say Dec 7).</sub> | Pro 1 yr $99 → $69.90 (30% off) · Pro 2 yr $199 → $99.90 (50% off) | `2026BF30 / 2026BF50` | — | ✔️ vendor |
 
 ## 👀 Watchlist — not announced yet
@@ -98,7 +107,6 @@ These vendors usually run a Black Friday promo but haven't announced 2026 terms.
 | **[SANS / GIAC](https://www.sans.org/specials/)** | GSEC, GCIH, GPEN, GCFA | — | SANS rarely runs Black Friday sales. Its Specials page lists region-specific EarlyBird promo codes for 4–6 day courses paid 30+ days ahead. GIAC's own 30% deal on select products is listed under Certifications. |
 | **[SEKTOR7](https://institute.sektor7.net/)** | — | 25% off red team courses (code BF25) | — |
 | **[TryHackMe](https://tryhackme.com/)** | SAL1, PT1 | 40% off annual subscription with code BLACKFRIDAY40 (ended Nov 28, 2025) | — |
-| **[Zero-Point Security](https://www.zeropointsecurity.co.uk/)** | CRTO, CRTL | — | — |
 
 <!-- DEALS:END -->
 

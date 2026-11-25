@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**115 active deals** of 116 listed
+**121 active deals** of 122 listed
 
-_Last updated: Nov 24, 2026 04:15 PST_
+_Last updated: Nov 25, 2026 07:56 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -61,6 +61,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [ExposureDrift](https://exposuredrift.com) | Early-user pre-launch offer: 50% off for a full year for the first 100 users + 15-day risk-free trial. Launches Dec 14 (end date is a placeholder) | — | Dec 30 | Blue | Continuous attack surface management - JS secret scanning, outside-in API inventory and exposure monitoring. Free DNS, headers/TLS audits and CVE/ransomware trackers available now. · via [@rxrsec](https://github.com/rxrsec) |
 | [AppSecD](https://dedsecops.com/pricing) | 30% off all paid plans — Starter $20 → $14/mo, Team $50 → $35/mo, Premium $200 → $140/mo, Scale $500 → $350/mo; plus a free 14-day evaluation, no card | — | Nov 17 – Dec 31 | Blue | All-in-one application security — SAST (20+ languages), DAST, SCA, secret scanning, IaC/container/Kubernetes/API testing, deduplicated with AI triage and gated in the pull request. Auto-applied at checkout, no code. · via [@ssecurityy](https://github.com/ssecurityy) |
 | [Vulnsy](https://www.vulnsy.com/) | 50% off Pro for 6 months | `BLACKFRIDAY` | Dec 31 | Red |  |
+| [Scarlet Shark](https://scarletshark.com/promo/cybermonday2026.html) | 100% OFF Basic plan for 5 months | `CyberMonday2026` | Nov 24 – Jan 30, 2027 | Blue / Security | via [@greenspark0](https://github.com/greenspark0) |
 
 ## Courses & Training
 
@@ -74,6 +75,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [ISA](https://programs.isa.org/blackfriday26) | 25% off eligible training and standards | — | Nov 17 – Nov 30 | Blue | ICS/OT security training and standards. Only the courses and standards listed on the sale page qualify. |
 | [Just Hacking Training](https://www.justhacking.com/types/courses-and-paths) | 25% off | `BFF25` | Nov 30 | Red/Blue | Hands-on cybersecurity training from practitioners for practitioners. |
 | [MalDev Academy](https://maldevacademy.com/) 💖 | 25% off courses | `BLKFRIDAY25` | Nov 30 | Red/Blue | Malware development and evasion. Useful for red teamers and for defenders who want to understand what they’re detecting. |
+| [Mission Infosec](https://devsecopspro/devsecops-pro-bfcm-2026) | Free access for 60 days - full course + labs | — | Nov 30 | DevSecOps / AppSec / Development | Learn by doing. Build security automation into pipelines using AWS and GitHub Actions. Anyone can use AI to write code. This course teaches you the skills to automate the security checks needed to deploy AI-written code safely. · via [@chad-butler-git](https://github.com/chad-butler-git) |
 | [Mobile Hacking Lab](https://ads.mobilehackinglab.com/bf/deals) | Mobile security course bundles from €249, up to 61% off | `DFA500`<br>`WEBKIT60`<br>`IOS999`<br>`BF26KU`<br>`BF26FCA` | Nov 30 (23:59 CET) | Red | Android and iOS exploitation and forensics bundles; the iOS WebKit course is presale. |
 | [Modern Security](https://www.modernsecurity.io/) | 20% off the Certified AI Security Expert (MSec-CAIS) certification | `msec-blackfriday20` | Nov 30 | Security / AI | Vendor page uses msec-blackfriday20; some trackers list msec-bf20. Try both at checkout. |
 | [OnlySecurity](https://onlysecurity.com/black-friday/) | 15% off courses not already on sale, the first Plus or Max payment and the All Access pass | — | Nov 23 – Nov 30 | Red / Blue | Applied automatically at checkout, no code · via [@Kaicastledine](https://github.com/Kaicastledine) |
@@ -87,6 +89,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [The SecOps Group (PentestingExams)](https://pentestingexams.com/) | 90% off all pentesting certification exams | `BF-90` | Nov 30 | Red | Exam vouchers only, not training. Discount is big enough to DYOR on the exam terms. |
 | [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) 💖 | 40% off individual courses and plans | `BF2026` | Nov 30 | Security / Dev | Windows internals, kernel and low-level security courses. |
 | [VantagePoint](https://vantagepoint.enciphers.com/) | 70% off hacking labs and certifications | — | Nov 30 | Red |  |
+| [ZephrSec](https://malwareless.training/) | 13.37% off the Malwareless course | `GUISING1337` | Nov 30 | Red | One-time purchase, no subscription or recurring fees. Red team tradecraft without relying on custom malware. · via [@ZephrFish](https://github.com/ZephrFish) |
 | [Zero-Point Security](https://www.zeropointsecurity.co.uk/courses) | 40% off courses, applied at checkout | — | Nov 30 | Red | Red team training, including CRTO. Discount applied at checkout, no code. |
 | [Cisco U. Store Learning Deals](https://www.cisco.com/site/us/en/learn/training-certifications/learning-deals.html) | 40% off Cisco U. Essentials and CCNA / DCAI bundles; 50% off CCNA 1.1 path | — | Dec 1 | Network / Blue | Extra 40% doorbusters on Cisco Modeling Labs and CCNA Automation/Cybersecurity paths run only Nov 30, 8am–12pm PT. |
 | [CyberWarFare Labs](https://cyberwarfare.live/) | Up to 90% off course bundles, individual certifications starting at $5, and Infinity Yearly Access for $49 with 2 free certifications and [More](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026) | `INFINITY49 (Yearly), INFINITY5 (Monthly)` | Dec 1 | Red Team, Blue Team, Cloud Security, AI Security | via [@RedTeamOperations](https://github.com/RedTeamOperations) |
@@ -116,8 +119,10 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | Vendor | Deal | Code | Dates | Focus | Notes |
 |---|---|---|---|---|---|
 | [TryHackMe](https://tryhackme.com/black-friday) | 40% off annual Premium, annual MAX and certifications | `none (auto)` | Nov 27 | Red / Blue | Auto-applied at checkout for individual accounts; certification bundles and business/education plans excluded, discount covers year one. |
+| [AppSecEngineer](https://www.appsecengineer.com/individuals/pricing) | 40% off Pro Plus annual plans and Bootcamps | `LEVELUP40` | Nov 30 | Security / AI | Hands-on AI security labs for securing AI agents and LLM apps, plus AppSec, cloud, Kubernetes and threat modeling tracks. · via [@abhaybhargav](https://github.com/abhaybhargav) |
 | [GenAI Security Lab](https://genaisecuritylab.com/pricing) | 40% off the yearly plan and the 4-Month Pass | `BLACKFRIDAY40` | Nov 30 (23:59 UTC) | Security / AI | 200+ hands-on AI security labs (prompt injection, RAG, agents, MCP). Code applies automatically at checkout. |
 | [Iximiuz Labs](https://labs.iximiuz.com/) 💖 | Discounted Lifetime and Annual Subscriptions | — | Nov 30 | General | Browser-based playgrounds for Linux, containers, Kubernetes and networking. |
+| [PentesterLab](https://pentesterlab.com/pro) | PRO 27% off, Student and Code Review for $699 | — | Dec 2 | Red / Dev | via [@noblevk21](https://github.com/noblevk21) |
 | [LabEx Pro (1 Year)](https://labex.io/checkout?type=2&coupon=2026BF30) | 30% off one-year membership | `2026BF30` | Dec 7 | Security / Linux / DevOps / Cloud | Browser-based hands-on labs. Available to new and existing users; code is active now. |
 | [LabEx Pro (2 Years)](https://labex.io/checkout?type=4&coupon=2026BF50) | 50% off two-year membership | `2026BF50` | Dec 7 | Security / Linux / DevOps / Cloud | Browser-based hands-on labs. Available to new and existing users; code is active now. |
 
@@ -181,6 +186,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 |---|---|---|---|---|---|
 | [1Password](https://1password.com/) | 50% off Individual annual ($2.99/mo first year); Families $4.49/mo | — | Nov 30 | General | New customers, first year only. 14-day free trial, no card needed. |
 | [DeleteMe](https://joindeleteme.com/) | 20% off privacy plans for new members | `BFCM2026` | Nov 30 | Privacy | Data broker removal service. New members only. |
+| [Miget](https://miget.com/plans) | 33% off for 12 months on a new workspace | `BLACKFRIDAY26` | Nov 27 – Nov 30 (end of day CET) | Cloud | Cloud platform for apps, databases and workers on one compute plan, deployed from Git, Docker or a coding agent. EU and US regions. |
 | [Proton Drive](https://proton.me/drive/pricing) ✨ | 50% off Drive Plus, first year | — | Nov 30 | Privacy | Encrypted cloud storage. |
 | [Proton Mail](https://proton.me/mail/black-friday) ✨ | 50% off Mail Plus or Proton Unlimited for a year; Unlimited first month $1 | — | Nov 30 |  | Mail Plus $2.49/mo, Unlimited $6.49/mo billed annually. Unlimited includes Mail, VPN, Pass, Drive. 30-day money-back guarantee. |
 | [Proton Pass](https://proton.me/pass) | 60% off Pass Plus | — | Nov 30 | Privacy | Password manager with hide-my-email aliases. |
@@ -208,6 +214,7 @@ Code (scripts, workflows) is [MIT](LICENSE). The list content and everything in 
 
 ## Credits
 
+- [@greenspark0](https://github.com/greenspark0)
 - [@rxrsec](https://github.com/rxrsec)
 - [@akevdev](https://github.com/akevdev)
 - [@ssecurityy](https://github.com/ssecurityy)
@@ -219,6 +226,7 @@ Code (scripts, workflows) is [MIT](LICENSE). The list content and everything in 
 - [@Walkerovski](https://github.com/Walkerovski)
 - [@Eren-Akdag](https://github.com/Eren-Akdag)
 - [@zColdWater](https://github.com/zColdWater)
+- [@chad-butler-git](https://github.com/chad-butler-git)
 - [@oripka](https://github.com/oripka)
 - [@GHULI3V](https://github.com/GHULI3V)
 - [@DavidProbinsky](https://github.com/DavidProbinsky)
@@ -227,6 +235,9 @@ Code (scripts, workflows) is [MIT](LICENSE). The list content and everything in 
 - [@RedTeamOperations](https://github.com/RedTeamOperations)
 - [@six2dez](https://github.com/six2dez)
 - [@sandra44dev](https://github.com/sandra44dev)
+- [@ZephrFish](https://github.com/ZephrFish)
+- [@noblevk21](https://github.com/noblevk21)
+- [@abhaybhargav](https://github.com/abhaybhargav)
 - [@vanani11](https://github.com/vanani11)
 - [@ethannschwartz](https://github.com/ethannschwartz)
 

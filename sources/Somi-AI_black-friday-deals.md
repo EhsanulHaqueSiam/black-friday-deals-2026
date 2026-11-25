@@ -4,9 +4,9 @@ A verified list of Black Friday and Cyber Monday 2026 deals on AI tools and the 
 
 **Browse, search and filter the list at [somi.ai/black-friday](https://somi.ai/black-friday).**
 
-87 deals · last checked 23 November 2026 · [add yours](#submit-a-deal)
+92 deals · last checked 25 November 2026 · [add yours](#submit-a-deal)
 
-The first 13 deals below were checked by Somi against the vendor's own pricing or sale page. The [community-listed](#community-listed-ai-tools) deals were imported from other open lists and have not been re-checked by us. Dates and codes are shown only when the source gives them.
+The first 18 deals below were checked by Somi against the vendor's own pricing or sale page. The [community-listed](#community-listed-ai-tools) deals were imported from other open lists and have not been re-checked by us. Dates and codes are shown only when the source gives them.
 
 ## Sponsored
 
@@ -16,10 +16,10 @@ The first 13 deals below were checked by Somi against the vendor's own pricing o
 
 ## Contents
 
-- [Marketing](#marketing) (5)
-- [Creative](#creative) (5)
+- [Marketing](#marketing) (7)
+- [Creative](#creative) (7)
 - [Websites](#websites) (2)
-- [Productivity](#productivity) (1)
+- [Productivity](#productivity) (2)
 - [Community-listed AI tools](#community-listed-ai-tools) (74)
 
 ## Marketing
@@ -31,6 +31,8 @@ The first 13 deals below were checked by Somi against the vendor's own pricing o
 | [**AdCreative.ai**](https://www.adcreative.ai/) | Generates ad creatives, product photos and copy tuned for conversion. | 50% off quarterly and yearly plans, plus double credits | Not published |
 | [**EngageBay**](https://www.engagebay.com/offer) | All-in-one CRM with marketing, sales and support tools. | 40% off all plans, plus 50,000 free email credits | 9 Nov 2026 – 4 Dec 2026 |
 | [**Mailtea**](https://mailtea.app/pricing?utm_source=somi&utm_medium=deals&utm_campaign=black_friday_2026) | Agent-native email platform: email API, MCP server, newsletter editor and a publication site on one domain. | 3 months free on the Pro 25K plan (code: `BLACKFRIDAY26`). First 100 redemptions. New customers on monthly billing. | 23 Nov 2026 – 30 Nov 2026 |
+| [**BacklinkGenie**](https://backlinkgenie.com/black-friday/?utm_source=somi&utm_medium=deal&utm_campaign=bfcm2026) | AI link-building agent that finds posts where your product belongs, pitches each editor from a managed mailbox, follows up and checks won links stay live. | 30% off monthly or 50% off yearly, on every billing cycle while subscribed, applied at checkout (codes: `BFCM30` / `BFCM50`) | 24 Nov 2026 – 31 Dec 2026 |
+| [**SiteData**](https://sitedata.dev/black-friday) | Research website traffic, SEO keywords, competitor ads and AdSense publisher networks. | 50% off annual plans and 30% off monthly plans, auto-applied at Stripe checkout. The discount continues on renewals while subscribed. No code needed. | 24 Nov 2026 – 30 Nov 2026 (16:00 UTC) |
 
 ## Creative
 
@@ -41,6 +43,8 @@ The first 13 deals below were checked by Somi against the vendor's own pricing o
 | [**Higgsfield AI**](https://goto.higgsfield.ai/raPQRv) | AI video generation with cinematic camera controls. | 63% off in the Black Friday sale | Not published |
 | [**Tagshop.ai**](https://tagshop.ai/) | AI-generated UGC video ads from a product URL. | Up to 51% off yearly plans | Not published |
 | [**OpenArt AI**](https://openartai.pxf.io/c/6191520/3106413/38572?utm_source=impact&utm_medium=affiliate&utm_content=link) | AI image and video generation suite with many models in one place. | Up to 40% off your first year on annual plans | Not published |
+| [**ThreeDee Nova**](https://www.threedee.design/) | Turn photos or text prompts into 3D models in your browser. | 30% off one-time credit packs (code: `BLACK30`) | 24 Nov 2026 – 2 Dec 2026 |
+| [**A1**](https://www.a1.gallery/pricing?utm_source=somi&utm_medium=directory&utm_campaign=bf2026) | Gallery of real, live websites for design inspiration, with an MCP server so AI coding tools can pull real sections, fonts and colours. | 33% off A1 Pro yearly: $48 a year instead of $72, kept while you stay subscribed. No code needed. | 19 Nov 2026 – 30 Nov 2026 |
 
 ## Websites
 
@@ -54,6 +58,7 @@ The first 13 deals below were checked by Somi against the vendor's own pricing o
 | Name | Description | Deal | Validity |
 | --- | --- | --- | --- |
 | [**Jotform**](https://link.jotform.com/somi-ai-d4M6BtxDjd) | Drag-and-drop form builder with AI agents for registrations, orders and payments. | 60% off annual Bronze, Silver and Gold plans | Until 30 Nov 2026 |
+| [**Checkout Page**](https://checkoutpage.com/black-friday) | Build checkout pages, events and forms with AI, or from Claude and ChatGPT through its MCP server. | 30% off every paid plan: first 6 months on monthly billing, or first year on yearly billing. New paid plans only. No code needed. | 23 Nov 2026 – 30 Nov 2026 |
 
 ## Community-listed AI tools
 

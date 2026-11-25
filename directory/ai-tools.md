@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/ai-tools/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**270 live deals**, 105 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**285 live deals**, 112 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
 - [Chat & Assistants](#chat--assistants) (31)
 - [Writing & Content](#writing--content) (42)
@@ -12,7 +12,7 @@
 - [Automation & Workflows](#automation--workflows) (20)
 - [Research & Learning](#research--learning) (14)
 - [AI APIs & Credits](#ai-apis--credits) (4)
-- [More](#more) (20)
+- [More](#more) (35)
 
 ## Chat & Assistants
 
@@ -285,13 +285,13 @@
 | [Blumify](https://blumify.io/pro?utm_source=awesome-bfcm&utm_medium=deal_list&utm_campaign=bf2026) | Tracks what leaders in AI, business and markets say and alerts you when views change. | 50% off first year of Unlimited, $59.99 → $29.99/yr |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/blumify/) |
 | [Pro-Consulting](https://x.com/ProConsultingUA) | Market research reports and databases. | Up to 50% off analytics and databases |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/proconsulting/) |
 | [YouMind](https://youmind.com/) | Organizes research sources and notes in an AI-assisted workspace. | 50% off the AI research workspace |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/youmind/) |
+| [EvidenceLens](https://evidence-lens.com/pricing?code=BW2026&utm_source=github&utm_medium=referral&utm_campaign=black_week_2026&utm_content=awesome_bfcm) | Summarizes videos, articles and PDFs and checks claims against research. | Lifetime for $19.99 | `BW2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/evidencelens/) |
 | [NotebookLM Tools](https://www.nlmtools.com/pricing?utm_source=awesome-black-friday&utm_medium=referral&utm_campaign=black-friday-2026) | Chrome and Firefox extension adding bulk import, folders and export to NotebookLM. | 30% off Pro, 1 year $29 → $20.30 | `BLACKFRIDAY2026` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/notebooklmtools/) |
 | [CMMSPro.AI](https://CMMSPro.AI) | AI tool for clinical reasoning practice. | Legacy plan $290 → $217.50 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/cmmspro/) |
 | [Outdoo AI](https://www.outdoo.ai/) | AI roleplay and coaching for sales teams. | 20% off annual plans |  | Jan 1 | [details](https://bf26-deals.pages.dev/deal/outdooai/) |
 | [PDF Pals v2](https://pdfpals.com/buy?utm_source=awesomebf&utm_medium=partner&utm_campaign=bf2026) | Chat with PDFs, Office files, EPUB and Markdown on Mac using local or cloud AI models. | Lifetime $249 → $149, 20% off Basic and Plus | `BF20` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/pdfpalsv2/) |
 | [Lincoln AI Learning Coach](https://x.com/LincolnLearning) | AI homework help coach for kids. | 15% off | `THANKS15` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/lincolnailearningcoach/) |
 | [Plagiarism checker (plagiarismisbad)](https://x.com/plagiarismisbad) | Plagiarism and originality checker for teachers. | 15% off your first 3 months |  |  | [details](https://bf26-deals.pages.dev/deal/plagiarismchecker/) |
-| [EvidenceLens](https://apps.apple.com/redeem?ctx=offercodes&id=6781214388&code=BW2026) | Summarizes videos, articles and PDFs and checks claims against research. | Lifetime for $19.99 | `BW2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/evidencelens/) |
 | [Poppy AI](https://partners.dub.co/poppy-ai/apply) | Visual canvas for AI-assisted research and content creation. | $25 off first purchase |  |  | [details](https://bf26-deals.pages.dev/deal/poppyai/) |
 | [Right Suite](https://rightsuite.co/?ref=bf-mrs) | Tests pricing, pages, emails and ads on AI-simulated buyers from your audience. | First month of Starter free, then $4.99/mo | `BLACKFRIDAY` | Dec 31 | [details](https://bf26-deals.pages.dev/deal/rightsuite/) |
 
@@ -300,7 +300,7 @@
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
 | [Revoye (Degird)](https://degird.com/black-friday) | AI model API that runs in the cloud or on your own device. | 60% off the AI API and other tools in the store | `BFCM60` |  | [details](https://bf26-deals.pages.dev/deal/revoye/) |
-| [SharpAPI](https://sharpapi.com/en/pricing) | AI API for product descriptions, resume parsing and SEO tagging. | 40% off every plan, code BF2026, valid 12 months | `BF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/sharpapi/) |
+| [SharpAPI](https://sharpapi.com/en/pricing) | AI API for product descriptions, resume parsing and SEO tagging. | 40% OFF every plan for 12 months, code BF2026 (ends Nov 30) | `BF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/sharpapi/) |
 | [HiAPI](https://hiapi.ai/en/promotions/black-friday-2026?utm_source=github&utm_medium=awesome-list&utm_campaign=bf26&utm_content=Black-Friday-Deals) | Pay-as-you-go API for image, video, audio and text models behind one key. | Up to 10% extra credit on top-ups, 20% back on media |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/hiapi/) |
 | [APIKO](https://apiko.app/) | Pay-as-you-go OpenAI-compatible API gateway for text, image and video models. | 10% extra API credits, $100 buys $110 |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/apiko/) |
 
@@ -311,20 +311,35 @@
 | [Gixo Lex](https://gixo.ai/products/legal#plans) |  | 64% OFF Lite, $14 → $5/month in the US after a 14-day no-card trial for eligible new users |  | Dec 14 | [details](https://bf26-deals.pages.dev/deal/gixolex/) |
 | [Gixo Lumen](https://gixo.ai/products/presentations#plans) |  | 60% OFF Lite, $5 → $2/month in the US after a 14-day no-card trial for eligible new users |  | Dec 14 | [details](https://bf26-deals.pages.dev/deal/gixolumen/) |
 | [Gixo Quill](https://gixo.ai/products/content#plans) |  | 60% OFF Lite, $5 → $2/month in the US after a 14-day no-card trial for eligible new users |  | Dec 14 | [details](https://bf26-deals.pages.dev/deal/gixoquill/) |
+| [Meetily](https://meetily.ai/pricing) |  | 55% OFF Annual Pro with code BLACKFRIDAY55, applied automatically at checkout: $120… | `BLACKFRIDAY55` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/meetily/) |
 | [Convika](https://convika.com/black-friday/?utm_source=tonybf&utm_campaign=bf2026) |  | 50% OFF the first year of Pro yearly, no code needed: $108 $54/year |  | Dec 31 | [details](https://bf26-deals.pages.dev/deal/convika/) |
+| [DeployHQ](https://www.deployhq.com/pricing) |  | 50% off first 3 monthly payments |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/deployhq/) |
 | [memecub](https://memecub.com/pricing?utm_source=mrs-bf&utm_campaign=bf2026) |  | 50% off your first payment on any plan: Hobby $3 $1.50 first month, Pro yearly $90 $45… |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/memecub/) |
+| [Zeptap](https://zeptap.com/pricing) |  | 50% off every plan: Lifetime $199 → $99 once, Lifetime Plus (up to 5 iPhones) $399 →… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/zeptap/) |
 | [DubbingMate](https://dubbingmate.com/pricing/?utm_source=awesome_bf&utm_campaign=bf2026) |  | 40% OFF Full version ($9.99 $5.99, one-time purchase) with code BF2026DM, applied… | `BF2026DM` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/dubbingmate/) |
+| [LyricsMove](https://lyricsmove.com/pricing) |  | 30% OFF one-time Pro songs, Starter Packs & AI MVs with auto-applied code BF2026 ($3.90… | `BF2026` `BF2026YEAR` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/lyricsmove/) |
 | [Morse](https://trymorse.ai/) |  | 40% OFF your first payment on Pro or Max, monthly or yearly, with code BLACKFRIDAY | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/morse/) |
+| [Spring Prompt](https://springprompt.com/plans?ref=Awesome-Black-Friday-Cyber-Monday) |  | 40% OFF the first 3 months of either monthly plan with code BF2026: Basic $49… | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/springprompt/) |
 | [Beagle Security](https://beaglesecurity.com/black-friday-sale) |  | 35% off annual or 20% off monthly, code BFCMM26 | `BFCMM26` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/beaglesecurity/) |
+| [MakerKit](https://makerkit.dev/pricing) |  | 35% off Supabase, Drizzle and Prisma kits | `BLACKFRIDAY2026` |  | [details](https://bf26-deals.pages.dev/deal/makerkit/) |
+| [Pulsedive Pro](https://pulsedive.com/pro) |  | 35% OFF first year of Pulsedive Pro annual plans | `BFCM26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/pulsedivepro/) |
 | [VibeFather](https://vibefather.ai/pricing) |  | 35% OFF Lifetime Pro ($199 → $129) and the first year of Pro Yearly for $49 (was $69),… |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/vibefather/) |
 | [FlowSpeak](https://smolkapps.com/flowspeak/?utm_source=github-trungdq88&utm_medium=deal-list&utm_campaign=bf2026#pricing) |  | 34% OFF Lifetime Pro ($29 $19 one-time, up to 3 personal computers, no code needed) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/flowspeak/) |
 | [LATW AI Translation Plugins](https://latw.ai/black-week/) |  | 33% OFF your first year on all Pro plans with code BW33: Pro (1 site) $49 $32.83, Pro 2… | `BW33` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/latwaitranslationplugins/) |
-| [ABContents](https://abcontents.com/) |  | 30% off | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/abcontents/) |
+| [ABContents](https://abcontents.com/?utm_source=pimjo) |  | 30% OFF every video and API pack, videos from $2.10 (was $3) (Coupon: BLACKFRIDAY) | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/abcontents/) |
+| [AxiomAI](https://axiom.stream/join?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 30% OFF |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/axiomai/) |
 | [Grai](https://grai.page) |  | 30% OFF your first billing cycle with code BF2026: Solo Offline $79 $55.30/yr, Agency… | `BF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/grai/) |
 | [LocalVoice](https://tidyware.app/localvoice/?utm_source=mrsbf) |  | 30% off: $19 → $13.30, one-time purchase | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/localvoice/) |
 | [MDB Bootstrap Pro/Bundle](https://mdbootstrap.com/) |  | 30% off other offers, code BF2026 | `BF2026` |  | [details](https://bf26-deals.pages.dev/deal/mdbbootstrapprobundle/) |
 | [NotePorter](https://tidyware.app/noteporter/?utm_source=mrsbf) |  | 30% off: $15 → $10.50, one-time purchase | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/noteporter/) |
-| [Moordeck](https://moordeck.com/pricing) |  | 25% off Pro and Team Annual Year 1, code BF2026 (auto-applied) | `BF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/moordeck/) |
+| [Rakazo](https://rakazo.com/black-friday/) |  | 30% OFF the first year of any new yearly plan with code BLACKFRIDAY30 (from $12/mo to… | `BLACKFRIDAY30` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/rakazo/) |
+| [RankSimply](https://www.ranksimply.io/pricing?utm_source=shortlisted&utm_medium=directory&utm_campaign=bfcm_2026) |  | 30% OFF the first month of monthly plans (Get Found $699 → $489.30, Get Recommended… |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/ranksimply/) |
+| [TestDino](https://testdino.com/pricing) |  | 30% off first year of annual Pro and Team plans | `DINOFRIDAY30` | Dec 3 | [details](https://bf26-deals.pages.dev/deal/testdino/) |
+| [Whizi](https://whizi.io/pricing/?utm_source=mrs-bf-deals&utm_medium=deal-list&utm_campaign=bf2026) |  | 30% off the first year of any annual plan |  | Dec 24 | [details](https://bf26-deals.pages.dev/deal/whizi/) |
+| [Screenpipe](https://screenpipe.com/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black_friday_2026&utm_content=trungdq88) |  | 20% OFF the first year of annual plans: Basic $250 $200, Business $500 $400/seat,… |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/screenpipe/) |
 | [Kollab](https://kollab.im/black-friday) |  | Annual Pro $168/yr (reg. $216), Max $1,680/yr (reg. $2,160), plus 15% off all credit packs |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/kollab/) |
+| [Callout](https://saycallout.com/) |  | License $19.99 (was $49) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/callout/) |
 | [ClaudeKit](https://claudekit.app/pricing?utm_source=awesome-bfcm&utm_medium=github&utm_campaign=bf-2026) |  | $8 OFF the first year of Pro annual: $28 $20/year, no code needed, applied at checkout… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/claudekit/) |
+| [Meboki](https://meboki.com/?ref=mrs-bf-deals#pricing) |  | $10 off the one-time license ($39 → $29 for 1 Mac) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/meboki/) |
 | [OnBuzz](https://onbuzz.loxia.ai/surprise/lULhJM9vUvF0MY9vIEcNAWj-?utm_source=mrsbf&utm_campaign=bf2026) |  | Black Friday gift box: every signed-in account opens one free surprise gift (800 in… |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/onbuzz/) |
+| [TurboStarter](https://www.turbostarter.dev/) |  | $150 off all kits | `BF26` | Nov 29 | [details](https://bf26-deals.pages.dev/deal/turbostarter/) |

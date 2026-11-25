@@ -2,16 +2,16 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/hosting-cloud/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**107 live deals**, 35 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**95 live deals**, 31 with promo codes. Biggest discounts first. Last built 2026-11-25.
 
-- [Domains](#domains) (12)
-- [Web & WordPress Hosting](#web--wordpress-hosting) (42)
+- [Domains](#domains) (9)
+- [Web & WordPress Hosting](#web--wordpress-hosting) (40)
 - [PaaS & Serverless](#paas--serverless) (2)
-- [VPS & Cloud Servers](#vps--cloud-servers) (34)
+- [VPS & Cloud Servers](#vps--cloud-servers) (27)
 - [Databases](#databases) (1)
-- [Cloud Storage & Backup](#cloud-storage--backup) (10)
+- [Cloud Storage & Backup](#cloud-storage--backup) (9)
 - [Email Hosting](#email-hosting) (3)
-- [More](#more) (3)
+- [More](#more) (4)
 
 ## Domains
 
@@ -19,14 +19,11 @@
 |---|---|---|---|---|---|
 | [Namecheap](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Domain registrar with hosting and SSL certificates. | .com $8.98, hosting from $1.31/mo | `THEGAMESTLD26` `THEGAMESDTR26` `THEGAMESHOST26` `THEGAMESVPS26` `THEGAMESMAIL26` `THEGAMESCERT26` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/namecheap/) |
 | [Spaceship](https://www.spaceship.com/) | Domain registrar with low-cost .com registration. | 67% off .com | `COM67` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/spaceship/) |
-| [Dynadot](https://www.dynadot.com/black-friday-sale) | Domain registrar for registering, transferring and renewing domains. | .com $8.99 first year, TLDs from under €1 | `899COM` `BFCOM26` | Dec 6 | [details](https://bf26-deals.pages.dev/deal/dynadot/) |
+| [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Domain registrar for registering, transferring and renewing domains. | .com $8.99 first year, TLDs from under €1 | `899COM` `BFCOM26` | Dec 6 | [details](https://bf26-deals.pages.dev/deal/dynadot/) |
 | [RenewRoster](https://renewroster.com/pricing?utm_source=tonybf) | Tracks domain and SSL expiry for agency clients, with team alerts before renewal. | 50% off annual plans, from $150 → $75/yr |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/renewroster/) |
-| [Atom](https://www.atom.com/black-friday-sale) | Domain marketplace and registrar for premium and standard names. | .com $16.20 → $5, 25% off premium domains | `BFCOM` | Dec 7 | [details](https://bf26-deals.pages.dev/deal/atom/) |
+| [Atom.com](https://www.atom.com/black-friday-sale) | Domain marketplace and registrar for premium and standard names. | .com $16.20 → $5, 25% off premium domains |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/atom/) |
 | [CreatedNames](https://CreatedNames.com) | Marketplace of premium brandable domain names. | 25% off premium domains |  |  | [details](https://bf26-deals.pages.dev/deal/creatednames/) |
 | [Trabilo](https://x.com/trabilodotcom) | Brandable domain name marketplace. | 10% off every domain |  | Nov 29 | [details](https://bf26-deals.pages.dev/deal/trabilo/) |
-| [Cryptok.si premium domain](https://domains.atom.com/lpd/name/Cryptok.si) | Premium .si domain name for sale. | Premium .si domain for $700 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/cryptoksipremiumdomain/) |
-| [Deebo.si premium domain](https://domains.atom.com/lpd/name/Deebo.si) | Premium .si domain name for sale. | Premium .si domain for $250 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/deebosipremiumdomain/) |
-| [FromSpace.si premium domain](https://domains.atom.com/lpd/name/FromSpace.si) | Premium .si domain name for sale. | Premium .si domain for $499 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/fromspacesipremiumdomain/) |
 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Domain registrar; Discount Domain Club lowers .com prices. | .com $12.99 → $9.19 first year |  |  | [details](https://bf26-deals.pages.dev/deal/godaddy/) |
 | [XYZ domains](https://gen.xyz/blog/blackfriday2026) | .xyz domain registry. | .xyz domains from $1.50 the first year |  |  | [details](https://bf26-deals.pages.dev/deal/xyzdomains/) |
 
@@ -51,8 +48,6 @@
 | [InMotion](https://www.inmotionhosting.com/) | Shared, WordPress and reseller web hosting. | Up to 75% off hosting, shared from $3.49/mo |  | Dec 16 | [details](https://bf26-deals.pages.dev/deal/inmotion/) |
 | [Interdata](https://interdata.vn/blackfriday/) | Vietnamese web hosting and VPS provider. | Up to 75% off hosting, 3 years plus 1 free |  |  | [details](https://bf26-deals.pages.dev/deal/interdata/) |
 | [UltaHost](https://partnerstack.ultahost.com/coupon) | Shared, VPS and dedicated hosting. | Up to 70% off hosting, price locked 3 years |  |  | [details](https://bf26-deals.pages.dev/deal/ultahost/) |
-| [AwakeHost](https://awakehost.com/black-friday/) | Shared web hosting and VPS plans. | Up to 50% off shared hosting, 30% off VPS |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/awakehost/) |
-| [Host-Fusion](https://www.host-fusion.com) | Spanish NVMe web hosting. | 50% off forever on new hosting signups |  |  | [details](https://bf26-deals.pages.dev/deal/hostfusion/) |
 | [Kinsta](https://kinsta.com/black-friday/) | Managed WordPress hosting on cloud infrastructure with Cloudflare security. | 3 months free on annual plans |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/kinsta/) |
 | [MonsterMegs](https://x.com/MonsterMegsHost) | Web hosting and domains. | Up to 50% off web hosting, 40% off semi-dedicated |  |  | [details](https://bf26-deals.pages.dev/deal/monstermegs/) |
 | [Plesk](https://try.plesk.com/coupon) | Web hosting control panel and server management. | 50% off licenses |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/plesk/) |
@@ -89,10 +84,8 @@
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
 | [ESN Hosting](https://panel.esnoffical.com/plans?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Discord bot, Minecraft and game server hosting on a Pterodactyl panel. | 85% off first month, $4.49 → $0.67 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/esnhosting/) |
-| [Database Mart Black Friday Sale 2026](https://www.databasemart.com/vps-hosting) | VPS, dedicated and GPU server hosting. | Up to 75% off, VPS from $1/mo |  |  | [details](https://bf26-deals.pages.dev/deal/databasemartblackfridaysale2026/) |
 | [ScalaHosting](https://www.scalahosting.com/) | Managed cloud VPS and web hosting. | Up to 71% off |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/scalahosting/) |
 | [OVHcloud](https://www.ovhcloud.com/) | Cloud provider for VPS, dedicated servers and hosting. | Dedicated servers from $16.60/mo, up to 65% off |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/ovhcloud/) |
-| [GPUMART Black Friday GPU deals 2026](https://www.gpu-mart.com/gpu-vps) | GPU VPS and dedicated GPU server hosting. | Up to 60% off GPU hosting, from $11.60/mo |  |  | [details](https://bf26-deals.pages.dev/deal/gpumartblackfridaygpudeals2026/) |
 | [Shockbyte](https://shockbyte.com) | Game server hosting for Minecraft, Rust and 80+ games. | Up to 60% off annual game servers, locked for life |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/shockbyte/) |
 | [VeryGames](https://www.verygames.com) | Game server hosting. | 60% off the first month of a new game server |  | Nov 29 | [details](https://bf26-deals.pages.dev/deal/verygames/) |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | UK VPS hosting. | 55% off yearly VPS, from £27/yr |  |  | [details](https://bf26-deals.pages.dev/deal/vm6networks/) |
@@ -103,19 +96,14 @@
 | [Syrup Hosting](https://x.com/SyrupHosting) | Game and VPS server hosting. | 50% off your first invoice on any new server | `BLACKFRIDAY` |  | [details](https://bf26-deals.pages.dev/deal/syruphosting/) |
 | [Godlike.host](https://godlike.host/) | VPS and game server hosting with DDoS protection. | 40% off |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/godlikehost/) |
 | [HostInc](https://www.hostinc.in) | Cloud, VPS, dedicated and GPU servers. | Up to 40% off cloud, VPS, dedicated and GPU servers |  |  | [details](https://bf26-deals.pages.dev/deal/hostinc/) |
-| [DewaBiz VPS Super Compute](https://dewabiz.com/vps-super-compute) | High-performance VPS hosting from DewaBiz. | 30% off monthly, 35% off 6 months |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/dewabizvpssupercompute/) |
 | [PawnHoster](https://www.pawnhoster.com/vps-hosting) | VPS hosting. | 30% off all VPS plans, yearly billing |  |  | [details](https://bf26-deals.pages.dev/deal/pawnhoster/) |
 | [PetroSky](https://x.com/PetroSky_Cloud) | VPS hosting. | 30% off VPS plans | `BLACKFRIDAY` |  | [details](https://bf26-deals.pages.dev/deal/petrosky/) |
-| [AdKyNet VPS NVMe from 2.80 EUR per month](https://www.adkynet.com/en/vps/nvme/) | NVMe VPS hosting in Europe. | 25% off VPS, €3.50 → €2.80/mo | `BLACKFRIDAY26` |  | [details](https://bf26-deals.pages.dev/deal/adkynetvpsnvmefrom280eurpermonth/) |
-| [BlazeHosting](https://blazehosting.com.br/) | Brazilian hosting for Minecraft and other game servers. | 25% off recurring on all plans | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/blazehosting/) |
-| [EDIS](https://www.edisglobal.com/zh-Hans/black-friday) | VPS hosting in many global locations. | 25% off annual: pay 11 months, get 12 | `EDIS-SELECT25` |  | [details](https://bf26-deals.pages.dev/deal/edis/) |
-| [AvaHost](https://vncoupon.com/avahost-vps-dedicated-servers-coupon-deals/) | Shared hosting, VPS and dedicated servers. | 20% off any plan, VPS from €11/year |  |  | [details](https://bf26-deals.pages.dev/deal/avahost/) |
+| [BlazeHosting](https://blazehosting.com.br/) | Brazilian hosting for Minecraft and other game servers. | 25% off recurring on all plans |  |  | [details](https://bf26-deals.pages.dev/deal/blazehosting/) |
 | [Contabo](https://contabo.com/) | Low-cost cloud VPS hosting in the EU, US and Asia. | 20% off Cloud VPS, 4 vCPU/8GB $5.28/mo |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/contabo/) |
 | [bodHOST](https://www.bodhost.com) | VPS and web hosting provider. | 15% off VPS hosting |  |  | [details](https://bf26-deals.pages.dev/deal/bodhost/) |
 | [PerLod](https://x.com/Perlod_official) | VPS and server hosting. | **Soon.** 10% off every server on every renewal |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/perlod/) |
 | [Database Mart](https://www.databasemart.com/) | VPS, GPU servers and dedicated servers. | Linux VPS from $1.25/mo | `TCRD4911` `TCXR2333` | Nov 28 | [details](https://bf26-deals.pages.dev/deal/databasemart/) |
 | [DediRock](https://dedirock.com/) | Budget VPS and storage servers billed yearly. | VPS from $9.88/yr |  |  | [details](https://bf26-deals.pages.dev/deal/dedirock/) |
-| [Dewlance EPYC VPS](https://www.dewlance.com/) | AMD EPYC KVM VPS hosting with NVMe storage. | VPS from $64/yr |  |  | [details](https://bf26-deals.pages.dev/deal/dewlanceepycvps/) |
 | [DigitalOcean](https://www.digitalocean.com/) | Cloud VPS, managed databases and app hosting. | $200 free credit for 60 days |  |  | [details](https://bf26-deals.pages.dev/deal/digitalocean/) |
 | [Linode (Akamai)](https://www.linode.com/) | Cloud VPS and compute from Akamai. | $100 free credit for 60 days |  |  | [details](https://bf26-deals.pages.dev/deal/linode/) |
 | [Mikrus](https://mikr.us/bf2026/) | Low-cost Polish VPS servers for learning and side projects. | 1 free year on 3-year VPS plans, 2 months on 2-year |  |  | [details](https://bf26-deals.pages.dev/deal/mikrus/) |
@@ -137,7 +125,6 @@
 | [pCloud](https://www.pcloud.com/) | Encrypted Swiss cloud storage with lifetime plans. | Up to 60% off lifetime storage, 500 GB $279 → $159 |  | Nov 28 | [details](https://bf26-deals.pages.dev/deal/pcloud/) |
 | [Koofr](https://koofr.eu/) | Privacy-focused EU cloud storage. | 55% off yearly plans, 250GB to 5TB |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/koofr/) |
 | [Infinite Uploads](https://infiniteuploads.com/wordpress-black-friday-deals/) | Cloud storage and CDN for WordPress media files. | 50% off first year of annual plans | `BFCM50OFF` `BFCM30OFF` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/infiniteuploads/) |
-| [Cloud Based Backup (managed Nextcloud)](https://cloudbasedbackup.com/en/pricing) | Managed Nextcloud hosting for files and backups. | 33% off first year on yearly plans |  |  | [details](https://bf26-deals.pages.dev/deal/cloudbasedbackup/) |
 | [uncompressed.io](https://uncompressed.io/black-friday) | Film hosting, client review, delivery and sales for filmmakers without re-encoding. | 30% off yearly plans, every renewal |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/uncompressed/) |
 | [Notion Backups](https://notionbackups.com) | Automatic backup and restore for Notion workspaces, plus Sheets sync. | 26% off annual plans | `BLACKFRIDAY2026` | Dec 8 | [details](https://bf26-deals.pages.dev/deal/notionbackups/) |
 | [Hetzner Storage Box](https://www.hetzner.com/storage/storage-box/) | Online storage space for backups and files. | 5TB backup storage for €13.41/mo |  |  | [details](https://bf26-deals.pages.dev/deal/hetznerstoragebox/) |
@@ -158,4 +145,5 @@
 |---|---|---|---|---|---|
 | [BitHut](https://bithut.app/pricing) |  | 58% OFF Plus for 3 months, code SHASHANKT2-A8S89Y ($12 → $5/mo, new customers) (Nov 24… | `SHASHANKT2-A8S89Y` | Dec 7 | [details](https://bf26-deals.pages.dev/deal/bithut/) |
 | [VentraIP.com.au](https://ventraip.com.au/blog/black-friday-sale-2026/) |  | TLD: .com |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/ventraipcomau/) |
+| [Gname.com](https://www.gname.com/us/price/co.html) |  | TLD: .co |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/gname/) |
 | [Porkbun](https://porkbun.com/) |  | Black Friday Bun-anza: new .com registrations for $7 while supplies last, no per-person… |  |  | [details](https://bf26-deals.pages.dev/deal/porkbun/) |
