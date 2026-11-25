@@ -65,5 +65,21 @@
     "deal": "Black Friday: 40% off a Master.dev membership (formerly Frontend Masters; reported Nov 2026). Check the price at checkout.",
     "codes": [],
     "source": "https://master.dev/pricing"
+  },
+  {
+    "name": "Higgsfield",
+    "url": "https://higgsfield.ai/pricing",
+    "category": "AI Tools",
+    "subcategory": "Image & Video",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "AI video and image generation platform.",
+    "headline": "Up to 70% off annual plans",
+    "deal": "Black Friday: up to 70% off annual plans, no code. Plus $30/mo billed yearly (list $59), Ultra 3,000 credits $45/mo (list $129), Ultra 9,000 credits $115/mo (list $387); Team 43% off, Scale 63% off annual. Plan sale ends Nov 26, 2026 00:00 UTC. Separate Black Friday Market: up to 75% off credit packs, bonus seconds and add-ons through Nov 30.",
+    "codes": [],
+    "ends": "2026-11-25",
+    "source": "https://higgsfield.ai/pricing.md"
   }
 ]
