@@ -2,12 +2,12 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/gaming/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**64 live deals**, 8 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**64 live deals**, 8 with promo codes. Biggest discounts first. Last built 2026-11-26.
 
 - [Game Stores & Sales](#game-stores--sales) (15)
 - [Game Subscriptions](#game-subscriptions) (2)
-- [Games & Apps](#games--apps) (40)
-- [More](#more) (7)
+- [Games & Apps](#games--apps) (39)
+- [More](#more) (8)
 
 ## Game Stores & Sales
 
@@ -40,7 +40,6 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
-| [Trombonophone](https://apps.apple.com/app/id6817391838) | Virtual trombone app for iPhone. | Free, normally $1.99 |  |  | [details](https://bf26-deals.pages.dev/deal/trombonophone/) |
 | [Spike Chunsoft games](https://x.com/SpikeChunsoft_e) | Japanese games publisher on Steam. | Up to 90% off on Steam |  |  | [details](https://bf26-deals.pages.dev/deal/spikechunsoftgames/) |
 | [Capcom games on Steam](https://x.com/CapcomUSA_) | Capcom titles like Resident Evil and Monster Hunter. | Up to 87% off on Steam |  |  | [details](https://bf26-deals.pages.dev/deal/capcomgamesonsteam/) |
 | [Maneater](https://store.steampowered.com/app/629820/Maneater/) | Open-world shark action RPG. | 85% off both games on Steam |  |  | [details](https://bf26-deals.pages.dev/deal/maneater/) |
@@ -89,6 +88,7 @@
 | [Tanks-a-Lot](https://tanks-a-lot.app/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $5 → $3 | `BF26-TANKSALOT` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/tanksalot/) |
 | [Aikui](https://apps.apple.com/app/id6774103289?pt=283056&ct=bf-github&mt=8) |  | Aikui Pro is half price until December 1: $2.49 in the US, then $4.99 again. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/aikui/) |
 | [Kajai](https://apps.apple.com/app/apple-store/id6778381175?pt=283056&ct=bf-github&mt=8) |  | Remove Ads is half price until December 1: $2.49 in the US, then $4.99 again. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/kajai/) |
+| [OneRound](https://apps.apple.com/app/id6793760650) |  | Free Lifetime unlock scheduled Nov 27–30, 2026 (regular price returns Dec 1, annual… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/oneround/) |
 | [Plorp](https://apps.apple.com/app/apple-store/id6758669786?pt=283056&ct=bf-github&mt=8) |  | Remove Ads is half price until December 1: $2.49 in the US, then $4.99 again. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/plorp/) |
 | [Simply Spider](https://apps.apple.com/app/apple-store/id6825126894?pt=1709347&mt=8&ct=bf26-mariuslist) |  | $0.99 instead of $2.99, applied automatically on the App Store |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/simplyspider/) |
 | [Simply Sudoku](https://apps.apple.com/app/apple-store/id6826326321?pt=1709347&mt=8&ct=bf26-mariuslist-sudoku) |  | $0.99 instead of $2.99, applied automatically on the App Store |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/simplysudoku/) |

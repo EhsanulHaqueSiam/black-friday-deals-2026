@@ -2,14 +2,14 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/design/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**152 live deals**, 57 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**156 live deals**, 58 with promo codes. Biggest discounts first. Last built 2026-11-26.
 
 - [UI Kits & Templates](#ui-kits--templates) (46)
 - [Icons, Fonts & Illustrations](#icons-fonts--illustrations) (8)
 - [Design & Prototyping Tools](#design--prototyping-tools) (49)
 - [Mockups & Screenshots](#mockups--screenshots) (6)
 - [Stock Photos, Video & Music](#stock-photos-video--music) (39)
-- [More](#more) (4)
+- [More](#more) (8)
 
 ## UI Kits & Templates
 
@@ -49,7 +49,7 @@
 | [Miguel Recio Framer Templates](https://www.framer.com/@miguel-recio/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Framer website templates and CMS components for SaaS, hotels, real estate and more. | 30% off templates, 5-template bundle $99 → $69 | `BF26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/miguelrecioframertemplates/) |
 | [MingCute UI](https://ui.mingcute.com/?utm_source=mrsbf) | Design system and UI kit for Figma. | 30% off, $59 → $41 | `BF2026` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/mingcuteui/) |
 | [NateUI](https://nateui.com/pricing?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bf30&utm_content=ui-kits-table) | React and Tailwind CSS UI kit with free components, Pro blocks and Next.js templates. | 30% off, Basic from $55.30 one-time | `BF30` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/nateui/) |
-| [ReUI](https://reui.io/pricing?utm_source=twf-bfcm&utm_medium=directory&utm_campaign=reui-nov26) | Provides reusable React components for building web interfaces. | 30% off the React UI component library |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/reui/) |
+| [ReUI](https://reui.io/pricing?utm_source=mrs-bfcm&utm_medium=directory&utm_campaign=reui-nov26) | Provides reusable React components for building web interfaces. | 30% off the React UI component library |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/reui/) |
 | [Shadcn Studio](https://shadcnstudio.com/pricing) | Components, blocks and templates for shadcn/ui. | 30% off | `SHADBF30` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/shadcnstudio/) |
 | [Shashank Thigale Framer Templates](https://shashankthigale.com/templates/?utm_source=pimjo&utm_medium=referral&utm_campaign=bfcm2026) | Framer website templates for med spas, retreats and therapy practices. | 30% off all templates, All-Access $199 → $139 | `BFCM30` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/shashankthigaleframertemplates/) |
 | [TailAdmin](https://tailadmin.com/pricing) | Tailwind CSS admin dashboard template with 500+ components. | 30% off all plans | `BLFCM2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/tailadmin/) |
@@ -98,7 +98,7 @@
 | [Rindraw](https://rindraw.com/black-friday-2026/?utm_source=awesome-bf-2026) | Drawing, painting and animation app for iPad, iPhone and Mac with editable strokes. | 50% off, $12.99 → $6.49 one-time |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/rindraw/) |
 | [Sip](https://sipapp.io/blackfriday/) | Native macOS color picker for collecting, organizing and sharing colors and palettes. | 50% off | `BLACKFRIDAY26` `CYBERMONDAY26` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/sip/) |
 | [StoryTribe](https://x.com/StoryTribeApp) | Online storyboard creator. | 50% off annual Pro for storyboarding | `BLACKFRIDAY26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/storytribe/) |
-| [Bindrik](https://bindrik.com/en?ref=mrs-bf) | Mac app for designing Amazon KDP book interiors and covers with correct bleed. | 43% off one-time purchase, $69 → $39 | `BLACKFRIDAY2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/bindrik/) |
+| [Bindrik](https://bindrik.com/en?ref=abfcm) | Mac app for designing Amazon KDP book interiors and covers with correct bleed. | 43% off one-time purchase, $69 → $39 | `BLACKFRIDAY2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/bindrik/) |
 | [PixelColor](https://apps.apple.com/app/id6763493579?utm_source=mrs-bf&utm_medium=github&utm_campaign=bf2026) | Offline Mac color picker with RGB, HSB and HSL editing and saved favorites. | 43% off, $6.99 → $3.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/pixelcolor/) |
 | [Cascadeur](https://cascadeur.com/) | Physics-assisted 3D character animation software. | **Soon.** 40% off the first year of Indie, Pro or Teams |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/cascadeur/) |
 | [Crafttor](https://crafttor.com/pricing) | Figma plugins for motion, image and PSD import, and audio. | Up to 40% off design plugins and motion tools | `BLACKFRIDAY25` `BLACKFRIDAY30` `BLACKFRIDAY40` |  | [details](https://bf26-deals.pages.dev/deal/crafttor/) |
@@ -189,6 +189,10 @@
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
 | [Liniqo](https://liniqo.com/) |  | Up to 70% OFF: Lifetime $79 $39.50, Pro from $11.70, Personal from $5.70 (Auto-applied,… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/liniqo/) |
+| [Jiggicons](https://jiggicons.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) |  | Up to 40% OFF lifetime licences (Personal $79 → $49, Team $199 → $129, Business $499 →… |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/jiggicons/) |
+| [Pixels71](https://www.pixels71.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 40% OFF the All-Access Pass, $59 once (was $99) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/pixels71/) |
 | [Backdrop](https://cindori.com/backdrop) |  | 30% OFF Lifetime $29.99 $20.99 one-time, no code needed, Nov 24 - Dec 1, 2026 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/backdrop/) |
 | [ThreeDee](https://www.threedee.design/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 30% OFF single 3D models, packs, both lifetime libraries and Nova credits | `BLACK30` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/threedee/) |
+| [TOWeb 15](https://www.lauyan.com/en/pricing/?utm_source=awesome-bfcm&utm_medium=github&utm_campaign=black-friday-2026) |  | 30% OFF every paid edition with code BLACKFRIDAY30: Premium €99 €69.30, e-Commerce €199… | `BLACKFRIDAY30` | Nov 26 | [details](https://bf26-deals.pages.dev/deal/toweb15/) |
+| [GenMagic](https://genmagic.co/black-friday) |  | Up to 20% extra credit on top-ups, no code needed: $25 → $27.50, $50 → $57.50, $100 →… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/genmagic/) |
 | [Mockvid](https://mockvid.com/?utm_source=bf26-trungdq88) |  | 20% OFF Studio, first year: $49 $39.20/yr, Nov 23 - Dec 1, 2026 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/mockvid/) |

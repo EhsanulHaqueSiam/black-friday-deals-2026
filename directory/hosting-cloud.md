@@ -2,16 +2,16 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/hosting-cloud/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**95 live deals**, 31 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**96 live deals**, 31 with promo codes. Biggest discounts first. Last built 2026-11-26.
 
 - [Domains](#domains) (9)
 - [Web & WordPress Hosting](#web--wordpress-hosting) (40)
 - [PaaS & Serverless](#paas--serverless) (2)
 - [VPS & Cloud Servers](#vps--cloud-servers) (27)
 - [Databases](#databases) (1)
-- [Cloud Storage & Backup](#cloud-storage--backup) (9)
+- [Cloud Storage & Backup](#cloud-storage--backup) (8)
 - [Email Hosting](#email-hosting) (3)
-- [More](#more) (4)
+- [More](#more) (6)
 
 ## Domains
 
@@ -128,7 +128,6 @@
 | [uncompressed.io](https://uncompressed.io/black-friday) | Film hosting, client review, delivery and sales for filmmakers without re-encoding. | 30% off yearly plans, every renewal |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/uncompressed/) |
 | [Notion Backups](https://notionbackups.com) | Automatic backup and restore for Notion workspaces, plus Sheets sync. | 26% off annual plans | `BLACKFRIDAY2026` | Dec 8 | [details](https://bf26-deals.pages.dev/deal/notionbackups/) |
 | [Hetzner Storage Box](https://www.hetzner.com/storage/storage-box/) | Online storage space for backups and files. | 5TB backup storage for €13.41/mo |  |  | [details](https://bf26-deals.pages.dev/deal/hetznerstoragebox/) |
-| [NewsDemon](https://www.newsdemon.com/black-friday-2026/) | Unlimited Usenet access with long retention. | $0.50/mo for 2 months, or 15 months $25.05 |  |  | [details](https://bf26-deals.pages.dev/deal/newsdemon/) |
 | [Sync.com](https://www.sync.com/pricing-individual/) | End-to-end encrypted cloud storage and file sharing. | Pay 1 year, get 2 more free | `BFCM2026` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/sync/) |
 
 ## Email Hosting
@@ -146,4 +145,6 @@
 | [BitHut](https://bithut.app/pricing) |  | 58% OFF Plus for 3 months, code SHASHANKT2-A8S89Y ($12 → $5/mo, new customers) (Nov 24… | `SHASHANKT2-A8S89Y` | Dec 7 | [details](https://bf26-deals.pages.dev/deal/bithut/) |
 | [VentraIP.com.au](https://ventraip.com.au/blog/black-friday-sale-2026/) |  | TLD: .com |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/ventraipcomau/) |
 | [Gname.com](https://www.gname.com/us/price/co.html) |  | TLD: .co |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/gname/) |
+| [Name.com](https://www.name.com/promo/cyber-monday) |  | TLD: .com |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/name/) |
+| [NameSilo.com](https://www.namesilo.com/sales/black-friday) |  | TLD: .biz |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/namesilo/) |
 | [Porkbun](https://porkbun.com/) |  | Black Friday Bun-anza: new .com registrations for $7 while supplies last, no per-person… |  |  | [details](https://bf26-deals.pages.dev/deal/porkbun/) |

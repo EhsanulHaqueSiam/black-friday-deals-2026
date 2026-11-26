@@ -2,16 +2,16 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/health-lifestyle/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**182 live deals**, 60 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**180 live deals**, 60 with promo codes. Biggest discounts first. Last built 2026-11-26.
 
 - [Fitness & Workouts](#fitness--workouts) (32)
-- [Health & Mental Wellbeing](#health--mental-wellbeing) (45)
-- [Food & Nutrition](#food--nutrition) (14)
+- [Health & Mental Wellbeing](#health--mental-wellbeing) (44)
+- [Food & Nutrition](#food--nutrition) (11)
 - [Travel & Navigation](#travel--navigation) (18)
-- [Family, Kids & Relationships](#family-kids--relationships) (16)
+- [Family, Kids & Relationships](#family-kids--relationships) (15)
 - [Hobbies & Home](#hobbies--home) (35)
-- [Weather & Misc](#weather--misc) (10)
-- [More](#more) (12)
+- [Weather & Misc](#weather--misc) (8)
+- [More](#more) (17)
 
 ## Fitness & Workouts
 
@@ -72,7 +72,6 @@
 | [Luten](https://apps.apple.com/app/id6777673392) | Adaptive sounds for sleep, focus, stress and kids on iPhone, iPad and CarPlay. | 50% off lifetime, $119.99 → $59.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/luten/) |
 | [PepFlow](https://pepflow.app/download) | Tracks peptide doses, schedules and reminders. | 50% off first year, $29.99 → $14.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/pepflow/) |
 | [Resolutely](https://mahalomochi.com/resolutely) | Free habit and resolution tracker that grows a plant over the year. | 50% off the Winter Pack | `WINTERBF50` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/resolutely/) |
-| [Sleep Widget and Tracker](https://apps.apple.com/us/app/sleep-widget-tracker-zzz/id6772411346) | Sleep tracker with home screen widgets for iPhone and iPad. | 50% off lifetime, $24.99 → $12.99 |  |  | [details](https://bf26-deals.pages.dev/deal/sleepwidgetandtracker/) |
 | [EyeHack](https://eyehack.app) | Mac eye break reminder every 20 minutes that cannot be snoozed. | 47% off one-time license, $14.99 → $7.99 | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/eyehack/) |
 | [Dayora](https://www.dayora.ai/black-friday?utm_source=awesome_bfcm&utm_campaign=bf2026) | AI journal with reflections on entries, mood tracking and voice journaling. | 40% off Plus first year, $72 → $43.20 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/dayora/) |
 | [FastingLady](https://www.ujiapps.com/fastinglady) | Intermittent fasting tracker that adapts fasts to your menstrual cycle. | 40% off lifetime, $24.99 → $14.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/fastinglady/) |
@@ -106,16 +105,13 @@
 |---|---|---|---|---|---|
 | [SipFlow](https://apps.apple.com/app/id6819768243) | Water intake tracker with a pet that fills up as you drink. | 67% off Plus lifetime, $29.99 → $9.99 | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/sipflow/) |
 | [Nutrify - AI Calorie Tracker](https://nutrifytracker.com/api/go?store=auto&campaign=holiday_sale&source=awesome_bfcm&medium=deal_list) | Calorie and macro tracker that logs meals from a photo. | 60% off first year, $49.99 → $19.99 |  | Dec 30 | [details](https://bf26-deals.pages.dev/deal/nutrify/) |
-| [Nutrify AI Calorie Tracker](https://apps.apple.com/app/id6737628384) | iPhone calorie tracker that logs meals with AI. | 60% off first year, $49.99 → $19.99 |  | Dec 30 | [details](https://bf26-deals.pages.dev/deal/nutrifyaicalorietracker/) |
 | [Nomu - Intermittent Fasting](https://www.tappect.com/get/nomu) | Intermittent fasting timer with schedules and streaks. | 57% off first year, $29.99 → $12.99 |  | Dec 30 | [details](https://bf26-deals.pages.dev/deal/nomu/) |
-| [Nomu Intermittent Fasting](https://apps.apple.com/app/id6759592087) | Intermittent fasting tracker for iPhone. | 57% off first year, $29.99 → $12.99 |  | Dec 30 | [details](https://bf26-deals.pages.dev/deal/nomuintermittentfasting/) |
 | [Equip Foods](https://x.com/EquipFoods) | Protein and nutrition products. | 40% off subscriptions, 30% off one-time orders |  |  | [details](https://bf26-deals.pages.dev/deal/equipfoods/) |
 | [Gratly](https://gratly.app/pricing) | Saves recipes from any website in one click and shows them on a clean page. | 40% off lifetime, $99 → $59 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/gratly/) |
 | [Nami](https://namitheapp.com) | Water tracker that grows a garden as you drink, for iPhone and Apple Watch. | 40% off lifetime | `40OFFLIFETIME` |  | [details](https://bf26-deals.pages.dev/deal/nami/) |
 | [YumPal](https://elevenapril.com/yumpal) | Food journal that saves memorable meals to a dated timeline and map. | 37% off lifetime, $29.99 → $18.99 | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/yumpal/) |
 | [Factor](https://www.factor75.com/) | Prepared meal delivery service. | Up to $130 off plus free breakfast for a year |  |  | [details](https://bf26-deals.pages.dev/deal/factor/) |
 | [HelloFresh](https://www.hellofresh.com/) | Weekly meal kit delivery service. | Free wok plus 10 free meals for new subscribers |  |  | [details](https://bf26-deals.pages.dev/deal/hellofresh/) |
-| [Not Yet fasting tracker](https://apps.apple.com/us/app/not-yet-fasting-tracker/id6797317734) | iPhone app for tracking intermittent fasting. | Pro lifetime $8.99 → $4.99 | `APPHOOKUP` |  | [details](https://bf26-deals.pages.dev/deal/notyetfastingtracker/) |
 | [Recipe Organizer by Vima](https://apps.apple.com/app/apple-store/id6757971278?pt=296584&ct=bf26-mrs&mt=8) | Recipe keeper that imports from sites, social video or photos, with meal plans. | Lifetime unlock $9.99, normally $29.99/yr |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/recipeorganizerbyvima/) |
 | [Trophikos](https://apps.apple.com/us/app/trophikos/id6773508921) | Recipe and cocktail library with a cooking log for Apple devices. | Lifetime Premium $9.99 → $1.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/trophikos/) |
 
@@ -160,7 +156,6 @@
 | [Hushful](https://apps.apple.com/us/app/hushful-wishlist-gift-lists/id6805499302) | Shared wishlists where friends claim gifts privately to avoid duplicates. | Lifetime Pro $1.99 instead of $4.99 |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/hushful/) |
 | [Relationship tracker: Duo](https://apps.apple.com/us/app/relationship-tracker-duo/id6759326768) | Private iPhone app for couples to save memories, milestones and time together. | Lifetime $14.99 → $7.49 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/relationshiptracker/) |
 | [Roads Audio](https://roadsaudio.com) | Asynchronous voice conversations with family and friends. | Plus lifetime $99.99 → $49.99 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/roadsaudio/) |
-| [Seesaw](https://apps.apple.com/app/id6755359501) | iPhone app for couples with date night ideas. | Free, normally $2.99 |  |  | [details](https://bf26-deals.pages.dev/deal/seesaw/) |
 | [Visual Timer for Kids: Tim](https://apps.apple.com/us/app/visual-timer-for-kids-tim/id6771034858) | Visual timers and first-then routines for children on iPhone and iPad. | Lifetime $4.99 → $2.49 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/visualtimerforkids/) |
 
 ## Hobbies & Home
@@ -207,13 +202,11 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
-| [Car Repair Estimate](https://apps.apple.com/app/car-repair-estimate-cost-ai/id6757721790) | iPhone app that estimates car repair costs from a photo. | Free lifetime Premium (normally $49.99), 50 codes | `6BFUS` |  | [details](https://bf26-deals.pages.dev/deal/carrepairestimate/) |
 | [FortuneTellerOnline](https://www.fortunetelleronline.app/#pricing) | AI tarot and fortune readings for love, career and yes-or-no questions. | 90% off all plans plus 10x bonus credits |  | Dec 31 | [details](https://bf26-deals.pages.dev/deal/fortunetelleronline/) |
 | [Vista Weather](https://apps.apple.com/us/app/vista-weather-forecast-maps/id6768575893) | Weather app with 20+ data sources and native-resolution forecast maps. | 53% off the first year |  |  | [details](https://bf26-deals.pages.dev/deal/vistaweather/) |
 | [Weatherling](https://x.com/WeatherlingApp) | Animated weather scenes for your desktop. | 50% off, $1.99 → $0.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/weatherling/) |
 | [Comic Weather](https://comicweather.app/black-friday?ref=awesome-tony) | iPhone weather app that shows the forecast as a comic book page. | 40% off full version, $4.99 → $2.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/comicweather/) |
 | [Big Weather](https://urtti.com/weather) | Mac menu bar weather with on-device written summaries of the forecast. | 33% off Premium lifetime, $29.99 → $19.99 |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/bigweather/) |
-| [Convo1 iOS app: Full Unlock $1.99](https://apps.apple.com/us/app/convo1/id6801723067) | iPhone app sold with a one-time full unlock. | Free codes for full unlock, normally $1.99 |  |  | [details](https://bf26-deals.pages.dev/deal/convo1iosapp/) |
 | [EverythingWeather Pro](https://www.everythingwx.com) | Weather app with radar and forecasts. | $19.99 for the first year |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/everythingweatherpro/) |
 | [Jubs](https://www.tryjubs.com/black-friday) | Animated holiday widgets for the iPhone and iPad Home Screen and StandBy. | Premium $2.99 → $1.99 one-time |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/jubs/) |
 | [PassCollect](https://lucadevelops.com) | Lightweight wallet for loyalty cards. | Lifetime half price, first year $0.99 |  |  | [details](https://bf26-deals.pages.dev/deal/passcollect/) |
@@ -225,12 +218,17 @@
 | [Nocala](https://apps.apple.com/app/apple-store/id6804729183?pt=118835098&ct=Nocala:%20Black%20Friday%202026&mt=8) |  | 100% off the one-time purchase: $39.99 to free |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/nocala/) |
 | [DayDare](https://daydare.app/) |  | 57% OFF $6.99 → $2.99 one-time purchase, no code needed |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/daydare/) |
 | [ShadowCoach Boxing](https://www.yuzool.com/apps/shadowcoach/) |  | 50% OFF ShadowCoach Premium (one-time): $59.99 $29.99 US, no code (App Store price) |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/shadowcoachboxing/) |
-| [Undersleep](https://apps.apple.com/app/apple-store/id6803688584?pt=129192922&ct=mrs&mt=8) |  | 50% off the one-time unlock: $24.99 → $12.49 |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/undersleep/) |
+| [Undersleep](https://apps.apple.com/app/apple-store/id6803688584?pt=129192922&ct=bf26-gh-tr&mt=8) |  | Black Friday: 50% OFF the one-time unlock: $24.99 $12.49 US, local prices vary |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/undersleep/) |
 | [Lappr](https://lappr.app/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $19 → $11.40 | `BF26-LAPPR` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/lappr/) |
 | [PoRaBar](https://porabar.com/?utm_source=mRs-Black-Friday-Deals&utm_medium=deal-list&utm_campaign=bf26) |  | 40% off the one-time unlock ($2.99 → $1.79) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/porabar/) |
+| [RouteSketcher](https://routesketcher.com/?utm_source=tonybf) |  | 30% OFF the lifetime plan ($19.99 → $13.99, one-time payment) with code BLACKFRIDAY,… | `BLACKFRIDAY` | Dec 6 | [details](https://bf26-deals.pages.dev/deal/routesketcher/) |
+| [Scaena: TV & Movie Tracker](https://apps.apple.com/us/app/scaena-tv-movie-tracker/id6787125515) |  | One-Time Purchase: $34.99 → $24.99 (29% off) |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/scaena/) |
 | [Boothly](https://apps.apple.com/us/app/boothly-retro-photo-strips/id6804359059) |  | Boothly Pro, one-time $2.99 $1.49 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/boothly/) |
 | [GLP-1 Companion](https://apps.apple.com/us/app/glp-1-companion-shot-tracker/id6791031500) |  | Pro, one-time $14.99 $7.49 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/glp1companion/) |
+| [Goodnight Kitty](https://apps.apple.com/app/id6815070161) |  | Free Lifetime unlock scheduled Nov 27–30, 2026 (regular price returns Dec 1, annual… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/goodnightkitty/) |
 | [Home Pet Monitor](https://apps.apple.com/redeem?ctx=offercodes&id=6781214388&code=BW2026) |  | SomaVibe+ Lifetime $19.99 with App Store code BW2026 | `BW2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/homepetmonitor/) |
+| [intropi](https://intropi.app/black-friday) |  | Premium Lifetime $89.99 once (regularly $189.99 on iPhone/web, $149.99 on Android) | `2026-12-01` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/intropi/) |
 | [Omni Brain](https://omnibraingames.com) |  | Lifetime Premium $39.99, paid once: the price of one year of Premium |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/omnibrain/) |
+| [OneZen Med](https://apps.apple.com/app/id6780318004) |  | Free Lifetime unlock scheduled Nov 27–30, 2026 (regular price returns Dec 1, annual… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/onezenmed/) |
 | [Troupe](https://apps.apple.com/us/app/troupe-plan-split-trips/id6791836108) |  | Troupe Pro Lifetime $29.99 $14.99 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/troupe/) |
 | [Wristkeeper](https://apps.apple.com/app/id6819904928) |  | Pro Lifetime $59.99 $39.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/wristkeeper/) |

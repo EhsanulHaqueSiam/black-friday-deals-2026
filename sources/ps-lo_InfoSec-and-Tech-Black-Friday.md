@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**121 active deals** of 122 listed
+**129 active deals** of 130 listed
 
-_Last updated: Nov 25, 2026 07:56 PST_
+_Last updated: Nov 26, 2026 04:45 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -44,9 +44,11 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Exploit Pack - Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount) | Black Friday bundle €4,000 | — | Nov 30 | Red | All-in-one offensive-security suite combining Exploit Pack, Control Pack and Kernel Pack with integrated AI. · via [@epgh123](https://github.com/epgh123) |
 | [Noviscan](https://secufor.net/black-week/) | 30-day free trial of Noviscan® Premium, then €9.90 a month | `BLACKFRIDAY26` | Nov 23 – Nov 30 | Blue | Face recognition for your IP cameras. Faces are analysed on your computer, and Noviscan warns you when a face it does not know shows up. Windows, macOS or Linux. New Premium subscribers, once per account, monthly plan. A card is asked at sign-up; nothing is charged during the trial. Cancel before it ends to pay nothing. · via [@ludovic767](https://github.com/ludovic767) |
 | [OffSeq Mirage](https://mirage.offseq.com/pricing) | 50% off the first 3 months of any plan | `BFCM2026` | Nov 30 | Blue | Real-time honeypot threat intelligence with attacker attribution and STIX/MISP exports. Free plan (1 honeypot) plus the free CC BY 4.0 Mirage Feed. · via [@thistehneisen](https://github.com/thistehneisen) |
+| [Doppelgänger ATLAS](https://store.physicalexploit.com/products/atlas) | 50% off the ATLAS license for one year ($39 → $19.50 for one device, $69 → $34.50 for two) | — | Nov 27 – Dec 1 (11:59 PM ET) | Red / Physical | Android app for authorized physical security assessments: RFID card work with a Proxmark or Chameleon Ultra, Doppelgänger reader capture, an operational map and evidence capture. Applies at checkout, no code. [Documentation](https://atlas.mwgroup.io/). · via [@tweathers-sec](https://github.com/tweathers-sec) |
 | [Guard by OffSeq](https://guard.report/monitoring) | 50% off the full report and the first month of monitoring | — | Dec 1 | Blue | Website security and NIS2/GDPR compliance scanning with continuous monitoring. Free scan, results in minutes. · via [@thistehneisen](https://github.com/thistehneisen) |
 | [OffSeq Threat Radar](https://radar.offseq.com/pricing) | 50% off the first month or the whole first year of any subscription plan | — | Dec 1 | Blue | Live CVE, exploited-vulnerability and malware intelligence with API, RSS and alerts. Free plan with API access (30 requests/day). · via [@thistehneisen](https://github.com/thistehneisen) |
 | [OmniForge](https://zcoldwater.github.io/omniforge-skills/black-friday-2026-developer-security-deal.html) | 83% off 3-in-1 Launch Security, Email DNS & AI Search Fix Suite ($29 to $5 one-time pass; individual VibeShield v7.0 / InboxShield v7.0 / CiteReady v6.0 passes $2) | — | Dec 1 (23:59 UTC) | Blue / Dev | Read-only passive web security, email DNS, and AI search launch audit suite: VibeShield v7.0 (116+ checks across JS secrets, Supabase RLS / CVE-2025-48757, Firebase rules, Next.js CVE-2025-29927, TLS & CSP AST), InboxShield v7.0 (SPF 10-lookup flattener, 28-selector DKIM, DMARC, BIMI, MTA-STS), and CiteReady v6.0 (/llms.txt & Schema.org). All diagnostic web scans, zero-install cli.sh, BrandShield v6.2 (78+ TLDs & USPTO), and 50 MIT Agent Skills are free; paid passes unlock domain-tailored copy-paste remediation code with no subscription. Auto-applied, no coupon code required. · via [@zColdWater](https://github.com/zColdWater) |
+| [Pulsedive](https://pulsedive.com/) | 35% off first year of annual Pulsedive Pro plans | `BFCM26` | Nov 24 – Dec 1 | Blue | Full-featured freemium community threat intelligence platform providing powerful URL/IP scanning, threat tracking, integration, searching, and bulk enrichment capabilities. |
 | [S4E](https://s4e.io/black-friday) | 60% off a full year of S4E Pro ($1,428 → $571.20, about $47.60/mo) | `BLACKFRIDAY2026` | Dec 1 (23:59 UTC) | Blue | Continuous attack surface protection for your websites, domains and IP addresses. 24/7 change-aware monitoring with 12,000+ continuously updated checks, new CVE matching and instant email alerts, AI fix recommendations, dark web and credential integrations, full scan history and a weekly risk summary. Pro covers 1 continuously protected asset. New annual subscriptions only, discount applies to the first year; the code is applied automatically at checkout. Free plan and free online scanners also available. · via [@Eren-Akdag](https://github.com/Eren-Akdag) |
 | [Termalin](https://termal.in/pricing/) | 16 months of yearly Pro for the price of 12 ($96, $8 → $6/mo) + 100 GB cloud storage | — | Dec 1 | Dev / Networking | SSH, SFTP and RDP client for Windows, macOS, Linux and iOS with end-to-end encrypted sync. AI agents (ChatGPT, Claude, coding tools) run commands on your servers without being handed SSH keys, limited by a per-server command allowlist and logged to an audit log. Auto-applied at checkout, no code. |
 | [EnigmaIS](https://myownca.com/) | 80% off Starter Pack | `BLACK-FRIDAY-2026-STARTER-80` | Nov 22 – Dec 2 | Blue / Dev / Networking | Self-hosted PKI and private Certificate Authority management platform. ACME automation, TLS/mTLS certificates, HSM integration, certificate lifecycle management and offline root CA support. [GitHub](https://github.com/EnigmaIS/myOwnCA). Apply the code at checkout. · via [@Walkerovski](https://github.com/Walkerovski) |
@@ -75,7 +77,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [ISA](https://programs.isa.org/blackfriday26) | 25% off eligible training and standards | — | Nov 17 – Nov 30 | Blue | ICS/OT security training and standards. Only the courses and standards listed on the sale page qualify. |
 | [Just Hacking Training](https://www.justhacking.com/types/courses-and-paths) | 25% off | `BFF25` | Nov 30 | Red/Blue | Hands-on cybersecurity training from practitioners for practitioners. |
 | [MalDev Academy](https://maldevacademy.com/) 💖 | 25% off courses | `BLKFRIDAY25` | Nov 30 | Red/Blue | Malware development and evasion. Useful for red teamers and for defenders who want to understand what they’re detecting. |
-| [Mission Infosec](https://devsecopspro/devsecops-pro-bfcm-2026) | Free access for 60 days - full course + labs | — | Nov 30 | DevSecOps / AppSec / Development | Learn by doing. Build security automation into pipelines using AWS and GitHub Actions. Anyone can use AI to write code. This course teaches you the skills to automate the security checks needed to deploy AI-written code safely. · via [@chad-butler-git](https://github.com/chad-butler-git) |
+| [Mission Infosec](https://devsecopspro.com/devsecops-pro-bfcm-2026) | Free access for 60 days - full course + labs | — | Nov 30 | DevSecOps / AppSec / Development | Learn by doing. Build security automation into pipelines using AWS and GitHub Actions. Anyone can use AI to write code. This course teaches you the skills to automate the security checks needed to deploy AI-written code safely. · via [@chad-butler-git](https://github.com/chad-butler-git) |
 | [Mobile Hacking Lab](https://ads.mobilehackinglab.com/bf/deals) | Mobile security course bundles from €249, up to 61% off | `DFA500`<br>`WEBKIT60`<br>`IOS999`<br>`BF26KU`<br>`BF26FCA` | Nov 30 (23:59 CET) | Red | Android and iOS exploitation and forensics bundles; the iOS WebKit course is presale. |
 | [Modern Security](https://www.modernsecurity.io/) | 20% off the Certified AI Security Expert (MSec-CAIS) certification | `msec-blackfriday20` | Nov 30 | Security / AI | Vendor page uses msec-blackfriday20; some trackers list msec-bf20. Try both at checkout. |
 | [OnlySecurity](https://onlysecurity.com/black-friday/) | 15% off courses not already on sale, the first Plus or Max payment and the All Access pass | — | Nov 23 – Nov 30 | Red / Blue | Applied automatically at checkout, no code · via [@Kaicastledine](https://github.com/Kaicastledine) |
@@ -97,6 +99,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [INE](https://learn.ine.com/2026-black-friday-promotions) | Premium annual $499 (reg. $799), Premium + Skill Dive $649, Fundamentals $229, $101 off eJPT and $151 off other exam vouchers | — | Nov 20 – Dec 1 | Red / Blue / Networking | Auto-applied at checkout, no code. Premium and Fundamentals pricing is for new subscribers only and renews at full price. Vouchers expire 180 days after purchase. ICCA excluded. |
 | [Invoke RE](https://training.invokere.com/pricing) | 20% Off All Courses | — | Dec 1 | Blue | Malware analysis training with practical labs, walkthroughs, video and written materials. Discount applied at checkout. Courses are lifetime access. Binary Ninja courses provide Binary Ninja license for one year. |
 | [ISC2](https://www.isc2.org/training/black-friday-cyber-week-sale) | 10% off ISC2 courses, Express Courses and certificates; members get 20% | — | Dec 1 | Blue | Training only, not exam vouchers. Applied in cart, no code. |
+| [Practical Physical Exploitation (PPE)](https://physicalexploit.com/training/in-person) | $1,000 off the in-person Practical Physical Exploitation course ($3,000 → $2,000) | — | Nov 27 – Dec 1 (11:59 PM ET) | Red / Physical | Hands-on physical security assessment training covering RFID and access control, bypass techniques and reporting. Applies at checkout, no code. · via [@tweathers-sec](https://github.com/tweathers-sec) |
 | [TheXero Training Academy](https://training.thexero.co.uk/) | 67% off Wireless Operator course | — | Dec 1 | Red |  |
 | [Wireshark Labs](https://wiresharklabs.org/) | Hands-on Wireshark labs with real packet captures: WCA exam prep $199.99 → $99.99, Ranger (real-world cases) $249.99 → $179.99 | `PACKETFRIDAY` | Dec 1 (until Dec 2, 08:00 UTC) | Networking | via [@oripka](https://github.com/oripka) |
 | [8kSec Academy](https://academy.8ksec.io/) | 15% off all on-demand mobile & AI security courses (CAISR, CMSE, OMSE, CISR, CASR) | `BLACKFRIDAY15` | Dec 4 | Red / AI | via [@sandra44dev](https://github.com/sandra44dev) |
@@ -118,7 +121,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 
 | Vendor | Deal | Code | Dates | Focus | Notes |
 |---|---|---|---|---|---|
-| [TryHackMe](https://tryhackme.com/black-friday) | 40% off annual Premium, annual MAX and certifications | `none (auto)` | Nov 27 | Red / Blue | Auto-applied at checkout for individual accounts; certification bundles and business/education plans excluded, discount covers year one. |
+| [TryHackMe](https://tryhackme.com/black-friday) | 40% off annual Premium, annual MAX and certifications | — | Nov 27 | Red / Blue | Auto-applied at checkout for individual accounts; certification bundles and business/education plans excluded, discount covers year one. |
 | [AppSecEngineer](https://www.appsecengineer.com/individuals/pricing) | 40% off Pro Plus annual plans and Bootcamps | `LEVELUP40` | Nov 30 | Security / AI | Hands-on AI security labs for securing AI agents and LLM apps, plus AppSec, cloud, Kubernetes and threat modeling tracks. · via [@abhaybhargav](https://github.com/abhaybhargav) |
 | [GenAI Security Lab](https://genaisecuritylab.com/pricing) | 40% off the yearly plan and the 4-Month Pass | `BLACKFRIDAY40` | Nov 30 (23:59 UTC) | Security / AI | 200+ hands-on AI security labs (prompt injection, RAG, agents, MCP). Code applies automatically at checkout. |
 | [Iximiuz Labs](https://labs.iximiuz.com/) 💖 | Discounted Lifetime and Annual Subscriptions | — | Nov 30 | General | Browser-based playgrounds for Linux, containers, Kubernetes and networking. |
@@ -128,22 +131,27 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 
 ## Hardware
 
-| Vendor | Deal | Code | Dates | Notes |
-|---|---|---|---|---|
-| [Beelink](https://www.bee-link.com/pages/black-friday-cyber-monday) | Up to 17% off selected mini PCs and bundles | `BF495` | Nov 30 | BF495 is $100 off the GTR9 Pro |
-| [GL.iNet](https://www.gl-inet.com/en-us/pages/early-black-friday) | Up to 20% off routers, Comet remote KVMs and travel routers | — | Nov 19 – Nov 30 | OpenWrt-based routers and remote KVMs. Handy for out-of-band access to lab hardware. |
-| [Hak5](https://hak5.org/pages/hacked-november) ✨ | Discount varies, see site | — | Nov 30 | Pentest and red team gadgets. |
-| [KSEC Labs (UK) and KSEC EU](https://labs.ksec.co.uk/black-friday-sale/) | Spend and save up to £300 off, free gifts, 3 for 2 on RFID cards, deal prices on RFID and lock picking kits | — | Nov 23 – Nov 30 | EU store: [eu.ksec.co.uk](https://eu.ksec.co.uk/black-friday-sale/), up to €250 off. Members get early access from 23 Nov, everyone from 27 Nov · via [@Kaicastledine](https://github.com/Kaicastledine) |
-| [Minis Forum](https://store.minisforum.com/pages/minisforum-black-friday) ✨ | Discount varies daily, see site | — | Nov 11 – Nov 30 | Great compact homelab boxes |
-| [UGREEN NAS](https://ai.ugreen.com/pages/ugreen-nas-black-friday-deals) | Up to 31% off NAS, up to 32% off NAS + UPS bundles (DXP4800GT $527.99, DXP2800GT $349.99) | — | Nov 30 | Bundles live now; main sale starts Nov 19. 30-day price guarantee. |
-| [UniFi](https://store.ui.com/us/en/tags/black-friday) ✨ | Discount varies, see site | — | Nov 30 | Networking gear that’s popular for homelabs and SMB. |
-| [Yubico](https://www.yubico.com/us/store/2026/black-friday-sale/) ✨ | Mix and match up to four total keys from the YubiKey 5 Series, YubiKey Bio Series, and Security Key Series with 15% off through November 30, 2026. | — | Nov 19 – Nov 30 |  |
-| [Zima](https://shop.zimaspace.com/) ✨ | $15-60 off ZimaBoard and ZimaCube. | — | Nov 30 | x86 single-board servers. Good firewall and NAS builds. |
-| [Back Market](https://www.backmarket.com/en-us/e/black-friday) | Discount varies daily, see site | — | Dec 1 | refurb phones and hardware for labs |
-| [Geekom](https://www.geekompc.com/black-friday/) | Discount varies daily, see site | — | Dec 1 | Great compact homelab boxes |
-| [Covert Instruments](https://covertinstruments.com/) | 20–30% off most tools plus free gifts | — | Dec 6 | Lockpicking and physical entry tools |
-| [ORICO](https://oricotechs.com/pages/black-friday-2026) | 15-20% off NAS and DAS, plus spend-more tiers | — | Dec 7 (11:59 PM PST) | Storage enclosures and small NAS units for homelab builds. No code. Cart-tier discounts don't apply to NAS or enclosures. |
-| ~~[System76](https://system76.com/)~~ | ~~Up to $200 off selected models~~ | — | Ended Nov 23 | Linux laptops and desktops. US customers only. |
+| Vendor | Deal | Code | Dates | Focus | Notes |
+|---|---|---|---|---|---|
+| [Beelink](https://www.bee-link.com/pages/black-friday-cyber-monday) | Up to 17% off selected mini PCs and bundles | `BF495` | Nov 30 |  | BF495 is $100 off the GTR9 Pro |
+| [GL.iNet](https://www.gl-inet.com/en-us/pages/early-black-friday) | Up to 20% off routers, Comet remote KVMs and travel routers | — | Nov 19 – Nov 30 |  | OpenWrt-based routers and remote KVMs. Handy for out-of-band access to lab hardware. |
+| [Hak5](https://hak5.org/pages/hacked-november) ✨ | Discount varies, see site | — | Nov 30 |  | Pentest and red team gadgets. |
+| [KSEC Labs (UK) and KSEC EU](https://labs.ksec.co.uk/black-friday-sale/) | Spend and save up to £300 off, free gifts, 3 for 2 on RFID cards, deal prices on RFID and lock picking kits | — | Nov 23 – Nov 30 |  | EU store: [eu.ksec.co.uk](https://eu.ksec.co.uk/black-friday-sale/), up to €250 off. Members get early access from 23 Nov, everyone from 27 Nov · via [@Kaicastledine](https://github.com/Kaicastledine) |
+| [Minis Forum](https://store.minisforum.com/pages/minisforum-black-friday) ✨ | Discount varies daily, see site | — | Nov 11 – Nov 30 |  | Great compact homelab boxes |
+| [UGREEN NAS](https://ai.ugreen.com/pages/ugreen-nas-black-friday-deals) | Up to 31% off NAS, up to 32% off NAS + UPS bundles (DXP4800GT $527.99, DXP2800GT $349.99) | — | Nov 30 |  | Bundles live now; main sale starts Nov 19. 30-day price guarantee. |
+| [UniFi](https://store.ui.com/us/en/tags/black-friday) ✨ | Discount varies, see site | — | Nov 30 |  | Networking gear that’s popular for homelabs and SMB. |
+| [Yubico](https://www.yubico.com/us/store/2026/black-friday-sale/) ✨ | Mix and match up to four total keys from the YubiKey 5 Series, YubiKey Bio Series, and Security Key Series with 15% off through November 30, 2026. | — | Nov 19 – Nov 30 |  |  |
+| [Zima](https://shop.zimaspace.com/) ✨ | $15-60 off ZimaBoard and ZimaCube. | — | Nov 30 |  | x86 single-board servers. Good firewall and NAS builds. |
+| [Back Market](https://www.backmarket.com/en-us/e/black-friday) | Discount varies daily, see site | — | Dec 1 |  | refurb phones and hardware for labs |
+| [Geekom](https://www.geekompc.com/black-friday/) | Discount varies daily, see site | — | Dec 1 |  | Great compact homelab boxes |
+| [PPE - ATLAS Relay Kit](https://store.physicalexploit.com/products/atlas-relay-kit) | $30 off ($199 → $169) | — | Nov 27 – Dec 1 (11:59 PM ET) | Red / Physical | Two Chameleon Ultras, four USB-C adapters and an ATLAS license for two devices. Phones not included. Applies at checkout, no code. · via [@tweathers-sec](https://github.com/tweathers-sec) |
+| [PPE - Doppelgänger Long Range Readers](https://store.physicalexploit.com/collections/doppelganger-core-longrange-readers) | $75 off each long range RFID reader (HID iCLASS R90SE $845 → $770, HID MaxiProx 5375 $925 → $850), plus a free one-year ATLAS license | — | Nov 27 – Dec 1 (11:59 PM ET) | Red / Physical | Long range card capture for authorized physical security assessments. Applies at checkout, no code. One free license per order. · via [@tweathers-sec](https://github.com/tweathers-sec) |
+| [PPE - Doppelgänger RFID Development Board](https://store.physicalexploit.com/products/doppelganger-pcb) | 30% off ($60 → $42) | — | Nov 27 – Dec 1 (11:59 PM ET) | Red / Physical | Wiegand and clock and data capture board for building your own long range or decoy reader. Applies at checkout, no code. · via [@tweathers-sec](https://github.com/tweathers-sec) |
+| [PPE - Doppelgänger Stealth Decoy Readers](https://store.physicalexploit.com/collections/doppelganger-stealth-and-mfas-decoy-readers) | $50 off each Stealth and MFAS decoy reader (from $325 → $275), plus a free one-year ATLAS license | — | Nov 27 – Dec 1 (11:59 PM ET) | Red / Physical | Battery powered decoy readers that capture cards and PINs, for authorized assessments. Reader variants only. Applies at checkout, no code. One free license per order. · via [@tweathers-sec](https://github.com/tweathers-sec) |
+| [PPE - Paxton P200 Dual Mode Reader](https://store.physicalexploit.com/products/paxton-p200-dual-mode-data-interpreter) | Free one-year ATLAS license ($39 value) with the reader | — | Nov 27 – Dec 1 (11:59 PM ET) | Red / Physical | One free license per order. No code. · via [@tweathers-sec](https://github.com/tweathers-sec) |
+| [Covert Instruments](https://covertinstruments.com/) | 20–30% off most tools plus free gifts | — | Dec 6 |  | Lockpicking and physical entry tools |
+| [ORICO](https://oricotechs.com/pages/black-friday-2026) | 15-20% off NAS and DAS, plus spend-more tiers | — | Dec 7 (11:59 PM PST) |  | Storage enclosures and small NAS units for homelab builds. No code. Cart-tier discounts don't apply to NAS or enclosures. |
+| ~~[System76](https://system76.com/)~~ | ~~Up to $200 off selected models~~ | — | Ended Nov 23 |  | Linux laptops and desktops. US customers only. |
 
 ## 3D Printing & Maker
 
@@ -226,6 +234,7 @@ Code (scripts, workflows) is [MIT](LICENSE). The list content and everything in 
 - [@Walkerovski](https://github.com/Walkerovski)
 - [@Eren-Akdag](https://github.com/Eren-Akdag)
 - [@zColdWater](https://github.com/zColdWater)
+- [@tweathers-sec](https://github.com/tweathers-sec)
 - [@chad-butler-git](https://github.com/chad-butler-git)
 - [@oripka](https://github.com/oripka)
 - [@GHULI3V](https://github.com/GHULI3V)

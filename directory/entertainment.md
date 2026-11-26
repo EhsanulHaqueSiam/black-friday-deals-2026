@@ -2,12 +2,12 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/entertainment/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**72 live deals**, 17 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**68 live deals**, 16 with promo codes. Biggest discounts first. Last built 2026-11-26.
 
 - [Streaming Video](#streaming-video) (32)
 - [Music](#music) (19)
 - [Audiobooks & Reading](#audiobooks--reading) (6)
-- [News & Magazines](#news--magazines) (15)
+- [News & Magazines](#news--magazines) (11)
 
 ## Streaming Video
 
@@ -25,7 +25,6 @@
 | [Movie Tracker](https://movietrack.app) | App to track movies you watched and want to watch. | 30% off the lifetime movie tracking unlock |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/movietracker/) |
 | [Lumière - Media & Music Player](https://lumiere.artsvit.com/) | Plays your own movies, shows and music from media servers and network shares. | 20% off Plus lifetime, $59.99 → $47.99 | `ARTSVITBF20` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/lumire/) |
 | [Bingers](https://x.com/bingersapp) | App to track TV shows and movies you binge. | Extra 15% off the first year of yearly plans |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/bingers/) |
-| [Amazon Prime Members](https://www.amazon.com/gp/video/storefront) | Discounted streaming channels for Prime members, such as MGM+, AMC+ and Starz. | Streaming channels from $1.99/mo |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/amazonprimemembers/) |
 | [AMC+](https://www.amcplus.com/) | Streaming service for AMC originals like The Walking Dead universe. | $1.99/mo with ads for 2 months, annual $109.99 → $54.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/amc/) |
 | [Apple TV+](https://tv.apple.com/) | Apple's streaming service for original shows and films. | $12.99 → $6.99/mo |  |  | [details](https://bf26-deals.pages.dev/deal/appletv/) |
 | [BBC Select](https://www.bbcselect.com/) | Streaming service for BBC documentaries on history, science and culture. | $0.99/mo for 2 months on Roku, $1.75/mo for 3 on Prime |  |  | [details](https://bf26-deals.pages.dev/deal/bbcselect/) |
@@ -41,6 +40,7 @@
 | [Paramount+](https://www.paramountplus.com/) | Streaming service for CBS and Paramount shows, films and live sports. | Any monthly plan $2.99/mo for 2 months |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/paramount/) |
 | [Peacock](https://www.peacocktv.com/) | NBCUniversal streaming service. | Select plan $2.99/mo for 3 months |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/peacock/) |
 | [Plex](https://www.plex.tv) | Media server and streaming app. | Discount with code at checkout | `FANFRIDAY40` |  | [details](https://bf26-deals.pages.dev/deal/plex/) |
+| [Prime Video Channels](https://www.amazon.com/gp/video/storefront) | Add-on streaming subscriptions billed through Prime Video. | Black Friday add-on deals Nov 19 to 30, 2026: Apple TV $6.99/mo for 6 months, HBO Max… |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/primevideochannels/) |
 | [Shudder](https://www.shudder.com/) | Streaming service for horror, thriller and supernatural films. | $9.99 → $1.99/mo for 2 months via Roku |  |  | [details](https://bf26-deals.pages.dev/deal/shudder/) |
 | [Starz](https://www.starz.com/) | Streaming service for movies and original series. | 12 months $69.99 → $11.99 |  |  | [details](https://bf26-deals.pages.dev/deal/starz/) |
 | [Sundance Now](https://www.sundancenow.com/) | Streaming service for crime dramas, thrillers and indie series. | $0.99/mo for 2 months via Roku |  |  | [details](https://bf26-deals.pages.dev/deal/sundancenow/) |
@@ -85,10 +85,7 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
-| [Newshosting](https://controlpanel.newshosting.com/signup/index.php?promo=cr4l1) | Provides long-retention Usenet access, a searchable newsreader and VPN service. | 92% off Usenet and VPN, $1.67/mo for 15 months | `cr4l1` |  | [details](https://bf26-deals.pages.dev/deal/newshosting/) |
-| [Easynews](https://signup.easynews.com/checkout/exclusive-deal-for-you-z) | Searches Usenet in a browser and supports downloads through NNTP clients. | 91% off browser-based Usenet, $1.65/mo for 15 months |  |  | [details](https://bf26-deals.pages.dev/deal/easynews/) |
 | [Autism Parenting Magazine](https://x.com/AutismParentMag) | Magazine for parents of autistic children. | 85% off, $39.99 annual with starter pack |  |  | [details](https://bf26-deals.pages.dev/deal/autismparentingmagazine/) |
-| [Eweka](https://www.eweka.nl/en/landing/your-exclusive-dealz) | Provides long-retention Usenet access with a newsreader, VPN and browser access. | 83% off Usenet and VPN, €2.50/mo for 15 months |  |  | [details](https://bf26-deals.pages.dev/deal/eweka/) |
 | [National Mortgage News](https://sbrew.link/ggLc2AAc) | Mortgage industry news. | 60% off a subscription |  | Nov 29 | [details](https://bf26-deals.pages.dev/deal/nationalmortgagenews/) |
 | [The Economist](https://www.economist.com/subscribe/black-friday) | Weekly magazine on world news, business and politics. | 60% off a subscription |  |  | [details](https://bf26-deals.pages.dev/deal/theeconomist/) |
 | [Prog Magazine](https://magazinesdirect.com/PRG/PQ53V) | Progressive rock music magazine. | Up to 50% off a subscription |  |  | [details](https://bf26-deals.pages.dev/deal/progmagazine/) |
@@ -99,4 +96,3 @@
 | [The Daily Shot](https://thedailyshot.com/subscribe/) | Daily markets and economics chart newsletter. | 15% off the first year | `THANKS26` |  | [details](https://bf26-deals.pages.dev/deal/thedailyshot/) |
 | [Gator Country VIP](https://x.com/GatorCountry) | Florida Gators sports news membership. | $20 off annual VIP, first 100 buyers |  |  | [details](https://bf26-deals.pages.dev/deal/gatorcountryvip/) |
 | [The Southern Star](https://www.southernstar.ie/subscribe) | West Cork regional newspaper. | Annual subscription 60 EUR | `caMkNg8V` |  | [details](https://bf26-deals.pages.dev/deal/thesouthernstar/) |
-| [Tweaknews](https://www.tweaknews.eu/en/landing/super-savings-z) | Provides Usenet access and includes a browser-based Usenet account. | €1.99/mo for 15 months of Usenet, plus a 2 TB account |  |  | [details](https://bf26-deals.pages.dev/deal/tweaknews/) |

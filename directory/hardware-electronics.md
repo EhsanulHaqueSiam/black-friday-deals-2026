@@ -2,15 +2,15 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/hardware-electronics/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**91 live deals**, 8 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**94 live deals**, 9 with promo codes. Biggest discounts first. Last built 2026-11-26.
 
-- [Phones, Tablets & Computers](#phones-tablets--computers) (8)
+- [Phones, Tablets & Computers](#phones-tablets--computers) (9)
 - [Audio](#audio) (11)
 - [Smart Home](#smart-home) (9)
 - [Accessories & Peripherals](#accessories--peripherals) (41)
 - [Cameras & Drones](#cameras--drones) (7)
 - [Retailer Sales](#retailer-sales) (13)
-- [More](#more) (2)
+- [More](#more) (4)
 
 ## Phones, Tablets & Computers
 
@@ -19,6 +19,7 @@
 | [Lenovo ThinkPad / Yoga / Legion](https://www.lenovo.com/us/en/deals/black-friday-sale/) | Lenovo laptops and desktops, including ThinkPad, Yoga and Legion. | 27% to 68% off, X1 Carbon about $1,524 |  |  | [details](https://bf26-deals.pages.dev/deal/lenovothinkpadyogalegion/) |
 | [RadioShack](https://x.com/radioshack) | Electronics retailer. | Up to 40% off gaming, smart home, audio and more |  |  | [details](https://bf26-deals.pages.dev/deal/radioshack/) |
 | [Apple](https://www.apple.com/shop/gifts/black-friday-event) | Apple devices like iPhone, iPad, Mac, Apple Watch and AirPods. | **Soon.** Apple Gift Card up to $300 with an eligible iPhone, iPad, Mac, Apple Watch, AirPods or… |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/apple/) |
+| [AT&T](https://attmarketplace.partnerlinks.io/wireless-deals) | US carrier for wireless phone plans, internet and devices. | AT&T Fiber from $35/mo (with wireless bundle) or 1 Gig + $100 Visa Reward Card & 3 mos… |  |  | [details](https://bf26-deals.pages.dev/deal/att/) |
 | [Dell](https://www.dell.com/en-us/shop/deals) | Laptops, desktops, monitors and accessories from Dell. | Up to $749 off laptops, Dell 14 Plus $1,299.99 |  |  | [details](https://bf26-deals.pages.dev/deal/dell/) |
 | [Geekom](https://www.geekompc.com/) | Mini PCs for compact desktops and home labs. | Daily rotating discounts |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/geekom/) |
 | [Google Store (Pixel)](https://store.google.com/us/magazine/black-friday-deals) | Pixel phones and other Google devices. | Up to $400 off Pixel 11 Pro, $200 off Pixel 11 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/googlestore/) |
@@ -137,3 +138,5 @@
 |---|---|---|---|---|---|
 | [Covert Instruments](https://covertinstruments.com/) |  | 20–30% off most tools plus free gifts |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/covertinstruments/) |
 | [Beelink](https://www.bee-link.com/pages/black-friday-cyber-monday) |  | Up to 17% off selected mini PCs and bundles | `BF495` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/beelink/) |
+| [PPE - ATLAS Relay Kit](https://store.physicalexploit.com/products/atlas-relay-kit) |  | $30 off ($199 → $169) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/ppe/) |
+| [UPLIFT V2](https://www.upliftdesk.com/) |  | $100–$300 OFF tiered by spend ($999+/$1499+/$1999+/$2999+), code BF2026 (through Nov 29) | `BF2026` | Nov 29 | [details](https://bf26-deals.pages.dev/deal/upliftv2/) |

@@ -2,13 +2,13 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/security-privacy/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**105 live deals**, 30 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**97 live deals**, 28 with promo codes. Biggest discounts first. Last built 2026-11-26.
 
-- [VPN](#vpn) (24)
+- [VPN](#vpn) (22)
 - [Password Managers](#password-managers) (8)
-- [Antivirus & Security Suites](#antivirus--security-suites) (32)
-- [Privacy & Data Removal](#privacy--data-removal) (22)
-- [Secure Email & Storage](#secure-email--storage) (14)
+- [Antivirus & Security Suites](#antivirus--security-suites) (29)
+- [Privacy & Data Removal](#privacy--data-removal) (20)
+- [Secure Email & Storage](#secure-email--storage) (13)
 - [More](#more) (5)
 
 ## VPN
@@ -16,15 +16,13 @@
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
 | [FastestVPN](https://fastestvpn.com/) | VPN service sold as a lifetime plan. | Lifetime VPN $35 once, 93% off |  |  | [details](https://bf26-deals.pages.dev/deal/fastestvpn/) |
-| [iTop VPN](https://www.geekbyter.com/coupons/itop-vpn/) | VPN service for privacy and unblocking sites. | Up to 90% off, 3 years $59.99 |  |  | [details](https://bf26-deals.pages.dev/deal/itopvpn/) |
 | [PrivadoVPN](https://privadovpn.com/) | Swiss VPN service for desktop and mobile. | 90% off, $1.11/mo on 2 years plus 3 months free |  |  | [details](https://bf26-deals.pages.dev/deal/privadovpn/) |
-| [Surfshark One VPN + Antivirus](https://get.surfshark.net/aff_c?offer_id=2065&aff_id=42448) | VPN bundled with antivirus and data breach alerts. | 88% off, $2.49/mo for 27 months |  |  | [details](https://bf26-deals.pages.dev/deal/surfsharkonevpnantivirus/) |
 | [PureVPN](https://www.purevpn.com/) | VPN with servers in 65 countries. | 87% off 5-year plan, about $1.69/mo |  |  | [details](https://bf26-deals.pages.dev/deal/purevpn/) |
 | [Surfshark](https://surfshark.com/) | VPN service with unlimited devices. | Up to 87% off plus 3 months free, ~$2.49/mo |  |  | [details](https://bf26-deals.pages.dev/deal/surfshark/) |
 | [Private Internet Access](https://www.privateinternetaccess.com/) | VPN with WireGuard and servers in 91 countries. | 84% off long-term plan, $1.89/mo plus free months |  |  | [details](https://bf26-deals.pages.dev/deal/privateinternetaccess/) |
 | [AdGuard VPN](https://adguard-vpn.com/) | VPN service from AdGuard for desktop, mobile and browsers. | 83% off 2-year plan |  |  | [details](https://bf26-deals.pages.dev/deal/adguardvpn/) |
 | [CyberGhost](https://www.cyberghostvpn.com/) | VPN with over 11,000 servers in 100 countries. | 83% off 28-month plan, $2.19/mo |  |  | [details](https://bf26-deals.pages.dev/deal/cyberghost/) |
-| [ExpressVPN](https://www.expressvpn.com/pricing) | VPN service with the Lightway protocol and servers in many countries. | Up to 80% off, 2-year plan from $2.99/mo |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/expressvpn/) |
+| [ExpressVPN](https://expressvpn.com/) | VPN service with the Lightway protocol and servers in many countries. | Up to 80% off, 2-year plan from $2.99/mo |  |  | [details](https://bf26-deals.pages.dev/deal/expressvpn/) |
 | [NordVPN](https://nordvpn.com/black-friday/) | VPN service for private browsing across devices. | Up to 78% off 2-year plans plus 3 extra months |  | Dec 9 | [details](https://bf26-deals.pages.dev/deal/nordvpn/) |
 | [EasyGuard VPN](https://easyguard.app/#deal) | WireGuard-based VPN for up to 10 devices on desktop and mobile. | Up to 75% off, 12 months $49.99 → $14.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/easyguardvpn/) |
 | [AirVPN](https://airvpn.org/) | VPN service built on OpenVPN and WireGuard with no-log policy. | Up to 74% off vs the monthly plan |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/airvpn/) |
@@ -61,7 +59,6 @@
 | [OmniForge Launch Suite](https://omnipulse-x402.appwrite.network/checkout) | Audits for website security, SPF and DMARC email records and llms.txt. | 82% off, suite $29 → $5 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/omniforgelaunchsuite/) |
 | [Bitdefender](https://www.bitdefender.com/) | Antivirus suite with VPN and password manager. | Up to 78% off, Premium from $12.99 |  |  | [details](https://bf26-deals.pages.dev/deal/bitdefender/) |
 | [Norton 360](https://us.norton.com/products) | Antivirus suite with VPN, password manager and identity protection. | Up to 76% off, from $29.99 first year |  |  | [details](https://bf26-deals.pages.dev/deal/norton360/) |
-| [Bitdefender GravityZone](https://get.bitdefender.com/black-friday) | Business endpoint protection and security platform. | 70% off all business security products |  |  | [details](https://bf26-deals.pages.dev/deal/bitdefendergravityzone/) |
 | [McAfee](https://www.mcafee.com/) | Antivirus with identity and privacy protection. | Plus Advanced $200 → $60 first year |  |  | [details](https://bf26-deals.pages.dev/deal/mcafee/) |
 | [Tidy My Mac](https://www.tidymymac.com/black-friday/) | Mac cleaner and security suite with antivirus, firewall and VPN. | 67% off yearly, $79 lifetime |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/tidymymac/) |
 | [AdverseMonitor](https://adversemonitor.com/black-friday) | Threat intelligence platform for managed security service providers. | 40% to 60% off the first year of yearly plans | `14-day` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/adversemonitor/) |
@@ -69,10 +66,8 @@
 | [AVG](https://www.avg.com/) | Antivirus and internet security software. | 60% off Internet Security and Ultimate, from $31.20/yr |  |  | [details](https://bf26-deals.pages.dev/deal/avg/) |
 | [S4E](https://s4e.io/black-friday) | Continuous attack surface scanning and vulnerability detection. | 60% off a year of Pro, $1,428 → $571.20 | `BLACKFRIDAY2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/s4e/) |
 | [ESET](https://www.eset.com/us/home/) | Antivirus and internet security for home devices. | 50% off home security plans |  |  | [details](https://bf26-deals.pages.dev/deal/eset/) |
-| [ESET HOME Security](https://www.eset.com/us/home/protection-plans/) | Antivirus and security suite for home devices. | Up to 50% off plans |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/esethomesecurity/) |
 | [ExposureDrift](https://exposuredrift.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Attack surface monitoring with JS secret scanning and external API inventory. | 50% off the first year for early users |  | Dec 14 | [details](https://bf26-deals.pages.dev/deal/exposuredrift/) |
 | [Guard by OffSeq](https://guard.report/monitoring) | Website security and NIS2/GDPR checks for TLS, headers, DNS and email auth. | 50% off full report, €39.90 → €19.95 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/guardbyoffseq/) |
-| [Intego ONE Mac security suite](https://offer.intego.com/MacGMPBBF_g2biyw6xv) | Mac antivirus, firewall and privacy suite. | About 50% off, €66 for 2 years |  |  | [details](https://bf26-deals.pages.dev/deal/integoonemacsecuritysuite/) |
 | [Malwarebytes](https://www.malwarebytes.com/) | Anti-malware and device protection. | Up to 50% off Premium and Ultimate plans |  |  | [details](https://bf26-deals.pages.dev/deal/malwarebytes/) |
 | [OffSeq Mirage](https://mirage.offseq.com/pricing) | Honeypot threat intelligence with attacker clustering, session replay and blocklists. | 50% off first 3 months, from €49 → €24.50/mo | `BFCM2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/offseqmirage/) |
 | [OffSeq Pulse](https://pulse.offseq.com/pricing) | Device hardening checks mapped to NIS2 and CIS, with fixes and audit evidence. | 50% off first year, €4 → €2 per device/mo |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/offseqpulse/) |
@@ -95,7 +90,6 @@
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
 | [AdGuard Family Plan](https://adguard.com/) | Ad blocker and tracker protection for every device in the family. | 91% off lifetime, $169.99 → $14.97 |  |  | [details](https://bf26-deals.pages.dev/deal/adguardfamilyplan/) |
-| [AdGuard Family Plan lifetime](https://www.neowin.net/deals/early-black-friday-deal-a-lifetime-of-adguard-family-at-91-off/) | Ad and tracker blocker for all your family's devices. | 91% off lifetime family plan, $169.99 → $14.97 |  |  | [details](https://bf26-deals.pages.dev/deal/adguardfamilyplanlifetime/) |
 | [Aura Identity Protection](https://www.aura.com/) | Identity theft protection with credit monitoring and insurance. | Up to 66% off, individual from $8/mo |  |  | [details](https://bf26-deals.pages.dev/deal/auraidentityprotection/) |
 | [Incogni](https://incogni.com/pricing) | Removes your personal data from data brokers. | 50% off annual plans, up to 58% with codes |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/incogni/) |
 | [AdGuard](https://adguard.com/en/license.html) | Ad blocker and tracker blocker for computers, phones and browsers. | 50% off 1-year license, 45% off lifetime | `JSON` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/adguard/) |
@@ -109,8 +103,7 @@
 | [Zero Note - Share One Time Secrets](https://apps.apple.com/us/app/zero-note-self-destruct-notes/id6760115126) | Share encrypted notes that self-destruct after being read. | 40% off lifetime plan |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/zeronote/) |
 | [Proxy-Cheap](https://x.com/ProxyCheap) | Residential, ISP and datacenter proxies. | 30% off static residential proxies |  | Nov 29 | [details](https://bf26-deals.pages.dev/deal/proxycheap/) |
 | [DeleteMe](https://joindeleteme.com/) | Removes your personal data from data broker sites. | 20% off | `BFCM2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/deleteme/) |
-| [Optery](https://get.optery.com/promo) | Removes your personal data from people search sites. | 20% off, plus 17% off annual plans | `FALL2026` |  | [details](https://bf26-deals.pages.dev/deal/optery/) |
-| [Hidemyacc](https://hidemyacc.com/) | Anti-detect browser for managing multiple accounts. | 10% off first purchase | `HMABF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/hidemyacc/) |
+| [Optery](https://get.optery.com/promo) | Removes your personal data from people search sites. | 20% off, plus 17% off annual plans |  |  | [details](https://bf26-deals.pages.dev/deal/optery/) |
 | [Paperweight](https://www.paperweight.email/pricing#black-friday) | Local-first app that maps your accounts from your inbox and helps close old ones. | Lifetime Pro $149 one-time |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/paperweight/) |
 | [ScreenShield](https://sky-blue1111.github.io/screenshield-site/?utm_source=bfdeals-mrs#pricing) | Chrome extension that hides emails, card numbers and API keys while screen sharing. | Lifetime Pro $49 → $29 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/screenshield/) |
 | [Scrub Before Send](https://apps.apple.com/us/app/scrub-before-send/id6807475333) | Finds and removes personal info, faces and GPS data from images before sharing. | $7.99 instead of $12.99 |  |  | [details](https://bf26-deals.pages.dev/deal/scrubbeforesend/) |
@@ -124,14 +117,13 @@
 | [Internxt](https://internxt.com/) | End-to-end encrypted cloud storage. | 87% off, from €1.29/mo, lifetime from €247 |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/internxt/) |
 | [Proton Drive](https://proton.me/drive/pricing) | End-to-end encrypted cloud storage from Proton. | 60% off 12-month plan, $1.99/mo |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/protondrive/) |
 | [Tresorit](https://tresorit.com/) | End-to-end encrypted cloud storage. | Up to 60% off Personal, 50% off Business | `CYBERSALE2026` | Dec 6 | [details](https://bf26-deals.pages.dev/deal/tresorit/) |
-| [Aster Mail](https://astermail.org/) | Privacy-focused encrypted email service. | 50% off first 12 months, from $4.49/mo |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/astermail/) |
+| [Aster Mail](https://astermail.org/) | Privacy-focused encrypted email service. | 50% off first 12 months, from $4.49/mo |  |  | [details](https://bf26-deals.pages.dev/deal/astermail/) |
 | [Photok - Secure Photo Vault](https://photok.app/blog/black-friday-2026/) | Open-source encrypted photo and video vault stored on your device. | 50% off Pro one-time purchase |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/photok/) |
 | [Proton](https://proton.me) | Encrypted email, VPN, password manager and cloud storage. | 50% off 1-year Mail Plus and Unlimited | `BF2026NEW` |  | [details](https://bf26-deals.pages.dev/deal/proton/) |
 | [Proton Mail](https://proton.me/mail/black-friday) | End-to-end encrypted email and calendar based in Switzerland. | 50% off annual plan |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/protonmail/) |
 | [Proton Unlimited](https://proton.me/pricing) | Bundle of Proton Mail, VPN, Drive and Pass with end-to-end encryption. | 50% off 1-year plan, $6.49/mo |  |  | [details](https://bf26-deals.pages.dev/deal/protonunlimited/) |
 | [StartMail](https://startmail.com) | Private encrypted email service. | 50% off annual secure email plans, plus 3 free months |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/startmail/) |
 | [Vault: Photos, Videos & Files](https://apps.apple.com/us/app/vault-photos-videos-files/id6826777976) | Encrypted offline photo and file vault with no ads or tracking. | 50% off Lifetime Pro |  |  | [details](https://bf26-deals.pages.dev/deal/vault/) |
-| [Proton Workspace](https://now.getproton.me/4fqhzkz1ve4y-ojmzz6) | Encrypted email, calendar, drive and VPN for businesses. | 40% off all annual subscriptions |  |  | [details](https://bf26-deals.pages.dev/deal/protonworkspace/) |
 | [SimpleumSafe](https://simpleum.com/en/safe/buy/?utm_source=bf26-trung) | Encrypted vault for private photos and documents on Mac, iPhone and iPad. | 30% off, Mac $99.99 → $69.99 |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/simpleumsafe/) |
 | [Hushmail](https://www.hushmail.com) | HIPAA-compliant encrypted email and forms for healthcare. | 25% off the first year for new customers |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/hushmail/) |
 | [Tuta](https://tuta.com/black-friday) | End-to-end encrypted email and calendar based in Germany. | 12 months free on Revolutionary and Legend plans |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/tuta/) |

@@ -2,13 +2,13 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/websites-e-commerce/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**214 live deals**, 77 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**204 live deals**, 76 with promo codes. Biggest discounts first. Last built 2026-11-26.
 
-- [Website Builders & No-Code](#website-builders--no-code) (31)
-- [WordPress Themes & Plugins](#wordpress-themes--plugins) (134)
+- [Website Builders & No-Code](#website-builders--no-code) (29)
+- [WordPress Themes & Plugins](#wordpress-themes--plugins) (127)
 - [Forms & Surveys](#forms--surveys) (18)
-- [E-commerce & Payments](#e-commerce--payments) (30)
-- [More](#more) (1)
+- [E-commerce & Payments](#e-commerce--payments) (28)
+- [More](#more) (2)
 
 ## Website Builders & No-Code
 
@@ -16,7 +16,6 @@
 |---|---|---|---|---|---|
 | [Dorik](https://dorik.com/) | No-code website builder with AI site generation. | 60% off | `BLACKFRIDAY2026` | Dec 30 | [details](https://bf26-deals.pages.dev/deal/dorik/) |
 | [Leadpages](https://try.leadpages.com/iycxgq5f3u37-pricing) | Landing page and lead capture builder. | Up to 60% off annual plans |  |  | [details](https://bf26-deals.pages.dev/deal/leadpages/) |
-| [Zenfolio](https://zenfolio.com/homepage/?ref=aitoolsfyi) | Portfolio websites and client galleries for photographers. | 60% off first year of annual plans |  | Nov 25 | [details](https://bf26-deals.pages.dev/deal/zenfolio/) |
 | [Directify](https://directify.app/founders?ref=Awesome-Black-Friday-Cyber-Monday) | No-code builder for niche directory websites with paid listings and SEO. | 56% off 2 years of Growth, $1,368 → $599 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/directify/) |
 | [Pixpa](https://www.pixpa.com/?via=blfpixpa55) | No-code website builder for creatives with portfolios, blogs, stores and client galleries. | 55% off annual plans | `BLFPIXPA55` | Dec 31 | [details](https://bf26-deals.pages.dev/deal/pixpa/) |
 | [Squarespace](https://www.squarespace.com/) | Website builder with hosting and online store features. | 55% off select annual plans |  |  | [details](https://bf26-deals.pages.dev/deal/squarespace/) |
@@ -30,7 +29,6 @@
 | [Webflow](https://webflow.com/) | Visual web design and development platform with hosting and CMS. | Up to 50% off annual |  |  | [details](https://bf26-deals.pages.dev/deal/webflow/) |
 | [Wix](https://www.wix.com/lp-en/website-builder) | Website builder with hosting and e-commerce. | Up to 50% off select Premium plans |  |  | [details](https://bf26-deals.pages.dev/deal/wix/) |
 | [ZipWP](https://zipwp.com/black-friday/) | AI WordPress site builder with hosting, domain and email. | Up to 47% off all plans, from $79 |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/zipwp/) |
-| [Carrd](https://carrd.co/) | Builder for simple one-page websites. | 40% off Pro plans, Standard $19 → $11.40/yr | `BF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/carrd/) |
 | [Designmodo Postcards & Slides](https://designmodo.com/black-friday/) | Email template builder and no-code website builder with hosting and HTML export. | Up to 40% off yearly plans, from $90 → $54/yr | `BLACK` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/designmodopostcardsslides/) |
 | [own.page](https://own.page/pricing?utm_source=awesome-bfcm&utm_medium=deal_list&utm_campaign=black_week_2026) | Personal website built from widgets, with digital product sales and services. | 40% off first year of Pro, $79.90 → $47.94 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/ownpage/) |
 | [Systeme.io](https://blackfriday.systeme.io/) | All-in-one funnel builder, email marketing and course platform. | 40% off, Startup $170/yr |  |  | [details](https://bf26-deals.pages.dev/deal/systeme/) |
@@ -62,24 +60,22 @@
 | [Amelia](https://wpamelia.com/pricing/) | Appointment and event booking plugin for WordPress. | Up to 70% off plans |  |  | [details](https://bf26-deals.pages.dev/deal/amelia/) |
 | [Codexpert](https://codexpert.io/) | WooCommerce extensions and WordPress plugins. | Up to 70% off |  |  | [details](https://bf26-deals.pages.dev/deal/codexpert/) |
 | [DiviExpand](https://diviexpand.com/deals/) | Divi modules, WooCommerce builders and layouts bundle. | Up to 70% off the Divi bundle |  |  | [details](https://bf26-deals.pages.dev/deal/diviexpand/) |
-| [Must-Have Plugins](https://musthaveplugins.com/offer/) | Bundle of WordPress plugins for speed, security and site features. | Up to 70% off every plugin |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/musthaveplugins/) |
+| [Must-Have Plugins](https://musthaveplugins.com/offer/) | Bundle of WordPress plugins for speed, security and site features. | Up to 70% off every plugin |  |  | [details](https://bf26-deals.pages.dev/deal/musthaveplugins/) |
 | [PrettyLinks](https://prettylinks.com/pricing/plans/) | WordPress link shortening, tracking and affiliate link plugin. | Up to 70% off the WordPress link tracking plugin | `BF2026` |  | [details](https://bf26-deals.pages.dev/deal/prettylinks/) |
 | [Easy Digital Downloads](https://easydigitaldownloads.com/pricing/) | WordPress plugin to sell digital products and software licenses. | Up to 65% off Pro passes for selling downloads |  |  | [details](https://bf26-deals.pages.dev/deal/easydigitaldownloads/) |
 | [Templately](https://templately.com) | 6,500+ WordPress templates with AI editor and cloud workspace. | PRO up to 64% off |  |  | [details](https://bf26-deals.pages.dev/deal/templately/) |
 | [ArraySubs](https://subscriptionplugin.pro/) | WooCommerce subscriptions and memberships plugin with pause and skip. | 60% off all packages |  |  | [details](https://bf26-deals.pages.dev/deal/arraysubs/) |
 | [Dotstore](https://x.com/thedotstore) | Premium WooCommerce plugins. | 60% off premium WooCommerce plugins | `BFCM2026` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/dotstore/) |
-| [LifterLMS](https://blackfridaydeals.dev/d/lifterlms-2889) | WordPress plugin for building online courses and memberships. | 60% off add-ons and bundles, plus bonuses | `BLACKFRIDAY26` `BFSAVE70` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/lifterlms/) |
+| [LifterLMS](https://lifterlms.com/) | WordPress plugin for building online courses and memberships. | 60% off add-ons and bundles, plus bonuses | `BLACKFRIDAY26` |  | [details](https://bf26-deals.pages.dev/deal/lifterlms/) |
 | [Next3 Offload](https://x.com/Next3Offload) | WordPress plugin to offload media to cloud storage and a CDN. | Up to 60% off |  |  | [details](https://bf26-deals.pages.dev/deal/next3offload/) |
 | [PowerPack for Elementor](https://powerpackelements.com/pricing/) | Widgets and templates for Elementor. | Up to 60% off |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/powerpackforelementor/) |
 | [Reno Product Gallery](https://renoproductgallery.com/pricing/) | WooCommerce product image gallery plugin. | Up to 60% off |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/renoproductgallery/) |
 | [SmartUsername Pro](https://smartusername.com/black-friday/?code=AWESOMEBF10&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | WordPress plugin that renames users and hides login names from public URLs. | 60% off yearly plans, Personal $29 → $12 | `AWESOMEBF10` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/smartusernamepro/) |
 | [ThemeAtelier](https://themeatelier.net/) | Premium WordPress plugins and themes. | 40% off yearly, 60% off lifetime |  | Dec 15 | [details](https://bf26-deals.pages.dev/deal/themeatelier/) |
 | [Thrive Themes](https://thrivethemes.com/) | WordPress themes and conversion-focused plugins. | Up to 60% off |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/thrivethemes/) |
-| [Tyche Softwares](https://www.tychesoftwares.com/premium-woocommerce-plugins/) | Premium WooCommerce plugins. | 45% off plugins, 60% off bundles |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/tychesoftwares/) |
 | [Wholesale Suite](https://wholesalesuiteplugin.com/bundle/) | Wholesale pricing and ordering plugins for WooCommerce. | Up to 60% off unlimited licenses |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/wholesalesuite/) |
 | [WP Rocket](https://wp-rocket.me/) | Caching and performance plugin for WordPress. | 40% off 1 year, 60% off 3 years | `black-friday-3y` | Nov 28 | [details](https://bf26-deals.pages.dev/deal/wprocket/) |
 | [CartFlows](https://cartflows.com/) | WordPress plugin for sales funnels and WooCommerce checkout pages. | Up to 56% off plans from $79/yr, plus free add-ons |  |  | [details](https://bf26-deals.pages.dev/deal/cartflows/) |
-| [Tutor LMS Agency Suite Lifetime Plan](https://tutorlms.com/checkout/457107/) | WordPress LMS plugin suite for agencies. | 55% off lifetime plan, $3,347 → $1,499 |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/tutorlmsagencysuitelifetimeplan/) |
 | [WP Adminify](https://wpadminify.com/pricing/) | WordPress plugin for customizing the admin dashboard. | Up to 55% off yearly plans | `BFCM20` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/wpadminify/) |
 | [WP Spotlight](https://wpspotlight.pro/) | WordPress plugin that adds a quick search command bar to the admin. | 50% to 55% off | `BFCM50` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/wpspotlight/) |
 | [ArchiveMaster](https://archivemaster.pro/pricing/) | WooCommerce plugin that archives old orders to speed up your store. | Up to 50% off, applied automatically |  | Dec 8 | [details](https://bf26-deals.pages.dev/deal/archivemaster/) |
@@ -89,17 +85,14 @@
 | [Crocoblock](https://crocoblock.com/) | JetPlugins suite of dynamic content plugins for Elementor and Gutenberg. | 50% off lifetime at $499.50, up to 40% off bundles | `bfcroco2026` |  | [details](https://bf26-deals.pages.dev/deal/crocoblock/) |
 | [CyberChimps](https://cyberchimps.com/pricing/) | WordPress themes and plugins including the Responsive theme. | 50% off Responsive theme | `BFCM50` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/cyberchimps/) |
 | [FlexOrder](https://wcordersync.com/pricing/) | Syncs WooCommerce orders with Google Sheets. | Up to 50% off |  | Dec 8 | [details](https://bf26-deals.pages.dev/deal/flexorder/) |
-| [FlexTable WordPress plugin](https://wppool.dev/offers/) | WordPress plugin that turns Google Sheets into responsive tables. | Up to 50% off, lifetime from $99 |  |  | [details](https://bf26-deals.pages.dev/deal/flextablewordpressplugin/) |
 | [HasThemes](https://hasthemes.com/wordpress-black-friday-cyber-monday-deals/) | WordPress themes and plugins for Elementor and WooCommerce. | Up to 50% off |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/hasthemes/) |
 | [HiveCRM](https://hiveplugins.com/hivecrm/discount-offer/) | CRM plugin for WordPress. | Up to 50% off |  | Jan 5 | [details](https://bf26-deals.pages.dev/deal/hivecrm/) |
 | [JWSThemes](https://jwsuperthemes.com/black-friday/) | WordPress themes, Flutter apps and service packages. | 50% off all themes, Flutter apps and services | `BLACKFRIDAY2026` | Dec 12 | [details](https://bf26-deals.pages.dev/deal/jwsthemes/) |
-| [Kirki](https://kirki.com/pricing/) | Visual website builder for WordPress. | 50% off all Pro plans |  |  | [details](https://bf26-deals.pages.dev/deal/kirki/) |
 | [KrishaStore](https://www.krishastore.io/black-friday-sale/) | WordPress and WooCommerce admin plugins. | 50% off all paid plugins |  |  | [details](https://bf26-deals.pages.dev/deal/krishastore/) |
 | [Krom](https://wprigel.com/coupons/) | WordPress automation with an MCP server. | Pro up to 50% off |  |  | [details](https://bf26-deals.pages.dev/deal/krom/) |
 | [Legal Pages Pro](http://legalpagespro.com#pricing) | WordPress plugin that generates privacy policies and legal pages. | Up to 50% off all plans, including lifetime |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/legalpagespro/) |
-| [LinkCentral](https://getlinkcentral.com/) | WordPress URL shortener with click and conversion tracking. | 30% off lifetime plans, 50% off yearly |  |  | [details](https://bf26-deals.pages.dev/deal/linkcentral/) |
 | [Master Addons](https://master-addons.com/pricing/) | Widgets and extensions for Elementor. | 50% off every plan | `BFCM50` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/masteraddons/) |
-| [Popup Maker Pro](https://wppopupmaker.com/black-friday-sale-2026/) | WordPress plugin for popups and opt-in forms. | 50% off first year of annual Pro and Pro+ | `PMBFCM26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/popupmakerpro/) |
+| [Popup Maker Pro](https://wppopupmaker.com/) | WordPress plugin for popups and opt-in forms. | 50% off first year of annual Pro and Pro+ | `PMBFCM26` |  | [details](https://bf26-deals.pages.dev/deal/popupmakerpro/) |
 | [Popup Maker Pro and Pro+](https://wppopupmaker.com/black-friday-sale-2026/?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bfcm2026) | WordPress plugin for targeted popups for signups and promotions. | 50% off first year of Pro and Pro+ | `PMBFCM26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/popupmakerproandpro/) |
 | [Product Carousel Slider & Grid Ultimate](https://wpwax.com/product/woocommerce-product-carousel-slider-grid-ultimate-pro) | WooCommerce plugin for product carousels, sliders and grids. | Up to 50% off all plans including lifetime |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/productcarouselslidergridultimate/) |
 | [Rometheme Pro](https://rometheme.net/black-friday/) | Elementor templates and add-ons for WordPress. | Up to 50% off lifetime Elementor templates and add-ons |  |  | [details](https://bf26-deals.pages.dev/deal/romethemepro/) |
@@ -119,7 +112,6 @@
 | [Booster Elite](https://booster.io/buy-booster/) | Bundle of WooCommerce add-ons for store features. | 40% off the first year of annual plans |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/boosterelite/) |
 | [Code Snippets Pro](https://codesnippets.pro/pricing/) | WordPress plugin for managing PHP, JavaScript, CSS and HTML code snippets. | 40% off annual and lifetime plans | `SNIPFRIDAY40` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/codesnippetspro/) |
 | [Elementor Pro](https://elementor.com/) | Drag-and-drop page builder for WordPress. | Up to 40% off Editor Pro and Elementor One |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/elementorpro/) |
-| [FluentBooking Pro](https://fluentbooking.com/discount-deal/) | WordPress appointment booking and scheduling plugin. | Up to 40% off, from $47/yr |  |  | [details](https://bf26-deals.pages.dev/deal/fluentbookingpro/) |
 | [Gaurav Tiwari Plugins and Themes](https://gauravtiwari.org/shop/) | WordPress plugins for forms, support, bookings and tables. | 40% off first payment on every plan | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/gauravtiwaripluginsandthemes/) |
 | [GeoDirectory](https://wpgeodirectory.com/black-friday/) | Directory and listings plugin for WordPress. | 40% off everything |  |  | [details](https://bf26-deals.pages.dev/deal/geodirectory/) |
 | [GetAuthorBox](https://getauthorbox.com/) | WordPress author bio box plugin. | 40% off all paid plans | `BFCM2026` | Dec 11 | [details](https://bf26-deals.pages.dev/deal/getauthorbox/) |
@@ -178,7 +170,6 @@
 | [FuseWP](https://fusewp.com/black-friday-cyber-monday/) | WordPress plugin that syncs users to email marketing and CRM tools. | **Soon.** 20% off |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/fusewp/) |
 | [JCE Pro](https://x.com/jceeditor) | Content editor for Joomla. | 20% off Pro or Agency subscriptions |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/jcepro/) |
 | [Bricksforge](https://x.com/melriks) | Add-on plugin for Bricks Builder. | Lifetime license $199 | `BLACK-FRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/bricksforge/) |
-| [FluentPlayer Pro](https://fluentplayer.com/discount-deal/) | WordPress video and audio player plugin. | Lifetime from $199, one payment |  |  | [details](https://bf26-deals.pages.dev/deal/fluentplayerpro/) |
 | [Gato AI Translations](https://gatoaitranslations.com/black-friday) | AI translation plugin for multilingual WordPress sites. | Lifetime deal, up to $696 off |  |  | [details](https://bf26-deals.pages.dev/deal/gatoaitranslations/) |
 | [MainWP](https://mainwp.com/) | Dashboard for managing many WordPress sites. | **Soon.** Pro $149/yr, $50 off every year for life | `BF2026` | Dec 31 | [details](https://bf26-deals.pages.dev/deal/mainwp/) |
 | [SellKit](https://artbees.net/black-friday-wordpress-deals-artbees) | WooCommerce funnels, order bumps, upsells and smart discounts plugin. | $299 → $149.50 for a lifetime WooCommerce plugin license |  |  | [details](https://bf26-deals.pages.dev/deal/sellkit/) |
@@ -193,7 +184,7 @@
 | [Kali Forms](https://kaliforms.com/pricing/) | Drag-and-drop form builder plugin for WordPress. | 65% off yearly plans, 25% off lifetime | `BF26DSCLTD` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/kaliforms/) |
 | [Jotform](https://link.jotform.com/somi-ai-d4M6BtxDjd) | Drag-and-drop form builder for registrations, orders and payments. | 60% off annual Bronze, Silver and Gold plans |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/jotform/) |
 | [FormGent](https://formgent.com/pricing/) | WordPress form and survey builder. | Up to 55% off |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/formgent/) |
-| [FormNX](https://formnx.com) | No-code form builder plugin for WordPress. | 50% off all plans | `BFCM26` |  | [details](https://bf26-deals.pages.dev/deal/formnx/) |
+| [FormNX](https://formnx.com/) | No-code form builder plugin for WordPress. | 50% off all plans |  |  | [details](https://bf26-deals.pages.dev/deal/formnx/) |
 | [Paperform](https://paperform.co/) | No-code builder for forms, surveys, quizzes and payment pages. | 50% off first 12 months of Pro and Business | `PFBF26` |  | [details](https://bf26-deals.pages.dev/deal/paperform/) |
 | [Woorise](https://woorise.com) | Builder for forms, landing pages, giveaways and contests. | 50% off any plan | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/woorise/) |
 | [forms.app](https://forms.app/en/pricing) | Online form, survey and quiz builder. | Up to 46% off yearly plans | `NOVEMBER2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/forms/) |
@@ -226,25 +217,24 @@
 | [Optinify](https://apps.shopify.com/pop-ups-builder) | Pop-up builder for Shopify stores to capture emails and sales. | 40% off all plans |  | Dec 20 | [details](https://bf26-deals.pages.dev/deal/optinify/) |
 | [Product Feed Manager for WooCommerce](https://rextheme.com/best-woocommerce-product-feed/) | WooCommerce plugin that generates product feeds for shopping channels. | 40% off |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/productfeedmanagerforwoocommerce/) |
 | [Setary](https://x.com/setaryapp) | Bulk editor for WordPress and WooCommerce. | 40% off your first payment | `BULKSAVINGS` |  | [details](https://bf26-deals.pages.dev/deal/setary/) |
-| [SureCart](https://surecart.com/) | WordPress e-commerce plugin for selling products and subscriptions. | 40% off Pro lifetime, $1,999 → $1,199 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/surecart/) |
 | [Helium 10](https://www.helium10.com/) | Product research and management tools for Amazon sellers. | 35% off 2027 Season Pass Diamond plan |  |  | [details](https://bf26-deals.pages.dev/deal/helium10/) |
 | [XFlow](https://foxecom.com/pages/bfcm-2026) | Shopify app from Foxecom for store growth. | 35% off for 3 months |  |  | [details](https://bf26-deals.pages.dev/deal/xflow/) |
 | [ByeDispute](https://byedispute.com) | Stripe tool that cuts chargebacks by stopping disputes before they are filed. | 30% off any plan, from $69 for 10,000 transactions | `November` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/byedispute/) |
 | [Checkout Page](https://checkoutpage.com/black-friday) | Hosted checkout pages and forms for tickets, memberships and donations via Stripe. | 30% off paid plans, Launch $29 → $20.30/mo |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/checkoutpage/) |
 | [FluentCart](https://fluentcart.com) | WordPress e-commerce plugin for physical, digital and subscription products. | 30% off every annual plan |  |  | [details](https://bf26-deals.pages.dev/deal/fluentcart/) |
 | [Vitepos](https://appsbd.com/deals) | WooCommerce point of sale and wholesale plugins. | 30% off appsbd plugins | `BFCM26` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/vitepos/) |
-| [AliDropship](https://get.alidrop.co/coupon) | WordPress plugins for building automated dropshipping stores. | Up to 25% off select plugins | `EXPRESS25` |  | [details](https://bf26-deals.pages.dev/deal/alidropship/) |
+| [AliDropship](https://get.alidrop.co/coupon) | WordPress plugins for building automated dropshipping stores. | Up to 25% off select plugins | `EXPRESS25` `MERCURY15` |  | [details](https://bf26-deals.pages.dev/deal/alidropship/) |
 | [ArbiSource](https://x.com/ArbiSource) | Product sourcing tool for online arbitrage sellers. | 20% off Premium annual, $799.92 or £599.92 | `BF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/arbisource/) |
-| [Growave](https://www.growave.io/bfcm-deals) | Adds loyalty rewards, product reviews and wish lists to Shopify stores. | 20% off Growth at $199 → $159/mo, discount stays |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/growave/) |
+| [Growave](https://www.growave.io/bfcm-deals) | Adds loyalty rewards, product reviews and wish lists to Shopify stores. | 20% off Growth at $199 → $159/mo, discount stays |  |  | [details](https://bf26-deals.pages.dev/deal/growave/) |
 | [SellerAmp](https://selleramp.com) | Amazon product research tool for sellers. | 20% off Pro, first year or first 3 months |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/selleramp/) |
 | [Milo Subscriptions](https://milosubscriptions.com/black-friday) | Bundle of 45 subscription add-ons for online stores. | $99 once for lifetime access before $149/yr pricing |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/milosubscriptions/) |
 | [PointsCard](https://pointscard.app) | Digital loyalty cards, rewards and bookings for small businesses. | $6.99 → $4.99/mo starting price for loyalty card plans |  |  | [details](https://bf26-deals.pages.dev/deal/pointscard/) |
 | [Queryra AI Search](https://queryra.com/blog/black-friday-six-months-free) | AI product search for WooCommerce and Shopify stores. | 6 months of Essential free |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/queryraaisearch/) |
 | [Shopify](https://www.shopify.com/) | Platform for building and running an online store. | $1/month for first 3 months |  |  | [details](https://bf26-deals.pages.dev/deal/shopify/) |
-| [ThriveCart](https://thrivecart.com/) | Shopping cart and checkout pages for digital products. | Lifetime license $495 one-time plus bonuses |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/thrivecart/) |
 
 ## More
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
 | [WP Import Export](https://wpimportexport.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) |  | **Soon.** 100% OFF the first monthly or yearly PRO payment | `FSBFCM2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/wpimportexport/) |
+| [Linguise](https://www.linguise.com/prices/) |  | 30% OFF all new plans, code BLACKLINGUISE (Nov 25 – Dec 1) | `BLACKLINGUISE` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/linguise/) |

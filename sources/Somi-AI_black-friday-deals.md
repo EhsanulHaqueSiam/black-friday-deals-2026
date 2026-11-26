@@ -4,9 +4,9 @@ A verified list of Black Friday and Cyber Monday 2026 deals on AI tools and the 
 
 **Browse, search and filter the list at [somi.ai/black-friday](https://somi.ai/black-friday).**
 
-92 deals · last checked 25 November 2026 · [add yours](#submit-a-deal)
+95 deals · last checked 26 November 2026 · [add yours](#submit-a-deal)
 
-The first 18 deals below were checked by Somi against the vendor's own pricing or sale page. The [community-listed](#community-listed-ai-tools) deals were imported from other open lists and have not been re-checked by us. Dates and codes are shown only when the source gives them.
+The first 21 deals below were checked by Somi against the vendor's own pricing or sale page. The [community-listed](#community-listed-ai-tools) deals were imported from other open lists and have not been re-checked by us. Dates and codes are shown only when the source gives them.
 
 ## Sponsored
 
@@ -17,9 +17,9 @@ The first 18 deals below were checked by Somi against the vendor's own pricing o
 ## Contents
 
 - [Marketing](#marketing) (7)
-- [Creative](#creative) (7)
+- [Creative](#creative) (8)
 - [Websites](#websites) (2)
-- [Productivity](#productivity) (2)
+- [Productivity](#productivity) (4)
 - [Community-listed AI tools](#community-listed-ai-tools) (74)
 
 ## Marketing
@@ -45,6 +45,7 @@ The first 18 deals below were checked by Somi against the vendor's own pricing o
 | [**OpenArt AI**](https://openartai.pxf.io/c/6191520/3106413/38572?utm_source=impact&utm_medium=affiliate&utm_content=link) | AI image and video generation suite with many models in one place. | Up to 40% off your first year on annual plans | Not published |
 | [**ThreeDee Nova**](https://www.threedee.design/) | Turn photos or text prompts into 3D models in your browser. | 30% off one-time credit packs (code: `BLACK30`) | 24 Nov 2026 – 2 Dec 2026 |
 | [**A1**](https://www.a1.gallery/pricing?utm_source=somi&utm_medium=directory&utm_campaign=bf2026) | Gallery of real, live websites for design inspiration, with an MCP server so AI coding tools can pull real sections, fonts and colours. | 33% off A1 Pro yearly: $48 a year instead of $72, kept while you stay subscribed. No code needed. | 19 Nov 2026 – 30 Nov 2026 |
+| [**FireCut**](https://firecut.ai/pricing/all/) | AI video editing plugin for Premiere Pro & DaVinci Resolve. | 50% off new annual plans (Max $29.50/mo vs $59, Pro $17/mo vs $34, billed yearly), no code needed | 25 Nov 2026 – 30 Nov 2026 |
 
 ## Websites
 
@@ -59,6 +60,8 @@ The first 18 deals below were checked by Somi against the vendor's own pricing o
 | --- | --- | --- | --- |
 | [**Jotform**](https://link.jotform.com/somi-ai-d4M6BtxDjd) | Drag-and-drop form builder with AI agents for registrations, orders and payments. | 60% off annual Bronze, Silver and Gold plans | Until 30 Nov 2026 |
 | [**Checkout Page**](https://checkoutpage.com/black-friday) | Build checkout pages, events and forms with AI, or from Claude and ChatGPT through its MCP server. | 30% off every paid plan: first 6 months on monthly billing, or first year on yearly billing. New paid plans only. No code needed. | 23 Nov 2026 – 30 Nov 2026 |
+| [**AtAt**](https://atatapp.com/black-friday) | Call in your own AI anywhere on macOS with @@, plus built-in screenshots, scrolling capture, OCR, clipboard history, selection bar, and voice dictation. | 47% off Lifetime ($89 one-time, reg. $169) or 34% off Yearly first year ($39, then $59/yr), auto-applied at checkout. No code needed. | 24 Nov 2026 – 15 Dec 2026 |
+| [**Screenpipe**](https://screenpipe.com/black-friday?utm_source=somi&utm_medium=deals&utm_campaign=black_friday_2026) | AI that knows everything you've seen, said, or heard: local screen + audio capture turned into searchable memory, skills and workflows for Claude, Codex, Cursor and teams. macOS, Windows, Linux. | 20% off the first year of annual plans: Basic $250 → $200, Business $500 → $400/seat (automatic at checkout, no code) | 25 Nov 2026 – 30 Nov 2026 |
 
 ## Community-listed AI tools
 

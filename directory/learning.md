@@ -2,16 +2,16 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/learning/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**263 live deals**, 99 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**266 live deals**, 104 with promo codes. Biggest discounts first. Last built 2026-11-26.
 
-- [Online Course Platforms](#online-course-platforms) (56)
+- [Online Course Platforms](#online-course-platforms) (54)
 - [Programming & Tech](#programming--tech) (38)
 - [Cybersecurity Certs & Training](#cybersecurity-certs--training) (73)
 - [Cloud & DevOps Certs](#cloud--devops-certs) (11)
-- [Languages](#languages) (25)
+- [Languages](#languages) (24)
 - [Books & Ebooks](#books--ebooks) (32)
 - [Communities & Newsletters](#communities--newsletters) (8)
-- [More](#more) (20)
+- [More](#more) (26)
 
 ## Online Course Platforms
 
@@ -30,13 +30,11 @@
 | [Geneza School](https://x.com/genezaschool) | Online illustration and design courses. | 50% off the Illustration course |  |  | [details](https://bf26-deals.pages.dev/deal/genezaschool/) |
 | [Learn Squared](https://www.learnsquared.com) | Online courses for digital art, games and film. | Up to 50% off digital art courses, more on bundles |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/learnsquared/) |
 | [learningtodj.com](https://school.learningtodj.com?utm_source=github&utm_campaign=blackfriday26) | Online DJ school with house and techno mixing courses and books. | 50% off all courses and books | `BLACKFRIDAY26` |  | [details](https://bf26-deals.pages.dev/deal/learningtodj/) |
-| [MasterClass](https://www.masterclass.com/plans) | Video classes taught by well-known experts. | 50% off annual, $120 → $60/yr |  | Nov 25 | [details](https://bf26-deals.pages.dev/deal/masterclass/) |
 | [Shake Up Learning ALL ACCESS](https://x.com/ShakeUpLearning) | Teacher membership for edtech and AI training. | 50% off the first 3 months, $65 → $32.50, plus a free ebook | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/shakeuplearningallaccess/) |
 | [Teachable](https://teachable.com/) | Platform for creating and selling online courses. | 50% off monthly plans for 2 months, from $44.50/mo |  |  | [details](https://bf26-deals.pages.dev/deal/teachable/) |
-| [Tutor LMS](https://tutorlms.com/pricing/) | WordPress LMS plugin for creating and selling courses. | Up to 50% off Pro |  |  | [details](https://bf26-deals.pages.dev/deal/tutorlms/) |
 | [Ufot Ubon illustration course](https://x.com/UfotUbon) | Vector illustration course. | 50% off | `BLACKFRIDAY` |  | [details](https://bf26-deals.pages.dev/deal/ufotubonillustrationcourse/) |
 | [fxphd](https://www.fxphd.com/blackfriday/) | VFX, compositing and color grading training. | Up to 42% off memberships, 25% off courses |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/fxphd/) |
-| [Coursera](https://coursera.pxf.io/EaYa0n) | Online courses, professional certificates and degrees from universities. | 40% off first year of Plus annual |  |  | [details](https://bf26-deals.pages.dev/deal/coursera/) |
+| [Coursera](https://coursera.pxf.io/EaYa0n) | Online courses, professional certificates and degrees from universities. | 40% off first year of Plus annual |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/coursera/) |
 | [Coursera Plus](https://www.coursera.org/) | All-access subscription to 7,000+ university and industry courses. | 40% off annual, $399 → $239.40/yr |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/courseraplus/) |
 | [Home Boss (Nuria Corbi)](https://x.com/NuriaCorbi) | Courses on children's book creation and self-publishing. | 40% off all courses and digital resources |  |  | [details](https://bf26-deals.pages.dev/deal/homeboss/) |
 | [Insurance Training Center](https://insurancetrainingcenter.com/lp/black-friday/) | Insurance courses and certifications. | 40% off every course and certification | `BLACKFRIDAY40` | Nov 27 | [details](https://bf26-deals.pages.dev/deal/insurancetrainingcenter/) |
@@ -232,7 +230,6 @@
 | [Learn Hot English](https://pocketmags.com/learn-hot-english-magazine) | English learning magazine. | Over 40% off an annual digital subscription |  | Nov 29 | [details](https://bf26-deals.pages.dev/deal/learnhotenglish/) |
 | [Lingoda](https://www.lingoda.com/) | Live online language classes with certified teachers. | Up to 40% off your first month, new students |  | Dec 8 | [details](https://bf26-deals.pages.dev/deal/lingoda/) |
 | [WinkLingo](https://winklingo.com/en/black-friday) | Search movie and YouTube clips by quote to learn how phrases are used. | 40% off annual Pro, $49.99 → $29.99 |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/winklingo/) |
-| [Pimsleur](https://www.pimsleur.com/) | Audio-first language courses focused on speaking. | 35% off single-language courses |  | Nov 25 | [details](https://bf26-deals.pages.dev/deal/pimsleur/) |
 | [Babbel](https://www.babbel.com/prices) | Language learning app with short lessons in over a dozen languages. | Up to 33% off lifetime, all languages |  |  | [details](https://bf26-deals.pages.dev/deal/babbel/) |
 | [Arab Academy](https://x.com/arabacademy) | Online Arabic language courses. | Up to 25% off subscription plans |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/arabacademy/) |
 | [Bilang](https://bilang.org/pricing?utm_source=tonybf) | Language app that turns real situations and documents into speaking and writing practice. | 20% off all plans, from €3.99/mo | `BF26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/bilang/) |
@@ -250,7 +247,7 @@
 | [Helion](https://helion.pl/promocja/2za1/35) | Polish publisher of tech books and ebooks. | 2 for 1 on books or 50% off ebooks | `2za1` |  | [details](https://bf26-deals.pages.dev/deal/helion/) |
 | [Java Interview Bundle](https://javinpaul.gumroad.com/l/sowpfg) | Bundle of Java interview prep guides. | 50% off |  |  | [details](https://bf26-deals.pages.dev/deal/javainterviewbundle/) |
 | [Mia AI X growth book](https://mia-ai.net/book) | Guide to growing an audience on X. | 50% off | `BLACKFRIDAY26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/miaaixgrowthbook/) |
-| [Packt Publishing](https://www.packtpub.com/) | Library of 7,500+ tech ebooks and video courses. | 50% off eBooks |  |  | [details](https://bf26-deals.pages.dev/deal/packtpublishing/) |
+| [Packt Publishing](https://www.packtpub.com/) | Library of 7,500+ tech ebooks and video courses. | 50% off eBooks | `CIPHERS50` |  | [details](https://bf26-deals.pages.dev/deal/packtpublishing/) |
 | [Thomas Norford sci-fi books](https://books2read.com/ap/xqpE7z/Thomas-Norford) | Indie science fiction novels. | 50% off everything |  |  | [details](https://bf26-deals.pages.dev/deal/thomasnorfordscifibooks/) |
 | [Manning](https://www.manning.com/) | Tech books, ebooks and early-access MEAP titles. | 45% off daily deals |  |  | [details](https://bf26-deals.pages.dev/deal/manning/) |
 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/BLACKFRIDAY26) | Guide to writing software technical design documents, with real examples. | 40% off | `BLACKFRIDAY26` |  | [details](https://bf26-deals.pages.dev/deal/apracticalguidetowritingasoftwaretechnicaldesigndocument/) |
@@ -298,7 +295,10 @@
 | [VueSchool](https://vueschool.io/) |  | 87% OFF early bird $149 (reg $1,200), Premium + Mastering Nuxt + Mastering Pinia |  |  | [details](https://bf26-deals.pages.dev/deal/vueschool/) |
 | [The Art of X](https://lifemathmoney.gumroad.com/l/TwitterGuide/BFCM2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 70% OFF ($297 → $89.99) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/theartofx/) |
 | [Mobile Hacking Lab](https://ads.mobilehackinglab.com/bf/deals) |  | Mobile security course bundles from €249, up to 61% off | `DFA500` `WEBKIT60` `IOS999` `BF26KU` `BF26FCA` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/mobilehackinglab/) |
+| [Mochi Type](https://apps.apple.com/us/app/mochi-type-typing-practice/id6766949692?ct=bf26_mrs&mt=12) |  | 54% off Mochi Unlock, the one-time in-app purchase ($12.99 → $5.99) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/mochitype/) |
 | [Cisco U. Store Learning Deals](https://www.cisco.com/site/us/en/learn/training-certifications/learning-deals.html) |  | 40% off Cisco U |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/ciscoustorelearningdeals/) |
+| [Exploring Java Libraries: A Developer's Guide (Volume 1)](https://leanpub.com/java-libraries-guide-1/c/BLACKFRIDAY50) |  | 50% off the ebook ($19.99 → $10.00) | `BLACKFRIDAY50` | Dec 10 | [details](https://bf26-deals.pages.dev/deal/exploringjavalibraries/) |
+| [FreeAppsHub](https://free-apps-hub.pages.dev/) |  | 50% off all paid guides and packs | `BLACKFRIDAY50` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/freeappshub/) |
 | [Live Intentionally](https://lifemathmoney.gumroad.com/l/tough/BFCM2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 50% OFF ($29.99 → $14.99) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/liveintentionally/) |
 | [No-BS Resume Guide](https://lifemathmoney.gumroad.com/l/resume/BFCM2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 50% OFF ($9.99 → $4.99) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/nobsresumeguide/) |
 | [The AI-First Publishing Course](https://lifemathmoney.gumroad.com/l/publishingcourse/BFCM2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 50% OFF ($497 → $247) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/theaifirstpublishingcourse/) |
@@ -310,8 +310,11 @@
 | [Level Effect](https://www.leveleffect.com/pricing) |  | About 17% off the first year of Adventurer ($243.60) or Guardian ($663.60) |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/leveleffect/) |
 | [Altered Security](https://www.alteredsecurity.com/) |  | 20% off all courses and bootcamps, plus an extra 5% when you buy 2 or more items |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/alteredsecurity/) |
 | [13Cubed](https://training.13cubed.com/) |  | $100 off all courses | `BLACKFRIDAY2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/13cubed/) |
+| [Build Your Own Coding Agent ebook](https://leanpub.com/build-your-own-coding-agent/c/BFCM2026) |  | US$15.99 for the ebook | `BFCM2026` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/buildyourowncodingagentebook/) |
+| [Build Your Own Coding Agent written course](https://leanpub.com/c/leanpub/build-your-own-coding-agent/c/BFCM2026) |  | US$79 for the written course | `BFCM2026` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/buildyourowncodingagentwrittencourse/) |
 | [Code With Mosh](https://codewithmosh.com/) |  | Lifetime access $199 (reg $499), single courses also discounted (ends ~Dec 1) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/codewithmosh/) |
 | [Jireh](https://getjireh.com/?ref=bf26-mrs) |  | First year of Jireh Plus Yearly for $14.99 USD, then $29.99 a year | `JIREHBF26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/jireh/) |
 | [Lockabulary](https://arturwitkowski.com/lockabulary/) |  | Lifetime unlock $19.99 $12.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/lockabulary/) |
-| [Mission Infosec](https://devsecopspro/devsecops-pro-bfcm-2026) |  | Free access for 60 days - full course + labs |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/missioninfosec/) |
+| [Mission Infosec](https://devsecopspro.com/devsecops-pro-bfcm-2026) |  | Free access for 60 days - full course + labs |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/missioninfosec/) |
+| [Practical Physical Exploitation (PPE)](https://physicalexploit.com/training/in-person) |  | $1,000 off the in-person Practical Physical Exploitation course ($3,000 → $2,000) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/practicalphysicalexploitation/) |
 | [ReadySetSay](https://apps.apple.com/us/app/readysetsay/id6769089999) |  | Full Access, the other nine games, one-time purchase ($4.99 $1.99) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/readysetsay/) |

@@ -2,30 +2,27 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/business-finance/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**192 live deals**, 86 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**194 live deals**, 89 with promo codes. Biggest discounts first. Last built 2026-11-26.
 
-- [Personal Finance & Investing](#personal-finance--investing) (54)
+- [Personal Finance & Investing](#personal-finance--investing) (51)
 - [Accounting & Invoicing](#accounting--invoicing) (18)
-- [Customer Support & Chat](#customer-support--chat) (28)
-- [Team & Operations](#team--operations) (40)
-- [Startup & Indie Tools](#startup--indie-tools) (24)
+- [Customer Support & Chat](#customer-support--chat) (27)
+- [Team & Operations](#team--operations) (39)
+- [Startup & Indie Tools](#startup--indie-tools) (23)
 - [Legal & Documents](#legal--documents) (15)
-- [More](#more) (13)
+- [More](#more) (21)
 
 ## Personal Finance & Investing
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
-| [Equira Portfolio Tracker](https://apps.apple.com/us/app/equira-portfolio-manager/id6751342549) | iPhone app for tracking an investment portfolio. | Lifetime Plus free for first 100 users, was $99.99 |  |  | [details](https://bf26-deals.pages.dev/deal/equiraportfoliotracker/) |
 | [TotalFigures](https://totalfigures.app/?ref=bf26-awesome) | Private app that tracks net worth and every transaction in one place. | 88% off Premium, lifetime $79.99 → $9.59 |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/totalfigures/) |
 | [TESORIN](https://trytesorin.com) | Spending and net worth tracker without bank linking, with Apple Wallet logging. | 80% off Lifetime Premium |  | Dec 31 | [details](https://bf26-deals.pages.dev/deal/tesorin/) |
 | [TradingView](https://www.tradingview.com/) | Charting and trading platform for stocks, crypto and other markets. | Up to 80% off annual plans plus 1 free month |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/tradingview/) |
 | [Booky](https://escobar.sv/booky/) | Expense tracker that logs Apple Pay purchases automatically, no bank login. | 75% off the first year of Pro | `BOOKY75` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/booky/) |
 | [Meli](https://trymeli.app) | Turns bank alert emails into spending insights and budgets without a bank login. | 75% off the first year | `MACAPPS75` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/meli/) |
 | [OrbySystems](https://orbysystems.ai/offers) | Local financial AI that answers questions from your bank and brokerage statements. | 75% off, Plus $49.95 → $12.49 | `BLACKFRIDAY26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/orbysystems/) |
-| [TipRanks Premium](https://lp.tipranks.com/go-pro-affiliates-50off/?coupon=50TRAD002&im_ref=UCVRutVadxyZRTSSfGxdm2A2UkryObxZMxaUX40&sharedid=&llf=75646&irmpname=JKB%20Online%20Media%20Inc.&irpid=75646&custom18=affiliate&utm_source=impact&utm_medium=affiliate&irgwc=1&afsrc=1) | Stock research with analyst ratings and data. | 50% to 75% off Premium | `50TRAD002` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/tiprankspremium/) |
 | [Par](https://par.sawirstudio.com/black-friday-2026/?utm_source=awesome-bf-2026) | RPN financial calculator for iPhone and iPad with TVM, loans, NPV, IRR and bonds. | 60% off one-time purchase, $4.99 → $1.99 |  | Nov 26 | [details](https://bf26-deals.pages.dev/deal/par/) |
-| [Trade Echo](https://tradeecho.com/) | Trading platform with real-time options flow and dark pool data. | 30% off first year, 60% off first month | `LIFE` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/tradeecho/) |
 | [Investing.com Pro](https://www.investing.com/pro/pricing) | Stock research and market data platform. | 55% off InvestingPro |  |  | [details](https://bf26-deals.pages.dev/deal/investingcompro/) |
 | [AlgoLedger](https://www.algoledger.io/signup.html) | Trading journal and performance tracker. | Free month of Starter, 30% off Pro or 50% off Elite annual | `BFSTARTER2026` `BFPRO2026` `BFELITE2026` |  | [details](https://bf26-deals.pages.dev/deal/algoledger/) |
 | [Cashculator](https://cashculator.app) | Personal budgeting app for planning and tracking where money goes. | 50% off lifetime, $130 → $65 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/cashculator/) |
@@ -87,11 +84,11 @@
 | [Evinco business software](https://www.evinco-software.com/eng/) | Billing, cheque printing and receipt software for small businesses. | 30% off lifetime business software licenses |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/evincobusinesssoftware/) |
 | [Odie](https://apps.apple.com/app/id6804490803) | Automatic iPhone mileage log that keeps trips on the device. | 30% off first year of Pro | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/odie/) |
 | [Paperkeep](https://paperkeep.be/pro.html) | Browser extension that downloads and renames your SaaS invoices. | 30% off first year of Pro, €39 → €27.30 | `PAPERKEEP30` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/paperkeep/) |
-| [Invoicera](https://www.invoicera.com/) | Online invoicing and billing automation. | 25% off | `INVBF25` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/invoicera/) |
 | [Receiptmakerly](https://receiptmakerly.com/cyber-monday-deal) | Online receipt generator with templates. | 20% off monthly and yearly plans, recurring | `RMCM20` | Dec 20 | [details](https://bf26-deals.pages.dev/deal/receiptmakerly/) |
 | [Dext](https://join.dext.com/coupon) | Extracts receipt and invoice data for bookkeeping. | 15% off for 12 months |  |  | [details](https://bf26-deals.pages.dev/deal/dext/) |
 | [Bank Statements CSV](https://bankstatementscsv.com/) | Converts PDF bank statements, including scans, into clean CSV files. | 10% off your first 10 conversions, from $1 each | `BLACKFRIDAY26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/bankstatementscsv/) |
 | [Card Statement CSV](https://cardstatementcsv.com/) | Converts PDF credit card statements into CSV for bookkeeping and budgeting apps. | 10% off your first 10 file conversions | `BLACKFRIDAY26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/cardstatementcsv/) |
+| [BILL](https://referral.bill.com/promo) | Accounts payable, receivable and spend automation for businesses. | Spend $500, get $500 bonus on a new BILL corporate card |  |  | [details](https://bf26-deals.pages.dev/deal/bill/) |
 | [Larderly full menu costing](https://bardachtechnologies.gumroad.com/l/larderly-full-menu-costing) | Done-for-you restaurant menu costing in a spreadsheet with plate cost and food cost percent. | Full menu costing $79 → $49 | `BLACKFRIDAY49` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/larderlyfullmenucosting/) |
 
 ## Customer Support & Chat
@@ -99,11 +96,10 @@
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
 | [Tidio](https://affiliate.tidio.com/black-friday) | Live chat with the Lyro AI support agent. | AI agent for $1, 99% off AI costs for 2 months |  |  | [details](https://bf26-deals.pages.dev/deal/tidio/) |
-| [NiroHelp](https://nirohelp.com/pricing/) | AI order support plugin for WooCommerce stores. | Up to 70% off |  |  | [details](https://bf26-deals.pages.dev/deal/nirohelp/) |
 | [NoForm AI](https://noform.ai/) | AI website assistant that qualifies leads and answers visitors. | 70% off first month, now $29 | `BF2026NOFORM` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/noformai/) |
 | [HeroThemes](https://herothemes.com/) | WordPress help desk inbox and knowledge base plugins. | Up to 60% off inbox and knowledge base plugins |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/herothemes/) |
 | [CloudTalk](https://www.cloudtalk.io/black-friday-deal/) | Cloud call center and business phone software. | 50% off your first month | `BLACKFRIDAYDEAL50` | Dec 20 | [details](https://bf26-deals.pages.dev/deal/cloudtalk/) |
-| [Landbot](https://landbot.io/) | No-code chatbot builder for websites and messaging apps. | 50% off annual chatbot plans, $45 → $22.50/mo |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/landbot/) |
+| [Landbot](https://get.landbotlab.com/06nxjsewp38c) | No-code chatbot builder for websites and messaging apps. | 50% off annual chatbot plans, $45 → $22.50/mo |  |  | [details](https://bf26-deals.pages.dev/deal/landbot/) |
 | [HelpCrunch](https://helpcrunch.com/) | Live chat, help desk and email for customer support. | 40% off annual plan or 25% off first payment | `BFCM2026` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/helpcrunch/) |
 | [Knowlith](https://knowlith.com/) | Product support hub with knowledge base, AI widget and roadmap. | 40% off any plan, first year |  | Dec 31 | [details](https://bf26-deals.pages.dev/deal/knowlith/) |
 | [Nivon](https://nivon.ai/pricing) | No-code AI support chatbot trained on your site and docs, with human handoff. | 40% off all plans, kept on renewal | `BLFCM2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/nivon/) |
@@ -140,7 +136,7 @@
 | [Bitfocus Buttons](https://bfoc.us/mqjs34e6rc) | Control and automation software for live production. | 50% off new annual plans, every year while active |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/bitfocusbuttons/) |
 | [Dar Templates](https://darjob.myshopify.com/collections/all?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Ready-made Excel workbooks for running property, rental, contractor and other small businesses. | 50% off one-time purchase | `BF50` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/dartemplates/) |
 | [Hostaway](https://www.hostaway.com) | Vacation rental management software. | Up to 50% off, more listings save more |  |  | [details](https://bf26-deals.pages.dev/deal/hostaway/) |
-| [Hostify](https://hostify.com/black-friday-2026) | Vacation rental property management software. | 50% off your first 3 months |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/hostify/) |
+| [Hostify](https://hostify.com/black-friday-2026) | Vacation rental property management software. | 50% off your first 3 months |  |  | [details](https://bf26-deals.pages.dev/deal/hostify/) |
 | [Kira-AI](https://getkira.com/black-friday?promo=BF-DIRECTORY&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI recruiter that voice-interviews every applicant and reports quoted evidence. | 50% off for 12 months, from $149 → $74/mo | `BF-DIRECTORY` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/kiraai/) |
 | [LiveWebinar](https://www.livewebinar.com/pricing) | Browser-based webinar and video meeting platform. | 50% off monthly plans, 30% off yearly | `BF2026M` `BF2026Y` |  | [details](https://bf26-deals.pages.dev/deal/livewebinar/) |
 | [MotionOps](https://www.motionops.com/black-friday?utm_source=black-friday-deals-mrs&utm_medium=deal_listing&utm_campaign=bfcm_2026) | Field service software for contractors with proposals, scheduling, job costing and invoicing. | 50% off for 6 months, from $29.50/mo |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/motionops/) |
@@ -165,7 +161,6 @@
 | [Baserow](https://baserow.io) | Open-source no-code database, an alternative to Airtable. | Free self-hosted |  |  | [details](https://bf26-deals.pages.dev/deal/baserow/) |
 | [David Nix job boards Premium](https://x.com/david_nix) | Job boards for tech and trades with an AI search assistant. | Lifetime Premium $99, first 50 at $49.50 | `BF26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/davidnixjobboardspremium/) |
 | [EquipRoute](https://equiproute.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Consignment software for used equipment dealers, from intake and storage to delivery. | 1 month free for up to 5 users | `BLACKFRIDAY26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/equiproute/) |
-| [Eventerprise](https://eventerprise.ai/founders) | AI event management and ticketing platform. | One year for $249, paid once |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/eventerprise/) |
 | [InventoryQuick](https://inventoryquick.com/black-friday?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bf2026) | Inventory tracking for small businesses with stock levels, orders and tool check-out. | $91 off first year of Pro, $490 → $399 | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/inventoryquick/) |
 | [LiquidationRoute](https://liquidationroute.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Warehouse software for liquidation auction operators: manifests, grading, lots and pickups. | 1 month free for up to 5 users | `BLACKFRIDAY26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/liquidationroute/) |
 | [Sincron HR](https://na.sincronhr.com/contact/) | HR compliance and credential tracking software. | Go Live fee $1,799 → $450 after a free trial |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/sincronhr/) |
@@ -195,7 +190,6 @@
 | [Side Projects Making MRR](https://niftydigits.gumroad.com/l/side-projects/BF2026) | Notion database of profitable side projects shared on Hacker News. | 30% off lifetime access | `BF2026` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/sideprojectsmakingmrr/) |
 | [Smol Launch](https://x.com/smollaunch) | Launch platform for indie apps. | 30% off all app launch listings | `BLACKFRIDAY30` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/smollaunch/) |
 | [Upwip](https://upwip.com/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Customer feedback, public roadmaps and changelogs for founders. | 30% off all plans, lifetime from $69.30 | `BF2026` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/upwip/) |
-| [LandingBoost](https://www.betterlaunch.co/product/landing-boost) | Product launch listing on the Better Launch platform. | 20% off lifetime, $99 → $79 | `BF26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/landingboost/) |
 | [App14](https://app14.appetite.studio/black-friday) | UK studio that designs, builds and submits a custom iOS and Android app in 14 days. | Starter app £3,999 → £999, Advanced £6,999 → £1,999 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/app14/) |
 | [Findly.tools](http://findly.tools/pricing) | Tool directory with listings and directory submission service. | Premium listing $29 → $19, review $79 → $49 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/findlytools/) |
 | [StackKite](https://stackkite.com/pricing) | SaaS tool with monthly plans. | First 2 months free on monthly plans | `KITE2FREE` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/stackkite/) |
@@ -227,13 +221,21 @@
 |---|---|---|---|---|---|
 | [Two Minute Billing](https://twominutebilling.com/pricing?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bf2026) |  | 60% OFF the first year of any yearly plan (compared with paying monthly), no code… |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/twominutebilling/) |
 | [Client Tracker Spreadsheet](https://bigshadex.itch.io/client-tracker) |  | 50% off: US$12.99 → $6.49, one-time purchase |  | Dec 13 | [details](https://bf26-deals.pages.dev/deal/clienttrackerspreadsheet/) |
+| [fynk](https://fynk.com/en/black-week/) |  | 50% OFF any plan for the first 12 months with code BL4CKWEEK: Essential €19 → €9.50,… | `BL4CKWEEK` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/fynk/) |
+| [Thastock](https://thastock.com/black-friday?utm_source=awesome-bf-2026) |  | $5/month for life on Pro instead of $9 (44% OFF), no code needed |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/thastock/) |
 | [BoxAudit](https://getboxaudit.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 41% OFF one-time 90-day box audit ($49 → $29) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/boxaudit/) |
+| [Cogitas](https://cogitas.ai/en/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 40% OFF the first billing period of new subscriptions (first year on annual, first… | `BLACKFRIDAY40` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/cogitas/) |
 | [Gojiberry.ai](https://gojiberry.ai/?utm_source=github&utm_medium=trungdq88&utm_campaign=bf2026) |  | 40% OFF the first year no code needed |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/gojiberry/) |
 | [Guidejar](https://www.guidejar.com?ref=tonybf) |  | 40% OFF on all plans with code BFCM26, Nov 24 - Dec 2, 2026 | `BFCM26` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/guidejar/) |
 | [LiveAgent](https://www.liveagent.com/pricing/) |  | 40% OFF the first year of annual billing with code BLACKFRIDAY40Y (Team $29… | `BLACKFRIDAY40Y` `BLACKFRIDAY33M` | Dec 15 | [details](https://bf26-deals.pages.dev/deal/liveagent/) |
+| [Turbobulls](https://www.turbobulls.com/pricing?ref=Awesome-Black-Friday-Cyber-Monday) |  | 40% OFF the first year of a new yearly subscription with code BLACKFRIDAY2026: Turbo… | `BLACKFRIDAY2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/turbobulls/) |
 | [Wassenger](https://wassenger.com/black-friday?utm_source=tonybf&utm_medium=deal-list&utm_campaign=blackfriday2026) |  | 40% OFF the first 6 months of any monthly plan with code BLACKFRIDAY40: Professional… | `BLACKFRIDAY40` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/wassenger/) |
+| [Fundalyze](https://fundalyze.ai/blackfriday) |  | 35% OFF forever Monthly/Annual ($49.99 → $32.49/mo, $499.99 → $324.99/yr) with code… | `BF2026` `BFLTD1000` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/fundalyze/) |
 | [Produktly](https://produktly.com) |  | 35% OFF all plans with code BF2026 | `BF2026` | Nov 29 | [details](https://bf26-deals.pages.dev/deal/produktly/) |
+| [SecDim](https://secdim.com/pricing) |  | 35% OFF Professional ($239.88 → $155.92/yr) with code APPSECONABUDGET2026 | `APPSECONABUDGET2026` `APPSECTEAM2026` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/secdim/) |
 | [Autentique](https://www.autentique.com.br/en) |  | 30% OFF the annual Professional plan ($179 → $119/year), no code needed | `BFF61H8` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/autentique/) |
+| [Capitally](https://www.mycapitally.com/?ref=bf-trung&discount=BLACK26) |  | 30% OFF yearly and 5-year Navigator and Captain plans with code BLACK26: Navigator €150… | `BLACK26` | Dec 7 | [details](https://bf26-deals.pages.dev/deal/capitally/) |
+| [BrassWell](https://brasswell.app/black-friday) |  | 25% OFF the first year of Pro yearly with code BLACKFRIDAY25: $299 $224.25 | `BLACKFRIDAY25` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/brasswell/) |
 | [EarlyLore](https://earlylore.com/pricing) |  | 25% OFF Annual (Year 1): Pro $144 $108/yr ($9/mo), Max $384 $288/yr ($24/mo) | `BF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/earlylore/) |
 | [Rouliva](https://appsumo.com/products/rouliva/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 10% OFF lifetime for one user ($46 → $41.40) on AppSumo |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/rouliva/) |
 | [Revenue Bear](https://apps.apple.com/us/app/revenue-bear/id6788975042) |  | Revenue Bear Pro, one-time $5.99 $2.99 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/revenuebear/) |

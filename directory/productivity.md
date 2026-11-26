@@ -2,16 +2,16 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/productivity/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**263 live deals**, 103 with promo codes. Biggest discounts first. Last built 2026-11-25.
+**285 live deals**, 125 with promo codes. Biggest discounts first. Last built 2026-11-26.
 
-- [Notes & Writing](#notes--writing) (41)
+- [Notes & Writing](#notes--writing) (40)
 - [Tasks & Projects](#tasks--projects) (36)
 - [Calendar & Time Tracking](#calendar--time-tracking) (24)
 - [Focus & Habits](#focus--habits) (16)
-- [Reading & Knowledge](#reading--knowledge) (21)
-- [Email & Communication](#email--communication) (19)
-- [Documents & PDFs](#documents--pdfs) (24)
-- [More](#more) (82)
+- [Reading & Knowledge](#reading--knowledge) (20)
+- [Email & Communication](#email--communication) (18)
+- [Documents & PDFs](#documents--pdfs) (22)
+- [More](#more) (109)
 
 ## Notes & Writing
 
@@ -27,7 +27,6 @@
 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | Private journal with Markdown, photos, places, moods and workouts, synced via iCloud. | 50% off Premium, lifetime $59.99 → $29.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/everlogjournal/) |
 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes kept in the Mac menu bar. | 50% off, $7.99 → $3.99 |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/fivenotes/) |
 | [LifeHQ (Mike Schmitz)](https://x.com/MikeSchmitz) | Done-for-you Obsidian vault and PKM courses. | **Soon.** $197 → $97 for the vault, $497 → $247 for the cohort |  |  | [details](https://bf26-deals.pages.dev/deal/lifehq/) |
-| [Mote](https://www.promies.net/promotion/75f90a8c-b1ff-4af9-81ce-73b98fb392a1) | Single-note app that puts a note on the lock screen. | 50% off lifetime, $9.99 → $4.99 |  |  | [details](https://bf26-deals.pages.dev/deal/mote/) |
 | [Noteline](https://noteline.io/pricing) | Markdown editor using plain .md files, with offline Word and PDF export. | 50% off one-time license, $9.99 → $4.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/noteline/) |
 | [Oneline](https://apps.apple.com/app/id6758101912) | One-line-a-day diary with yearly rewind and a map of your days. | 50% off yearly and lifetime | `BF2026` `BF2026LIFE` | Dec 8 | [details](https://bf26-deals.pages.dev/deal/oneline/) |
 | [Remember Journal](https://apps.apple.com/us/app/remember-journal/id6786695318) | Daily photo journal for iPhone: one photo and one sentence a day on a calendar. | 50% off first year, $40 → $19.99 | `BF2026` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/rememberjournal/) |
@@ -154,13 +153,12 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
-| [LifeFeed Pro](https://apps.apple.com/app/lifefeed-ai-smart-bookmarks/id6760368438?pt=128514437&ct=reddit_iosapps&mt=8) | Save links, videos, PDFs and screenshots and find them with AI search. | 85% off first year, $2.99 then $19.99/yr |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/lifefeedpro/) |
 | [RSSTube](https://apps.apple.com/app/apple-store/id6828141995?pt=119343303&ct=bf26-trungdq88&mt=8) | Follow YouTube channels by RSS on iPhone and iPad, with no algorithm or account. | 64% off Premium lifetime, $24.99 → $8.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/rsstube/) |
 | [Apricity](https://trytesorin.com/apricity/) | Ebook reader with a notebook per book and offline natural voice read-aloud. | 50% off Lifetime Premium |  | Dec 30 | [details](https://bf26-deals.pages.dev/deal/apricity/) |
 | [Daily Reader](https://dailyreaderapp.com/) | Reading app that delivers daily book passages. | 50% off the annual Plus reading plan | `READER50Y` |  | [details](https://bf26-deals.pages.dev/deal/dailyreader/) |
 | [LociMark](https://apps.apple.com/app/id6808972699?utm_source=mrsbf) | Local-first bookmark manager for Mac. | 50% off lifetime unlock |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/locimark/) |
 | [Madomi Reader](https://x.com/PawakaLabs) | Reader app for Android and iOS. | 50% off the lifetime in-app reading unlock |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/madomireader/) |
-| [NewsNinja](https://apps.apple.com/us/app/ai-rss-reader-newsninja/id6504148117?platform=vision) | Feed reader for RSS, Reddit, YouTube and more with AI summaries. | 50% off the one-time purchase |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/newsninja/) |
+| [NewsNinja](https://apps.apple.com/us/app/ai-rss-reader-newsninja/id6504148117?platform=vision) | Feed reader for RSS, Reddit, YouTube and more with AI summaries. | 50% off the one-time purchase |  |  | [details](https://bf26-deals.pages.dev/deal/newsninja/) |
 | [Shiori](https://shioriapp.io) | Bookmark manager with tags and folders for Mac, web and Chrome. | 50% off all lifetime licenses | `BLACK2026FRIDAY50` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/shiori/) |
 | [Sponge](https://sponge.computer/pricing) | Local-first read-later library for articles and PDFs with highlights and Markdown export. | 50% off Plus for 12 months, $5 → $2.50/mo | `SPONGEBF26` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/sponge/) |
 | [OnlyText](https://studiojin.dev/) | Reader for TXT, EPUB, PDF and comics across iPhone, iPad and Mac. | About 43% off, now $4 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/onlytext/) |
@@ -193,19 +191,16 @@
 | [MySignature](https://mysignature.io/) | Email signature generator and manager. | **Soon.** 30% off first payment on yearly plans | `BFW2027` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/mysignature/) |
 | [Talanoa](https://talanoa.email) | Mac email app with chat-style threads, to-dos, calendar and on-device AI. | 30% off Basic and Pro | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/talanoa/) |
 | [RenameMail](https://renamemail.com/) | Chrome extension to rename, bold and color-code Gmail subject lines locally. | 25% off Lifetime Pro |  |  | [details](https://bf26-deals.pages.dev/deal/renamemail/) |
-| [Slack](https://slack.com/promo/partner) | Team chat and messaging workspace. | 25% off first 12 months of upgrades |  |  | [details](https://bf26-deals.pages.dev/deal/slack/) |
+| [Slack](https://slack.com/promo/partner?ref=aitoolsfyi) | Team chat and messaging workspace. | 25% off first 12 months of upgrades |  |  | [details](https://bf26-deals.pages.dev/deal/slack/) |
 | [Fyxer](https://partners.fyxer.com/bergside) | AI assistant that sorts your inbox, drafts replies and takes meeting notes. | 14 days free, then 20% off for 3 months |  |  | [details](https://bf26-deals.pages.dev/deal/fyxer/) |
 | [Presend](https://getpresend.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Checks emails and messages before sending for leaked data, wrong recipients and AI tone. | 20% off all paid plans | `BF20` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/presend/) |
 | [Roost](https://roostmail.app/black-friday) | Keyboard-first Mac mail app for managing many inboxes in one window. | Lifetime license $29 → $25 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/roost/) |
-| [Briskmail](https://briskmail.app) | Native Mac Gmail client built on the Gmail API. | One-time launch price $39 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/briskmail/) |
 | [DuperMail](https://www.dupermail.com/pricing) | Adds Gmail-style shortcuts, snooze, snippets and a command palette to Apple Mail. | Lifetime $39 instead of $59 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/dupermail/) |
 
 ## Documents & PDFs
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
-| [Microsoft Office 2024 Professional Plus for Windows](https://www.stacksocial.com/sales/microsoft-office-2024-professional-plus) | Office suite with Word, Excel, PowerPoint and Outlook. | 84% off lifetime license, $249.99 → $39.97 |  |  | [details](https://bf26-deals.pages.dev/deal/microsoftoffice2024professionalplusforwindows/) |
-| [ScanIQ AI Document Scanner for iOS](https://apps.apple.com/us/app/scaniq-ai-document-scanner/id6773859032) | iPhone document scanner with OCR, PDF editing and signing. | 70% off, $19.99 → $5.99 |  |  | [details](https://bf26-deals.pages.dev/deal/scaniqaidocumentscannerforios/) |
 | [Storydoc](https://www.storydoc.com/) | Builds interactive presentations and sales decks. | 60% off annual, 20% off monthly |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/storydoc/) |
 | [BookletMaker](https://bookletmaker.app/black-friday/) | Turns any PDF into a booklet that prints, folds and staples in the right order. | 50% off lifetime, $49.99 → $24.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/bookletmaker/) |
 | [DoxFlowy](https://x.com/DoxFlowy) | Document workflows with PDF editing and approvals. | 50% off for life on yearly Core and Team |  |  | [details](https://bf26-deals.pages.dev/deal/doxflowy/) |
@@ -233,85 +228,112 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
-| [RemoPad Pro IAP](https://apps.apple.com/app/remopad/id6826538550) |  | 100% off Pro IAP (free) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/remopadproiap/) |
 | [ShiftApp](https://shiftapp.com/black-friday) |  | 88% OFF the first 8 months on new Essential monthly orders | `BLACKFRIDAY2026` | Dec 12 | [details](https://bf26-deals.pages.dev/deal/shiftapp/) |
-| [Pound](https://trypound.app) |  | 80% off |  |  | [details](https://bf26-deals.pages.dev/deal/pound/) |
 | [shepetal](https://shepetal.app/pricing?ref=awesome-bf) |  | 80% OFF the lifetime license with code BLACKFRIDAY: €24 €4.80, one-time purchase. 30… | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/shepetal/) |
 | [InboxShield](https://inbox-checker.appwrite.network/) |  | 78% OFF one-time ($2 instead of $9), no code needed (Nov 22 – Dec 2) |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/inboxshield/) |
 | [InMotion Hosting](https://www.inmotionhosting.com/deals) |  | Official /deals plus product pages (Nov 12): LIVE BF 2026, November 9 through December… | `SAVE50` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/inmotionhosting/) |
+| [QuickScan](https://apps.apple.com/app/id1513790291) |  | 30% to 70% off in-app purchases, depending on country |  |  | [details](https://bf26-deals.pages.dev/deal/quickscan/) |
+| [SpeechCue](https://www.speechcue.pro/black-friday/) |  | 70% OFF Lifetime Pro (one-time purchase): $99.99 $29.99 USD in the US | `SPEECHCUEGLOBAL26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/speechcue/) |
 | [PeekTheDay](https://peektheday.com?ref=mrs) |  | 67% off ($15 → $5) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/peektheday/) |
-| [Tapewind iOS app](https://apps.apple.com/app/id6819736826) |  | 67% off |  |  | [details](https://bf26-deals.pages.dev/deal/tapewindiosapp/) |
-| [AdGuard DNS](https://adguard-dns.io/en/license.html) |  | 65% off Personal, 55% off Team, code BFDNS26 | `BFDNS26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/adguarddns/) |
-| [Disney+ & Hulu Bundle](https://www.disneyplus.com/) |  | Save 61% on With Ads bundle ($4.99/mo, was $12.99) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/disneyhulubundle/) |
+| [AdGuard DNS](https://adguard-dns.io/en/license.html) |  | Official adguard-dns.io/en/license.html (Nov 23): NEW LIVE | `JSON` `BFDNS26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/adguarddns/) |
+| [Astrolinks](https://astrolinks.org/black-friday/) |  | 60% OFF the first year of Pro (Yearly): $90 $36/yr with code BF60YEAR (applied… | `BF60YEAR` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/astrolinks/) |
 | [DailyMate](https://margaritasi.github.io/dailymate-legal/black-friday.html) |  | 60% OFF the first year of Yearly: $24.99 $9.99, then $24.99/year | `DAILYMATEBF26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/dailymate/) |
 | [Until Nxt](https://margaritasi.github.io/until-nxt-legal/black-friday.html) |  | 60% OFF the first year of Yearly: $14.99 $5.99, then $14.99/year | `UNTILNXTBF26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/untilnxt/) |
 | [Recurrr](https://recurrr.com/pricing?utm_source=tonybf) |  | 58% OFF the yearly plan ($108 → $45/year), kept on every renewal |  | Dec 31 | [details](https://bf26-deals.pages.dev/deal/recurrr/) |
-| [Apptorium Black Friday 2026](https://www.apptorium.com/black-friday-2026) |  | Up to 50% off |  |  | [details](https://bf26-deals.pages.dev/deal/apptoriumblackfriday2026/) |
+| [AI Engineer Jobs](https://aiengineerjobs.com/membership?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 50% OFF lifetime Premium membership for job seekers | `BF26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/aiengineerjobs/) |
+| [Allied Healthcare Jobs](https://alliedhealthcarejobs.com/membership) |  | 50% OFF lifetime Premium Membership for job seekers with code BF26, first 50 buyers,… | `BF26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/alliedhealthcarejobs/) |
 | [Baby Monitor: Private Cam](https://apps.apple.com/app/id6785552555?ct=gh-awesome-black-friday-cyber-monday) |  | 50% OFF the first year of Pro yearly on iPhone with code BLACKFRIDAY50 (redeem),… | `BLACKFRIDAY50` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/babymonitor/) |
 | [Band·je](https://band.je/) |  | 50% OFF Band·je Unlimited, one-time purchase for Mac, iPhone and iPad: €19.99 €9.99 | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/bandje/) |
 | [bitLight: RAW Photo Editor](https://apps.apple.com/app/id6822924026) |  | 50% off, $29.99 → $14.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/bitlight/) |
 | [bitPDF: PDF Editor & Local OCR](https://apps.apple.com/app/id6822129255) |  | 50% off, $39.99 → $19.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/bitpdf/) |
-| [HBO Max Basic with Ads](https://hbomax.com/product) |  | 50% off (reg. $10.99/mo) |  |  | [details](https://bf26-deals.pages.dev/deal/hbomaxbasicwithads/) |
+| [CSM Jobs](https://csmjobs.com/membership) |  | 50% OFF lifetime Premium Membership for job seekers with code BF26, first 50 buyers,… | `BF26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/csmjobs/) |
+| [DevOps Jobs](https://devopsjobs.com/membership?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 50% OFF lifetime Premium membership for job seekers | `BF26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/devopsjobs/) |
+| [Do Everything](https://doeverything.app/pricing?utm_source=trungdq88&utm_medium=github&utm_campaign=bf26) |  | 50% OFF the first year of PRO, November 24 – December 6, 2026 |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/doeverything/) |
+| [Doppelgänger ATLAS](https://store.physicalexploit.com/products/atlas) |  | 50% off the ATLAS license for one year ($39 → $19.50 for one device, $69 → $34.50 for two) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/doppelgngeratlas/) |
+| [FileBo](https://apps.apple.com/us/app/filebo-recent-files-items/id6785596150?ct=bf26_trung&mt=12) |  | 50% OFF FileBo Unlock, a one-time purchase: $9.99 $4.99, no code needed (Mac App Store… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/filebo/) |
+| [Focusito](https://apps.apple.com/us/app/focusito-lofi-pomodoro-timer/id1473808464?ct=bf26_mrs&mt=12) |  | 50% off the full version, the one-time in-app purchase ($9.99 → $4.99) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/focusito/) |
+| [Fresible Music](https://music.fresible.com/) |  | 50% off |  |  | [details](https://bf26-deals.pages.dev/deal/fresiblemusic/) |
+| [Game Dev Jobs](https://gamedevjobs.com/membership?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 50% OFF lifetime Premium membership for job seekers | `BF26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/gamedevjobs/) |
+| [HVAC Industry Jobs](https://hvacindustryjobs.com/membership) |  | 50% OFF lifetime Premium Membership for job seekers with code BF26, first 50 buyers,… | `BF26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/hvacindustryjobs/) |
+| [KasusKnacker](https://kasusknacker.com) |  | 50% OFF the first year of Premium (yearly plan), November 26–30, 2026 | `BLACKFRIDAY50` | Nov 26 | [details](https://bf26-deals.pages.dev/deal/kasusknacker/) |
 | [KineticSprint Launch Video Code Kit](https://kineticsprint-studio.vercel.app/kit.html) |  | 50% OFF Lifetime ($149 → $79), auto-applied (Nov 24 – Nov 30, 2026) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/kineticsprintlaunchvideocodekit/) |
-| [MailMaven](https://smallcubed.com/pricing) |  | 50% OFF one-time ($75 → $37.50) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/mailmaven/) |
-| [MDash, Markdown to PDF](https://apps.apple.com/app/apple-store/id6792581826?pt=129192922&ct=bf26-mrs&mt=8) |  | 50% off the One-Time Unlock: $39.99 → $19.99 |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/mdashmarkdowntopdf/) |
+| [MailMaven](https://smallcubed.com/pricing) |  | 50% off a new license or a 12-month maintenance extension ($75 → $37.50) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/mailmaven/) |
+| [MDash, Markdown to PDF](https://apps.apple.com/app/apple-store/id6792581826?pt=129192922&ct=bf26-gh-tr&mt=8) |  | 50% OFF the one-time unlock: $39.99 $19.99, no code needed, Nov 25 - Dec 7, 2026. |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/mdashmarkdowntopdf/) |
 | [MoneyPeel](https://moneypeel.com) |  | 50% OFF your first month on every plan, auto-applied at checkout, no code needed, new… |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/moneypeel/) |
+| [My Nurse Shift Planner](https://apps.apple.com/us/app/id6764406102) |  | 50% OFF Yearly and Monthly, no code needed, until November 30, 2026 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/mynurseshiftplanner/) |
+| [My Work Shift Planner](https://apps.apple.com/us/app/id6769349635) |  | 50% OFF Yearly and Monthly, no code needed, until November 30, 2026 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/myworkshiftplanner/) |
 | [Ninja Compress](https://ninjacompress.app/?utm_source=awesome-black-friday&utm_medium=referral&utm_campaign=black-friday-2026) |  | 50% OFF Ninja Pro Lifetime (one-time purchase), no code needed, November 25 – December… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/ninjacompress/) |
 | [Pagi](https://apps.apple.com/app/apple-store/id1586446074?pt=123127751&ct=blackfriday.mariuslandwehr.com&mt=8) |  | 50% off the Lifetime unlock ($9.99 → $4.99) | `INDIEAPPSALES2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/pagi/) |
 | [PaperMac](https://getpaper.sh/mac/) |  | 50% OFF with code BF2026: Pro $39 $19.50, Lifetime $99 $49.50 | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/papermac/) |
+| [PasteNotch](https://pastenotch.com/black-friday) |  | 50% off, paid once ($4.99 → $2.49) | `BLACKFRIDAY50` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/pastenotch/) |
+| [Property Management Jobs](https://propertymanagementjobs.com/membership) |  | 50% OFF lifetime Premium Membership for job seekers with code BF26, first 50 buyers,… | `BF26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/propertymanagementjobs/) |
+| [QuickSnip](https://quicksnip.com/pricing?utm_source=awesome-black-friday&utm_medium=deal-list&utm_campaign=bf2026) |  | 50% OFF the first year of Pro or Team with code BLACKFRIDAY, through Cyber Monday (Nov 30) | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/quicksnip/) |
 | [Sensei](https://cindori.com/sensei) |  | 50% OFF $59 $29.50 one-time (or $14.50 first year), free Sensei 3 upgrade (Apple… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/sensei/) |
-| [Sindre Sorhus Mac apps](https://sindresorhus.com/apps/discounts#black-friday) |  | Up to 50% off |  |  | [details](https://bf26-deals.pages.dev/deal/sindresorhusmacapps/) |
-| [Soro for Sonos iOS app](https://apps.apple.com/us/app/soro-for-sonos/id1550457805) |  | 50% off |  |  | [details](https://bf26-deals.pages.dev/deal/soroforsonosiosapp/) |
 | [Suzume Mail](https://www.yuzool.com/apps/suzume/) |  | 50% OFF the one-time unlock for all devices: $19.99 $9.99 US, no code (App Store price) |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/suzumemail/) |
+| [Switchy](https://getswitchy.app/black-friday) |  | 50% OFF Switchy, one-time purchase, no subscription ($4.99 $2.49), up to 3 Macs, future… | `BLACKFRIDAY50` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/switchy/) |
+| [Sysadmin Jobs](https://sysadminjobs.com/membership?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 50% OFF lifetime Premium membership for job seekers | `BF26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/sysadminjobs/) |
+| [Vernalo: Plant Anywhere](https://vernalo.app/plans) |  | 50% off your first purchase on the web: One-time $49.99 → $24.99, or first year of… | `BLACKFRIDAY50` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/vernalo/) |
 | [Zorga](https://www.organize.io/black-friday/?utm_source=awesome-bf) |  | 50% OFF: Lifetime $99 (was $199) or $49 your first year on Annual, with a 7-day free trial |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/zorga/) |
 | [Kompressor](https://apps.apple.com/app/apple-store/id6468196574?pt=123127751&ct=blackfriday.mariuslandwehr.com&mt=8) |  | 47% off the Lifetime unlock ($14 → $7.49) | `INDIEAPPSALES2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/kompressor/) |
 | [Leapdeck](https://leapdeck.app/?utm_source=dir-bfcm) |  | 45% OFF Leapdeck Pro, one-time purchase ($19.99 $10.99), no code needed, applied… |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/leapdeck/) |
-| [AdBlock Premium](https://getadblock.com/en/premium/) |  | 30% off first year of Premium |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/adblockpremium/) |
+| [AdBlock Premium](https://getadblock.com/en/premium/) |  | Official getadblock.com/en/premium (Nov 24): NEW LIVE |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/adblockpremium/) |
 | [AutoMailSender](https://automailsender.app/black-friday.html?utm_source=Awesome-Black-Friday-Cyber-Monday&utm_medium=deal-list&utm_campaign=bf26) |  | 40% OFF Unlimited (€9.99 → €5.99, one-time purchase), no code needed: the price drops… |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/automailsender/) |
 | [CoreView](https://coreview.acgao.com/personal?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $15 → $9 | `BF26-COREVIEW` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/coreview/) |
+| [Etona: Notes & Ideas](https://etona.app) |  | 40% OFF the first year with code ETONALAUNCH (redeem): Yearly $49.99 $29.99, then… | `ETONALAUNCH` | Dec 7 | [details](https://bf26-deals.pages.dev/deal/etona/) |
 | [FrameFerret](https://frameferret.acgao.com/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $12 → $7.20 | `BF26-FRAMEFERRET` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/frameferret/) |
-| [Homeck Pro](https://homeck.app) |  | 40% off annual and lifetime |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/homeckpro/) |
+| [Homeck for HomeKit](https://homeck.app/black-friday) |  | 40% OFF Homeck Pro, no code needed, November 23 – December 6, 2026 |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/homeckforhomekit/) |
 | [Note](https://apps.apple.com/app/note/id1602765272) |  | 40% OFF One-time purchase: $4.99 $2.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/note/) |
 | [Post Saver](https://apps.apple.com/us/app/post-saver-save-social-posts/id6816399878) |  | 40% OFF Lifetime Pro (regular $17.99), applied automatically on the App Store, no code… |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/postsaver/) |
+| [Rebit Pro](https://rebit.cc/) |  | 40% off the first year of Pro on the web ($8.99 instead of $14.99) with code… | `BLACKFRIDAY40` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/rebitpro/) |
 | [Swept: Photo & Video Cleaner](https://apps.apple.com/app/id6786665535) |  | 40% OFF Swept Pro (one-time in-app purchase), Nov 24 - Dec 1, 2026 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/swept/) |
+| [Caddy Docs](https://apps.apple.com/us/app/caddy-docs/id6802867430?mt=12) |  | 38% OFF the one-time purchase: $21 $12.99 USD on the Mac App Store, no code needed |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/caddydocs/) |
+| [Vergora](https://vergora.ai/activity/blackfridaypromotions?utm_source=dqhieu&utm_medium=github&utm_campaign=bf2026) |  | Up to 36% OFF its rate against the official provider benchmark, auto-applied, no code… |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/vergora/) |
+| [Beagle Security](https://beaglesecurity.com/black-friday-sale) |  | 35% off annual or 20% off monthly plans | `BFCMM26` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/beaglesecurity/) |
 | [Pulsedive](https://pulsedive.com/) |  | 35% OFF first year of Pulsedive Pro annual plans with code BFCM26, valid through… | `BFCM26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/pulsedive/) |
+| [RecapOne](https://recapone.com/blackfriday) |  | 35% OFF forever Monthly/Annual ($9.99 → $6.49/mo, $99.99 → $64.99/yr) with code BF2026,… | `BF2026` `BFLTD` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/recapone/) |
+| [Speakmac](https://www.speakmac.app/buy?utm_source=github_trungdq88&utm_medium=deal_list&utm_campaign=bf2026) |  | 35% OFF one-time licenses: $29 $18.85 (1 Mac) / $39 $25.35 (2 Macs), code BF2026… | `BF2026` | Dec 7 | [details](https://bf26-deals.pages.dev/deal/speakmac/) |
 | [A1](https://www.a1.gallery/pricing?utm_source=mrsbf&utm_medium=directory&utm_campaign=bf2026) |  | 33% off A1 Pro yearly ($72 → $48 a year) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/a1/) |
 | [BetterDisplay](https://betterdisplay.pro/) |  | 33% OFF BetterDisplay Pro (US$21.99 → US$14.73 before tax) with code BFCM2026, Nov 26 -… | `BFCM2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/betterdisplay/) |
 | [Hourbloom: Time Tracker](https://apps.apple.com/app/apple-store/id6822326955?pt=129608947&ct=bf-trungdq88&mt=8) |  | 33% OFF Pro Lifetime, a one-time in-app purchase: $59.99 $39.99 in the Mac App Store… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/hourbloom/) |
-| [Miget](https://miget.com/plans) |  | 33% off for 12 months on a new workspace | `BLACKFRIDAY26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/miget/) |
+| [Jutsu](https://jutsu.ai/cyberweek?ref=Awesome-Black-Friday-Cyber-Monday) |  | 33% OFF annual plans, e.g |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/jutsu/) |
 | [Pizazoo](https://pizazoo.com) |  | Up to 33% OFF Pizazoo Pro (one-time purchase) | `BLACKFRIDAY30` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/pizazoo/) |
+| [RouteX](https://apps.apple.com/app/id6753095851) |  | 33% OFF Lifetime ($14.99 → $9.99 USD), November 26–30, 2026 |  | Nov 26 | [details](https://bf26-deals.pages.dev/deal/routex/) |
+| [Sidekick](https://heysidekick.app/black-friday/?utm_source=awesome-bfcm&utm_medium=directory&utm_campaign=black-friday-2026) |  | 33% OFF Premium, paid once: $9 $6 with code BLACKFRIDAY | `BLACKFRIDAY` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/sidekick/) |
 | [The Cross Stitch Pattern Maker](https://thecrossstitchpatternmaker.com/pricing) |  | 32% off Lifetime Pro: $40.12 once (regular $59) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/thecrossstitchpatternmaker/) |
-| [BookWorm](https://apps.apple.com/app/id6804252010) |  | 31% off |  |  | [details](https://bf26-deals.pages.dev/deal/bookworm/) |
-| [Adblock Plus](https://adblockplus.org/premium) |  | 30% off first year of Premium |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/adblockplus/) |
+| [Adblock Plus](https://adblockplus.org/premium) |  | Official adblockplus.org/premium (Nov 24): NEW LIVE. “Black Friday 30% off your first… |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/adblockplus/) |
 | [BatchShift](https://tidyware.app/batchshift/?utm_source=mrsbf) |  | 30% off: $9 → $6.30, one-time purchase | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/batchshift/) |
 | [Beamly](https://beamly.com) |  | 30% OFF on new annual plans |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/beamly/) |
 | [Bookable](https://www.bookable.de/black-friday/) |  | 30% OFF your first invoice (next invoice for existing subscribers) on Professional or… | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/bookable/) |
+| [Horcrux Email Backup](https://thehorcrux.com/pricing/#black-friday-2026) |  | 30% OFF the Horcrux 5 one-time purchase (US $49.99 → $34.99) with code BLACKFRIDAY2026,… | `BLACKFRIDAY2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/horcruxemailbackup/) |
 | [IconJar 3](https://geticonjar.com) |  | One-time license €69 → €59, and €5 off the first year of the yearly plan |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/iconjar3/) |
 | [InboxPurge](https://www.inboxpurge.com/pricing/?utm_source=tonybf) |  | 30% OFF all plans with code BF2026 | `BF2026` |  | [details](https://bf26-deals.pages.dev/deal/inboxpurge/) |
+| [KillSwitch](https://killswitch.prodigysolutions.tech/?utm_source=tonydinh) |  | 30% OFF perpetual license: Solo $49 $34.30 or Duo $79 $55.30 (pay once, keep forever)… | `BLACKFRIDAY2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/killswitch/) |
 | [Pastelo](https://pastelo.store/?ref=Awesome-Black-Friday-Cyber-Monday) |  | 30% OFF Pro, one-time ($10.99 → $7.69) with code BLACKFRIDAY, until November 30, 2026… | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/pastelo/) |
+| [StickyPeels](https://munyala.pro/stickypeels/pricing) |  | 30% off the first year of Pro Yearly ($6.99 $4.89) | `BLACKFRIDAY30` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/stickypeels/) |
 | [Textlore](https://textlore.app/?ref=mrs-bf) |  | 30% off the one-time license | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/textlore/) |
 | [Udemie](https://www.udemie.study/pricing) |  | 30% OFF annual ($80 → $56) with code BLACKFRIDAY30 and 20% OFF lifetime ($175 → $140)… | `BLACKFRIDAY30` `BLACKFRIDAY20` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/udemie/) |
+| [Valenx Interview Bundle](https://valenx.org/go/bf-bundle?utm_source=github&utm_medium=awesome_list&utm_campaign=bf2026) |  | 30% OFF with code BF30 | `BF30` |  | [details](https://bf26-deals.pages.dev/deal/valenxinterviewbundle/) |
 | [Acquitain Master Evidence-Driven Growth](https://learning.acquitain.com/master-evidence-driven-growth-bf) |  | 27% OFF £397 / $447 (normally £547 / $597), no code needed, free 30-minute 1:1 strategy… |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/acquitainmasterevidencedrivengrowth/) |
 | [DropCue](https://dropcue.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) |  | 25% OFF your first month on any monthly plan with code BLACKFRIDAY25, new customers only | `BLACKFRIDAY25` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/dropcue/) |
 | [FolioSort](https://www.foliosort.app/pricing?utm_source=mrs-bf&utm_medium=deal-list&utm_campaign=bf2026) |  | 25% off the Elite one-time license, €39.99 €29.99 | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/foliosort/) |
 | [GlowLink](https://useglowlink.com/) |  | 25% OFF: All 10 for $149 through Nov 30 (normally $199) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/glowlink/) |
 | [ONTRK](https://ontrk.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) |  | 25% OFF your first month on any monthly plan with code BLACKFRIDAY25, new customers only | `BLACKFRIDAY25` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/ontrk/) |
-| [Social Archiver](https://apps.apple.com/us/app/social-archiver/id6758323634) |  | About 21% off Lifetime Premium |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/socialarchiver/) |
 | [Clino](https://clino.ch/en) |  | 20% OFF the annual plan: CHF 238.80 CHF 191 (instead of 12 × CHF 19.90), no code needed |  | Nov 29 | [details](https://bf26-deals.pages.dev/deal/clino/) |
 | [GlidePrompt](https://apps.microsoft.com/detail/9P5QVX0SN0CL?cid=awesomebf) |  | 20% OFF one-time purchase on the Microsoft Store: $9.99 $7.99, no code needed |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/glideprompt/) |
+| [holoform](https://holoform.cc/pricing?promo=BLACKFRIDAY) |  | 20% off all AI credit packs + 10% extra bonus credits | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/holoform/) |
 | [Knowii Voice AI](https://www.store.dsebastien.net/product/knowii-voice-ai/) |  | 20% OFF with code BLACKFRIDAY2026, Nov 23 - Nov 30, 2026 (23:59 CET) | `BLACKFRIDAY2026` `VAT` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/knowiivoiceai/) |
-| [PocketBar](https://pocketbar.site) |  | 20% off Pro, code POCKETBAR20 | `POCKETBAR20` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/pocketbar/) |
 | [Faxio](https://faxio.app/pricing?utm_source=awesome_bfcm_trungdq88&utm_medium=deal_listing&utm_campaign=black_friday_2026) |  | 10% OFF every web purchase: $2.99 $2.69 per fax (up to 10 pages), $9.99 $8.99 for 5 faxes |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/faxio/) |
 | [Alcove: Tasks & Notes](https://apps.apple.com/app/id6817797913) |  | Alcove Unlock $14.99 until Dec 1 (then $29.99) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/alcove/) |
 | [Cadence](https://apps.apple.com/us/app/cadence-weekly-planner/id6788758180) |  | Mac $19.99 $9.99, iPhone and iPad $9.99 $4.99 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/cadence/) |
-| [Clipy](https://clipy.online/pricing) |  | Pro Annual $49 first year (was $72) |  |  | [details](https://bf26-deals.pages.dev/deal/clipy/) |
 | [DepthField Photo](https://depthfield.photo/?ref=mariuslandwehr&utm_source=mariuslandwehr&utm_medium=deals&utm_campaign=blackfriday) |  | $29 (down from $69) lifetime license |  | Dec 31 | [details](https://bf26-deals.pages.dev/deal/depthfieldphoto/) |
+| [DoMyWork - Workspace with AI Teammates](https://domywork.ai/bf2026/) |  | First 3 months free from signup, every feature, whole team and unlimited agents |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/domywork/) |
 | [Flash Reader](https://apps.apple.com/app/apple-store/id402491178?pt=283056&ct=bf-github&mt=8) |  | Pro Lifetime is half price until December 1: $39.99 in the US, then $79.99 again. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/flashreader/) |
-| [HexOS Lifetime $199 (was $299)](https://hub.hexos.com/store/) |  | Lifetime $100 off, Personal $10 off first year, Home $30 off first year, Professional… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/hexoslifetime199/) |
 | [Hinokoe](https://apps.apple.com/app/id6824444380) |  | Full Version, one-time purchase: $9.99 → $4.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/hinokoe/) |
-| [Koofr 1TB lifetime cloud storage](https://www.stacksocial.com/sales/koofr-cloud-storage-plans-lifetime-subscription-1tb?aid=a-x8krt9c9) |  | Code KOOFR | `KOOFR` |  | [details](https://bf26-deals.pages.dev/deal/koofr1tblifetimecloudstorage/) |
-| [Microsoft Windows 11 Home / Pro Lifetime License](https://www.stacksocial.com/sales/microsoft-windows-11-home-5) |  | $9.47 with code Get25 (lifetime license) | `Get25` |  | [details](https://bf26-deals.pages.dev/deal/microsoftwindows11homeprolifetimelicense/) |
+| [Inky Habits](https://apps.apple.com/app/id6788409678) |  | Free Lifetime unlock scheduled Nov 27–30, 2026 (regular price returns Dec 1, annual… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/inkyhabits/) |
+| [OneFocus](https://apps.apple.com/app/id6790143964) |  | Free Lifetime unlock scheduled Nov 27–30, 2026 (regular price returns Dec 1, annual… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/onefocus/) |
+| [OneScan](https://apps.apple.com/app/id6788495535) |  | Free Lifetime unlock scheduled Nov 27–30, 2026 (regular price returns Dec 1, annual… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/onescan/) |
 | [PageThen](https://pagethen.com/#pricing) |  | $79 lifetime deal, one-time payment with 5GB cloud storage, no code needed |  |  | [details](https://bf26-deals.pages.dev/deal/pagethen/) |
 | [Plastic Prowl](https://plasticprowl.com/black-friday) |  | $20 off the first year of annual plans, code BLACKFRIDAY: Hotel Finder $59.99 $39.99 USD | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/plasticprowl/) |
+| [PuzzleBind](https://puzzlebind.com/black-friday/?utm_source=mrsdeals&utm_medium=list&utm_campaign=bf2026) |  | Pro lifetime $19 $14, one-time payment |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/puzzlebind/) |
 | [Stepfinch](https://stepfinch.app/?utm_source=mrs-bf&utm_campaign=bf2026) |  | Lifetime license $39 → $29, no code needed |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/stepfinch/) |
-| [Twofold](https://twofolddiagrams.com/#pricing) |  | Launch price $19.50 (regular $39), code LAUNCHWEEK | `LAUNCHWEEK` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/twofold/) |
+| [Twofold](https://twofolddiagrams.com/#pricing) |  | Launch price $19.50 | `LAUNCHWEEK` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/twofold/) |
