@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "name": "Context.dev",
+    "url": "https://www.context.dev/pricing",
+    "category": "Developer Tools",
+    "subcategory": "Backend, APIs & Infra",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Web search, scraping and crawling APIs for AI agents and applications.",
+    "headline": "30% off new paid-plan purchases for one year",
+    "deal": "30% off new purchases of paid plans for one year, automatically applied; no code needed. Developer $14/month, normally $20/month. November 27\u2013December 1, 2026.",
+    "codes": [],
+    "ends": "2026-12-01",
+    "source": "https://www.context.dev/pricing",
+    "vendor": true
+  }
+]
