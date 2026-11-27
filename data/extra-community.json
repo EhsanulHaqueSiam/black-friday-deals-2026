@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "name": "AGNT",
+    "url": "https://agnt.gg/pricing",
+    "category": "AI Tools",
+    "subcategory": "Automation & Workflows",
+    "platforms": [
+      "mac",
+      "windows",
+      "linux",
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Desktop AI agent platform for agents and workflows on your computer or the cloud.",
+    "headline": "40% off the first year of yearly plans, $290 → $174",
+    "deal": "40% off the first year of yearly plans: Pro $290 to $174, Team $990 to $594, all customers, until Nov 30, 2026.",
+    "codes": [
+      "BLACKFRIDAY"
+    ],
+    "ends": "2026-11-30",
+    "source": "https://agnt.gg/pricing"
+  }
+]
