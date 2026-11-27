@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/adult-18/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**30 live deals**, 0 with promo codes. Biggest discounts first. Last built 2026-11-26.
+**30 live deals**, 0 with promo codes. Biggest discounts first. Last built 2026-11-27.
 
 - [Adult Sites & Subscriptions](#adult-sites--subscriptions) (9)
 - [Adult Games](#adult-games) (3)

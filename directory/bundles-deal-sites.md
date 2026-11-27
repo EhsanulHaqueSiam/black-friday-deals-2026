@@ -2,10 +2,10 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/bundles-deal-sites/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**8 live deals**, 4 with promo codes. Biggest discounts first. Last built 2026-11-26.
+**10 live deals**, 5 with promo codes. Biggest discounts first. Last built 2026-11-27.
 
 - [Bundles](#bundles) (6)
-- [More](#more) (2)
+- [More](#more) (4)
 
 ## Bundles
 
@@ -23,4 +23,6 @@
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
 | [The Everything Bundle](https://theoddchild.com/product/everything-bundle/) |  | 79% off, $69 CAD (was $330.80) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/theeverythingbundle/) |
+| [Once Upon Your Mac, 12 Mac Apps Bundle](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2026&s=git) |  | 75% off the complete bundle ($239 → $59.99), or 50% off individual apps. | `UN-BLACKFRIDAY-2026` | Dec 10 | [details](https://bf26-deals.pages.dev/deal/onceuponyourmac12macappsbundle/) |
+| [MacMelon Whole Melon](https://macmelon.com/black-friday?utm_source=mrs-bfdeals&utm_medium=github&utm_campaign=bf2026&ref=mrs-bfdeals) |  | 62% off: all 4 apps $49 (regular $129 if bought separately: AccessWatch $12, ART $69,… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/macmelonwholemelon/) |
 | [StoicSoft Bundles](https://stoicsoft.com/pricing) |  | 30% off any bundle, including StoicSoft Complete ($199 → $139.30) | `BFDEALSBUNDLE30` | Nov 29 | [details](https://bf26-deals.pages.dev/deal/stoicsoftbundles/) |

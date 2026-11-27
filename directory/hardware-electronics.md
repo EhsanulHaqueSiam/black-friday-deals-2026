@@ -2,12 +2,12 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/hardware-electronics/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**94 live deals**, 9 with promo codes. Biggest discounts first. Last built 2026-11-26.
+**93 live deals**, 9 with promo codes. Biggest discounts first. Last built 2026-11-27.
 
 - [Phones, Tablets & Computers](#phones-tablets--computers) (9)
 - [Audio](#audio) (11)
 - [Smart Home](#smart-home) (9)
-- [Accessories & Peripherals](#accessories--peripherals) (41)
+- [Accessories & Peripherals](#accessories--peripherals) (40)
 - [Cameras & Drones](#cameras--drones) (7)
 - [Retailer Sales](#retailer-sales) (13)
 - [More](#more) (4)
@@ -61,6 +61,7 @@
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
 | [Razer](https://www.razer.com/campaigns/cyber-weekend) | Gaming peripherals, chairs and Blade laptops. | 20% to 70% off peripherals, chairs and laptops |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/razer/) |
+| [Hak5](https://hak5.org/pages/hacked-november) | Penetration testing hardware such as the WiFi Pineapple and USB Rubber Ducky. | $10 off select products | `H4CK3DN0V26` `HACKEDCOIN` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/hak5/) |
 | [Logitech](https://www.logitech.com/en-us) | Mice, keyboards, webcams and other computer peripherals. | Up to 60% off mice, keyboards and gear |  |  | [details](https://bf26-deals.pages.dev/deal/logitech/) |
 | [Elegoo](https://us.elegoo.com/pages/elegoo-black-friday) | 3D printers, resin and accessories. | Centauri Carbon 2 Combo $369, up to 54% off accessories |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/elegoo/) |
 | [Huion](https://store.huion.com) | Drawing tablets, pen displays and digital writing tools. | Up to 50% off drawing tablets and pen displays |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/huion/) |
@@ -88,10 +89,8 @@
 | [Yubico](https://www.yubico.com/store/2026/black-friday-sale/) | YubiKey hardware security keys for two-factor login. | 15% off security keys, up to 4 keys |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/yubico/) |
 | [Arduino](https://store-usa.arduino.cc/) | Microcontroller boards and IoT kits for electronics projects. | Daily rotating discounts |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/arduino/) |
 | [Bambu Lab](https://us.store.bambulab.com/) | Consumer and prosumer 3D printers and filament. | Discounts on all printers |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/bambulab/) |
-| [Corsair](https://www.corsair.com/) | PC components, gaming peripherals and prebuilt PCs. | Discounts on components, peripherals and prebuilt PCs |  | Nov 26 | [details](https://bf26-deals.pages.dev/deal/corsair/) |
 | [Creality](https://store.creality.com/pages/sale) | 3D printers, filament and accessories. | Daily discounts on 3D printers and accessories |  | Nov 29 | [details](https://bf26-deals.pages.dev/deal/creality/) |
 | [FlexiSpot](https://www.flexispot.com/) | Electric sit-stand desks and office chairs. | $499 → about $300 |  |  | [details](https://bf26-deals.pages.dev/deal/flexispot/) |
-| [Hak5](https://shop.hak5.org/collections/bfcm) | Penetration testing hardware such as the WiFi Pineapple and USB Rubber Ducky. | $10 off select products | `H4K3DNOV24` |  | [details](https://bf26-deals.pages.dev/deal/hak5/) |
 | [Klucze Yubikey](https://www.yubico.com/pl/store/2026/black-friday-sale/) | YubiKey hardware security keys for two-factor login. | Discounts on security keys |  |  | [details](https://bf26-deals.pages.dev/deal/kluczeyubikey/) |
 | [NuPhy Halo IO](https://bit.ly/black_friday_2026_x) | Mechanical keyboards. | Buy one, get one free |  |  | [details](https://bf26-deals.pages.dev/deal/nuphyhaloio/) |
 | [RFOXiA Developer Bundle](https://x.com/RFOXiA1) | Long-range BLE, GNSS and sensor developer hardware bundle. | Developer Bundle $199 → $139.30 | `RFOXIA` |  | [details](https://bf26-deals.pages.dev/deal/rfoxiadeveloperbundle/) |

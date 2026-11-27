@@ -4,9 +4,9 @@ A verified list of Black Friday and Cyber Monday 2026 deals on AI tools and the 
 
 **Browse, search and filter the list at [somi.ai/black-friday](https://somi.ai/black-friday).**
 
-95 deals · last checked 26 November 2026 · [add yours](#submit-a-deal)
+104 deals · last checked 27 November 2026 · [add yours](#submit-a-deal)
 
-The first 21 deals below were checked by Somi against the vendor's own pricing or sale page. The [community-listed](#community-listed-ai-tools) deals were imported from other open lists and have not been re-checked by us. Dates and codes are shown only when the source gives them.
+The first 30 deals below were checked by Somi against the vendor's own pricing or sale page. The [community-listed](#community-listed-ai-tools) deals were imported from other open lists and have not been re-checked by us. Dates and codes are shown only when the source gives them.
 
 ## Sponsored
 
@@ -16,10 +16,10 @@ The first 21 deals below were checked by Somi against the vendor's own pricing o
 
 ## Contents
 
-- [Marketing](#marketing) (7)
-- [Creative](#creative) (8)
-- [Websites](#websites) (2)
-- [Productivity](#productivity) (4)
+- [Marketing](#marketing) (12)
+- [Creative](#creative) (9)
+- [Websites](#websites) (3)
+- [Productivity](#productivity) (6)
 - [Community-listed AI tools](#community-listed-ai-tools) (74)
 
 ## Marketing
@@ -33,6 +33,11 @@ The first 21 deals below were checked by Somi against the vendor's own pricing o
 | [**Mailtea**](https://mailtea.app/pricing?utm_source=somi&utm_medium=deals&utm_campaign=black_friday_2026) | Agent-native email platform: email API, MCP server, newsletter editor and a publication site on one domain. | 3 months free on the Pro 25K plan (code: `BLACKFRIDAY26`). First 100 redemptions. New customers on monthly billing. | 23 Nov 2026 – 30 Nov 2026 |
 | [**BacklinkGenie**](https://backlinkgenie.com/black-friday/?utm_source=somi&utm_medium=deal&utm_campaign=bfcm2026) | AI link-building agent that finds posts where your product belongs, pitches each editor from a managed mailbox, follows up and checks won links stay live. | 30% off monthly or 50% off yearly, on every billing cycle while subscribed, applied at checkout (codes: `BFCM30` / `BFCM50`) | 24 Nov 2026 – 31 Dec 2026 |
 | [**SiteData**](https://sitedata.dev/black-friday) | Research website traffic, SEO keywords, competitor ads and AdSense publisher networks. | 50% off annual plans and 30% off monthly plans, auto-applied at Stripe checkout. The discount continues on renewals while subscribed. No code needed. | 24 Nov 2026 – 30 Nov 2026 (16:00 UTC) |
+| [**Nuelink**](https://nuelink.com/black-friday?utm_source=somi&utm_medium=referral&utm_campaign=bfcm_2026) | Schedules and auto-publishes posts to 12 social platforms from a calendar, automations from your store or blog, or ChatGPT and Claude. | 6 months free on yearly plans ($144 a year instead of $192), or 25% off the first 3 monthly payments. Applied automatically (code: `BFCM26`). | 10 Nov 2026 – 30 Nov 2026 |
+| [**WebinarFlow**](https://webinarflow.studio/black-friday) | Automated on-demand product demo webinars with real-time AI Q&A and instant live video takeover from your phone. | 83% off your first year on Growth ($159, was $950) and Scale ($399, was $2,390) yearly plans. First 100 new customers. No code needed. | 20 Nov 2026 – 1 Dec 2026 |
+| [**SaaS Toolkit**](https://saastoolkit.ai/black-friday?utm_source=somi&utm_medium=deal-directory&utm_campaign=bf2026) | One place to take people from their first visit to paying customer: AI chat, nurture emails and instant team alerts. | 83% off first year: Growth $59 (normally $348) or Business $99 (normally $588) (code: `BF2026`) | 20 Nov 2026 – 1 Dec 2026 |
+| [**PageTest.AI**](https://pagetest.ai/black-friday?utm_source=somi-ai-bf&utm_medium=deal-directory&utm_campaign=bf2026) | AI finds and A/B tests your best headline, CTA and page copy, so the traffic you already have turns into more signups and sales. | 83% off first year (code: `BF2026`): Starter $3,588 → $599, Growth $5,988 → $999. New customers, first 100 buyers. | 20 Nov 2026 – 1 Dec 2026 |
+| [**Atelier Social**](https://ateliersocial.io/black-friday) | AI-first social media studio for multi-brand and agency teams. Write once, AI rewrites per platform, with tag-based routing across 7 platforms and an MCP server. | 83% off your first year (Starter $158/yr from $948, Agency $458/yr from $2,748, Scale $898/yr from $5,388), plus a 30-day free trial. No code needed. | Until 31 Dec 2026 |
 
 ## Creative
 
@@ -46,6 +51,7 @@ The first 21 deals below were checked by Somi against the vendor's own pricing o
 | [**ThreeDee Nova**](https://www.threedee.design/) | Turn photos or text prompts into 3D models in your browser. | 30% off one-time credit packs (code: `BLACK30`) | 24 Nov 2026 – 2 Dec 2026 |
 | [**A1**](https://www.a1.gallery/pricing?utm_source=somi&utm_medium=directory&utm_campaign=bf2026) | Gallery of real, live websites for design inspiration, with an MCP server so AI coding tools can pull real sections, fonts and colours. | 33% off A1 Pro yearly: $48 a year instead of $72, kept while you stay subscribed. No code needed. | 19 Nov 2026 – 30 Nov 2026 |
 | [**FireCut**](https://firecut.ai/pricing/all/) | AI video editing plugin for Premiere Pro & DaVinci Resolve. | 50% off new annual plans (Max $29.50/mo vs $59, Pro $17/mo vs $34, billed yearly), no code needed | 25 Nov 2026 – 30 Nov 2026 |
+| [**Shot Video**](https://shot.video/black-friday) | Multi-angle AI video recorder and auto-editor: record laptop camera, screen and audio, add any phone via QR code with no app install, and let AI auto-edit. | 79% off Creator yearly ($190 → $39/yr). No code needed. | 20 Nov 2026 – 1 Dec 2026 |
 
 ## Websites
 
@@ -53,6 +59,7 @@ The first 21 deals below were checked by Somi against the vendor's own pricing o
 | --- | --- | --- | --- |
 | [**Hostinger**](https://www.hostinger.com/) | Web hosting, domains and an AI website builder. | Up to 85% off hosting plans | Not published |
 | [**Elementor**](https://be.elementor.com/visit/?bta=230287&brand=elementor) | WordPress website builder with AI-assisted design and hosting. | Up to 40% off new purchases and upgrades | 17 Nov 2026 – 1 Dec 2026 |
+| [**Cloudways AI Website Builder**](https://www.cloudways.com/en/ai-website-builder.php) | Builds a complete WordPress or WooCommerce site from one prompt, then lets you edit it with AI, a visual editor or code, and host it on Cloudways. | 80% off the first 2 months on the AI Website Builder and Cloudways hosting: $1.60 per site a month instead of $7.99 for 1–5 sites, down to $1.20 at 21+ sites, then $7.99 per site plus hosting (code: `BFCM802`) | Until 5 Dec 2026 |
 
 ## Productivity
 
@@ -62,6 +69,8 @@ The first 21 deals below were checked by Somi against the vendor's own pricing o
 | [**Checkout Page**](https://checkoutpage.com/black-friday) | Build checkout pages, events and forms with AI, or from Claude and ChatGPT through its MCP server. | 30% off every paid plan: first 6 months on monthly billing, or first year on yearly billing. New paid plans only. No code needed. | 23 Nov 2026 – 30 Nov 2026 |
 | [**AtAt**](https://atatapp.com/black-friday) | Call in your own AI anywhere on macOS with @@, plus built-in screenshots, scrolling capture, OCR, clipboard history, selection bar, and voice dictation. | 47% off Lifetime ($89 one-time, reg. $169) or 34% off Yearly first year ($39, then $59/yr), auto-applied at checkout. No code needed. | 24 Nov 2026 – 15 Dec 2026 |
 | [**Screenpipe**](https://screenpipe.com/black-friday?utm_source=somi&utm_medium=deals&utm_campaign=black_friday_2026) | AI that knows everything you've seen, said, or heard: local screen + audio capture turned into searchable memory, skills and workflows for Claude, Codex, Cursor and teams. macOS, Windows, Linux. | 20% off the first year of annual plans: Basic $250 → $200, Business $500 → $400/seat (automatic at checkout, no code) | 25 Nov 2026 – 30 Nov 2026 |
+| [**Switchy**](https://getswitchy.app/black-friday) | Mac menu bar utility with 31 one-click switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits. macOS 14 or later. | 50% off: $4.99 → $2.49 one-time purchase, up to 3 Macs, future updates included (code: `BLACKFRIDAY50`, pre-filled by the Buy button) | 23 Nov 2026 – 1 Dec 2026 |
+| [**Whizi**](https://whizi.io/pricing/?utm_source=somi&utm_medium=deal-list&utm_campaign=bf2026) | One AI app with GPT, Claude, Gemini, Grok and 280+ other models, plus image and video generation, file chat and research. Web, iOS and Android. | 30% off the first year of any yearly plan: Starter $131.99 → $92.39, Pro $239.99 → $167.99, Powerhouse $419.99 → $293.99 (automatic at checkout, no code) | 24 Nov 2026 – 24 Dec 2026 |
 
 ## Community-listed AI tools
 

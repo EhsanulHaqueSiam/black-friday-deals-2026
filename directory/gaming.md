@@ -2,12 +2,12 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/gaming/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**64 live deals**, 8 with promo codes. Biggest discounts first. Last built 2026-11-26.
+**72 live deals**, 9 with promo codes. Biggest discounts first. Last built 2026-11-27.
 
 - [Game Stores & Sales](#game-stores--sales) (15)
 - [Game Subscriptions](#game-subscriptions) (2)
 - [Games & Apps](#games--apps) (39)
-- [More](#more) (8)
+- [More](#more) (16)
 
 ## Game Stores & Sales
 
@@ -84,11 +84,19 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
+| [Bouncy Fruits: Fruit Merge](https://apps.apple.com/us/app/id6751171271) |  | 50% off Remove Ads: Remove Ads $4.99 → $2.49 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/bouncyfruits/) |
+| [Cyphre: Brain Puzzle Rings](https://apps.apple.com/us/app/id6748257455) |  | 50% off Premium: Premium (no ads, all themes) $4.99 → $2.49 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/cyphre/) |
+| [Neura Rush: Brain Puzzle Games](https://apps.apple.com/us/app/id6746837300) |  | 50% off Unlock All: Unlock All (lifetime) $19.99 → $9.99 | `BLACKWEEK` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/neurarush/) |
+| [Pop Pop Aliens: Reflex Arcade](https://apps.apple.com/us/app/id6748736031) |  | 50% off Premium: Premium $4.99 → $2.49 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/poppopaliens/) |
+| [Pop Pop Fruits: Tap Tap Arcade](https://apps.apple.com/us/app/id6749312011) |  | 50% off Premium: Premium $4.99 → $2.49 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/poppopfruits/) |
+| [Pop Pop Piggies: Animal Puzzle](https://apps.apple.com/us/app/id6748965914) |  | 50% off Premium: Premium $4.99 → $2.49 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/poppoppiggies/) |
 | [One More Chance: Block Puzzle](https://apps.apple.com/app/apple-store/id6820129103?pt=129573320&ct=bf-mrs&mt=8) |  | 40% off Premium, $4.99 → $2.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/onemorechance/) |
 | [Tanks-a-Lot](https://tanks-a-lot.app/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $5 → $3 | `BF26-TANKSALOT` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/tanksalot/) |
 | [Aikui](https://apps.apple.com/app/id6774103289?pt=283056&ct=bf-github&mt=8) |  | Aikui Pro is half price until December 1: $2.49 in the US, then $4.99 again. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/aikui/) |
 | [Kajai](https://apps.apple.com/app/apple-store/id6778381175?pt=283056&ct=bf-github&mt=8) |  | Remove Ads is half price until December 1: $2.49 in the US, then $4.99 again. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/kajai/) |
 | [OneRound](https://apps.apple.com/app/id6793760650) |  | Free Lifetime unlock scheduled Nov 27–30, 2026 (regular price returns Dec 1, annual… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/oneround/) |
+| [Pawlitics: Election Simulator](https://apps.apple.com/app/id6821216840?pt=129529936&ct=github-mrs-bf&mt=8) |  | Full Game $4.99 → $2.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/pawlitics/) |
 | [Plorp](https://apps.apple.com/app/apple-store/id6758669786?pt=283056&ct=bf-github&mt=8) |  | Remove Ads is half price until December 1: $2.49 in the US, then $4.99 again. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/plorp/) |
 | [Simply Spider](https://apps.apple.com/app/apple-store/id6825126894?pt=1709347&mt=8&ct=bf26-mariuslist) |  | $0.99 instead of $2.99, applied automatically on the App Store |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/simplyspider/) |
 | [Simply Sudoku](https://apps.apple.com/app/apple-store/id6826326321?pt=1709347&mt=8&ct=bf26-mariuslist-sudoku) |  | $0.99 instead of $2.99, applied automatically on the App Store |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/simplysudoku/) |
+| [Squishu: Squishy Dumpling Game](https://apps.apple.com/app/id6821216303?pt=129529936&ct=github-mrs-bf&mt=8) |  | Squishu+ $4.99 → $2.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/squishu/) |

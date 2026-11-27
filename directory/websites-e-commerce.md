@@ -2,7 +2,7 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/websites-e-commerce/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**204 live deals**, 76 with promo codes. Biggest discounts first. Last built 2026-11-26.
+**204 live deals**, 77 with promo codes. Biggest discounts first. Last built 2026-11-27.
 
 - [Website Builders & No-Code](#website-builders--no-code) (29)
 - [WordPress Themes & Plugins](#wordpress-themes--plugins) (127)
@@ -22,6 +22,7 @@
 | [Clappia](https://www.clappia.com/black-friday-offer?utm_source=github-tonybf&utm_medium=deal-listing&utm_campaign=bf26) | No-code platform for building business apps for field work, attendance and inspections. | 50% off annual plans for new customers | `BLACKFRD` | Dec 31 | [details](https://bf26-deals.pages.dev/deal/clappia/) |
 | [DJ-Extensions](https://dj-extensions.com/products) | Extensions for Joomla websites. | 50% off | `BFCM2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/djextensions/) |
 | [FluxBuilder](https://FluxBuilder.com/lifetime) | Drag and drop AI app builder for Flutter apps. | 50% off all products incl. lifetime |  |  | [details](https://bf26-deals.pages.dev/deal/fluxbuilder/) |
+| [Framer](https://www.framer.com/black-friday) | Visual website builder for designing and publishing sites. | Double AI credits for the first month on Basic and Pro | `BLACKFRIDAY26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/framer/) |
 | [JoomShaper](https://www.joomshaper.com/pricing) | SP Page Builder, EasyStore and templates for Joomla. | 50% off page builder, online store and template library |  |  | [details](https://bf26-deals.pages.dev/deal/joomshaper/) |
 | [Placester](https://buff.ly/tkhlhd8) | Real estate agent websites and marketing. | 50% off the first year of annual plans |  |  | [details](https://bf26-deals.pages.dev/deal/placester/) |
 | [Sitely 8](https://sitely.app) | Visual and AI website builder for Mac and iPad with MCP support. | 50% off one-time purchase, 30% off subscriptions |  | Dec 8 | [details](https://bf26-deals.pages.dev/deal/sitely8/) |
@@ -42,7 +43,6 @@
 | [Durable](https://durable.com/pricing) | AI website builder with CRM and booking tools for small businesses. | Save 15% with annual billing |  |  | [details](https://bf26-deals.pages.dev/deal/durable/) |
 | [ClickFunnels](https://www.clickfunnels.com/pricing?aff=plans) | Sales funnel and landing page builder. | Scale plan $99 for 3 months |  |  | [details](https://bf26-deals.pages.dev/deal/clickfunnels/) |
 | [Fimo](https://x.com/fimoai) | AI agents that build and maintain your website. | Starter $99 → $59/mo for 3 months | `FIMOFRIDAY26` | Nov 29 | [details](https://bf26-deals.pages.dev/deal/fimo/) |
-| [Framer](https://www.framer.com/pricing) | Visual website builder for designing and publishing sites. | Double AI credits for the first month on Basic and Pro |  |  | [details](https://bf26-deals.pages.dev/deal/framer/) |
 
 ## WordPress Themes & Plugins
 
@@ -236,5 +236,5 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
-| [WP Import Export](https://wpimportexport.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) |  | **Soon.** 100% OFF the first monthly or yearly PRO payment | `FSBFCM2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/wpimportexport/) |
+| [WP Import Export](https://wpimportexport.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) |  | 100% OFF the first monthly or yearly PRO payment | `FSBFCM2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/wpimportexport/) |
 | [Linguise](https://www.linguise.com/prices/) |  | 30% OFF all new plans, code BLACKLINGUISE (Nov 25 – Dec 1) | `BLACKLINGUISE` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/linguise/) |

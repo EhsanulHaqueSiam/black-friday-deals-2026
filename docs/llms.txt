@@ -1,19 +1,19 @@
 # BF26 deals: Black Friday & Cyber Monday 2026 deals directory
 
-> 2964 live Black Friday and Cyber Monday 2026 deals (1204 with promo codes) on software, AI tools, VPNs, hosting, domains, courses, games and hardware. Merged from 28 community deal lists plus web, X and Reddit research, deduplicated, tagged and updated daily. Built 2026-11-26.
+> 3096 live Black Friday and Cyber Monday 2026 deals (1263 with promo codes) on software, AI tools, VPNs, hosting, domains, courses, games and hardware. Merged from 28 community deal lists plus web, X and Reddit research, deduplicated, tagged and updated daily. Built 2026-11-27.
 
 Black Friday 2026 is Friday, November 27. Cyber Monday is Monday, November 30. Prices and codes come from vendors and deal lists; check at checkout.
 
-Updated November 26, 2026. How deals are sourced, checked and ranked: https://bf26-deals.pages.dev/about/
+Updated November 27, 2026. How deals are sourced, checked and ranked: https://bf26-deals.pages.dev/about/
 
 ## Best deal by type (guides with comparison tables)
 - [Best VPN Black Friday Deals 2026](https://bf26-deals.pages.dev/best/vpn/): Proton VPN: 70% off VPN Plus 1-year, $2.99/mo; 22 deals
 - [Best Web Hosting Black Friday Deals 2026](https://bf26-deals.pages.dev/best/web-hosting/): Cloudways: 80% off for 2 months, plus free migrations (code BFCM802), ends Dec 5; 40 deals
-- [Best AI Tools Black Friday Deals 2026](https://bf26-deals.pages.dev/best/ai-tools/): TypingMind: 60% off lifetime Premium (code BLACKFRIDAY2026), ends Dec 15; 268 deals
-- [Best Mac Apps Black Friday Deals 2026](https://bf26-deals.pages.dev/best/mac-apps/): JuxtaCode: 40% off (code BLACKFRIDAY26), ends Dec 1; 519 deals
-- [Best Online Courses Black Friday Deals 2026](https://bf26-deals.pages.dev/best/online-courses/): Zero To Mastery: 66% off annual membership, $588 → $199 (code BFCM26), ends Dec 1; 266 deals
+- [Best AI Tools Black Friday Deals 2026](https://bf26-deals.pages.dev/best/ai-tools/): TypingMind: 60% off lifetime Premium (code BLACKFRIDAY2026), ends Dec 15; 272 deals
+- [Best Mac Apps Black Friday Deals 2026](https://bf26-deals.pages.dev/best/mac-apps/): JuxtaCode: 40% off (code BLACKFRIDAY26), ends Dec 1; 516 deals
+- [Best Online Courses Black Friday Deals 2026](https://bf26-deals.pages.dev/best/online-courses/): Zero To Mastery: 66% off annual membership, $588 → $199 (code BFCM26), ends Dec 1; 271 deals
 - [Best Password Managers Black Friday Deals 2026](https://bf26-deals.pages.dev/best/password-managers/): 1Password: 50% off Individual annual, $2.99/mo first year, ends Nov 30; 8 deals
-- [Best Developer Tools Black Friday Deals 2026](https://bf26-deals.pages.dev/best/developer-tools/): GitKraken: 60% off Pro Git tools and new seats for existing teams (code BLACKFRIDAY2026), ends Nov 27; 181 deals
+- [Best Developer Tools Black Friday Deals 2026](https://bf26-deals.pages.dev/best/developer-tools/): GitKraken: 60% off Pro Git tools and new seats for existing teams (code BLACKFRIDAY2026), ends Nov 27; 195 deals
 - [Best Domains Black Friday Deals 2026](https://bf26-deals.pages.dev/best/domains/): Namecheap: .com $8.98, hosting from $1.31/mo (code THEGAMESTLD26), ends Dec 4; 9 deals
 
 ## Best deal per category

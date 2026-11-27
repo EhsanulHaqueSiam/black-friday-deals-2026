@@ -2,14 +2,14 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/security-privacy/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**97 live deals**, 28 with promo codes. Biggest discounts first. Last built 2026-11-26.
+**99 live deals**, 29 with promo codes. Biggest discounts first. Last built 2026-11-27.
 
 - [VPN](#vpn) (22)
 - [Password Managers](#password-managers) (8)
 - [Antivirus & Security Suites](#antivirus--security-suites) (29)
 - [Privacy & Data Removal](#privacy--data-removal) (20)
 - [Secure Email & Storage](#secure-email--storage) (13)
-- [More](#more) (5)
+- [More](#more) (7)
 
 ## VPN
 
@@ -56,7 +56,7 @@
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
 | [OmniForge Launch Audit Suite](https://zcoldwater.github.io/omniforge-skills/black-friday-2026-developer-security-deal.html) | Pre-launch scanners for security headers, leaked JS secrets, email auth and llms.txt. | 83% off full suite, $29 → $5 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/omniforgelaunchauditsuite/) |
-| [OmniForge Launch Suite](https://omnipulse-x402.appwrite.network/checkout) | Audits for website security, SPF and DMARC email records and llms.txt. | 82% off, suite $29 → $5 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/omniforgelaunchsuite/) |
+| [OmniForge Launch Suite](https://api.shipbastion.com/checkout) | Audits for website security, SPF and DMARC email records and llms.txt. | 82% off, suite $29 → $5 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/omniforgelaunchsuite/) |
 | [Bitdefender](https://www.bitdefender.com/) | Antivirus suite with VPN and password manager. | Up to 78% off, Premium from $12.99 |  |  | [details](https://bf26-deals.pages.dev/deal/bitdefender/) |
 | [Norton 360](https://us.norton.com/products) | Antivirus suite with VPN, password manager and identity protection. | Up to 76% off, from $29.99 first year |  |  | [details](https://bf26-deals.pages.dev/deal/norton360/) |
 | [McAfee](https://www.mcafee.com/) | Antivirus with identity and privacy protection. | Plus Advanced $200 → $60 first year |  |  | [details](https://bf26-deals.pages.dev/deal/mcafee/) |
@@ -133,7 +133,9 @@
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
 | [Scarlet Shark](https://scarletshark.com/promo/cybermonday2026.html?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 100% OFF the Basic plan for 5 months | `cybermonday2026` | Jan 30 | [details](https://bf26-deals.pages.dev/deal/scarletshark/) |
+| [POTASMS: Private SMS Filter](https://apps.apple.com/us/app/id6812990744) |  | 50% off: $1.99 → $0.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/potasms/) |
 | [ShieldFive](https://shieldfive.com/pricing?utm_source=github&utm_medium=listing&utm_campaign=mrs-bf-2026) |  | Up to 50% off the first year of annual plans |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/shieldfive/) |
 | [SpyAlert](https://spyalert.acgao.com/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $10 → $6 | `BF26-SPYALERT` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/spyalert/) |
+| [HOL Guard](https://hol.org/guard) |  | 30% off with code PROTECT-YOUR-AGENT | `PROTECT-YOUR-AGENT` |  | [details](https://bf26-deals.pages.dev/deal/holguard/) |
 | [Mastering Binary Files](https://hackarcana.com/workshop-session/2026-mbf/join) |  | kurs o analizie plików binarnych - z kodem MBF-BLACK-FRIDAY 15% taniej | `MBF-BLACK-FRIDAY` |  | [details](https://bf26-deals.pages.dev/deal/masteringbinaryfiles/) |
 | [Videopoint](https://videopoint.pl/promocja/24963) |  | kursy video - z kodem BLACK każdy kurs 38,90 PLN | `BLACK` |  | [details](https://bf26-deals.pages.dev/deal/videopoint/) |

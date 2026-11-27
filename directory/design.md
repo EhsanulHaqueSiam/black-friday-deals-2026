@@ -2,14 +2,14 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/design/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**156 live deals**, 58 with promo codes. Biggest discounts first. Last built 2026-11-26.
+**162 live deals**, 63 with promo codes. Biggest discounts first. Last built 2026-11-27.
 
 - [UI Kits & Templates](#ui-kits--templates) (46)
 - [Icons, Fonts & Illustrations](#icons-fonts--illustrations) (8)
-- [Design & Prototyping Tools](#design--prototyping-tools) (49)
+- [Design & Prototyping Tools](#design--prototyping-tools) (48)
 - [Mockups & Screenshots](#mockups--screenshots) (6)
 - [Stock Photos, Video & Music](#stock-photos-video--music) (39)
-- [More](#more) (8)
+- [More](#more) (15)
 
 ## UI Kits & Templates
 
@@ -84,7 +84,6 @@
 | [Krumzi](https://www.krumzi.com/pricing) | Web app that turns a one-line prompt into editable flyers, posts and videos. | 60% off first year, Starter $190 → $76 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/krumzi/) |
 | [Mockplus](https://www.mockplus.com/black-friday-deals-2026) | Prototyping and design collaboration tools. | Up to 60% off all products |  |  | [details](https://bf26-deals.pages.dev/deal/mockplus/) |
 | [Adobe Creative Cloud](https://www.adobe.com/) | Suite of creative apps including Photoshop, Illustrator and Premiere Pro. | 57% off All Apps first year, $29.99/mo |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/adobecreativecloud/) |
-| [Clip Studio Paint](https://www.clipstudio.net/en/) | Drawing and painting app for comics, manga and illustration. | 53% off Pro and 30% off EX licenses and subscriptions |  | Nov 26 | [details](https://bf26-deals.pages.dev/deal/clipstudiopaint/) |
 | [1DesignTool](https://1designtool.com/?utm_source=tonybf#pricing) | Local design studio that coding agents drive to make slides, app screens, 3D and brand kits. | 50% off Pro one-time license, $29 → $14.50 | `BFDEALS50` | Nov 29 | [details](https://bf26-deals.pages.dev/deal/1designtool/) |
 | [Atmos](https://atmos.style/?utm_source=twf-nikhila&utm_campaign=bf2026) | Color palette tool that builds accessible UI shades and syncs them to Figma. | 50% off lifetime | `BF2026` | Nov 29 | [details](https://bf26-deals.pages.dev/deal/atmos/) |
 | [Canva Pro](https://www.canva.com/) | Online design tool with templates and AI image generation. | About 50% off the first 3 months |  |  | [details](https://bf26-deals.pages.dev/deal/canvapro/) |
@@ -189,10 +188,17 @@
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
 | [Liniqo](https://liniqo.com/) |  | Up to 70% OFF: Lifetime $79 $39.50, Pro from $11.70, Personal from $5.70 (Auto-applied,… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/liniqo/) |
+| [QuietCraft UI Pro](https://jumpertheme.gumroad.com/l/quietcraft-ui-pro/FIRST50?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 60% OFF for the first 10 buyers ($5 → $2) | `FIRST10` `FIRST50` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/quietcraftuipro/) |
+| [Clipwing](https://clipwing.pro/pricing) |  | 50% OFF the first month of Content factory ($99.99 → $49.99) with code BLACKCLIPS,… | `BLACKCLIPS` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/clipwing/) |
+| [LogoGoGo](https://logogogo.app/) |  | 50% OFF Annual Pro ($190 → $95/yr) & Studio ($490 → $245/yr) with code BF50. | `BF50` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/logogogo/) |
 | [Jiggicons](https://jiggicons.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) |  | Up to 40% OFF lifetime licences (Personal $79 → $49, Team $199 → $129, Business $499 →… |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/jiggicons/) |
+| [Pagecloud](https://www.pagecloud.com/black-friday?utm_source=awesome-bfcm&utm_medium=github&utm_campaign=black-friday-2026) |  | 40% OFF the first year of any annual plan with code BLACKFRIDAY40: Launch $268 $160.80,… | `BLACKFRIDAY40` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/pagecloud/) |
 | [Pixels71](https://www.pixels71.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 40% OFF the All-Access Pass, $59 once (was $99) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/pixels71/) |
+| [Screen Studio](https://screen.studio/) |  | 40% OFF the first year with code BLACKFRIDAY26 | `BLACKFRIDAY26` | Nov 28 | [details](https://bf26-deals.pages.dev/deal/screenstudio/) |
+| [SILVER: Black & White Camera](https://apps.apple.com/app/id6813106996?pt=128535281&ct=bf26-awesome-bfcm) |  | 40% OFF SILVER Pro (one-time purchase): $4.99 $2.99 USD, until December 1, 2026 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/silver/) |
 | [Backdrop](https://cindori.com/backdrop) |  | 30% OFF Lifetime $29.99 $20.99 one-time, no code needed, Nov 24 - Dec 1, 2026 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/backdrop/) |
+| [Control](https://cntrl.site/black-friday-2026?utm_source=awesome-bf-tonydinh&utm_medium=deal-list&utm_campaign=bf2026) |  | 30% OFF the first year of yearly plans: Pro $228 $156, Studio $468 $324 | `PRBF30` `STBF30` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/control/) |
+| [Krevaya](https://krevaya.com/black-friday/) |  | Lifetime deal for the first 100 buyers, one payment: Essentials $199 (regular… |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/krevaya/) |
 | [ThreeDee](https://www.threedee.design/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 30% OFF single 3D models, packs, both lifetime libraries and Nova credits | `BLACK30` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/threedee/) |
-| [TOWeb 15](https://www.lauyan.com/en/pricing/?utm_source=awesome-bfcm&utm_medium=github&utm_campaign=black-friday-2026) |  | 30% OFF every paid edition with code BLACKFRIDAY30: Premium €99 €69.30, e-Commerce €199… | `BLACKFRIDAY30` | Nov 26 | [details](https://bf26-deals.pages.dev/deal/toweb15/) |
 | [GenMagic](https://genmagic.co/black-friday) |  | Up to 20% extra credit on top-ups, no code needed: $25 → $27.50, $50 → $57.50, $100 →… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/genmagic/) |
 | [Mockvid](https://mockvid.com/?utm_source=bf26-trungdq88) |  | 20% OFF Studio, first year: $49 $39.20/yr, Nov 23 - Dec 1, 2026 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/mockvid/) |

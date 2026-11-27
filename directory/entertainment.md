@@ -2,9 +2,9 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/entertainment/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**68 live deals**, 16 with promo codes. Biggest discounts first. Last built 2026-11-26.
+**67 live deals**, 16 with promo codes. Biggest discounts first. Last built 2026-11-27.
 
-- [Streaming Video](#streaming-video) (32)
+- [Streaming Video](#streaming-video) (31)
 - [Music](#music) (19)
 - [Audiobooks & Reading](#audiobooks--reading) (6)
 - [News & Magazines](#news--magazines) (11)
@@ -44,7 +44,6 @@
 | [Shudder](https://www.shudder.com/) | Streaming service for horror, thriller and supernatural films. | $9.99 → $1.99/mo for 2 months via Roku |  |  | [details](https://bf26-deals.pages.dev/deal/shudder/) |
 | [Starz](https://www.starz.com/) | Streaming service for movies and original series. | 12 months $69.99 → $11.99 |  |  | [details](https://bf26-deals.pages.dev/deal/starz/) |
 | [Sundance Now](https://www.sundancenow.com/) | Streaming service for crime dramas, thrillers and indie series. | $0.99/mo for 2 months via Roku |  |  | [details](https://bf26-deals.pages.dev/deal/sundancenow/) |
-| [YouTube TV](https://tv.youtube.com/) | Live TV streaming service with 100+ cable channels and unlimited DVR. | $67.99/mo for 5 months of the base plan, $75 total savings |  | Nov 26 | [details](https://bf26-deals.pages.dev/deal/youtubetv/) |
 
 ## Music
 
@@ -79,7 +78,7 @@
 | [Storytel](https://www.storytel.com/) | Audiobook and ebook streaming subscription popular in Europe. | 50% off for 3 to 6 months, varies by country |  |  | [details](https://bf26-deals.pages.dev/deal/storytel/) |
 | [CocoReader](https://www.cocoreader.cc/black-friday) | Reads your own EPUB books aloud so you can listen to them like audiobooks. | 33% off first year of Pro, $29.99 → $19.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/cocoreader/) |
 | [Audible](https://www.audible.com/) | Audiobook and podcast subscription service. | $0.99/mo for 3 months plus $20 credit |  | Dec 28 | [details](https://bf26-deals.pages.dev/deal/audible/) |
-| [Kindle](https://www.amazon.com/kindle-dbs/hz/subscribe/ku) | Amazon ebook and audiobook reading subscription. | 3 months of Kindle+ free |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/kindle/) |
+| [Kindle+](https://www.amazon.com/kindle-dbs/hz/subscribe/ku) | Amazon ebook and audiobook reading subscription. | 3 months of Kindle+ free |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/kindle/) |
 
 ## News & Magazines
 

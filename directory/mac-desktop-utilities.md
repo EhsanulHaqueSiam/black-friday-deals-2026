@@ -2,14 +2,14 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/mac-desktop-utilities/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**295 live deals**, 176 with promo codes. Biggest discounts first. Last built 2026-11-26.
+**305 live deals**, 179 with promo codes. Biggest discounts first. Last built 2026-11-27.
 
 - [Menu Bar & Dock](#menu-bar--dock) (60)
 - [Windows & Screens](#windows--screens) (46)
 - [Clipboard, Launchers & Keyboard](#clipboard-launchers--keyboard) (56)
 - [Files, Storage & System](#files-storage--system) (88)
 - [Browser Extensions](#browser-extensions) (13)
-- [More](#more) (32)
+- [More](#more) (42)
 
 ## Menu Bar & Dock
 
@@ -114,9 +114,9 @@
 | [Gesturely](https://aryxzing.pages.dev) | Trackpad gestures to snap windows, change volume and brightness and take screenshots. | 25% off, now $3.75 | `BLACKFRIDAY26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/gesturely/) |
 | [iKnowMyDisplay](https://iknowmydisplay.com) | Mac menu bar controls for external display brightness, resolution, HDR and more. | 25% off suite, $7.99 → $5.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/iknowmydisplay/) |
 | [Overlaid](https://useoverlaid.app) | Draw, zoom and spotlight the cursor over any app while presenting. | 25% off, now $3.74 | `BLACKFRIDAY25` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/overlaid/) |
-| [ScreenCommand](https://screencommand.app/?utm_source=black-friday-2026) | Shows a web browser on a TV or monitor using your iPhone or iPad as trackpad and keyboard. | 25% off, $4.99 → $3.69 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/screencommand/) |
+| [ScreenCommand](https://screencommand.app/?utm_source=awesome-black-friday) | Shows a web browser on a TV or monitor using your iPhone or iPad as trackpad and keyboard. | 25% off, $4.99 → $3.69 |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/screencommand/) |
 | [Tele](https://teleportez.moi/?ref=bf-mrs) | Opens an app window from another Mac as a real window on this one. | 25% off one-time, $39.99 → $29.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/tele/) |
-| [XeOS](https://desktopmodeiphone.com/) | Turns an iPhone into a desktop computer on an external display. | 25% off the lifetime deal | `XEOSREDDIT` |  | [details](https://bf26-deals.pages.dev/deal/xeos/) |
+| [XeOS: External Display Desktop](https://desktopmodeiphone.com/) | Turns an iPhone into a desktop computer on an external display. | 25% off the lifetime deal | `XEOSREDDIT` |  | [details](https://bf26-deals.pages.dev/deal/xeos/) |
 | [BetterStage](https://betterstage.app/pricing?utm_source=tonybf&utm_campaign=bf2026) | macOS window manager with tiling, multi-monitor stages and saved workspaces. | 20% off lifetime Pro, $19.99 → $15.99 | `BLACKFRIDAY20` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/betterstage/) |
 | [DOCKERDRE](https://dockerdre.app) | Shows every window of the selected app above the Mac Command-Tab switcher. | 20% off, $4.20 → $3.36 one-time | `DOCKERDRE20` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/dockerdre/) |
 | [Duckboard](https://www.duckboard.pro/) | Turns parts of any website into live desktop widgets and dashboards. | 20% off Extended plan, $29 → $23.20 one-time | `BLACK2026FRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/duckboard/) |
@@ -261,7 +261,7 @@
 | [Digital Carnage](https://digitalcarnage.info/) | Usenet indexer with donation-based access tiers. | 25% off all donation tiers, from $10.50 |  |  | [details](https://bf26-deals.pages.dev/deal/digitalcarnage/) |
 | [Grabbit](https://grabbit.fyi/) | Native download manager for Mac with multi-threaded downloads, torrents and stream grabbing. | 25% off, now $7.49 | `BLACKFRIDAY25` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/grabbit/) |
 | [Hidden File Cleaner](https://hiddenfilecleaner.app) | Removes .DS_Store and other hidden Mac junk from drives, shares and ZIPs. | 25% off, now $6.74 | `BFRIDAY26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/hiddenfilecleaner/) |
-| [iKnowMyMac](https://iknowmymac.com) | Menu bar app that logs wake events, battery drain, USB devices and login items. | 25% off both apps, $7.99 → $5.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/iknowmymac/) |
+| [iKnowMyMac](https://iknowmymac.com/?utm_source=mrsbf) | Menu bar app that logs wake events, battery drain, USB devices and login items. | 25% off both apps, $7.99 → $5.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/iknowmymac/) |
 | [NameQuick](https://namequick.app/?utm_source=awesome-bf#pricing) | AI file renamer that names invoices, scans and photos by their contents. | 25% off every plan, one-time $69 → $51.75 | `BLACKFRIDAY26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/namequick/) |
 | [SiftMac](https://siftmac.com/?utm_source=mRs-Black-Friday-Deals) | Mac disk cleaner that explains each item and holds deletions for 7 days. | 25% off, $12 → $9 one-time | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/siftmac/) |
 | [SpaceWise 2.0 (Mac)](https://www.spacewisemac.in/pricing) | Mac app to find what is using disk space. | 25% off lifetime Pro, $7.99 → $5.99 | `BLACKFRI25` | Dec 7 | [details](https://bf26-deals.pages.dev/deal/spacewise20/) |
@@ -308,30 +308,40 @@
 | [AudioBo](https://apps.apple.com/us/app/audiobo-m4b-audiobook-maker/id6754019673?ct=bf26_trung&mt=12) |  | 50% OFF the app, a one-time purchase: $9.99 $4.99, no code needed (Mac App Store price) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/audiobo/) |
 | [BatchSet](https://batchset.com/pricing?ref=Awesome-Black-Friday-Cyber-Monday) |  | 50% OFF Seller plan for 3 months with code BFCM26 ($9 → $4.50/mo, Nov 26 - Dec 2, 2026) | `BFCM26` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/batchset/) |
 | [Desktop Goods](https://desktopgoods.app/?utm_source=mrsbf&utm_campaign=bf2026) |  | 50% off every app ($4.99 $2.49) and the Toolbox with all 7 apps ($19 $9.50) | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/desktopgoods/) |
+| [HEIC to JPG – Pics2PDF](https://apps.apple.com/app/id6748744676) |  | 50% OFF Lifetime unlock, $9.99 → $4.99 |  |  | [details](https://bf26-deals.pages.dev/deal/heictojpg/) |
 | [noswitch](https://www.nosub.dev/noswitch?utm_source=github-mrs&utm_medium=deal&utm_campaign=bf2026) |  | 50% off, $7.49 instead of $14.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/noswitch/) |
+| [Pass Maker - Wallet Pass](https://apps.apple.com/us/app/pass-maker-wallet-pass/id6469374653) |  | 50% off Lifetime Pro: $39.99 $19.99 |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/passmaker/) |
+| [Viento - Minimal Weather](https://apps.apple.com/us/app/id6770246185) |  | 50% off Viento+: Yearly, first year $9.99 → $4.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/viento/) |
 | [Backup Status](https://backupstatus.app/?utm_source=bf2026-shortlisted) |  | 40% OFF one-time purchase (€4.99 → €2.99) | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/backupstatus/) |
 | [BetterTouchTool](https://folivora.ai/black-friday/?utm_source=mrsbf) |  | Up to 40% off: Lifetime $25 → $15, Standard $15 → $10.50 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/bettertouchtool/) |
 | [ByteByson](https://bytebyson.acgao.com/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $8 → $4.80 | `BF26-BYTEBYSON` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/bytebyson/) |
 | [Deface: Blur Faces in Video](https://apps.apple.com/us/app/deface-blur-faces-in-video/id6767766955) |  | 40% OFF Pro Lifetime: $24.99 $14.99 one-time in-app purchase, no code needed, the sale… |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/deface/) |
+| [Moodsk](https://apps.apple.com/us/app/id6752535811) |  | All Access Lifetime in-app purchase: $49.99 to $29.99 (40% off) |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/moodsk/) |
 | [Paste Formatter](https://paste-formatter.app/?utm_source=bf2026-shortlisted) |  | 40% OFF one-time purchase (€4.99 → €2.99) | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/pasteformatter/) |
 | [ShotScreen](https://shotscreen.app/?utm_source=mRs-Black-Friday-Deals&utm_medium=deal-list&utm_campaign=bf26) |  | 40% off Pro (€8.99 → €5.39) | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/shotscreen/) |
 | [Speedify](https://speedify.com/store/) |  | EXTRA 40% OFF 1-year and 3-year Individual and Family plans, no code needed (applied at… |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/speedify/) |
+| [Dimmer Switch](https://dimmerswitch.app/?ref=black-friday-deals) |  | 33% off the one-time licence ($9 → $6) | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/dimmerswitch/) |
 | [Screen Folders](https://screenfolders.delitx.dev/pricing) |  | 33% off lifetime access ($15 $10) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/screenfolders/) |
 | [Awakelet](https://tidyware.app/awakelet/?utm_source=mrsbf) |  | 30% off: $9 → $6.30, one-time purchase | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/awakelet/) |
 | [Falconry Drive](https://falconrylabs.com/drive/) |  | 30% off the first year ($27.99 → $19.60) | `BLACKFRIDAY30` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/falconrydrive/) |
 | [Headroom for Mac](https://headroomapp.shop) |  | 30% OFF one-time purchase ($19 → $13.30), no code needed, up to 3 Macs, 30-day refund. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/headroomformac/) |
+| [KopiaLens](https://kopialens.com/pricing?utm_source=trungdq88&utm_campaign=bf2026) |  | 30% OFF Pro with code BLACKFRIDAY2026 (the Buy buttons fill it in): Lifetime $50 $35… | `BLACKFRIDAY2026` | Jan 1 | [details](https://bf26-deals.pages.dev/deal/kopialens/) |
 | [RDPyon](https://rdpyon.com/?utm_source=awesome_bf&utm_campaign=bf2026) |  | 30% OFF ($19 $13.30, one-time purchase) with code BF2026RDP, Nov 24 - Dec 1, 2026 | `BF2026RDP` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/rdpyon/) |
+| [Tidyware](https://tidyware.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 30% OFF every one-time licence ($19 → $13.30, $15 → $10.50, $9 → $6.30) | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/tidyware/) |
 | [TwinSweep](https://tidyware.app/twinsweep/?utm_source=mrsbf) |  | 30% off: $19 → $13.30, one-time purchase | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/twinsweep/) |
 | [Spaceclear](https://spaceclear.app/?ref=bf26-mrs) |  | 25% off Spaceclear Pro ($7.99 → $5.99 USD) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/spaceclear/) |
-| [CacheFlo](https://www.cacheflo.net/#pricing) |  | 20% OFF with code CYBERMONDAY26, November 26 – 30, 2026 | `CYBERMONDAY26` | Nov 26 | [details](https://bf26-deals.pages.dev/deal/cacheflo/) |
 | [Mole](https://mole.fit/?utm_source=trungdq88&utm_campaign=bf2026) |  | 20% OFF one-time license for Mac or Windows, $19 $15.20, applied automatically at… |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/mole/) |
 | [Pocket Screen - Window PiP](https://lp.toybird.com/en/pocket-screen/) |  | 20% off Unlimited one-time purchase ($9.99 to $7.99 in the U.S.) | `MRSBF20` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/pocketscreen/) |
+| [Yado](https://yado.house/?utm_source=bf-mrs&utm_campaign=bf2026) |  | 20% off, $19 $15.20 one-time |  | Dec 30 | [details](https://bf26-deals.pages.dev/deal/yado/) |
+| [CleanStorage: Swipe & Clean](https://apps.apple.com/app/id6823254083?pt=129529936&ct=github-mrs-bf&mt=8) |  | CleanStorage Pro $7.99 → $4.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/cleanstorage/) |
 | [Clearpane](https://getclearpane.app/?utm_source=mrs-bf&utm_campaign=bf2026#pricing) |  | One-time license $19 → $9, no code needed |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/clearpane/) |
-| [EasySwitch](https://easyswitch.realbrain.cc/pricing) |  | Every plan at the price of the one below: Pro $49 → $29, Essentials $29 → $19, Studio… |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/easyswitch/) |
 | [Ejectify 2](https://ejectify.app/?discount=BLACKFRIDAY&utm_source=bf2026-tony) |  | €2 off a one-time purchase: €6.99 €4.99 | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/ejectify2/) |
 | [GlowTrans](https://glowtrans.beautare.com/en/#pricing) |  | Yearly card $35 for 365 days, about 27% less than 12 monthly cards ($47.88) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/glowtrans/) |
+| [Igidu Pro](https://igidu.app/?utm_source=mariusblackfriday&utm_medium=directory&utm_campaign=bf2026) |  | $9.99 instead of $14.99 USD, one-time Mac 1.x license |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/igidupro/) |
 | [OneMusic](https://apps.apple.com/app/id6796222344) |  | Free Lifetime unlock scheduled Nov 27–30, 2026 (regular price returns Dec 1, annual… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/onemusic/) |
 | [OneOpen](https://apps.apple.com/app/id6792251542) |  | Free Lifetime unlock scheduled Nov 27–30, 2026 (regular price returns Dec 1, annual… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/oneopen/) |
 | [OnePhoto](https://apps.apple.com/app/id6779493280) |  | Free Lifetime unlock scheduled Nov 27–30, 2026 (regular price returns Dec 1, annual… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/onephoto/) |
 | [OneVoice](https://apps.apple.com/app/id6789639056) |  | Free Lifetime unlock scheduled Nov 27–30, 2026 (regular price returns Dec 1, annual… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/onevoice/) |
+| [ProMax Display](https://promaxdisplay.com/?utm_source=mRs-Black-Friday-Deals) |  | Black Friday price $6.99, one-time purchase | `7-day` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/promaxdisplay/) |
+| [Sortroom: Photo Organizer](https://apps.apple.com/app/apple-store/id6816434231?pt=129234321&ct=bfdeals-mrs&mt=8) |  | Launch price: Pro Lifetime $39.99 once, no subscription |  |  | [details](https://bf26-deals.pages.dev/deal/sortroom/) |
 | [Transom](https://transommac.com/pricing?ref=mrsbf) |  | One-time licence $19 → $9 (1 Mac), $29 → $14 (3 Macs) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/transom/) |

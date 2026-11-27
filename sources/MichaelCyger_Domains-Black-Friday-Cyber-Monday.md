@@ -11,7 +11,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 258
+Total deals: 260
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -45,6 +45,7 @@ The best domain deals of Black Friday 2026:
 |.xyz | $17.94 | $1.00 | [Atom.com](https://www.atom.com/black-friday-sale) | End date not announced | No Code Required (first year, new registrations only) |
 |.org | $14.48 | $6.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
 |.io | $64.69 | $21.00 | [Atom.com](https://www.atom.com/black-friday-sale) | End date not announced | No Code Required (first year, new registrations only) |
+| NameBio Collector and Domainer tiers | - | 50% off | [NameBio.com](https://namebio.com/memberships) | Through Nov 30, 2026 23:59 PST | CYBER50 (new subscriptions only; yearly plans or first 3 months of monthly) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -356,6 +357,8 @@ Discounts on premium domain names:
 | **[Appraise.net](https://appraise.net/specials)** | **50% off** everything — Code: **BF2650** | Until Nov 30, 2026 11:59 PM Arizona time | Any plan: 50% off the first payment (an annual plan is half off the first year). Lifetime: 50% off. Credit packs: 50% off, as often as you like (active plan or Lifetime required). Code also works when changing plans. Marketplace domain purchases excluded. |
 | **[Dynadot Website Builder](https://www.dynadot.com/black-friday-sale)** | **50% off** Pro — Code: **BFSITE26** | Nov 23, 2026 00:00 - Dec 2, 2026 00:00 UTC | Drag-and-drop site builder. |
 | **[tiny.BIO](https://www.dynadot.com/black-friday-sale)** | **50% off** Pro | Nov 23, 2026 00:00 - Dec 1, 2026 00:00 UTC | No code. Link-in-bio page on your own domain. |
+| **[NameBio Collector and Domainer tiers](https://namebio.com/memberships)** | **50% off** — Code: **CYBER50** | Through Nov 30, 2026 23:59 PST | Applies to yearly subscriptions or first 3 months of monthly, new subscriptions only. |
+| **[NotRenewing](https://www.notrenewing.com/sell/unified-plans?billing=year)** | **50% off** annual seller plans vs. paying monthly (no code) | Nov 24, 2026 06:00 - Dec 1, 2026 06:00 UTC | Starter $30.00/yr (reg. $50.00), Growth $72.00/yr (reg. $120.00), Pro $150.00/yr (reg. $250.00), Business $294.00/yr (reg. $490.00), Enterprise $594.00/yr (reg. $990.00), Enterprise Plus $1,188.00/yr (reg. $1,980.00). 40% off the annual list price. First year only; renews at annual list. Card payments only. [Post](https://x.com/Not_Renewing/status/2126334255563448716) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -395,6 +398,8 @@ Discounts on premium domain names:
 - [Gname .CO Black Friday](https://x.com/gnamedotcom/status/2125418196601831875)
 - [Name.com Cyber Monday](https://www.name.com/promo/cyber-monday)
 - [NameSilo Black Friday](https://www.namesilo.com/sales/black-friday)
+- [NameBio Memberships](https://namebio.com/memberships)
+- [NotRenewing Seller Plans](https://www.notrenewing.com/sell/unified-plans?billing=year)
 
 [⬆️ Go to Top](#table-of-contents)
 

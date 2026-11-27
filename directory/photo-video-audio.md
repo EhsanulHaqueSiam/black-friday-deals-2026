@@ -2,14 +2,14 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/photo-video-audio/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**245 live deals**, 79 with promo codes. Biggest discounts first. Last built 2026-11-26.
+**251 live deals**, 83 with promo codes. Biggest discounts first. Last built 2026-11-27.
 
 - [Video Editing](#video-editing) (42)
 - [Screen Recording](#screen-recording) (34)
 - [Photo Editing](#photo-editing) (39)
-- [Music & Audio Production](#music--audio-production) (92)
+- [Music & Audio Production](#music--audio-production) (91)
 - [Podcasts & Transcription](#podcasts--transcription) (22)
-- [More](#more) (16)
+- [More](#more) (23)
 
 ## Video Editing
 
@@ -236,7 +236,6 @@
 | [Stamps](https://plastic.audio/stamps/?src=bf-github) | Music tag editor that cleans titles and writes tags into audio files. | $29 → $19 one-time |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/stamps/) |
 | [Tapelark](https://tapelark.com/black-friday/) | Records internet radio song by song, podcasts and app audio into a tagged library. | $10 off one-time license, $39 → $29 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/tapelark/) |
 | [Trackpad Sampler](https://apps.apple.com/app/id6809100831) | Turns your MacBook trackpad into a 16-pad sampler. | $9.99 one-time |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/trackpadsampler/) |
-| [Waves Plugins](https://www.waves.com/) | Audio plugins for mixing, mastering and music production. | 3 plugins for $49.99, 6 for $99.98 |  | Nov 26 | [details](https://bf26-deals.pages.dev/deal/wavesplugins/) |
 
 ## Podcasts & Transcription
 
@@ -249,6 +248,7 @@
 | [FluidCast: Podcast Player](https://fluidcastapp.com/event) | Plays podcasts and syncs listening progress across devices. | 50% off the podcast player | `BLACKFRIDAY2026` `BLACKFRIDAY2026LT` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/fluidcast/) |
 | [Otter.ai](https://otter.ai/pricing) | AI meeting notes app that records, transcribes and summarizes conversations. | 50% off Pro or Business annual plans | `BANBF26PROA50OFF` `BANBF26BIZA50OFF` |  | [details](https://bf26-deals.pages.dev/deal/otter/) |
 | [PodcastorAI](https://x.com/podcastor_ai) | AI podcast generator with AI hosts. | 50% off the first year of annual plans |  |  | [details](https://bf26-deals.pages.dev/deal/podcastorai/) |
+| [PureScribe](https://appsthere.com/black-friday#purescribe) | On-device speech to text for Mac and iPhone. | Pro one-time $9.99 → $4.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/purescribe/) |
 | [Replay](https://tryreplay.online/?utm_source=trungdq88&utm_medium=deals&utm_campaign=bf2026) | Records Zoom, Meet, Teams and other calls on your Mac with no bot joining. | 50% off one-time purchase, $10 → $5 | `REPLAYBF50` | Dec 31 | [details](https://bf26-deals.pages.dev/deal/replay/) |
 | [Sum](https://sumtranscribe.com/pricing) | Turns audio and video into transcripts and AI summaries in the browser. | 50% off the first month or year of Pro | `SUMBF50` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/sum/) |
 | [Whittle.fm](https://whittle.fm) | Plays only the podcast segments about a topic you search, ads skipped. | 50% off the first year | `REDDIT` | Jan 11 | [details](https://bf26-deals.pages.dev/deal/whittlefm/) |
@@ -262,26 +262,32 @@
 | [FastScribe](https://fastscribe.org/pricing?offer=black-friday-2026) | Turns audio, video and social links into transcripts, subtitles and AI summaries. | $31 off Pro first year, $120 → $89 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/fastscribe/) |
 | [Filmspotting](https://x.com/filmspotting) | Film review podcast with member perks. | $49/yr for a Family+ film podcast membership |  |  | [details](https://bf26-deals.pages.dev/deal/filmspotting/) |
 | [Proof Take](https://prooftake.app/#pricing) | Checks English and Chinese voiceovers against the script on Mac and flags misreads. | One-time license $29 → $19 |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/prooftake/) |
-| [PureScribe](https://appsthere.com/apps/purescribe) | On-device speech to text for Mac and iPhone. | Pro one-time $9.99 → $4.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/purescribe/) |
 | [RSS.com](https://RSS.com) | Podcast hosting platform. | 3 free months of podcast hosting on any paid plan | `BLKFR` |  | [details](https://bf26-deals.pages.dev/deal/rss/) |
 
 ## More
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
+| [Not My Tempo: Voice Metronome](https://apps.apple.com/us/app/not-my-tempo-voice-metronome/id6781537149) |  | 75–80% off the first subscription period |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/notmytempo/) |
+| [JiffyRecord](https://jiffyrecord.com/pricing?utm_source=mrs-bfdeals&utm_medium=github&utm_campaign=bf2026&ref=mrs-bfdeals) |  | About 69% off per Mac: was $79 for 1 Mac, now $49 for a 2-Mac license ($24.50 per Mac) | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/jiffyrecord/) |
 | [ETK Image Compressor Pro](https://shakster24.gumroad.com/l/fcnkut?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 66% OFF lifetime licence ($30 → $10.20) | `ETKBF66` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/etkimagecompressorpro/) |
 | [PulseLite Complete: 408 Game UI Sounds](https://bigshadex.itch.io/pulselite-complete) |  | 60% off: US$13.99 → $5.60, one-time purchase |  | Dec 13 | [details](https://bf26-deals.pages.dev/deal/pulselitecomplete/) |
 | [Wrapt: Text Around Photos](https://apps.apple.com/app/id6818696468) |  | 53% OFF Lifetime |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/wrapt/) |
 | [FireCut](https://firecut.ai/pricing/all/) |  | 50% off annual plans ($59 → $29.50/mo Max, $34 → $17/mo Pro) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/firecut/) |
 | [FrameGloss](https://framegloss.app/?deal=blackfriday&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 50% OFF Pro Lifetime ($15 → $7.50) | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/framegloss/) |
 | [InTime](https://apps.apple.com/app/id6836084908) |  | 50% off All Eras Lifetime Unlock ($7.99 → $3.99 one-time purchase) | `BF50` | Dec 3 | [details](https://bf26-deals.pages.dev/deal/intime/) |
+| [ClipCreator.ai](https://clipcreator.ai/black-friday?utm_source=mrsbf&utm_campaign=bf2026) |  | 40% off your first month | `BF2026` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/clipcreator/) |
 | [Metronome by Audomi](https://apps.apple.com/app/apple-store/id6820653905?pt=129493715&ct=bf_lists&mt=8) |  | 40% off ($4.99 $2.99) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/metronomebyaudomi/) |
 | [ShowShark Home](https://showshark.app/home/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $99 → $59.40 | `BF26-SHOWSHARK` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/showsharkhome/) |
 | [Twovio: Dual Camera Video](https://apps.apple.com/us/app/id6834278419) |  | 40% off Lifetime Pro ($9.99 → $5.99 USD) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/twovio/) |
+| [VidCap](https://vidcap.app/promos/BLACKFRIDAY26) |  | 35% off the first year of Pro Yearly ($59.99 → $38.99) | `BLACKFRIDAY26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/vidcap/) |
 | [Skywall](https://getskywall.app/?ref=bf26-mrs) |  | 33% off Skywall Full ($5.99 → $3.99 USD) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/skywall/) |
+| [ABContents](https://abcontents.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 30% OFF every video and API pack | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/abcontents/) |
 | [Narva](https://narva.app/#pricing) |  | 30% off the first month of any plan: Starter $29 → $20.30, Creator $79 → $55.30, Pro… | `NARVA30` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/narva/) |
 | [Useful Studio Pro](https://theusefulmedia.com/studio?ref=mrs-bf) |  | 30% off, $349 $244 | `STUDIOBF` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/usefulstudiopro/) |
 | [BlendCue](https://blendcue.com/?ref=bf-mrs) |  | Founding price: Solo $49 $29, Pro (2 computers) $79 $49, one-time purchase | `FOUNDINGSOLO` `FOUNDINGPRO` | Dec 31 | [details](https://bf26-deals.pages.dev/deal/blendcue/) |
 | [Doc2Video](https://doc2vid.com/?utm_source=mrsbf#pricing) |  | Lifetime license with unlimited updates for $119.97 a seat, paid once (a normal license… |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/doc2video/) |
 | [Mutebot](https://apps.apple.com/app/id1018611817?pt=283056&ct=bf-github&mt=8) |  | Mutebot Pro is half price until December 1: $0.99 in the US, then $1.99 again. |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/mutebot/) |
 | [OneTune](https://apps.apple.com/app/id6789659103) |  | Free Lifetime unlock scheduled Nov 27–30, 2026 (regular price returns Dec 1, annual… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/onetune/) |
+| [PresentCam: PDF Video Maker](https://apps.apple.com/us/app/presentcam-pdf-video-maker/id6792493471) |  | U.S |  | Nov 28 | [details](https://bf26-deals.pages.dev/deal/presentcam/) |
+| [SpeedPlayer: Play Slow & Fast](https://apps.apple.com/us/app/speedplayer-play-slow-fast/id6762168595) |  | U.S |  | Nov 28 | [details](https://bf26-deals.pages.dev/deal/speedplayer/) |
