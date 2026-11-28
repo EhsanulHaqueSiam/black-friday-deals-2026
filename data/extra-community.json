@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "Switchy",
+    "url": "https://getswitchy.app/black-friday",
+    "category": "Mac & Desktop Utilities",
+    "subcategory": "Menu Bar & Dock",
+    "platforms": ["mac"],
+    "pricing": "one-time",
+    "description": "Menu bar app: 31 one-click Mac switches, deploy status, 2FA codes, Claude/Codex limits",
+    "headline": "50% off one-time license, $4.99 → $2.49",
+    "deal": "50% off the one-time license ($4.99 to $2.49), no subscription, up to 3 Macs, future updates included. Free 7-day trial, no account needed. macOS 14+. Nov 23 to Dec 1, 2026.",
+    "codes": ["BLACKFRIDAY50"],
+    "ends": "2026-12-01",
+    "source": "https://getswitchy.app/black-friday"
+  }
+]
