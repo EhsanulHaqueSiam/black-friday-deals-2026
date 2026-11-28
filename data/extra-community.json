@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "ShiftApp",
+    "url": "https://shiftapp.com/black-friday",
+    "category": "Business & Finance",
+    "subcategory": "Team & Operations",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "subscription",
+    "description": "Employee scheduling and shift management for teams on web, iOS and Android.",
+    "headline": "88% off the first 8 months of Essential monthly",
+    "deal": "88% off the first 8 months on new Essential monthly orders, then regular monthly pricing. Code BLACKFRIDAY2026 is applied automatically. Ends Dec 12, 2026.",
+    "codes": [
+      "BLACKFRIDAY2026"
+    ],
+    "ends": "2026-12-12",
+    "source": "https://shiftapp.com/black-friday"
+  }
+]
