@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "name": "Ghost",
+    "url": "https://ghostformac.com/black-friday",
+    "category": "AI Tools",
+    "subcategory": "Chat & Assistants",
+    "platforms": [
+      "mac"
+    ],
+    "pricing": "one-time",
+    "description": "Mac app that learns how you write, then works your apps and replies as you.",
+    "headline": "$99 license, normally $129 in beta",
+    "deal": "$99 one-time license (normally $129 during the beta), no code needed, plus an AI plan from $19/month per Mac, until Dec 1, 2026.",
+    "codes": [],
+    "ends": "2026-12-01",
+    "source": "https://ghostformac.com/black-friday"
+  }
+]
