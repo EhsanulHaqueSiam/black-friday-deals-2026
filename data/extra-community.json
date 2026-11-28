@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "name": "VibeShield Pro",
+    "url": "https://shipbastion.com/",
+    "category": "Developer Tools",
+    "subcategory": "Testing & Debugging",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "one-time",
+    "description": "Pre-launch web security scanner: 52 JS secret rules, PostgREST RLS, 10 headers & .env/.git leaks.",
+    "headline": "78% off Lifetime Pro ($9 → $2) & 83% off Suite ($29 → $5)",
+    "deal": "78% off Lifetime Pro ($9 to $2 one-time) and 83% off 3-in-1 Developer Suite ($29 to $5 one-time), auto-applied at checkout, until Dec 2, 2026.",
+    "codes": [],
+    "ends": "2026-12-02",
+    "source": "https://shipbastion.com/"
+  }
+]
