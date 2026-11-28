@@ -2,13 +2,13 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/hardware-electronics/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**93 live deals**, 9 with promo codes. Biggest discounts first. Last built 2026-11-27.
+**92 live deals**, 9 with promo codes. Biggest discounts first. Last built 2026-11-28.
 
 - [Phones, Tablets & Computers](#phones-tablets--computers) (9)
 - [Audio](#audio) (11)
 - [Smart Home](#smart-home) (9)
 - [Accessories & Peripherals](#accessories--peripherals) (40)
-- [Cameras & Drones](#cameras--drones) (7)
+- [Cameras & Drones](#cameras--drones) (6)
 - [Retailer Sales](#retailer-sales) (13)
 - [More](#more) (4)
 
@@ -108,7 +108,6 @@
 | [Antigravity A1](https://x.com/Antigravity_HQ) | 360 degree camera drone. | Up to 35% off |  |  | [details](https://bf26-deals.pages.dev/deal/antigravitya1/) |
 | [Satir thermal cameras](https://satir.com/article/black-friday-thermal-camera-sale) | Thermal imaging cameras. | 35% off T256 and S1 thermal cameras |  |  | [details](https://bf26-deals.pages.dev/deal/satirthermalcameras/) |
 | [JJC](https://x.com/JJCPhotogr75080) | Camera, action camera and phone accessories. | Up to 30% off |  |  | [details](https://bf26-deals.pages.dev/deal/jjc/) |
-| [REEFLEX](https://x.com/ReeflexCamera) | Phone camera lenses, filters and the REEFLEX Pro Camera app. | 25% off phone lenses and filters, 30% off the Ultra Set |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/reeflex/) |
 | [Insta360](https://store.insta360.com/) | 360-degree and action cameras. | Up to 20% off cameras, 10% off X6 bundles |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/insta360/) |
 | [Viltrox](https://viltrox.com) | Camera lenses and flashes. | 20% off storewide |  |  | [details](https://bf26-deals.pages.dev/deal/viltrox/) |
 | [DJI](https://www.djiusa.com/pages/event) | Consumer drones, action cameras and gimbals. | Flip $439 → $305, Neo $169 → $139 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/dji/) |

@@ -2,14 +2,14 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/security-privacy/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**99 live deals**, 29 with promo codes. Biggest discounts first. Last built 2026-11-27.
+**102 live deals**, 29 with promo codes. Biggest discounts first. Last built 2026-11-28.
 
 - [VPN](#vpn) (22)
 - [Password Managers](#password-managers) (8)
 - [Antivirus & Security Suites](#antivirus--security-suites) (29)
 - [Privacy & Data Removal](#privacy--data-removal) (20)
 - [Secure Email & Storage](#secure-email--storage) (13)
-- [More](#more) (7)
+- [More](#more) (10)
 
 ## VPN
 
@@ -17,7 +17,7 @@
 |---|---|---|---|---|---|
 | [FastestVPN](https://fastestvpn.com/) | VPN service sold as a lifetime plan. | Lifetime VPN $35 once, 93% off |  |  | [details](https://bf26-deals.pages.dev/deal/fastestvpn/) |
 | [PrivadoVPN](https://privadovpn.com/) | Swiss VPN service for desktop and mobile. | 90% off, $1.11/mo on 2 years plus 3 months free |  |  | [details](https://bf26-deals.pages.dev/deal/privadovpn/) |
-| [PureVPN](https://www.purevpn.com/) | VPN with servers in 65 countries. | 87% off 5-year plan, about $1.69/mo |  |  | [details](https://bf26-deals.pages.dev/deal/purevpn/) |
+| [PureVPN](https://identity.purevpn.com/bfcm?utm_source=github&utm_medium=referral&utm_campaign=bfcm2026_creatoros&utm_content=creatoros) | VPN with servers in 65 countries. | 87% off 5-year plan, about $1.69/mo |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/purevpn/) |
 | [Surfshark](https://surfshark.com/) | VPN service with unlimited devices. | Up to 87% off plus 3 months free, ~$2.49/mo |  |  | [details](https://bf26-deals.pages.dev/deal/surfshark/) |
 | [Private Internet Access](https://www.privateinternetaccess.com/) | VPN with WireGuard and servers in 91 countries. | 84% off long-term plan, $1.89/mo plus free months |  |  | [details](https://bf26-deals.pages.dev/deal/privateinternetaccess/) |
 | [AdGuard VPN](https://adguard-vpn.com/) | VPN service from AdGuard for desktop, mobile and browsers. | 83% off 2-year plan |  |  | [details](https://bf26-deals.pages.dev/deal/adguardvpn/) |
@@ -107,7 +107,7 @@
 | [Paperweight](https://www.paperweight.email/pricing#black-friday) | Local-first app that maps your accounts from your inbox and helps close old ones. | Lifetime Pro $149 one-time |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/paperweight/) |
 | [ScreenShield](https://sky-blue1111.github.io/screenshield-site/?utm_source=bfdeals-mrs#pricing) | Chrome extension that hides emails, card numbers and API keys while screen sharing. | Lifetime Pro $49 → $29 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/screenshield/) |
 | [Scrub Before Send](https://apps.apple.com/us/app/scrub-before-send/id6807475333) | Finds and removes personal info, faces and GPS data from images before sharing. | $7.99 instead of $12.99 |  |  | [details](https://bf26-deals.pages.dev/deal/scrubbeforesend/) |
-| [SecretShot](https://secretshot.zorrinapps.com) | PIN-protected photo and video vault disguised as a calculator, converter or puzzle. | Lifetime launch price $14.99 | `BFCM26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/secretshot/) |
+| [SecretShot](https://secretshot.zorrinapps.com/#black-friday) | PIN-protected photo and video vault disguised as a calculator, converter or puzzle. | Lifetime launch price $14.99 | `BFCM26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/secretshot/) |
 | [ShutterMinder](https://apps.apple.com/app/id6774975728) | Mac menu bar app that reminds you to close your webcam cover after calls. | $9.99 → $4.99 one-time |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/shutterminder/) |
 
 ## Secure Email & Storage
@@ -137,5 +137,8 @@
 | [ShieldFive](https://shieldfive.com/pricing?utm_source=github&utm_medium=listing&utm_campaign=mrs-bf-2026) |  | Up to 50% off the first year of annual plans |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/shieldfive/) |
 | [SpyAlert](https://spyalert.acgao.com/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $10 → $6 | `BF26-SPYALERT` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/spyalert/) |
 | [HOL Guard](https://hol.org/guard) |  | 30% off with code PROTECT-YOUR-AGENT | `PROTECT-YOUR-AGENT` |  | [details](https://bf26-deals.pages.dev/deal/holguard/) |
+| [August Cyber](https://august.so?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 24 free cloud sandbox hours (Small & Default VMs, auto-applied, no credit card) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/augustcyber/) |
+| [Browserling](https://www.browserling.com/web-testing/pricing) |  | przeglądarka w chmurze - 50% taniej |  |  | [details](https://bf26-deals.pages.dev/deal/browserling/) |
 | [Mastering Binary Files](https://hackarcana.com/workshop-session/2026-mbf/join) |  | kurs o analizie plików binarnych - z kodem MBF-BLACK-FRIDAY 15% taniej | `MBF-BLACK-FRIDAY` |  | [details](https://bf26-deals.pages.dev/deal/masteringbinaryfiles/) |
+| [Things](https://culturedcode.com/things/sale/) |  | aplikacja todo na urządzenia Apple - 30% taniej |  |  | [details](https://bf26-deals.pages.dev/deal/things/) |
 | [Videopoint](https://videopoint.pl/promocja/24963) |  | kursy video - z kodem BLACK każdy kurs 38,90 PLN | `BLACK` |  | [details](https://bf26-deals.pages.dev/deal/videopoint/) |

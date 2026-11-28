@@ -2,16 +2,16 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/health-lifestyle/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**196 live deals**, 65 with promo codes. Biggest discounts first. Last built 2026-11-27.
+**199 live deals**, 69 with promo codes. Biggest discounts first. Last built 2026-11-28.
 
 - [Fitness & Workouts](#fitness--workouts) (32)
 - [Health & Mental Wellbeing](#health--mental-wellbeing) (42)
 - [Food & Nutrition](#food--nutrition) (11)
 - [Travel & Navigation](#travel--navigation) (17)
 - [Family, Kids & Relationships](#family-kids--relationships) (15)
-- [Hobbies & Home](#hobbies--home) (35)
-- [Weather & Misc](#weather--misc) (8)
-- [More](#more) (36)
+- [Hobbies & Home](#hobbies--home) (34)
+- [Weather & Misc](#weather--misc) (7)
+- [More](#more) (41)
 
 ## Fitness & Workouts
 
@@ -178,7 +178,6 @@
 | [ImageToPES](https://imagetopes.com/#pricing) | Converts PNG, JPG and SVG images into machine embroidery files like PES and DST. | 30% off all one-time credit packs |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/imagetopes/) |
 | [Silhouette America](http://SilhouetteAmerica.com) | Cutting machines, design software and materials. | 20% off software, 30% off mats, blades and tools |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/silhouetteamerica/) |
 | [Succulent](https://elevenapril.com/succulent) | Succulent photo journal with care reminders and side-by-side growth views. | 30% off lifetime, $49.99 → $34.99 | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/succulent/) |
-| [The Room Layout Fix](https://x.com/JSInteriorDes) | 7-day interior layout course and workbook. | 30% off | `BLACKFRIDAY30` | Nov 27 | [details](https://bf26-deals.pages.dev/deal/theroomlayoutfix/) |
 | [Arma Hobby](https://x.com/ArmaHobby) | 1/72 scale plastic model aircraft kits. | 25% off other 1/72 kits with a featured kit |  |  | [details](https://bf26-deals.pages.dev/deal/armahobby/) |
 | [Hockerty](https://www.hockerty.com) | Custom-made men's suits and clothing. | Up to 25% off everything you design |  |  | [details](https://bf26-deals.pages.dev/deal/hockerty/) |
 | [Schmiedmann](https://x.com/schmiedmannInt) | Aftermarket and used parts for BMW and MINI. | Up to 25% off |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/schmiedmann/) |
@@ -205,7 +204,6 @@
 | [Comic Weather](https://comicweather.app/black-friday?ref=awesome-tony) | iPhone weather app that shows the forecast as a comic book page. | 40% off full version, $4.99 → $2.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/comicweather/) |
 | [Big Weather](https://urtti.com/weather) | Mac menu bar weather with on-device written summaries of the forecast. | 33% off Premium lifetime, $29.99 → $19.99 |  | Dec 3 | [details](https://bf26-deals.pages.dev/deal/bigweather/) |
 | [EverythingWeather Pro](https://www.everythingwx.com) | Weather app with radar and forecasts. | $19.99 for the first year |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/everythingweatherpro/) |
-| [Jubs](https://www.tryjubs.com/black-friday) | Animated holiday widgets for the iPhone and iPad Home Screen and StandBy. | Premium $2.99 → $1.99 one-time |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/jubs/) |
 | [PassCollect](https://lucadevelops.com) | Lightweight wallet for loyalty cards. | Lifetime half price, first year $0.99 |  |  | [details](https://bf26-deals.pages.dev/deal/passcollect/) |
 
 ## More
@@ -217,6 +215,9 @@
 | [Dalbit: Sleep Sounds & Noise](https://apps.apple.com/us/app/dalbit-sleep-sounds-noise/id1626715109) |  | 75–80% off the first subscription period |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/dalbit/) |
 | [Sekki: Photo Food Diary](https://apps.apple.com/us/app/sekki-photo-food-diary/id6755164924) |  | 75–80% off the first subscription period |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/sekki/) |
 | [Forza Gym Log](https://forza.lorenzofranceschini.it/en/) |  | 78% off Lifetime ($8.99 → $1.99) |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/forzagymlog/) |
+| [Body Vitals](https://www.escapethematrix.app/products/body-vitals/) |  | 60% OFF Lifetime (one-time purchase): $99.99 $39.99 USD with code OFF60 (redeem) | `OFF60` | Apr 29 | [details](https://bf26-deals.pages.dev/deal/bodyvitals/) |
+| [ChattyFit](https://chatty.fit/?ct=bf-awesome) |  | Black Friday: 60% OFF the first year of Annual: $99.99 $39.99 USD with code… | `BLACKFRIDAY60` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/chattyfit/) |
+| [Diet Tracker](https://diettracker.me/?utm_source=awesome-bfcm-trungdq88&utm_medium=referral&utm_campaign=bfcm2026) |  | 60% OFF Lifetime (one-time purchase), code BFCM26 applied automatically at checkout:… | `BFCM26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/diettracker/) |
 | [Fondo - Zone 2 Training](https://fondo.lorenzofranceschini.it/en/) |  | 60% off Lifetime ($4.99 → $1.99) |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/fondo/) |
 | [Ritmo Workout Timer](https://ritmo.lorenzofranceschini.it/en/) |  | 60% off Lifetime ($7.49 → $3.00) |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/ritmoworkouttimer/) |
 | [DayDare](https://daydare.app/) |  | 57% OFF $6.99 → $2.99 one-time purchase, no code needed |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/daydare/) |
@@ -228,6 +229,7 @@
 | [Undersleep](https://apps.apple.com/app/apple-store/id6803688584?pt=129192922&ct=bf26-gh-tr&mt=8) |  | Black Friday: 50% OFF the one-time unlock: $24.99 $12.49 US, local prices vary |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/undersleep/) |
 | [Water Fasting: Beyond](https://apps.apple.com/us/app/id6786837206) |  | 50% off Plus: Yearly, first year $39.99 → $19.99 | `BLACKWEEK` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/waterfasting/) |
 | [You Become: Daily Motivation](https://apps.apple.com/us/app/id6798391117) |  | 50% off Premium: Yearly, first year $19.99 → $9.99 | `BLACKWEEK` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/youbecome/) |
+| [Command Reopen](https://apps.apple.com/redeem?ctx=offercodes&id=6829358606&code=PIXELPETBF40) |  | 40% off lifetime: $3.49 (was $5.90) via App Store offer code PIXELPETBF40 | `PIXELPETBF40` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/commandreopen/) |
 | [Lappr](https://lappr.app/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $19 → $11.40 | `BF26-LAPPR` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/lappr/) |
 | [PoRaBar](https://porabar.com/?utm_source=mRs-Black-Friday-Deals&utm_medium=deal-list&utm_campaign=bf26) |  | 40% off the one-time unlock ($2.99 → $1.79) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/porabar/) |
 | [RouteSketcher](https://routesketcher.com/?utm_source=tonybf) |  | 30% OFF the lifetime plan ($19.99 → $13.99, one-time payment) with code BLACKFRIDAY,… | `BLACKFRIDAY` | Dec 6 | [details](https://bf26-deals.pages.dev/deal/routesketcher/) |
@@ -235,6 +237,7 @@
 | [PageCub](https://pagecub.com/pricing) |  | 25% off the digital storybook ($19.99 → about $14.99) |  | Dec 25 | [details](https://bf26-deals.pages.dev/deal/pagecub/) |
 | [PLANE.DEALS](https://plane.deals/black-friday) |  | First month free on monthly plans, or 25% off the first year of annual plans | `BFMONTHFREE` `BLACKFRIDAY25` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/planedeals/) |
 | [Triple Double](https://apps.apple.com/us/app/triple-double-basketball-games/id1096351621) |  | 25% off the yearly plan |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/tripledouble/) |
+| [RepSquad](https://www.escapethematrix.app/products/ai-rep-counter/) |  | 20% OFF Lifetime (one-time purchase): $49.99 $39.99 USD with code REP60 (redeem) | `REP60` | Apr 29 | [details](https://bf26-deals.pages.dev/deal/repsquad/) |
 | [BabyAnalytic: Baby Tracker](https://apps.apple.com/app/id6824100558?pt=129529936&ct=github-mrs-bf&mt=8) |  | Pro Lifetime $49.99 → $24.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/babyanalytic/) |
 | [Boothly](https://apps.apple.com/us/app/boothly-retro-photo-strips/id6804359059) |  | Boothly Pro, one-time $2.99 $1.49 |  | Dec 2 | [details](https://bf26-deals.pages.dev/deal/boothly/) |
 | [Core: Interval & HIIT Timer](https://foca.work/core.html) |  | Lifetime access $14.99 $7.99 (US App Store) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/core/) |

@@ -2,12 +2,12 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/websites-e-commerce/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**204 live deals**, 77 with promo codes. Biggest discounts first. Last built 2026-11-27.
+**203 live deals**, 76 with promo codes. Biggest discounts first. Last built 2026-11-28.
 
 - [Website Builders & No-Code](#website-builders--no-code) (29)
 - [WordPress Themes & Plugins](#wordpress-themes--plugins) (127)
 - [Forms & Surveys](#forms--surveys) (18)
-- [E-commerce & Payments](#e-commerce--payments) (28)
+- [E-commerce & Payments](#e-commerce--payments) (27)
 - [More](#more) (2)
 
 ## Website Builders & No-Code
@@ -211,7 +211,6 @@
 | [ILM modules](https://ilmtech.in/prices-drop) | PrestaShop and WooCommerce modules. | 50% off all paid e-commerce modules, one-time licenses |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/ilmmodules/) |
 | [Magefan](https://magefan.com/) | Magento 2 extensions. | Up to 50% off extensions and renewals |  |  | [details](https://bf26-deals.pages.dev/deal/magefan/) |
 | [Revnous](https://x.com/revnous) | Shopify app to bulk-edit and schedule sale prices. | 50% off any plan |  |  | [details](https://bf26-deals.pages.dev/deal/revnous/) |
-| [Store Manager (eMagicOne)](https://emagicone.com/plugins/) | Desktop store manager for PrestaShop, WooCommerce and Magento shops. | 50% off the lifetime store management license | `50friday2026` | Nov 27 | [details](https://bf26-deals.pages.dev/deal/storemanager/) |
 | [WooPeek](https://wpfinity.com/products/woopeek/?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bfcm2026) | Chrome extension showing live WooCommerce orders, revenue and low stock. | 50% off Pro and Agency, lifetime $99 → $49.50 | `BFCM26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/woopeek/) |
 | [Evendeals](https://evendeals.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Adds purchasing power parity pricing and discounts to your product. | 40% off annual and lifetime plans | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/evendeals/) |
 | [Optinify](https://apps.shopify.com/pop-ups-builder) | Pop-up builder for Shopify stores to capture emails and sales. | 40% off all plans |  | Dec 20 | [details](https://bf26-deals.pages.dev/deal/optinify/) |

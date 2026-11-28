@@ -44,6 +44,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Mailzzy** | Small-business email marketing with templates, AI-drafted campaigns, A/B testing, and automations. | [70% off first year (annual) or 60% off first 3 months (monthly), auto-applied, Nov 16 – Dec 14](https://mailzzy.com/emails-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) |
 | **Tantra** | AI-first GTM outreach across email, LinkedIn, WhatsApp, and Google Calendar with a unified inbox and flat company pricing. | [**50% off for life** on Pro and Scale with code `TANTRA50`, Nov 23 – Dec 1](https://deals.usetantra.com/?ref=Awesome-Black-Friday-Cyber-Monday) |
 | **Expandi** | LinkedIn and email outreach automation in one campaign, with a dedicated IP for each LinkedIn account. | [Up to 77% off for 12 months: $79 → $53 per LinkedIn account/mo billed yearly, down to $23 at 50+ accounts, no code, Nov 20 – Dec 4](https://expandi.io/bfcm-promo/?utm_source=github-carmentune&utm_medium=referral&utm_campaign=bfcm-2026) |
+| **BlueChimp** | Warm B2B lead finder that matches buyer intent signals with your LinkedIn network, with an MCP server for ChatGPT and Claude. | [50% off Growth and Dealflow plans for 6 months on monthly or 1 year on annual with code `BFIntent`, Nov 27 – Nov 29](https://www.blue-chimp.com/pricing) |
 
 ## 🛒 E-commerce & Dropshipping
 
@@ -75,6 +76,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Zerodirs** | SEO-first directory boilerplate for AI coding agents and Cloudflare with $0/mo hosting. | [73% off lifetime payment, auto-applied, through Dec 20](https://zerodirs.com/#pricing) |
 | **Miget** | Cloud platform for apps, databases and workers on one compute plan, with no per-app fees. | [33% off a new workspace for 12 months with code `BLACKFRIDAY26`, Nov 27 - Nov 30](https://miget.com/plans?utm_source=carmentune&utm_medium=deal-list&utm_campaign=bf2026) |
 | **Faivelo** | Email hosting for your own domain with unlimited mailboxes, aliases and domains. | [80% off: $12 for the year instead of $60, first 500 new accounts, until Dec 1](https://faivelo.com/black-friday) |
+| **12happy** | Uptime monitoring and status pages. | [3 months of Pro free with code `BLACKFRIDAY`, no card, first 100 accounts, until Dec 1 (23:59 UTC)](https://www.12hpy.com/deals/black-friday?utm_source=carmentune&utm_medium=deal-list&utm_campaign=black-friday-2026) |
 
 ## 🔍 SEO, Analytics & Advertising
 
@@ -146,6 +148,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **ImagineYourBook** | AI book writer that plans and drafts full-length novels with a cover, then exports to Word, EPUB, or Markdown. | [Pay-once novel credit packs: Duet (2 novels) $59, Series (5 novels) $119 + 1 novel to give away, Library (10 novels) $199 + 1 novel to give away. Normal price $5 a credit, a novel up to 80,000 words is 16 credits, credits never expire, no code, through Nov 30 (11:59 PM PT)](https://www.imagineyourbook.com/blackfriday) |
 | **Grai** | Offline cadence gate that flags AI-writing tells in drafts before clients do, with a live verification link for client work. | [30% off your first billing cycle on Solo Offline ($79/yr) and Agency Protocol ($99/mo, $790/yr) with code BF2026, Nov 24 to Nov 30, 2026](https://grai.page) |
 | **EarlyLore** | AI product discovery and competitive intelligence across 540K+ products, website traffic histories, Design DNA, and 14 MCP tools. | [25% off Annual Year 1 (Pro $144 → $108/yr, Max $384 → $288/yr) with code `BF2026` (auto-applied), Nov 24 – Nov 30 PT](https://earlylore.com/pricing) |
+| **Bordfeed** | Job data API for agents and builders: 500k+ live jobs from company hiring pages, refreshed nightly, via REST API, webhooks, email or MCP. | [50% off your first 3 months on any plan (Pro $79 → $39.50/mo) with code `BFCM50`, new subscriptions only, Nov 27 – Dec 4](https://bordfeed.com/black-friday?utm_source=github&utm_medium=bf_list&utm_campaign=carmentune) |
 
 ## 📞 Communication & VoIP
 
@@ -165,6 +168,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Dext** | Accounting automation for data extraction and bookkeeping. | [15% off for 12 months](https://join.dext.com/coupon) |
 | **Options Matrix Pro** | Options strategy visualizer, scanners and trade journal for retail options traders. | [50% off every plan: first year on annual, first 3 months on monthly. No code needed. Nov 23 to 30, 2026](https://www.optionsmatrixpro.com/black-friday) |
 | **BrassWell** | Bookkeeping for the self-employed: income, expenses, receipts, mileage and invoices. | [25% off the first year of Pro yearly with code BLACKFRIDAY25 ($299 → $224.25). Nov 23 to 30, 2026](https://brasswell.app/black-friday) |
+| **Galore** | Social investing app: turn a belief or any post (TikTok, YouTube, X) into stock ideas, test an idea on past prices and follow the public trades of creators and investors. | [Free access to the whole platform now, plus 20% off membership ($89.99/year or $11.99/month) when it opens with code `BLACKFRIDAY`, Nov 28 – Dec 1. Paper trading today; live trading not yet available. Not investment advice.](https://trygalore.com) |
 
 ## 💼 Business, Management & HR
 

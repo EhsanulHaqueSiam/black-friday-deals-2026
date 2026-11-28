@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**143 active deals** of 144 listed
+**145 active deals** of 148 listed
 
-_Last updated: Nov 27, 2026 06:17 PST_
+_Last updated: Nov 28, 2026 05:07 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -37,7 +37,6 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 
 | Vendor | Deal | Code | Dates | Focus | Notes |
 |---|---|---|---|---|---|
-| [Tenable Nessus](https://www.tenable.com/products/nessus) | 35% off Tenable Nessus Professional | `takehalf` | Nov 27 |  | Vulnerability scanning solution for SMB and consultants · via [@ashu2188](https://github.com/ashu2188) |
 | [AdverseMonitor](https://adversemonitor.com/black-friday) | 40%–60% off the first year of any yearly plan (MSSP plans from $234 for the first year) | — | Nov 30 (6:59 PM ET (23:59:59 UTC)) | Blue | Threat intelligence platform aimed at MSSPs. Discount applied automatically at checkout, no code. 14-day free trial, no card required. |
 | [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | ~20% off licenses and bundles. | `LIFETIME` | Nov 30 | Red | AI-assisted exploit-development framework with 46,000+ exploits, zero-days and debugger integration. Prices in EUR. · via [@epgh123](https://github.com/epgh123) |
 | [Exploit Pack - Control Pack](https://www.exploitpack.com/products/control-pack) | 20% off (€1,200 → €960) plus Lifetime licence | `LIFETIME` | Nov 30 | Red | Cross-platform C2 for stealthy post-exploitation and AI-assisted red-team operations. Prices in EUR. · via [@epgh123](https://github.com/epgh123) |
@@ -46,10 +45,13 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Noviscan](https://secufor.net/black-week/) | 30-day free trial of Noviscan® Premium, then €9.90 a month | `BLACKFRIDAY26` | Nov 23 – Nov 30 | Blue | Face recognition for your IP cameras. Faces are analysed on your computer, and Noviscan warns you when a face it does not know shows up. Windows, macOS or Linux. New Premium subscribers, once per account, monthly plan. A card is asked at sign-up; nothing is charged during the trial. Cancel before it ends to pay nothing. · via [@ludovic767](https://github.com/ludovic767) |
 | [OffSeq Mirage](https://mirage.offseq.com/pricing) | 50% off the first 3 months of any plan | `BFCM2026` | Nov 30 | Blue | Real-time honeypot threat intelligence with attacker attribution and STIX/MISP exports. Free plan (1 honeypot) plus the free CC BY 4.0 Mirage Feed. · via [@thistehneisen](https://github.com/thistehneisen) |
 | [OSINTverse](https://osintverse.com/pricing) | 10% off any credit top-up (wallet credited the full amount) | `BLACKFRIDAY10` | Nov 30 (23:59 UTC) | Blue | OSINT investigation platform: search an email, username, phone, domain, name, IP, image or crypto wallet across 17 sources from one box, keep results in cases, map them in a team graph, or run it from the API and MCP server. Pay per lookup, no subscription. |
+| [DarkWebSonar](https://darkwebsonar.io/pricing) | 3 months free on any yearly plan (12 months for the price of 9) | `CYBERSALE26` | Nov 28 – Dec 1 (23:59 UTC) | Blue | Dark web monitoring and threat intelligence: alerts when your company, domains or emails show up in breaches, stealer logs or ransomware leak sites; tracks thousands of threat actors, with API and MCP access on Pro. Starter $490 → $441/yr, Growth $990 → $891/yr, Pro $1,990 → $1,791/yr. · via [@DarkWebSonar](https://github.com/DarkWebSonar) |
 | [Doppelgänger ATLAS](https://store.physicalexploit.com/products/atlas) | 50% off the ATLAS license for one year ($39 → $19.50 for one device, $69 → $34.50 for two) | — | Nov 27 – Dec 1 (11:59 PM ET) | Red / Physical | Android app for authorized physical security assessments: RFID card work with a Proxmark or Chameleon Ultra, Doppelgänger reader capture, an operational map and evidence capture. Applies at checkout, no code. [Documentation](https://atlas.mwgroup.io/). · via [@tweathers-sec](https://github.com/tweathers-sec) |
 | [Guard by OffSeq](https://guard.report/monitoring) | 50% off the full report and the first month of monitoring | — | Dec 1 | Blue | Website security and NIS2/GDPR compliance scanning with continuous monitoring. Free scan, results in minutes. · via [@thistehneisen](https://github.com/thistehneisen) |
+| [MatchDNS](https://www.matchdns.com/promo/2026-blackfriday) | 50% off recurring on annual Pro ($19.90 → $9.95/yr) and Enterprise ($89.90 → $44.95/yr) plans | `BF2026` | Nov 27 – Dec 1 (08:00 UTC) | Blue / Networking | Authoritative Smart DNS platform with one-click DNSSEC, Attack Shield (DDoS/query flood analytics), 24/7 DNS hijack & uptime monitoring, auto-renewed Managed Wildcard SSL, GeoIP & ISP routing, and OpenAPI. Free plan available; recurring discount pre-filled on promo page. · via [@MatchDNS](https://github.com/MatchDNS) |
 | [OffSeq Threat Radar](https://radar.offseq.com/pricing) | 50% off the first month or the whole first year of any subscription plan | — | Dec 1 | Blue | Live CVE, exploited-vulnerability and malware intelligence with API, RSS and alerts. Free plan with API access (30 requests/day). · via [@thistehneisen](https://github.com/thistehneisen) |
 | [OmniForge](https://zcoldwater.github.io/omniforge-skills/black-friday-2026-developer-security-deal.html) | 83% off 3-in-1 Launch Security, Email DNS & AI Search Fix Suite ($29 to $5 one-time pass; individual VibeShield v7.0 / InboxShield v7.0 / CiteReady v6.0 passes $2) | — | Dec 1 (23:59 UTC) | Blue / Dev | Read-only passive web security, email DNS, and AI search launch audit suite: VibeShield v7.0 (116+ checks across JS secrets, Supabase RLS / CVE-2025-48757, Firebase rules, Next.js CVE-2025-29927, TLS & CSP AST), InboxShield v7.0 (SPF 10-lookup flattener, 28-selector DKIM, DMARC, BIMI, MTA-STS), and CiteReady v6.0 (/llms.txt & Schema.org). All diagnostic web scans, zero-install cli.sh, BrandShield v6.2 (78+ TLDs & USPTO), and 50 MIT Agent Skills are free; paid passes unlock domain-tailored copy-paste remediation code with no subscription. Auto-applied, no coupon code required. · via [@zColdWater](https://github.com/zColdWater) |
+| [PhishStats](https://phishstats.info/blackfriday) | 30% off Enterprise for the first year ($99 → $69.30/yr) | `BF2026` | Dec 1 | Blue | Phishing URL database and real-time feed: 10,000 API requests/day, 3 API keys, brand/domain/IP monitoring rules with webhook alerts, and a full historical database download (2009 to today, CSV and SQL). New Enterprise subscriptions only, renews at $99/yr. |
 | [Pulsedive](https://pulsedive.com/) | 35% off first year of annual Pulsedive Pro plans | `BFCM26` | Nov 24 – Dec 1 | Blue | Full-featured freemium community threat intelligence platform providing powerful URL/IP scanning, threat tracking, integration, searching, and bulk enrichment capabilities. |
 | [S4E](https://s4e.io/black-friday) | 60% off a full year of S4E Pro ($1,428 → $571.20, about $47.60/mo) | `BLACKFRIDAY2026` | Dec 1 (23:59 UTC) | Blue | Continuous attack surface protection for your websites, domains and IP addresses. 24/7 change-aware monitoring with 12,000+ continuously updated checks, new CVE matching and instant email alerts, AI fix recommendations, dark web and credential integrations, full scan history and a weekly risk summary. Pro covers 1 continuously protected asset. New annual subscriptions only, discount applies to the first year; the code is applied automatically at checkout. Free plan and free online scanners also available. · via [@Eren-Akdag](https://github.com/Eren-Akdag) |
 | [Termalin](https://termal.in/pricing/) | 16 months of yearly Pro for the price of 12 ($96, $8 → $6/mo) + 100 GB cloud storage | — | Dec 1 | Dev / Networking | SSH, SFTP and RDP client for Windows, macOS, Linux and iOS with end-to-end encrypted sync. AI agents (ChatGPT, Claude, coding tools) run commands on your servers without being handed SSH keys, limited by a per-server command allowlist and logged to an audit log. Auto-applied at checkout, no code. |
@@ -67,6 +69,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [AppSecD](https://dedsecops.com/pricing) | 30% off all paid plans — Starter $20 → $14/mo, Team $50 → $35/mo, Premium $200 → $140/mo, Scale $500 → $350/mo; plus a free 14-day evaluation, no card | — | Nov 17 – Dec 31 | Blue | All-in-one application security — SAST (20+ languages), DAST, SCA, secret scanning, IaC/container/Kubernetes/API testing, deduplicated with AI triage and gated in the pull request. Auto-applied at checkout, no code. · via [@ssecurityy](https://github.com/ssecurityy) |
 | [Vulnsy](https://www.vulnsy.com/) | 50% off Pro for 6 months | `BLACKFRIDAY` | Dec 31 | Red |  |
 | [Scarlet Shark](https://scarletshark.com/promo/cybermonday2026.html) | 100% OFF Basic plan for 5 months | `CyberMonday2026` | Nov 24 – Jan 30, 2027 | Blue / Security | via [@greenspark0](https://github.com/greenspark0) |
+| ~~[Tenable Nessus](https://www.tenable.com/products/nessus)~~ | ~~35% off Tenable Nessus Professional~~ | ~~`takehalf`~~ | Ended Nov 27 |  | Vulnerability scanning solution for SMB and consultants · via [@ashu2188](https://github.com/ashu2188) |
 
 ## Courses & Training
 
@@ -131,7 +134,6 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 
 | Vendor | Deal | Code | Dates | Focus | Notes |
 |---|---|---|---|---|---|
-| [TryHackMe](https://tryhackme.com/black-friday) | 40% off annual Premium, annual MAX and certifications | — | Nov 27 | Red / Blue | Auto-applied at checkout for individual accounts; certification bundles and business/education plans excluded, discount covers year one. |
 | [AppSecEngineer](https://www.appsecengineer.com/individuals/pricing) | 40% off Pro Plus annual plans and Bootcamps | `LEVELUP40` | Nov 30 | Security / AI | Hands-on AI security labs for securing AI agents and LLM apps, plus AppSec, cloud, Kubernetes and threat modeling tracks. · via [@abhaybhargav](https://github.com/abhaybhargav) |
 | [GenAI Security Lab](https://genaisecuritylab.com/pricing) | 40% off the yearly plan and the 4-Month Pass | `BLACKFRIDAY40` | Nov 30 (23:59 UTC) | Security / AI | 200+ hands-on AI security labs (prompt injection, RAG, agents, MCP). Code applies automatically at checkout. |
 | [Iximiuz Labs](https://labs.iximiuz.com/) 💖 | Discounted Lifetime and Annual Subscriptions | — | Nov 30 | General | Browser-based playgrounds for Linux, containers, Kubernetes and networking. |
@@ -139,6 +141,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [PentesterLab](https://pentesterlab.com/pro) | PRO 27% off, Student and Code Review for $699 | — | Dec 2 | Red / Dev | via [@noblevk21](https://github.com/noblevk21) |
 | [LabEx Pro (1 Year)](https://labex.io/checkout?type=2&coupon=2026BF30) | 30% off one-year membership | `2026BF30` | Dec 7 | Security / Linux / DevOps / Cloud | Browser-based hands-on labs. Available to new and existing users; code is active now. |
 | [LabEx Pro (2 Years)](https://labex.io/checkout?type=4&coupon=2026BF50) | 50% off two-year membership | `2026BF50` | Dec 7 | Security / Linux / DevOps / Cloud | Browser-based hands-on labs. Available to new and existing users; code is active now. |
+| ~~[TryHackMe](https://tryhackme.com/black-friday)~~ | ~~40% off annual Premium, annual MAX and certifications~~ | — | Ended Nov 27 | Red / Blue | Auto-applied at checkout for individual accounts; certification bundles and business/education plans excluded, discount covers year one. |
 
 ## Hardware
 
@@ -216,6 +219,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Faivelo](https://faivelo.com/black-friday) | 80% off email hosting for your own domain, $12 for the year instead of $60, renews at $12 (new customers, first 500 accounts) | — | Dec 1 | General | Unlimited mailboxes, aliases and domains on one plan, 25 GB shared storage, webmail and calendar, works with any IMAP app. Bring your own domain · via [@ethannschwartz](https://github.com/ethannschwartz) |
 | [Keeper Security](https://www.keepersecurity.com/pricing/personal-and-family.html) | 40% off personal plans | — | Dec 1 | General | Personal plans only, not business. |
 | [Kinsta](https://kinsta.com/black-friday/) | 3 months free on annual plans or 50% off the first 3 months on monthly plans (new customers) | — | Dec 1 | Cloud | Managed hosting for WordPress secured by Cloudflare, with Vulnerability Protection by Patchstack, SOC 2 and ISO 27001 compliance · via [@vanani11](https://github.com/vanani11) |
+| [Bordfeed](https://bordfeed.com/black-friday) | 50% off the first 3 months on Pro, Max or Ultra (Pro $79 → $39.50/mo); yearly plans 50% off the first year | `BFCM50` | Nov 27 – Dec 4 (23:59 CET) | Dev | Job data API: 500,000+ live jobs from company hiring pages, refreshed every night, closed roles removed. Get them by REST API, webhooks, email digests or an MCP server for ChatGPT and Claude. New subscriptions only. $20 free credit on sign-up, no card. · via [@tomaslau](https://github.com/tomaslau) |
 | [Incogni](https://incogni.com/) | 58% off annual plans | `BFCM26` | Dec 4 | Privacy | Data broker removal service. Useful for exec and personal exposure reduction. |
 | [Porkbun](https://porkbun.com/) | Rolling Black Friday deals, new drops Nov 19, 23 and 27 | — | Dec 4 | general | Flat pricing with cheap renewals all year. .com not discounted yet; check back after each drop. |
 | [Spaceship](https://www.spaceship.com/) | .com for $3.60 first year | `COM67` | Nov 2 – Dec 4 | general | Domain for that project you probably won't start for a while. One per customer, new registrations only. Renews at ~$10.68 + ICANN fee, one of the lowest renewals out there. |
@@ -251,6 +255,8 @@ Code (scripts, workflows) is [MIT](LICENSE). The list content and everything in 
 - [@zColdWater](https://github.com/zColdWater)
 - [@tweathers-sec](https://github.com/tweathers-sec)
 - [@ashu2188](https://github.com/ashu2188)
+- [@MatchDNS](https://github.com/MatchDNS)
+- [@DarkWebSonar](https://github.com/DarkWebSonar)
 - [@chad-butler-git](https://github.com/chad-butler-git)
 - [@oripka](https://github.com/oripka)
 - [@GHULI3V](https://github.com/GHULI3V)
@@ -265,6 +271,7 @@ Code (scripts, workflows) is [MIT](LICENSE). The list content and everything in 
 - [@abhaybhargav](https://github.com/abhaybhargav)
 - [@vanani11](https://github.com/vanani11)
 - [@ethannschwartz](https://github.com/ethannschwartz)
+- [@tomaslau](https://github.com/tomaslau)
 
 ## Past years
 

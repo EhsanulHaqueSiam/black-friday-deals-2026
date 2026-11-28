@@ -2,12 +2,12 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/hosting-cloud/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**96 live deals**, 31 with promo codes. Biggest discounts first. Last built 2026-11-27.
+**95 live deals**, 30 with promo codes. Biggest discounts first. Last built 2026-11-28.
 
 - [Domains](#domains) (9)
 - [Web & WordPress Hosting](#web--wordpress-hosting) (40)
 - [PaaS & Serverless](#paas--serverless) (2)
-- [VPS & Cloud Servers](#vps--cloud-servers) (27)
+- [VPS & Cloud Servers](#vps--cloud-servers) (26)
 - [Databases](#databases) (1)
 - [Cloud Storage & Backup](#cloud-storage--backup) (8)
 - [Email Hosting](#email-hosting) (3)
@@ -92,7 +92,6 @@
 | [BreezeHost](https://x.com/breezehostIO) | VPS and bare metal server hosting. | VPS 20-50% off, Bare Metal 30% off month one |  |  | [details](https://bf26-deals.pages.dev/deal/breezehost/) |
 | [Fluxorus Networks](https://fluxorus.com) | Game servers, VPS and dedicated server hosting. | 50% off the first month of any hosting service |  |  | [details](https://bf26-deals.pages.dev/deal/fluxorusnetworks/) |
 | [Layerbase](https://layerbase.com/pricing) | Flat-priced serverless Postgres, MySQL, Redis and other databases. | 50% off first month, Solo $2.50 | `BFSOLO26` `BFPRO26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/layerbase/) |
-| [natbox](https://my.natbox.io/products/nat-vps?utm_source=blog&utm_campaign=bf2026) | Small EU NAT VPS with root SSH, forwarded IPv4 ports and an IPv6 block. | 50% off yearly plans for life, from $4.50/yr | `BLACKFRIDAY` | Nov 27 | [details](https://bf26-deals.pages.dev/deal/natbox/) |
 | [Syrup Hosting](https://x.com/SyrupHosting) | Game and VPS server hosting. | 50% off your first invoice on any new server | `BLACKFRIDAY` |  | [details](https://bf26-deals.pages.dev/deal/syruphosting/) |
 | [Godlike.host](https://godlike.host/) | VPS and game server hosting with DDoS protection. | 40% off |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/godlikehost/) |
 | [HostInc](https://www.hostinc.in) | Cloud, VPS, dedicated and GPU servers. | Up to 40% off cloud, VPS, dedicated and GPU servers |  |  | [details](https://bf26-deals.pages.dev/deal/hostinc/) |

@@ -2,16 +2,16 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/learning/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**271 live deals**, 105 with promo codes. Biggest discounts first. Last built 2026-11-27.
+**266 live deals**, 104 with promo codes. Biggest discounts first. Last built 2026-11-28.
 
-- [Online Course Platforms](#online-course-platforms) (53)
+- [Online Course Platforms](#online-course-platforms) (51)
 - [Programming & Tech](#programming--tech) (38)
-- [Cybersecurity Certs & Training](#cybersecurity-certs--training) (73)
+- [Cybersecurity Certs & Training](#cybersecurity-certs--training) (72)
 - [Cloud & DevOps Certs](#cloud--devops-certs) (11)
-- [Languages](#languages) (24)
+- [Languages](#languages) (21)
 - [Books & Ebooks](#books--ebooks) (31)
 - [Communities & Newsletters](#communities--newsletters) (8)
-- [More](#more) (33)
+- [More](#more) (34)
 
 ## Online Course Platforms
 
@@ -37,13 +37,11 @@
 | [Coursera](https://coursera.pxf.io/EaYa0n) | Online courses, professional certificates and degrees from universities. | 40% off first year of Plus annual |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/coursera/) |
 | [Coursera Plus](https://www.coursera.org/) | All-access subscription to 7,000+ university and industry courses. | 40% off annual, $399 → $239.40/yr |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/courseraplus/) |
 | [Home Boss (Nuria Corbi)](https://x.com/NuriaCorbi) | Courses on children's book creation and self-publishing. | 40% off all courses and digital resources |  |  | [details](https://bf26-deals.pages.dev/deal/homeboss/) |
-| [Insurance Training Center](https://insurancetrainingcenter.com/lp/black-friday/) | Insurance courses and certifications. | 40% off every course and certification | `BLACKFRIDAY40` | Nov 27 | [details](https://bf26-deals.pages.dev/deal/insurancetrainingcenter/) |
 | [IW Mentor](https://x.com/WonderLaura) | Microsoft 365, Power Platform and Copilot Studio training. | **Soon.** 40% off Ultimate, $650 → $390/yr |  |  | [details](https://bf26-deals.pages.dev/deal/iwmentor/) |
 | [Jono Buchanan Music](https://learn.jonobuchananmusic.com/p/black-friday) | Music production courses and sound packs. | Up to 40% off courses and packs | `BLACK26` `BLACK2630` `BLACK26ALL` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/jonobuchananmusic/) |
 | [TheoryScore](https://theoryscore.com/black-friday/) | UK driving theory test practice with DVSA topic questions and timed mock tests. | 40% off first billing period, yearly $24.99 → $15 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/theoryscore/) |
 | [Transcription Certification Institute](https://x.com/TranscriptionCI) | Transcription training courses. | 40% off all courses | `BLACK40` |  | [details](https://bf26-deals.pages.dev/deal/transcriptioncertificationinstitute/) |
 | [Udemy](https://www.udemy.com/) | Marketplace of self-paced video courses on programming, cloud, AI and more. | Courses from $9.99, Team Plan 40% off |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/udemy/) |
-| [LearnWorlds](https://get.learnworlds.com/coupon) | Platform to create and sell online courses. | Up to 39% off Learning Center plans |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/learnworlds/) |
 | [Frank Gambale Guitar School](https://www.frankgambaleguitarschool.com/) | Online guitar courses. | 35% off all courses | `FRIDAYBLACK35` `BFBUNDLE10` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/frankgambaleguitarschool/) |
 | [Human Givens College](https://x.com/humangivens) | Mental health and psychotherapy courses. | Up to 35% off online courses and live training |  |  | [details](https://bf26-deals.pages.dev/deal/humangivenscollege/) |
 | [StormwaterONE](https://x.com/StormwaterONE) | Stormwater inspector training and certification. | 35% off eligible courses |  |  | [details](https://bf26-deals.pages.dev/deal/stormwaterone/) |
@@ -143,7 +141,6 @@
 | [GenAI Security Lab](https://genaisecuritylab.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on labs attacking vulnerable LLM, RAG, agent and MCP apps, mapped to OWASP. | 40% off 4-month pass and first year | `BLACKFRIDAY40` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/genaisecuritylab/) |
 | [HackTheBox](https://www.hackthebox.com/) | Hands-on hacking labs and cybersecurity training academy. | 25-40% off annual plans |  |  | [details](https://bf26-deals.pages.dev/deal/hackthebox/) |
 | [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) | Courses on malware analysis, EDR and Windows internals, and detection engineering. | 40% off most individual courses | `BF2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/trainsec/) |
-| [TryHackMe](https://tryhackme.com/) | Hands-on cybersecurity training with guided labs for beginners and up. | About 40% off annual |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/tryhackme/) |
 | [Zero-Point Security](https://www.zeropointsecurity.co.uk/courses) | Red team training courses, including CRTO. | 40% off courses |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/zeropointsecurity/) |
 | [INE Security](https://ine.com/) | Online training in penetration testing, blue team and cloud security. | 37% off Premium annual, $799 → $499 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/inesecurity/) |
 | [Hacktricks](https://training.hacktricks.xyz/courses) | Cloud security hacking courses. | 35% off cloud security courses |  |  | [details](https://bf26-deals.pages.dev/deal/hacktricks/) |
@@ -216,9 +213,6 @@
 | [Memrise](https://www.memrise.com/) | Language app with native-speaker videos and spaced repetition. | Up to 70% off Pro, lifetime $329.99 → $99 |  |  | [details](https://bf26-deals.pages.dev/deal/memrise/) |
 | [Zhenzhu](https://zhenzhu.app/#pricing) | Mac menu bar Chinese pop-up dictionary with OCR, pinyin and sentence mining. | 69% off Pro lifetime, $29 → $9 | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/zhenzhu/) |
 | [Migaku](https://migaku.com/) | Language learning toolkit for studying with native videos and flashcards. | 60% off Lifetime, $499 → $200 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/migaku/) |
-| [Rocket Languages](https://www.rocketlanguages.com/) | Interactive audio language courses with lifetime access. | 60% off Levels 1-3, $449.85 → $179.94 | `BLACKFRIDAY` | Nov 27 | [details](https://bf26-deals.pages.dev/deal/rocketlanguages/) |
-| [Pod101](https://www.innovativelanguage.com/) | Audio and video language courses like SpanishPod101 and JapanesePod101. | 55% off every plan |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/pod101/) |
-| [Cambly](https://www.cambly.com/) | Online English tutoring with native-speaking tutors. | 50% off 12-month plans, 30% off 3-month plans |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/cambly/) |
 | [Clozemaster](https://www.clozemaster.com/) | Vocabulary app that teaches words in context with cloze sentences. | 50% off Yearly Pro, $79.99 → $40 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/clozemaster/) |
 | [Dictionaries](https://dictionaries.io/buy?utm_source=trungdq88) | Adds dictionaries for 80+ languages to macOS Look Up and Kindle. | 50% off, lifetime $19.99 → $9.99 | `BF26` | Dec 3 | [details](https://bf26-deals.pages.dev/deal/dictionaries/) |
 | [Happy German 10-Week Challenge](https://go.happygerman.com/kiEJ) | 10-week German course for A1 to B2. | 50% off | `RADICALLIVING50` |  | [details](https://bf26-deals.pages.dev/deal/happygerman10weekchallenge/) |
@@ -311,6 +305,7 @@
 | [Hello Interview](https://www.hellointerview.com/) |  | 35% OFF yearly Premium ($119 → $77), lifetime $299 (reg $399), no code (ends ~Nov 28) |  | Nov 28 | [details](https://bf26-deals.pages.dev/deal/hellointerview/) |
 | [ogSec](https://ogsec.co.uk/) |  | Up to 35% off courses |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/ogsec/) |
 | [Level Effect](https://www.leveleffect.com/pricing) |  | About 17% off the first year of Adventurer ($243.60) or Guardian ($663.60) |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/leveleffect/) |
+| [The Cyber Instructor](https://learn.thecyberinstructor.com/) |  | Sitewide sale incl. the 6-week live AI for Cybersecurity bootcamp (AI red teaming,… | `BF30` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/thecyberinstructor/) |
 | [Xintra](https://www.xintra.org/courses) |  | 30% off courses |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/xintra/) |
 | [Applied Network Defense](https://networkdefense.io) |  | 25% off courses |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/appliednetworkdefense/) |
 | [Altered Security](https://www.alteredsecurity.com/) |  | 20% off all courses and bootcamps, plus an extra 5% when you buy 2 or more items |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/alteredsecurity/) |

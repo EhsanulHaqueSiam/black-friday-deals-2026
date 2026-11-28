@@ -11,7 +11,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 260
+Total deals: 264
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -36,16 +36,17 @@ The best domain deals of Black Friday 2026:
 
 | Deal | Original Price | Sale Price | Registrar | Dates | Code |
 |------|----------------|------------|-----------|--------|------|
-|.com | $16.20 | $5.00 | [Atom.com](https://www.atom.com/black-friday-sale) | Until Dec 7, 2026 | BFCOM (max 1, first year, includes free LLC) |
-|.io | $59.99 | $12.99 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Ongoing | DDC Domain Pro members only, first year only |
 |.app | $8.00 | $5.60 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25, 2026 16:00 - Dec 2, 2026 16:00 UTC | No Code Required |
 | Appraise.net | - | 50% off everything | [Appraise.net](https://appraise.net/specials) | Until Nov 30, 2026 11:59 PM Arizona time | BF2650 |
+|.co | $38.96 | $2.10 | [Atom.com](https://www.atom.com/black-friday-sale) | End date not announced | No Code Required (first year, new registrations only) |
 |.co | $38.48 | $3.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
-|.me | $19.98 | $1.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
-|.xyz | $17.94 | $1.00 | [Atom.com](https://www.atom.com/black-friday-sale) | End date not announced | No Code Required (first year, new registrations only) |
-|.org | $14.48 | $6.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
+|.com | $16.20 | $5.00 | [Atom.com](https://www.atom.com/black-friday-sale) | Until Dec 7, 2026 | BFCOM (max 1, first year, includes free LLC) |
 |.io | $64.69 | $21.00 | [Atom.com](https://www.atom.com/black-friday-sale) | End date not announced | No Code Required (first year, new registrations only) |
+|.io | $59.99 | $12.99 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Ongoing | DDC Domain Pro members only, first year only |
+|.me | $19.98 | $1.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
 | NameBio Collector and Domainer tiers | - | 50% off | [NameBio.com](https://namebio.com/memberships) | Through Nov 30, 2026 23:59 PST | CYBER50 (new subscriptions only; yearly plans or first 3 months of monthly) |
+|.org | $14.48 | $6.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
+|.xyz | $17.94 | $1.00 | [Atom.com](https://www.atom.com/black-friday-sale) | End date not announced | No Code Required (first year, new registrations only) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -81,6 +82,7 @@ The best domain deals of Black Friday 2026:
 |.ai | $209.98 | $149.99 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Ongoing | DDC Domain Pro members only, first year only |
 |.ai | $199.98 | $179.99 | [Name.com](https://www.name.com/promo/cyber-monday) | Nov 25, 2026 12:00 PM - Nov 30, 2026 11:59 PM MT | No Code Required (2-year minimum) |
 |.ai | $89.98 | $77.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5, 2-year minimum) |
+|.co | $38.96 | $2.10 | [Atom.com](https://www.atom.com/black-friday-sale) | End date not announced | No Code Required (first year, new registrations only) |
 |.co | $15.50 | $2.60 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 27, 2026 00:00 - Dec 5, 2026 16:00 UTC | No Code Required |
 |.co | $20.99 | $7.99 | [Gname.com](https://www.gname.com/us/price/co.html) | Nov 27 - Dec 5, 2026 UTC | first year only |
 |.co | $17.99 | $4.99 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Ongoing | DDC Domain Pro members only, first year only |
@@ -332,6 +334,9 @@ Special pricing when registering multiple TLDs together:
 | .com + .io + .tech | - | $24.99 | [Name.com](https://www.name.com/promo/cyber-monday) | Nov 25, 2026 12:00 PM - Nov 30, 2026 11:59 PM MT | No Code Required. First year only. New registrations only. Retail only. |
 | .com + .org + .net | $27.10 | $19.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 23 - Nov 30, 2026 23:59 UTC | No Code Required |
 | .io + .tech | - | $19.99 | [Name.com](https://www.name.com/promo/cyber-monday) | Nov 25, 2026 12:00 PM - Nov 30, 2026 11:59 PM MT | No Code Required. First year only. New registrations only. Retail only. |
+| Mystery Box Portfolio Pack (70 random .com) | $950.00 | $825.00 | [DNX.com](https://dnx.com/mystery-box?v=2) | Through Nov 30, 2026 (end of day), while supplies last | No Code Required. 70 randomly selected new .com registrations, first year only. Return all 70 within 30 minutes for $825.00 in DNX store credit (limit 1 buyback every 30 days). DNX account required. |
+| Mystery Box Single (1 random .com) | $15.00 | $11.99 | [DNX.com](https://dnx.com/mystery-box?v=2) | Through Nov 30, 2026 (end of day), while supplies last | No Code Required. 1 randomly selected new .com registration, first year only. Return it within 10 minutes for $11.99 in DNX store credit (limit 5 buybacks every 30 days). DNX account required. |
+| Mystery Box Starter Pack (7 random .com) | $100.00 | $83.19 | [DNX.com](https://dnx.com/mystery-box?v=2) | Through Nov 30, 2026 (end of day), while supplies last | No Code Required. 7 randomly selected new .com registrations, first year only. Return all 7 within 10 minutes for $83.19 in DNX store credit (limit 3 buybacks every 30 days). DNX account required. |
 | .site + .online | $5.00 | $2.25 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 23 - Dec 6, 2026 23:59 UTC | No Code Required |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -344,21 +349,21 @@ Discounts on premium domain names:
 |----------|----------|-----------|--------|---------------|
 | .blog premium names | 75% off | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Jan 6 - Dec 31, 2026 23:59 UTC | .blog |
 | .cv premium names | 50% off | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Oct 22 - Dec 21, 2026 23:59 UTC | .cv |
-| Premium names | 30% off | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 23 - Dec 6, 2026 23:59 UTC | .bar, .click, .diy, .food, .forum, .help, .lifestyle, .living, .love, .my, .property, .realty, .rest |
 | Premium domains listed on Atom | 25% off | [Atom.com](https://www.atom.com/black-friday-sale) | Until Dec 7, 2026 | All extensions. No code. |
+| Premium names | 30% off | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 23 - Dec 6, 2026 23:59 UTC | .bar, .click, .diy, .food, .forum, .help, .lifestyle, .living, .love, .my, .property, .realty, .rest |
 
 [⬆️ Go to Top](#table-of-contents)
 
 ## 💻 Software
 | Company | Discount | Dates | Notes |
 |---------|----------|-------|--------|
-| **[Carrd](https://try.carrd.com/bf2026)** | **40% off** all Pro plans — Code: **BF2026** | Since Nov 13, 2026 | Upgrades (Basic to Pro Lite, Pro Standard, or Pro Plus), renewals, and gifts. Extra years can be stacked even if the plan is not expiring. End date not announced. [Post](https://x.com/carrd/status/2121302574649196712) |
-| **[UpSnatch](https://upsnatch.com/black-friday.html)** | **Up to 58% off** Pro for life (no code) | Through Nov 30, 2026 23:59 CET | Lock monthly Pro at a lifetime rate. Opening tier $29/mo (reg. $69) / €25 (reg. €59); price climbs as limited spots sell out ($39 → $49 → $55). Cancel anytime. |
 | **[Appraise.net](https://appraise.net/specials)** | **50% off** everything — Code: **BF2650** | Until Nov 30, 2026 11:59 PM Arizona time | Any plan: 50% off the first payment (an annual plan is half off the first year). Lifetime: 50% off. Credit packs: 50% off, as often as you like (active plan or Lifetime required). Code also works when changing plans. Marketplace domain purchases excluded. |
+| **[Carrd](https://try.carrd.com/bf2026)** | **40% off** all Pro plans — Code: **BF2026** | Since Nov 13, 2026 | Upgrades (Basic to Pro Lite, Pro Standard, or Pro Plus), renewals, and gifts. Extra years can be stacked even if the plan is not expiring. End date not announced. [Post](https://x.com/carrd/status/2121302574649196712) |
 | **[Dynadot Website Builder](https://www.dynadot.com/black-friday-sale)** | **50% off** Pro — Code: **BFSITE26** | Nov 23, 2026 00:00 - Dec 2, 2026 00:00 UTC | Drag-and-drop site builder. |
-| **[tiny.BIO](https://www.dynadot.com/black-friday-sale)** | **50% off** Pro | Nov 23, 2026 00:00 - Dec 1, 2026 00:00 UTC | No code. Link-in-bio page on your own domain. |
 | **[NameBio Collector and Domainer tiers](https://namebio.com/memberships)** | **50% off** — Code: **CYBER50** | Through Nov 30, 2026 23:59 PST | Applies to yearly subscriptions or first 3 months of monthly, new subscriptions only. |
 | **[NotRenewing](https://www.notrenewing.com/sell/unified-plans?billing=year)** | **50% off** annual seller plans vs. paying monthly (no code) | Nov 24, 2026 06:00 - Dec 1, 2026 06:00 UTC | Starter $30.00/yr (reg. $50.00), Growth $72.00/yr (reg. $120.00), Pro $150.00/yr (reg. $250.00), Business $294.00/yr (reg. $490.00), Enterprise $594.00/yr (reg. $990.00), Enterprise Plus $1,188.00/yr (reg. $1,980.00). 40% off the annual list price. First year only; renews at annual list. Card payments only. [Post](https://x.com/Not_Renewing/status/2126334255563448716) |
+| **[tiny.BIO](https://www.dynadot.com/black-friday-sale)** | **50% off** Pro | Nov 23, 2026 00:00 - Dec 1, 2026 00:00 UTC | No code. Link-in-bio page on your own domain. |
+| **[UpSnatch](https://upsnatch.com/black-friday.html)** | **Up to 58% off** Pro for life (no code) | Through Nov 30, 2026 23:59 CET | Lock monthly Pro at a lifetime rate. Opening tier $29/mo (reg. $69) / €25 (reg. €59); price climbs as limited spots sell out ($39 → $49 → $55). Cancel anytime. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -377,9 +382,9 @@ Discounts on premium domain names:
 ### Other
 | Deal | Original Price | Sale Price | Company | Dates | Notes |
 |------|----------------|------------|---------|-------|-------|
-| **Prepay balance bonus** | - | +1% bonus | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 16, 2026 00:00 - Dec 1, 2026 00:00 UTC | 1% account credit on prepays over $10,000. Wire or crypto only. |
 | **AbuseShield** | - | $5.00/year | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Now live | Lookalike-domain monitoring. Select extensions. Sale excludes .CV. No code. |
 | **DynaPay** | - | $20/transaction | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Through Dec 31, 2026 | Escrow fee, any sale amount. |
+| **Prepay balance bonus** | - | +1% bonus | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 16, 2026 00:00 - Dec 1, 2026 00:00 UTC | 1% account credit on prepays over $10,000. Wire or crypto only. |
 | **.vegas renewal** | $43.99 | $12.99/year | [NameSilo.com](https://www.namesilo.com/sales/black-friday) | Ends Dec 31, 2026 | Standard renewals only |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -400,6 +405,7 @@ Discounts on premium domain names:
 - [NameSilo Black Friday](https://www.namesilo.com/sales/black-friday)
 - [NameBio Memberships](https://namebio.com/memberships)
 - [NotRenewing Seller Plans](https://www.notrenewing.com/sell/unified-plans?billing=year)
+- [DNX Mystery Boxes](https://dnx.com/mystery-box?v=2)
 
 [⬆️ Go to Top](#table-of-contents)
 

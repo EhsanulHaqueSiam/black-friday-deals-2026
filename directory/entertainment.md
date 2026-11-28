@@ -2,10 +2,10 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/entertainment/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**67 live deals**, 16 with promo codes. Biggest discounts first. Last built 2026-11-27.
+**66 live deals**, 16 with promo codes. Biggest discounts first. Last built 2026-11-28.
 
 - [Streaming Video](#streaming-video) (31)
-- [Music](#music) (19)
+- [Music](#music) (18)
 - [Audiobooks & Reading](#audiobooks--reading) (6)
 - [News & Magazines](#news--magazines) (11)
 
@@ -58,7 +58,6 @@
 | [PlaylistSupply](https://x.com/PlaylistSupply) | Finds Spotify playlists and curator contacts for your song. | 50% off your first month or year | `BLACKFRIDAY50` |  | [details](https://bf26-deals.pages.dev/deal/playlistsupply/) |
 | [RadioPromo.io](https://RadioPromo.io) | Finds radio stations playing music like yours to pitch. | 50% off your first month or year | `BLACKFRIDAY50` |  | [details](https://bf26-deals.pages.dev/deal/radiopromo/) |
 | [Soundiiz](https://soundiiz.com) | Transfers playlists between music streaming services. | 50% off monthly or annual Premium while subscribed | `BF2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/soundiiz/) |
-| [Xerxes The Dark](https://www.xerxesthedark.bandcamp.com/music) | Dark ambient music on Bandcamp. | 50% off all Bandcamp releases |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/xerxesthedark/) |
 | [MiniTune](https://minitune.app) | Menu bar music player for YouTube, Apple Music, Spotify, Subsonic and local files. | 37% off one-time, $7.99 → $4.99 | `MINITUNEBF26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/minitune/) |
 | [MusicPal](https://elevenapril.com/musicpal) | Offline MP3 and audio player for iPhone with background playback and themes. | 30% off lifetime, $29.99 → $20.99 | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/musicpal/) |
 | [Thomas Lemmer vinyl and CDs](https://x.com/ThomasLemmer) | Ambient music on vinyl and CD. | 25% off, 30% off orders from 55 GBP | `EARLYBF` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/thomaslemmervinylandcds/) |

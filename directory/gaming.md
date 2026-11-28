@@ -2,12 +2,12 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/gaming/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**72 live deals**, 9 with promo codes. Biggest discounts first. Last built 2026-11-27.
+**73 live deals**, 9 with promo codes. Biggest discounts first. Last built 2026-11-28.
 
 - [Game Stores & Sales](#game-stores--sales) (15)
 - [Game Subscriptions](#game-subscriptions) (2)
 - [Games & Apps](#games--apps) (39)
-- [More](#more) (16)
+- [More](#more) (17)
 
 ## Game Stores & Sales
 
@@ -84,6 +84,7 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
+| [Ouija Table](https://apps.apple.com/app/id921379042) |  | 70% off on the App Store ($0.99 → $0.29) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/ouijatable/) |
 | [Bouncy Fruits: Fruit Merge](https://apps.apple.com/us/app/id6751171271) |  | 50% off Remove Ads: Remove Ads $4.99 → $2.49 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/bouncyfruits/) |
 | [Cyphre: Brain Puzzle Rings](https://apps.apple.com/us/app/id6748257455) |  | 50% off Premium: Premium (no ads, all themes) $4.99 → $2.49 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/cyphre/) |
 | [Neura Rush: Brain Puzzle Games](https://apps.apple.com/us/app/id6746837300) |  | 50% off Unlock All: Unlock All (lifetime) $19.99 → $9.99 | `BLACKWEEK` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/neurarush/) |

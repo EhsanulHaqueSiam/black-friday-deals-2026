@@ -2,14 +2,14 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/photo-video-audio/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**251 live deals**, 83 with promo codes. Biggest discounts first. Last built 2026-11-27.
+**244 live deals**, 83 with promo codes. Biggest discounts first. Last built 2026-11-28.
 
-- [Video Editing](#video-editing) (42)
+- [Video Editing](#video-editing) (41)
 - [Screen Recording](#screen-recording) (34)
-- [Photo Editing](#photo-editing) (39)
-- [Music & Audio Production](#music--audio-production) (91)
+- [Photo Editing](#photo-editing) (33)
+- [Music & Audio Production](#music--audio-production) (90)
 - [Podcasts & Transcription](#podcasts--transcription) (22)
-- [More](#more) (23)
+- [More](#more) (24)
 
 ## Video Editing
 
@@ -35,7 +35,6 @@
 | [Magic Automa AI](https://www.magicautoma.com/?ref=awesome-bf#pricing) | One-click macros for DaVinci Resolve, Premiere, After Effects and Final Cut. | 40% off lifetime, Studio €49.99 → €29.99 | `BLACKFRIDAY2026` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/magicautomaai/) |
 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com/?utm_source=github&utm_campaign=blackfriday26) | Transcribes audio to SRT and aligns media to caption timestamps in Final Cut Pro. | 40% off lifetime license | `BLACKFRIDAY26` |  | [details](https://bf26-deals.pages.dev/deal/matchcutfcp/) |
 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs. | 40% off, Personal $29 → $17.40 | `BLACKFRIDAY40` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/pimosa/) |
-| [KwaFlux](https://kwaflux.com/pricing?utm_source=github&utm_medium=referral&utm_campaign=github-mrs-bf2026) | Local AI enhancer for video, photo and audio with upscaling, restoration and interpolation. | Up to 35% off, perpetual $199.99 → $129.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/kwaflux/) |
 | [9xBuddy](https://123sudo.com) | Web tools to download, convert and save online videos, audio and lyrics. | 30% off annual and lifetime plans across five tools |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/9xbuddy/) |
 | [AI Roto](https://fayazmodz.gumroad.com/l/ai-roto) | Offline automatic rotoscoping add-on for Blender. | 30% off |  |  | [details](https://bf26-deals.pages.dev/deal/airoto/) |
 | [AVE AI Video Editor](https://www.aivideoeditor.app/pro/?utm_source=mac-ios-black-friday&utm_medium=referral&utm_campaign=ave_eoy_2026) | Mac video editor for screen demos with transcript-based editing and an AI assistant. | 30% off Pro lifetime, $99 → $69.30 |  | Dec 24 | [details](https://bf26-deals.pages.dev/deal/aveaivideoeditor/) |
@@ -103,7 +102,6 @@
 |---|---|---|---|---|---|
 | [Luminar Neo](https://skylum.evyy.net/c/6191520/3326669/3255) | AI photo editor with sky replacement and relighting. | Up to 77% off lifetime licenses |  |  | [details](https://bf26-deals.pages.dev/deal/luminarneo/) |
 | [Skylum Luminar](https://skylum.com/) | AI photo editor for desktop and mobile, formerly Luminar Neo. | Up to 77% off, desktop $99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/skylumluminar/) |
-| [SortGlass](https://sortglass.com/) | Swipe-to-sort tool for Apple Photos with duplicate finder and encrypted vault. | 70% off Pro Lifetime |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/sortglass/) |
 | [Topaz Labs](https://www.topazlabs.com/sale) | AI upscaling, denoising and sharpening for photos and video. | Up to 67% off bundles, Studio $499 → $299/yr |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/topazlabs/) |
 | [PhotoProof](https://photoproof.io) | Online photo proofing and client gallery app for photographers. | 60% off Pro yearly |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/photoproof/) |
 | [Gallery Audit](https://galleryaudit.app) | iPhone app that clears blurry shots and look-alike photos. | Pro up to 57% off for new subscribers |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/galleryaudit/) |
@@ -116,27 +114,22 @@
 | [Misuro](https://apps.apple.com/app/id6824880160?pt=95020085&ct=bf-mrs&mt=12) | Mac app to batch resize, crop, convert and watermark photos offline. | 50% off, €9.99 → €4.99 one-time |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/misuro/) |
 | [Picky Photo](https://pickyphoto.eu) | Fast RAW photo viewer and culler that opens cards and NAS shares without import. | 50% off, now $14.50 |  | Dec 5 | [details](https://bf26-deals.pages.dev/deal/pickyphoto/) |
 | [Skua](https://getskua.app/?utm_source=mrs-bf&utm_medium=deal-list&utm_campaign=bf2026) | Keyboard-driven photo culling for Mac with non-destructive crop and tone edits. | 50% off, $24 → $12 one-time | `LAUNCH50` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/skua/) |
-| [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | Swipe-based photo cleaner for iPhone and iPad. | 50% off Pro lifetime, $39.99 → $19.99 |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/snaptidy/) |
 | [SnipMark](https://arelunio.com/snipmark/) | Blurs sensitive info and batch-exports annotated bug screenshots. | 50% off Lifetime Pro, now $4.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/snipmark/) |
 | [VSCO](https://www.vsco.co/) | Photo and video editing app with presets and film-style filters. | 50% off year one of Pro and One for signups and upgrades | `BLACKFRIDAY50` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/vsco/) |
 | [Aiarty Image Enhancer](https://www.aiarty.com/ai-image-enhancer/buy.htm) | Offline AI photo upscaler and detail restorer for desktop. | Up to 49% off a lifetime image enhancer license | `BF26-EXTRA` |  | [details](https://bf26-deals.pages.dev/deal/aiartyimageenhancer/) |
 | [HashPhotos](https://x.com/hashphotosapp) | Photo organizer and editor app. | 48% off Pro Lifetime |  | Dec 9 | [details](https://bf26-deals.pages.dev/deal/hashphotos/) |
-| [PAPLO](https://getpaplo.com/news/black-friday-2026?utm_source=press-awesome-bf&utm_medium=listing&utm_campaign=press-awesome-bf) | Turns photos of pets, friends and food into chat stickers. | 43% off Plus, $6.99 → $3.99 |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/paplo/) |
-| [Culla](https://getculla.com/) | Photo culling app that works directly on the memory card with nothing to import. | 40% off, $24.99 → $14.99 one-time |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/culla/) |
 | [Redac](https://gracehuang.gumroad.com/l/redac) | Mac app for quickly redacting text in images. | 40% off | `BLACKFRIDAY26` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/redac/) |
 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius) | Batch resizes and edits images on macOS. | 40% off | `BLACKFRIDAY26` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/resizegenius/) |
 | [Evoto](https://blog.evoto.ai/evoto-black-friday-2026/) | AI photo retouching and editing software. | Up to 35% off plus a bonus pack |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/evoto/) |
 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-trungdq88) | Mac app that batch crops bird photos at full resolution, including RAW files. | 33% off one-time unlock, $29.99 → $19.99 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/birdframe/) |
 | [Zipic](https://zipic.app/black-friday?utm_source=gh-trungdq88&utm_medium=github&utm_campaign=bf2026) | Image compression for Mac and Windows with a scriptable CLI. | 33% off, Solo $19.99 → $13.39 | `BF2026` | Dec 6 | [details](https://bf26-deals.pages.dev/deal/zipic/) |
 | [Blark](https://blark.app) | Camera app for black and white photos and videos on iPhone and iPad. | 30% off lifetime | `BFCM2026LIFETIME` | Dec 7 | [details](https://bf26-deals.pages.dev/deal/blark/) |
-| [Aftershoot](https://aftershoot.co/Reddit-BlackFriday2026) | AI culling, editing and retouching for photographers. | 20% off yearly plans |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/aftershoot/) |
 | [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) | Photo editing and organizing app for photographers. | $119.88 → $64.99 for 1 TB photo editing, 12 months |  |  | [details](https://bf26-deals.pages.dev/deal/adobelightroom/) |
 | [Affinity](https://affinity.serif.com/en-gb/photo/#buy) | Affinity photo editing, design and layout apps with a perpetual license. | Lifetime V2 license 607 PLN → 304 PLN |  |  | [details](https://bf26-deals.pages.dev/deal/affinity/) |
-| [BeMuze Pro: Pattern & Collage](https://apps.apple.com/app/apple-store/id6811112925?pt=441710&ct=bf-github&mt=8) | Mac app that turns a photo into patterns, collages and printable art without AI. | One-time purchase $49.99 → $39.99 |  | Jan 1 | [details](https://bf26-deals.pages.dev/deal/bemuzepro/) |
+| [BeMuze Pro: Photo Art](https://apps.apple.com/app/apple-store/id6811112925?pt=441710&ct=bf-github&mt=8) | Mac app that turns a photo into patterns, collages and printable art without AI. | One-time purchase $49.99 → $39.99 |  | Jan 1 | [details](https://bf26-deals.pages.dev/deal/bemuzepro/) |
 | [Cullstack](https://cullstack.com) | Photo culling app that rates and sorts shots in place and flags blinks and blur on-device. | Pro license $119 instead of $179 |  | Jan 2 | [details](https://bf26-deals.pages.dev/deal/cullstack/) |
 | [FixImage](https://fiximage.net/black-friday) | Browser-based portrait retouching and photo editing. | Double credits on new plans and credit packs |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/fiximage/) |
 | [ON1](https://www.on1.com/landing/bfriday/) | Photo editor and Lightroom alternative. | Perpetual license 530 → 265 PLN |  |  | [details](https://bf26-deals.pages.dev/deal/on1/) |
-| [ON1 Photo RAW](https://www.on1.com/landing/black-friday/) | RAW photo editor and organizer. | $99.99 → $59.99, MAX $169.99 → $129.99 |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/on1photoraw/) |
 | [PhotonCam](https://x.com/JuniperPhoton) | Camera app for iPhone. | Lifetime $14.99 → $12.99 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/photoncam/) |
 | [Snappic](https://x.com/SnappicBooth) | Photo booth software for events. | Up to $1,000 off annual plans |  | Dec 6 | [details](https://bf26-deals.pages.dev/deal/snappic/) |
 | [Strata Pro](https://x.com/Panku005) | Mac app that stacks planetary and lunar video captures into images. | $10 once for the next few buyers |  |  | [details](https://bf26-deals.pages.dev/deal/stratapro/) |
@@ -223,7 +216,6 @@
 | [Inlet Audio](https://www.inletaudio.com/collections/instruments) | Sampled string and woodwind instruments. | Up to 20% off bundles |  |  | [details](https://bf26-deals.pages.dev/deal/inletaudio/) |
 | [Noise Engineering](https://noiseengineering.us/collections/all/) | Eurorack modules and plugins. | 15% off modules and plugins |  |  | [details](https://bf26-deals.pages.dev/deal/noiseengineering/) |
 | [Arturia](https://www.arturia.com/) | Software synths and vintage instrument emulations. | $199 → $99 for the synth, $699 → $349 for the collection |  |  | [details](https://bf26-deals.pages.dev/deal/arturia/) |
-| [Auburn Sounds](https://www.auburnsounds.com/) | Audio plugin maker of Panagement and Psypan. | Psypan 2 $10, Panagement 2 $9 |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/auburnsounds/) |
 | [Cableguys](https://www.cableguys.com/products) | Maker of ShaperBox and modulation plugins. | ShaperBox 3 $89, full bundle $149 |  |  | [details](https://bf26-deals.pages.dev/deal/cableguys/) |
 | [Crocus Soundware](https://crocussoundware.com/) | Sample libraries for composers. | Libraries from $28, bundle $299 | `BF_EXTRA` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/crocussoundware/) |
 | [DOT Audio Recorder](https://plastic.audio/dot/?src=bf-github) | Records Mac system audio and detects key, BPM and chords with MIDI export. | $49 → $29 one-time |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/dotaudiorecorder/) |
@@ -276,6 +268,7 @@
 | [FireCut](https://firecut.ai/pricing/all/) |  | 50% off annual plans ($59 → $29.50/mo Max, $34 → $17/mo Pro) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/firecut/) |
 | [FrameGloss](https://framegloss.app/?deal=blackfriday&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 50% OFF Pro Lifetime ($15 → $7.50) | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/framegloss/) |
 | [InTime](https://apps.apple.com/app/id6836084908) |  | 50% off All Eras Lifetime Unlock ($7.99 → $3.99 one-time purchase) | `BF50` | Dec 3 | [details](https://bf26-deals.pages.dev/deal/intime/) |
+| [Tiny Mighty: Compress Videos](https://apps.apple.com/app/id6806660433?pt=229293&ct=bf-mrs) |  | 50% off the one-time Lifetime Unlock ($9.99 → $4.99) |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/tinymighty/) |
 | [ClipCreator.ai](https://clipcreator.ai/black-friday?utm_source=mrsbf&utm_campaign=bf2026) |  | 40% off your first month | `BF2026` | Dec 2 | [details](https://bf26-deals.pages.dev/deal/clipcreator/) |
 | [Metronome by Audomi](https://apps.apple.com/app/apple-store/id6820653905?pt=129493715&ct=bf_lists&mt=8) |  | 40% off ($4.99 $2.99) |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/metronomebyaudomi/) |
 | [ShowShark Home](https://showshark.app/home/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026) |  | 40% off, $99 → $59.40 | `BF26-SHOWSHARK` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/showsharkhome/) |

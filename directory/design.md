@@ -2,13 +2,13 @@
 
 [All categories](../README.md) · [Browse on the website](https://bf26-deals.pages.dev/c/design/) · [Suggest a deal](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026/issues/new?template=deal.yml)
 
-**162 live deals**, 63 with promo codes. Biggest discounts first. Last built 2026-11-27.
+**155 live deals**, 63 with promo codes. Biggest discounts first. Last built 2026-11-28.
 
-- [UI Kits & Templates](#ui-kits--templates) (46)
+- [UI Kits & Templates](#ui-kits--templates) (45)
 - [Icons, Fonts & Illustrations](#icons-fonts--illustrations) (8)
-- [Design & Prototyping Tools](#design--prototyping-tools) (48)
+- [Design & Prototyping Tools](#design--prototyping-tools) (45)
 - [Mockups & Screenshots](#mockups--screenshots) (6)
-- [Stock Photos, Video & Music](#stock-photos-video--music) (39)
+- [Stock Photos, Video & Music](#stock-photos-video--music) (36)
 - [More](#more) (15)
 
 ## UI Kits & Templates
@@ -23,7 +23,6 @@
 | [UIdeck](https://uideck.com/all-access) | Tailwind CSS and Bootstrap templates and landing pages. | 60% off all plans, every renewal | `BLFCM2026` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/uideck/) |
 | [Animate Your Science poster kits](https://x.com/Animate_Science) | Scientific poster template kits. | 50% off poster template kits, from $14.95 | `BLACKFRIDAY50` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/animateyourscienceposterkits/) |
 | [Artevo Studio](https://x.com/ArtevoStudio) | Framer templates, components and plugins. | 50% off Framer templates, components and plugins | `BLCKFRDY50` |  | [details](https://bf26-deals.pages.dev/deal/artevostudio/) |
-| [Insert Frame](https://insertframe.io/blackfriday) | Framer templates and components. | 25% off products, bundles up to 50% off |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/insertframe/) |
 | [NgBracket](https://x.com/duncanfaulkner) | Angular component packs: data tables, scheduler, form builder. | 50% off Angular components, single packs £29.50 |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/ngbracket/) |
 | [Ralcon Studio](https://x.com/RalconStudio) | Website sections and templates for building sites with AI. | 50% off everything |  |  | [details](https://bf26-deals.pages.dev/deal/ralconstudio/) |
 | [TailGrids](https://pimjo.com/black-friday-cyber-monday-deal) | 600+ Tailwind CSS components, blocks and templates for HTML, React, Vue and Figma. | 50% off All Access plans |  |  | [details](https://bf26-deals.pages.dev/deal/tailgrids/) |
@@ -79,14 +78,12 @@
 
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
-| [Adobe Creative Cloud Pro](https://www.adobe.com/creativecloud/plans.html) | Adobe's suite of creative apps including Photoshop, Illustrator and Premiere Pro. | Discounted first year for new subscribers |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/adobecreativecloudpro/) |
 | [Ripplix](https://x.com/ripplix_) | Motion design references with AI prompts, Figma plugin and MCP server. | 70% off lifetime Pro for motion design references |  |  | [details](https://bf26-deals.pages.dev/deal/ripplix/) |
 | [Krumzi](https://www.krumzi.com/pricing) | Web app that turns a one-line prompt into editable flyers, posts and videos. | 60% off first year, Starter $190 → $76 |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/krumzi/) |
 | [Mockplus](https://www.mockplus.com/black-friday-deals-2026) | Prototyping and design collaboration tools. | Up to 60% off all products |  |  | [details](https://bf26-deals.pages.dev/deal/mockplus/) |
-| [Adobe Creative Cloud](https://www.adobe.com/) | Suite of creative apps including Photoshop, Illustrator and Premiere Pro. | 57% off All Apps first year, $29.99/mo |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/adobecreativecloud/) |
 | [1DesignTool](https://1designtool.com/?utm_source=tonybf#pricing) | Local design studio that coding agents drive to make slides, app screens, 3D and brand kits. | 50% off Pro one-time license, $29 → $14.50 | `BFDEALS50` | Nov 29 | [details](https://bf26-deals.pages.dev/deal/1designtool/) |
 | [Atmos](https://atmos.style/?utm_source=twf-nikhila&utm_campaign=bf2026) | Color palette tool that builds accessible UI shades and syncs them to Figma. | 50% off lifetime | `BF2026` | Nov 29 | [details](https://bf26-deals.pages.dev/deal/atmos/) |
-| [Canva Pro](https://www.canva.com/) | Online design tool with templates and AI image generation. | About 50% off the first 3 months |  |  | [details](https://bf26-deals.pages.dev/deal/canvapro/) |
+| [Canva Pro](https://www.canva.com/) | Online design tool with templates and AI image generation. | About 50% off the first 3 months |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/canvapro/) |
 | [Codia](https://codia.ai/ai-ui-design-generator) | AI Figma plugins for screenshot to design, UI generation and slides. | Up to 50% off upgrades, slide plugin $120 for year one |  |  | [details](https://bf26-deals.pages.dev/deal/codia/) |
 | [Hyper3D Rodin](https://hyper3d.ai/) | AI generator that turns text and images into 3D models. | 50% off the first year of Creator or Business |  | Dec 8 | [details](https://bf26-deals.pages.dev/deal/hyper3drodin/) |
 | [INSYDIUM](https://insydium.ltd/) | NeXus and X-Particles simulation tools for Cinema 4D and Blender. | 50% off all 3D tools | `BLKFRI26` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/insydium/) |
@@ -104,7 +101,7 @@
 | [iToo Forest Pack](https://www.itoosoft.com/) | 3ds Max plugins Forest Pack and RailClone plus asset collections. | Up to 40% off 3D scattering tools and asset packs |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/itooforestpack/) |
 | [Moho](https://moho.lostmarble.com/) | 2D animation software with bone rigging, Debut and Pro editions. | **Soon.** 40% off Debut and Pro 2D animation software | `BLACKFRIDAY` |  | [details](https://bf26-deals.pages.dev/deal/moho/) |
 | [ProtoPie](https://www.protopie.io/black-friday) | Interactive high-fidelity prototyping tool. | 40% off annual Pro prototyping | `PRO40` | Dec 5 | [details](https://bf26-deals.pages.dev/deal/protopie/) |
-| [QRat](https://apps.apple.com/redeem?ctx=offercodes&id=6829358606&code=PIXELPETBF40) | Customizable QR code generator with hundreds of templates. | 40% off lifetime, $5.90 → $3.49 | `PIXELPETBF40` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/qrat/) |
+| [QRat](https://apps.apple.com/redeem?ctx=offercodes&id=6736931330&code=BF26) | Customizable QR code generator with hundreds of templates. | 40% off lifetime, $5.90 → $3.49 | `BF26` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/qrat/) |
 | [Silo](https://nevercenter.com/silo/) | Nevercenter's 3D subdivision surface modeler. | 40% off 3D modeling software | `GATHER` |  | [details](https://bf26-deals.pages.dev/deal/silo/) |
 | [Marvelous Designer](https://www.marvelousdesigner.com/) | 3D cloth and garment simulation software. | **Soon.** 35% off annual 3D garment design subscriptions |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/marvelousdesigner/) |
 | [Dabbit](https://dabbit.app/?utm_source=awesome-bf-2026) | Color-managed Mac color picker that copies colors in many code formats. | 30% off license, $9.99 → $6.99 | `BLACKFRIDAY` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/dabbit/) |
@@ -121,7 +118,6 @@
 | [Paletteo - Colors & Gradients](https://paletteo.artsvit.com/) | Picks colors from photos or the camera and builds exportable palettes and gradients. | 20% off lifetime, $4.99 → $3.99 | `ARTSVITBF20` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/paletteo/) |
 | [Rebelle](https://www.escapemotions.com/) | Escape Motions painting apps: Rebelle, Flame Painter, Amberlight and Inspirit. | **Soon.** 20% off digital painting software |  |  | [details](https://bf26-deals.pages.dev/deal/rebelle/) |
 | [SciFig](https://scifig.ai/black-friday) | Web app for making editable scientific figures and diagrams. | Extra 20% off first billing period |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/scifig/) |
-| [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | AI web app for drawing floor plans, turning them into 3D and visualizing rooms. | 50% bonus credits on packs, up to 300 bonus on plans |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/3droomdesign/) |
 | [Affinity Suite V2](https://affinity.serif.com/) | Serif's design, photo editing and publishing apps, now free under Canva. | Now free, AI features need a paid plan |  |  | [details](https://bf26-deals.pages.dev/deal/affinitysuitev2/) |
 | [Fox Renderfarm](https://www.foxrenderfarm.com/) | Cloud render farm for 3D and VFX projects. | 50% extra GPU rendering coupons or 100% extra CPU coupons |  | Dec 31 | [details](https://bf26-deals.pages.dev/deal/foxrenderfarm/) |
 | [Gaea](https://quadspinner.com/) | QuadSpinner terrain generation software. | Buy version 2 of the terrain tool, get version 3 free |  | Dec 4 | [details](https://bf26-deals.pages.dev/deal/gaea/) |
@@ -155,8 +151,6 @@
 | [3D Scan Store](https://www.3dscanstore.com/) | Store of 3D scanned heads, bodies and skin textures for character artists. | 55% off personal 3D scans, 25% off commercial licenses |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/3dscanstore/) |
 | [3D Sets](https://3dsets.com/blog/black-friday-2026-more-info/) | 3D models of cars, trucks and boats for rendering and games. | Buy one 3D model, get the second 50% off | `BF2026` | Nov 29 | [details](https://bf26-deals.pages.dev/deal/3dsets/) |
 | [A9Desire avatar assets](https://x.com/A9Desire) | VRChat avatar assets sold on Jinxxy and Gumroad. | 50% off storewide | `BLACKFRIDAY` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/a9desireavatarassets/) |
-| [CyanPoisson Unity and Unreal tools](https://itch.io/s/218916/creator-day-black-friday-2026) | Unity and Unreal Engine tools and assets. | **Soon.** 50% off tools, all 8 for $19.99 |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/cyanpoissonunityandunrealtools/) |
-| [Daz 3D](https://www.daz3d.com/) | 3D characters, clothing and scenes plus free Daz Studio software. | **Soon.** Discounts on selected 3D characters and clothing |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/daz3d/) |
 | [Envato Elements](https://elements.envato.com/) | Unlimited downloads of stock assets, templates, fonts and music. | Up to 50% off annual plans |  |  | [details](https://bf26-deals.pages.dev/deal/envatoelements/) |
 | [HDRI Hub](https://www.hdri-hub.com/shop/hdri?discount=BLACK50&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | HDRI skies, domes, backplates and 3D people for architectural and product rendering. | 50% off everything, bundles included | `BLACK50` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/hdrihub/) |
 | [Human Mega Animations Pack](https://assetstore.unity.com/packages/3d/animations/mega-animations-pack-162341) | Unity humanoid animation pack. | 50% off on the Unity Asset Store |  |  | [details](https://bf26-deals.pages.dev/deal/humanmegaanimationspack/) |
@@ -167,7 +161,6 @@
 | [RealToon Shader](https://u3d.as/vFY) | Anime toon shader for Unity. | 50% off on the Unity Asset Store |  |  | [details](https://bf26-deals.pages.dev/deal/realtoonshader/) |
 | [Ultimate md2 and NOLF2Blender](https://itch.io/s/221127/creator-day-black-friday-2026) | Blender import tools for classic game model formats. | 50% off, both tools for $5 |  |  | [details](https://bf26-deals.pages.dev/deal/ultimatemd2andnolf2blender/) |
 | [Waifu & Chill](https://x.com/waifuandchill) | Anime art membership. | 50% off your first year on annual |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/waifuchill/) |
-| [ActionVFX](https://www.actionvfx.com/) | Stock VFX elements, 2D assets, 3D models and VDBs for compositors. | **Soon.** 40% off all stock VFX assets |  | Nov 27 | [details](https://bf26-deals.pages.dev/deal/actionvfx/) |
 | [Artlist](https://artlist.io/pricing) | Royalty-free music, sound effects, stock footage and creative assets. | 40% off yearly plans plus 2x credits first month |  |  | [details](https://bf26-deals.pages.dev/deal/artlist/) |
 | [Greyscalegorilla](https://greyscalegorilla.com/) | Materials, HDRIs and Cinema 4D plugins for 3D artists. | 40% off annual 3D asset subscriptions |  |  | [details](https://bf26-deals.pages.dev/deal/greyscalegorilla/) |
 | [iMeshh](https://imeshh.com/) | Library of architectural 3D assets for Blender. | 40% off 6 months on monthly or annual 3D asset plans |  | Nov 30 | [details](https://bf26-deals.pages.dev/deal/imeshh/) |
@@ -188,7 +181,7 @@
 | Product | What it is | Offer | Code | Ends | |
 |---|---|---|---|---|---|
 | [Liniqo](https://liniqo.com/) |  | Up to 70% OFF: Lifetime $79 $39.50, Pro from $11.70, Personal from $5.70 (Auto-applied,… |  | Dec 1 | [details](https://bf26-deals.pages.dev/deal/liniqo/) |
-| [QuietCraft UI Pro](https://jumpertheme.gumroad.com/l/quietcraft-ui-pro/FIRST50?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) |  | 60% OFF for the first 10 buyers ($5 → $2) | `FIRST10` `FIRST50` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/quietcraftuipro/) |
+| [ProPixel](https://propixel.app) |  | About 70% OFF one-time purchase (€19.99 → €5.95), automatically applied, no code | `2026-12-04` | Dec 4 | [details](https://bf26-deals.pages.dev/deal/propixel/) |
 | [Clipwing](https://clipwing.pro/pricing) |  | 50% OFF the first month of Content factory ($99.99 → $49.99) with code BLACKCLIPS,… | `BLACKCLIPS` | Dec 1 | [details](https://bf26-deals.pages.dev/deal/clipwing/) |
 | [LogoGoGo](https://logogogo.app/) |  | 50% OFF Annual Pro ($190 → $95/yr) & Studio ($490 → $245/yr) with code BF50. | `BF50` | Nov 30 | [details](https://bf26-deals.pages.dev/deal/logogogo/) |
 | [Jiggicons](https://jiggicons.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) |  | Up to 40% OFF lifetime licences (Personal $79 → $49, Team $199 → $129, Business $499 →… |  | Dec 7 | [details](https://bf26-deals.pages.dev/deal/jiggicons/) |
