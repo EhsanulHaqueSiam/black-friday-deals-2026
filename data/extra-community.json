@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "A1",
+    "url": "https://www.a1.gallery/pricing?utm_source=bf26deals&utm_medium=directory&utm_campaign=bf2026",
+    "category": "Design",
+    "subcategory": "Design & Prototyping Tools",
+    "platforms": ["web"],
+    "pricing": "subscription",
+    "description": "Hand-picked gallery of real websites for design inspiration, with fonts and colours.",
+    "headline": "33% off A1 Pro yearly, $72 → $48 a year",
+    "deal": "33% off A1 Pro yearly ($72 to $48 a year), kept for as long as you stay subscribed, new yearly plans, applied automatically at checkout, until Nov 30, 2026.",
+    "codes": [],
+    "ends": "2026-11-30",
+    "vendor": true,
+    "source": "https://www.a1.gallery/pricing"
+  }
+]
