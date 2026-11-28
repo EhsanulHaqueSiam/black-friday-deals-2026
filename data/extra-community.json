@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "PLANE.DEALS",
+    "url": "https://plane.deals/black-friday",
+    "category": "Health & Lifestyle",
+    "subcategory": "Travel & Navigation",
+    "platforms": [
+      "web"
+    ],
+    "pricing": "subscription",
+    "description": "Email alerts for cheap flights from your airports, with bag limits on every deal.",
+    "vendor": true,
+    "headline": "First month free or 25% off the first year",
+    "deal": "Monthly plans: first month free (Pro $10/mo, Elite $30/mo). Annual plans: 25% off the first year (Pro $49 → $36.75, Elite $149 → $111.75). Renews at the regular price. Until Nov 30, 2026, 11:59 p.m. Pacific.",
+    "codes": [
+      "BFMONTHFREE",
+      "BLACKFRIDAY25"
+    ],
+    "ends": "2026-11-30",
+    "source": "https://plane.deals/black-friday"
+  }
+]
