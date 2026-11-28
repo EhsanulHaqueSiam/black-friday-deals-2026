@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "SiteData",
+    "url": "https://sitedata.dev/black-friday",
+    "category": "Marketing & Sales",
+    "subcategory": "SEO",
+    "platforms": [
+      "web",
+      "chrome"
+    ],
+    "pricing": "subscription",
+    "description": "Research website traffic, SEO keywords, competitor ads and AdSense publisher networks.",
+    "headline": "50% off annual plans and 30% off monthly plans",
+    "deal": "50% off annual plans and 30% off monthly plans. Applied automatically at Stripe checkout, with the same renewal discount while the subscription stays active. Starter is US$49.50/year (regular US$99) or US$20.30/month (regular US$29). Existing members can buy now and start the new plan after their current paid term. Nov 24–30, 2026, ending Nov 30 at 16:00 UTC.",
+    "codes": [],
+    "ends": "2026-11-30",
+    "source": "https://sitedata.dev/black-friday",
+    "vendor": true
+  }
+]
